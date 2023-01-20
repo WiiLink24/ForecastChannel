@@ -99,7 +99,7 @@ func main() {
 		}
 	}
 	wg.Wait()
-	
+
 	wg.Add(len(weatherList.National))
 	for _, national := range weatherList.National {
 		countryCode := countryCodes[national.Name.English]
@@ -143,7 +143,7 @@ func main() {
 				// Prepare to make for Wii U
 				// TODO: Patch IOS to force proper UTC
 				wiiUBuffer := new(bytes.Buffer)
-				forecast.Header.OpenTimestamp = 0xFFFFFFFF
+				forecast.Header.OpenTimestamp = 0
 				forecast.Header.CloseTimestamp = 0xFFFFFFFF
 				forecast.WriteAll(wiiUBuffer)
 

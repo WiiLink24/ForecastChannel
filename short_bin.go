@@ -122,7 +122,7 @@ func (f *Forecast) MakeShortBin(cities []InternationalCity) ([]byte, []byte) {
 	// Prepare to make for Wii U
 	// TODO: Patch IOS to force proper UTC
 	wiiUBuffer := new(bytes.Buffer)
-	header.OpenTimestamp = 0xFFFFFFFF
+	header.OpenTimestamp = 0
 	header.CloseTimestamp = 0xFFFFFFFF
 	Write(wiiUBuffer, header)
 	Write(wiiUBuffer, currentForecastTables)
