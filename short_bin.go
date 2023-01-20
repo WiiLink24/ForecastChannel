@@ -40,7 +40,7 @@ type CurrentForecastTable struct {
 	Unknown                      uint16
 }
 
-func (f *Forecast) MakeShortBin(cities []InternationalCity) []byte {
+func (f *Forecast) MakeShortBin(cities []InternationalCity) ([]byte, []byte) {
 	header := ShortHeader{
 		Version:                       0,
 		Filesize:                      0,
@@ -119,5 +119,24 @@ func (f *Forecast) MakeShortBin(cities []InternationalCity) []byte {
 	compressed, err := lz10.Compress(buffer.Bytes())
 	checkError(err)
 
-	return compressed
+	// Prepare to make for Wii U
+	// TODO: Patch IOS to force proper UTC
+	wiiUBuffer := new(bytes.Buffer)
+	header.OpenTimestamp = 0xFFFFFFFF
+	header.CloseTimestamp = 0xFFFFFFFF
+	Write(wiiUBuffer, header)
+	Write(wiiUBuffer, currentForecastTables)
+
+	crcTable = crc32.MakeTable(crc32.IEEE)
+	checksum = crc32.Checksum(wiiUBuffer.Bytes()[12:], crcTable)
+	header.CRC32 = checksum
+
+	wiiUBuffer.Reset()
+	Write(wiiUBuffer, header)
+	Write(wiiUBuffer, currentForecastTables)
+
+	compressedU, err := lz10.Compress(buffer.Bytes())
+	checkError(err)
+
+	return compressed, compressedU
 }

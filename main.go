@@ -12,6 +12,7 @@ import (
 	"os"
 	"runtime"
 	"sync"
+	"time"
 )
 
 type Forecast struct {
@@ -40,6 +41,7 @@ var weatherList *WeatherList
 var mapMutex = sync.RWMutex{}
 
 func main() {
+	start := time.Now()
 	// Get all important data we need
 	weatherList = ParseWeatherXML()
 	PopulateCountryCodes()
@@ -47,7 +49,7 @@ func main() {
 	// Async HTTP done safely and fast
 	wg := sync.WaitGroup{}
 	runtime.GOMAXPROCS(runtime.NumCPU())
-	semaphore := make(chan struct{}, 15)
+	semaphore := make(chan struct{}, 10)
 
 	// Next retrieve international weather
 	wg.Add(len(weatherList.International.Cities))
@@ -57,8 +59,8 @@ func main() {
 			defer wg.Done()
 			semaphore <- struct{}{}
 			fmt.Println("Processing", city.Name.English)
-			mapMutex.Lock()
 			weather := accuweather.GetWeather(city.Longitude, city.Latitude)
+			mapMutex.Lock()
 			weatherMap[fmt.Sprintf("%f,%f", city.Longitude, city.Latitude)] = weather
 			mapMutex.Unlock()
 			fmt.Println("Finished", city.Name.English)
@@ -77,7 +79,6 @@ func main() {
 		}
 	}
 
-	semaphore = make(chan struct{}, 15)
 	wg.Add(numberOfCities)
 	for _, cities := range weatherList.National {
 		for _, city := range cities.Cities {
@@ -87,8 +88,8 @@ func main() {
 					defer wg.Done()
 					semaphore <- struct{}{}
 					fmt.Println("Processing", city.English)
-					mapMutex.Lock()
 					weather := accuweather.GetWeather(city.Longitude, city.Latitude)
+					mapMutex.Lock()
 					weatherMap[fmt.Sprintf("%f,%f", city.Longitude, city.Latitude)] = weather
 					mapMutex.Unlock()
 					fmt.Println("Finished", city.English)
@@ -98,16 +99,14 @@ func main() {
 		}
 	}
 	wg.Wait()
-
+	
+	wg.Add(len(weatherList.National))
 	for _, national := range weatherList.National {
 		countryCode := countryCodes[national.Name.English]
-
-		// Generate for every language
-		wg.Add(len(GetSupportedLanguages(countryCode)))
-		for _, languageCode := range GetSupportedLanguages(countryCode) {
-			languageCode := languageCode
-			go func() {
-				defer wg.Done()
+		national := national
+		go func() {
+			defer wg.Done()
+			for _, languageCode := range GetSupportedLanguages(countryCode) {
 				forecast := Forecast{}
 				forecast.currentCountryList = &national
 				forecast.currentCountryCode = countryCode
@@ -141,6 +140,23 @@ func main() {
 				buffer.Reset()
 				forecast.WriteAll(buffer)
 
+				// Prepare to make for Wii U
+				// TODO: Patch IOS to force proper UTC
+				wiiUBuffer := new(bytes.Buffer)
+				forecast.Header.OpenTimestamp = 0xFFFFFFFF
+				forecast.Header.CloseTimestamp = 0xFFFFFFFF
+				forecast.WriteAll(wiiUBuffer)
+
+				crcTable = crc32.MakeTable(crc32.IEEE)
+				checksum = crc32.Checksum(wiiUBuffer.Bytes()[12:], crcTable)
+				forecast.Header.CRC32 = checksum
+
+				wiiUBuffer.Reset()
+				forecast.WriteAll(wiiUBuffer)
+
+				// Make short.bin
+				wii, wiiU := forecast.MakeShortBin(weatherList.International.Cities)
+
 				// Make the folder if it doesn't already exist
 				err := os.Mkdir(fmt.Sprintf("./files/%d/%s", languageCode, ZFill(countryCode, 3)), 0755)
 				if !os.IsExist(err) {
@@ -151,15 +167,25 @@ func main() {
 				compressed, err := lz10.Compress(buffer.Bytes())
 				checkError(err)
 
-				err = os.WriteFile(fmt.Sprintf("./files/%d/%s/forecast.bin", languageCode, ZFill(countryCode, 3)), compressed, 0666)
+				compressedU, err := lz10.Compress(wiiUBuffer.Bytes())
 				checkError(err)
 
-				err = os.WriteFile(fmt.Sprintf("./files/%d/%s/short.bin", languageCode, ZFill(countryCode, 3)), forecast.MakeShortBin(weatherList.International.Cities), 0666)
+				err = os.WriteFile(fmt.Sprintf("./files/%d/%s/forecast.bin", languageCode, ZFill(countryCode, 3)), SignFile(compressed), 0666)
 				checkError(err)
-			}()
-		}
-		wg.Wait()
+
+				err = os.WriteFile(fmt.Sprintf("./files/%d/%s/short.bin", languageCode, ZFill(countryCode, 3)), SignFile(wii), 0666)
+				checkError(err)
+
+				err = os.WriteFile(fmt.Sprintf("./files/%d/%s/forecast.alt", languageCode, ZFill(countryCode, 3)), SignFile(compressedU), 0666)
+				checkError(err)
+
+				err = os.WriteFile(fmt.Sprintf("./files/%d/%s/short.alt", languageCode, ZFill(countryCode, 3)), SignFile(wiiU), 0666)
+				checkError(err)
+			}
+		}()
 	}
+	wg.Wait()
+	fmt.Println(time.Since(start))
 }
 
 func checkError(err error) {
