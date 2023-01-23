@@ -15,7 +15,7 @@
             <zoom1>3</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#22823;&#23798;" eng="Oshima" de="&#332;shima" fr="Oshima" es="Oshima" it="&#332;shima" nl="Oshima">
+        <city jpn="&#22823;&#23798;" eng="Oshima" de="Oshima" fr="Oshima" es="Oshima" it="Oshima" nl="Oshima">
             <province jpn="&#26481;&#20140;&#37117;" eng="Tokyo" de="Tokio" fr="Tokyo" es="Tokio" it="Tokyo" nl="Tokio"/>
             <longitude>139.361572265625</longitude>
             <latitude>34.7442626953125</latitude>
@@ -2260,36 +2260,36 @@
             <zoom1>0</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12495;&#12522;&#12501;&#12449;&#12463;&#12473;" eng="Halifax" de="Halifax Regional Municipality" fr="Comt&#233; de Halifax" es="Halifax Regional Municipality" it="Contea di Halifax" nl="Halifax Regional Municipality">
-            <province jpn="&#12494;&#12496;&#12539;&#12473;&#12467;&#12471;&#12450;&#24030;" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Ecosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia"/>
+        <city jpn="&#12495;&#12522;&#12501;&#12449;&#12463;&#12473;" eng="Halifax" de="Halifax" fr="Halifax" es="Halifax" it="Halifax" nl="Halifax">
+		<province jpn="&#12494;&#12496;&#12539;&#12473;&#12467;&#12471;&#12450;&#24030;" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia"/>
             <longitude>-63.4954833984375</longitude>
             <latitude>44.8956298828125</latitude>
             <zoom1>3</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12450;&#12510;&#12540;&#12473;&#12488;" eng="Amherst" de="Amherst" fr="Amherst" es="Amherst" it="Amherst" nl="Amherst">
-            <province jpn="&#12494;&#12496;&#12539;&#12473;&#12467;&#12471;&#12450;&#24030;" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Ecosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia"/>
+            <province jpn="&#12494;&#12496;&#12539;&#12473;&#12467;&#12471;&#12450;&#24030;" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia"/>
             <longitude>-64.1986083984375</longitude>
             <latitude>45.8294677734375</latitude>
             <zoom1>0</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12487;&#12451;&#12464;&#12499;&#12540;" eng="Digby" de="Digby" fr="Digby" es="Digby" it="Digby" nl="Digby">
-            <province jpn="&#12494;&#12496;&#12539;&#12473;&#12467;&#12471;&#12450;&#24030;" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Ecosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia"/>
+            <province jpn="&#12494;&#12496;&#12539;&#12473;&#12467;&#12471;&#12450;&#24030;" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia"/>
             <longitude>-65.76416015625</longitude>
             <latitude>44.615478515625</latitude>
             <zoom1>0</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12523;&#12493;&#12531;&#12496;&#12540;&#12464;" eng="Lunenburg" de="Lunenburg" fr="Lunenburg" es="Lunenburg" it="Lunenburg" nl="Lunenburg">
-            <province jpn="&#12494;&#12496;&#12539;&#12473;&#12467;&#12471;&#12450;&#24030;" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Ecosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia"/>
+            <province jpn="&#12494;&#12496;&#12539;&#12473;&#12467;&#12471;&#12450;&#24030;" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia"/>
             <longitude>-65.76416015625</longitude>
             <latitude>44.615478515625</latitude>
             <zoom1>0</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12510;&#12524;&#12540;&#28381;" eng="Malay Falls" de="Malay Falls" fr="Malay Falls" es="Malay Falls" it="Malay Falls" nl="Malay Falls">
-            <province jpn="&#12494;&#12496;&#12539;&#12473;&#12467;&#12471;&#12450;&#24030;" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Ecosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia"/>
+            <province jpn="&#12494;&#12496;&#12539;&#12473;&#12467;&#12471;&#12450;&#24030;" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia"/>
             <longitude>-62.479248046875</longitude>
             <latitude>44.97802734375</latitude>
             <zoom1>0</zoom1>
@@ -2303,14 +2303,14 @@
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12488;&#12525;" eng="Truro" de="Truro" fr="Truro" es="Truro" it="Truro" nl="Truro">
-            <province jpn="&#12494;&#12496;&#12539;&#12473;&#12467;&#12471;&#12450;&#24030;" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Ecosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia"/>
+            <province jpn="&#12494;&#12496;&#12539;&#12473;&#12467;&#12471;&#12450;&#24030;" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia"/>
             <longitude>-63.2647705078125</longitude>
             <latitude>45.362548828125</latitude>
             <zoom1>0</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12516;&#12540;&#12510;&#12473;" eng="Yarmouth" de="Yarmouth" fr="Yarmouth" es="Yarmouth" it="Yarmouth" nl="Yarmouth">
-            <province jpn="&#12494;&#12496;&#12539;&#12473;&#12467;&#12471;&#12450;&#24030;" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Ecosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia"/>
+            <province jpn="&#12494;&#12496;&#12539;&#12473;&#12467;&#12471;&#12450;&#24030;" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia"/>
             <longitude>-66.1102294921875</longitude>
             <latitude>43.8299560546875</latitude>
             <zoom1>0</zoom1>
@@ -12899,24 +12899,108 @@
             <province jpn="&#12523;&#12463;&#12475;&#12531;&#12502;&#12523;&#12463;" eng="Luxembourg" de="Luxemburg" fr="Luxembourg" es="Luxemburgo" it="Lussemburgo" nl="Luxemburg"/>
             <longitude>6.1248779296875</longitude>
             <latitude>49.6087646484375</latitude>
-            <zoom1>3</zoom1>
+            <zoom1>9</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12456;&#12483;&#12471;&#12517;&#65309;&#12471;&#12517;&#12523;&#65309;&#12450;&#12523;&#12476;&#12483;&#12488;" eng="Esch-sur-Alzette" de="Esch an der Alzette" fr="Esch-sur-Alzette" es="Esch-sur-Alzette" it="Esch-sur-Alzette" nl="Esch-sur-Alzette">
-            <province jpn="&#12523;&#12463;&#12475;&#12531;&#12502;&#12523;&#12463;" eng="Luxembourg" de="Luxemburg" fr="Luxembourg" es="Luxemburgo" it="Lussemburgo" nl="Luxemburg"/>
+		<city jpn="カペレン" eng="Kapellen" de="Capellen" fr="Capellen" es="Capellen" it="Capellen" nl="Capellen">
+            <province jpn="カペレン" eng="Kapellen" de="Capellen" fr="Capellen" es="Capellen" it="Capellen" nl="Capellen"/>
+            <longitude>5.990833</longitude>
+            <latitude>49.646184</latitude>
+			<zoom1>2</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+        <city jpn="クレルヴォー" eng="Klierf" de="Clerf" fr="Clervaux" es="Clervaux" it="Clervaux" nl="Clervaux">
+            <province jpn="クレルヴォー" eng="Klierf" de="Clerf" fr="Clervaux" es="Clervaux" it="Clervaux" nl="Clervaux"/>
+            <longitude>6.022310</longitude>
+            <latitude>50.061315</latitude>
+            <zoom1>2</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+        <city jpn="ディーキルヒ" eng="Dikrech" de="Diekirch" fr="Diekirch" es="Diekirch" it="Diekirch" nl="Diekirch">
+            <province jpn="ディーキルヒ" eng="Dikrech" de="Diekirch" fr="Diekirch" es="Diekirch" it="Diekirch" nl="Diekirch"/>
+            <longitude>6.15916</longitude>
+            <latitude>49.86872</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="エテルブリュック" eng="Ettelbréck" de="Ettelbrück" fr="Ettelbruck" es="Ettelbruck" it="Ettelbruck" nl="Ettelbruck">
+            <province jpn="ディーキルヒ" eng="Dikrech" de="Diekirch" fr="Diekirch" es="Diekirch" it="Diekirch" nl="Diekirch"/>
+            <longitude>6.087169</longitude>
+            <latitude>49.846201</latitude>
+            <zoom1>2</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+        <city jpn="エヒタナハ" eng="Iechternach" de="Echternach" fr="Echternach" es="Echternach" it="Echternach" nl="Echternach">
+            <province jpn="エヒタナハ" eng="Iechternach" de="Echternach" fr="Echternach" es="Echternach" it="Echternach" nl="Echternach"/>
+            <longitude>6.421612</longitude>
+            <latitude>49.812369</latitude>
+			<zoom1>2</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+        <city jpn="&#12456;&#12483;&#12471;&#12517;&#65309;&#12471;&#12517;&#12523;&#65309;&#12450;&#12523;&#12476;&#12483;&#12488;" eng="Esch-Uelzecht" de="Esch an der Alzette" fr="Esch-sur-Alzette" es="Esch-sur-Alzette" it="Esch-sur-Alzette" nl="Esch-sur-Alzette">
+            <province jpn="&#12456;&#12483;&#12471;&#12517;&#65309;&#12471;&#12517;&#12523;&#65309;&#12450;&#12523;&#12476;&#12483;&#12488;" eng="Esch-Uelzecht" de="Esch an der Alzette" fr="Esch-sur-Alzette" es="Esch-sur-Alzette" it="Esch-sur-Alzette" nl="Esch-sur-Alzette"/>
             <longitude>5.9710693359375</longitude>
             <latitude>49.4329833984375</latitude>
-            <zoom1>7</zoom1>
+            <zoom1>2</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="Dudelange" eng="Dudelange" de="D&#252;delingen" fr="Dudelange" es="Dudelange" it="Dudelange" nl="Dudelange">
-            <province jpn="&#12523;&#12463;&#12475;&#12531;&#12502;&#12523;&#12463;" eng="Luxembourg" de="Luxemburg" fr="Luxembourg" es="Luxemburgo" it="Lussemburgo" nl="Luxemburg"/>
-            <longitude>6.075439453125</longitude>
-            <latitude>49.41650390625</latitude>
-            <zoom1>0</zoom1>
+		<city jpn="グレーヴェンマハ" eng="Gréiwemaacher" de="Grevenmacher" fr="Grevenmacher" es="Grevenmacher" it="Grevenmacher" nl="Grevenmacher">
+            <province jpn="グレーヴェンマハ" eng="Gréiwemaacher" de="Grevenmacher" fr="Grevenmacher" es="Grevenmacher" it="Grevenmacher" nl="Grevenmacher"/>
+            <longitude>6.440253</longitude>
+            <latitude>49.680485</latitude>
+			<zoom1>2</zoom1>
             <zoom2>3</zoom2>
         </city>
-    </country>
+		<city jpn="メルシュ" eng="Miersch" de="Mersch" fr="Mersch" es="Mersch" it="Mersch" nl="Mersch">
+            <province jpn="メルシュ" eng="Miersch" de="Mersch" fr="Mersch" es="Mersch" it="Mersch" nl="Mersch"/>
+            <longitude>6.105258</longitude>
+            <latitude>49.751492</latitude>
+			<zoom1>2</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="ルダンジュ" eng="Réiden" de="Redingen" fr="Redange" es="Redange" it="Redange" nl="Redange">
+            <province jpn="ルダンジュ" eng="Réiden" de="Redingen" fr="Redange" es="Redange" it="Redange" nl="Redange"/>
+            <longitude>5.881842</longitude>
+            <latitude>49.769541</latitude>
+			<zoom1>2</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="レーミッヒ" eng="Réimech" de="Remich" fr="Remich" es="Remich" it="Remich" nl="Remich">
+            <province jpn="レーミッヒ" eng="Réimech" de="Remich" fr="Remich" es="Remich" it="Remich" nl="Remich"/>
+            <longitude>6.368365</longitude>
+            <latitude>49.544366</latitude>
+			<zoom1>2</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="レーミッヒ" eng="Schengen" de="Schengen" fr="Schengen" es="Schengen" it="Schengen" nl="Schengen">
+            <province jpn="レーミッヒ" eng="Réimech" de="Remich" fr="Remich" es="Remich" it="Remich" nl="Remich"/>
+            <longitude>6.366864</longitude>
+            <latitude>49.470427</latitude>
+			<zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="ヴィアンデン" eng="Veianen" de="Vianden" fr="Vianden" es="Vianden" it="Vianden" nl="Vianden">
+            <province jpn="ヴィアンデン" eng="Veianen" de="Vianden" fr="Vianden" es="Vianden" it="Vianden" nl="Vianden"/>
+            <longitude>6.2092147</longitude>
+            <latitude>49.934716</latitude>
+            <zoom1>2</zoom1>
+            <zoom2>3</zoom2>
+			</city>
+		<city jpn="ヴィルツ" eng="Wolz" de="Wiltz" fr="Wiltz" es="Wiltz" it="Wiltz" nl="Wiltz">
+            <province jpn="ヴィルツ" eng="Wolz" de="Wiltz" fr="Wiltz" es="Wiltz" it="Wiltz" nl="Wiltz"/>
+            <longitude>5.931817</longitude>
+            <latitude>49.967270</latitude>
+            <zoom1>2</zoom1>
+            <zoom2>3</zoom2>
+			</city>
+		<city jpn="ワイワンパック" eng="Wäiswampech" de="Weiswampach" fr="Weiswampach" es="Weiswampach" it="Weiswampach" nl="Weiswampach">
+            <province jpn="ヴィルツ" eng="Wolz" de="Wiltz" fr="Wiltz" es="Wiltz" it="Wiltz" nl="Wiltz"/>
+            <longitude>6.079658</longitude>
+            <latitude>50.143114</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		</country>
     <country>
         <name jpn="&#12458;&#12521;&#12531;&#12480;" eng="Netherlands" de="Niederlande" fr="Pays-Bas" es="Pa&#237;ses Bajos" it="Paesi Bassi" nl="Nederland"/>
         <city jpn="&#12450;&#12512;&#12473;&#12486;&#12523;&#12480;&#12512;" eng="Amsterdam" de="Amsterdam" fr="Amsterdam" es="&#193;msterdam" it="Amsterdam" nl="Amsterdam">
@@ -16073,14 +16157,14 @@
             <province jpn="&#12475;&#12454;&#12479;" eng="Ceuta" de="Ceuta" fr="Ceuta" es="Ceuta" it="Ceuta" nl="Ceuta"/>
             <longitude>-5.3173828125</longitude>
             <latitude>35.8868408203125</latitude>
-            <zoom1>1</zoom1>
+            <zoom1>3</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12513;&#12522;&#12522;&#12515;" eng="Melilla" de="Melilla" fr="Melilla" es="Melilla" it="Melilla" nl="Melilla">
             <province jpn="&#12513;&#12522;&#12522;&#12515;" eng="Melilla" de="Melilla" fr="Melilla" es="Melilla" it="Melilla" nl="Melilla"/>
             <longitude>-2.933349609375</longitude>
             <latitude>35.2880859375</latitude>
-            <zoom1>1</zoom1>
+            <zoom1>3</zoom1>
             <zoom2>3</zoom2>
         </city>
     </country>
@@ -16834,7 +16918,7 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12452;&#12462;&#12522;&#12473;" eng="Douglas" de="Vereinigtes K&#246;nigreich" fr="Royaume-Uni" es="Reino Unido" it="Regno Unito" nl="Verenigd Koninkrijk">
+        <city jpn="&#12452;&#12462;&#12522;&#12473;" eng="Douglas" de="Douglas" fr="Douglas" es="Douglas" it="Douglas" nl="Douglas">
             <province jpn="&#12510;&#12531;&#23798;" eng="Isle of Man" de="Isle of Man" fr="Ile de Man" es="Isla de Man" it="Isola di Man" nl="Man"/>
             <longitude>-4.482421875</longitude>
             <latitude>54.16259765625</latitude>
@@ -16842,133 +16926,133 @@
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12456;&#12487;&#12451;&#12531;&#12496;&#12521;" eng="Edinburgh" de="Edinburgh" fr="&#201;dimbourg" es="Edimburgo" it="Edimburgo" nl="Edinburgh">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-3.2025146484375</longitude>
             <latitude>55.953369140625</latitude>
             <zoom1>4</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12507;&#12540;&#12452;&#12483;&#12463;" eng="Hawick" de="Hawick" fr="Hawick" es="Hawick" it="Hawick" nl="Hawick">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-2.7850341796875</longitude>
             <latitude>55.4205322265625</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12501;&#12457;&#12523;&#12459;&#12540;&#12463;" eng="Falkirk" de="Falkirk" fr="Falkirk" es="Falkirk" it="Falkirk" nl="Falkirk">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-3.7738037109375</longitude>
             <latitude>55.986328125</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12480;&#12531;&#12501;&#12522;&#12540;&#12473;" eng="Dumfries" de="Dumfries" fr="Dumfries" es="Dumfries" it="Dumfries" nl="Dumfries">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-3.614501953125</longitude>
             <latitude>55.0634765625</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12464;&#12524;&#12531;&#12523;&#12540;&#12481;&#12455;" eng="Glenluce" de="Glenluce" fr="Glenluce" es="Glenluce" it="Glenluce" nl="Glenluce">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-4.8065185546875</longitude>
             <latitude>54.876708984375</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12450;&#12496;&#12487;&#12451;&#12540;&#12531;" eng="Aberdeen" de="Aberdeen" fr="Aberdeen" es="Aberdeen" it="Aberdeen" nl="Aberdeen">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-2.1038818359375</longitude>
             <latitude>57.15087890625</latitude>
             <zoom1>4</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12452;&#12531;&#12532;&#12449;&#12493;&#12473;" eng="Inverness" de="Inverness" fr="Inverness" es="Inverness" it="Inverness" nl="Inverness">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-4.2242431640625</longitude>
             <latitude>57.4749755859375</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12509;&#12540;&#12488;&#12522;&#12540;" eng="Portree" de="Portree" fr="Portree" es="Portree" it="Portree" nl="Portree">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-6.2017822265625</longitude>
             <latitude>57.4090576171875</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12459;&#12540;&#12463;&#12454;&#12457;&#12540;&#12523;" eng="Kirkwall" de="Kirkwall" fr="Kirkwall" es="Kirkwall" it="Kirkwall" nl="Kirkwall">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-2.9608154296875</longitude>
             <latitude>58.9801025390625</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12521;&#12540;&#12454;&#12451;&#12483;&#12463;" eng="Lerwick" de="Lerwick" fr="Lerwick" es="Lerwick" it="Lerwick" nl="Lerwick">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-1.1480712890625</longitude>
             <latitude>60.150146484375</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12464;&#12521;&#12473;&#12468;&#12540;" eng="Glasgow" de="Glasgow" fr="Glasgow" es="Glasgow" it="Glasgow" nl="Glasgow">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-4.2462158203125</longitude>
             <latitude>55.8544921875</latitude>
             <zoom1>2</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12459;&#12512;&#12490;&#12483;&#12463;" eng="Cumnock" de="Cumnock" fr="Cumnock" es="Cumnock" it="Cumnock" nl="Cumnock">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-4.2681884765625</longitude>
             <latitude>55.447998046875</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12456;&#12450;" eng="Ayr" de="Ayr" fr="Ayr" es="Ayr" it="Ayr" nl="Ayr">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-4.625244140625</longitude>
             <latitude>55.4425048828125</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12464;&#12522;&#12540;&#12494;&#12483;&#12463;" eng="Greenock" de="Greenock" fr="Greenock" es="Greenock" it="Greenock" nl="Greenock">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-4.7625732421875</longitude>
             <latitude>55.9478759765625</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12450;&#12521;&#12531;&#23798;" eng="Arran" de="Isle of Arran" fr="&#206;le d'Arran" es="Arran" it="Arran" nl="Arran">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-5.2349853515625</longitude>
             <latitude>55.56884765625</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12458;&#12540;&#12496;&#12531;" eng="Oban" de="Oban" fr="Oban" es="Oban" it="Oban" nl="Oban">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-5.4656982421875</longitude>
             <latitude>56.4093017578125</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12480;&#12531;&#12487;&#12451;&#12540;" eng="Dundee" de="Dundee" fr="Dundee" es="Dundee" it="Dundee" nl="Dundee">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-2.96630859375</longitude>
             <latitude>56.458740234375</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12497;&#12540;&#12473;" eng="Perth" de="Perth" fr="Perth" es="Perth" it="Perth" nl="Perth">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-3.4332275390625</longitude>
             <latitude>56.392822265625</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12473;&#12488;&#12540;&#12494;&#12454;&#12455;&#12540;" eng="Stornoway" de="Stornoway" fr="Stornoway" es="Stornoway" it="Stornoway" nl="Ste&#242;rnabhagh">
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-6.3775634765625</longitude>
             <latitude>58.20556640625</latitude>
             <zoom1>1</zoom1>
@@ -17066,6 +17150,72 @@
             <zoom2>3</zoom2>
         </city>
     </country>
+	<country>
+		<name jpn="&#12450;&#12531;&#12489;&#12521;" eng="Andorra" de="Andorra" fr="Andorre" es="Andorra" it="Andorra" nl="Andorra"/>
+		<city jpn="アンドラ・ラ・ベリャ" eng="Andorra la Vella" de="Andorra la Vella" fr="Andorre-la-Vieille" es="Andorra la Vella" it="Andorra la Vella" nl="Andorra la Vella">
+            <province jpn="アンドラ・ラ・ベリャ" eng="Andorra la Vella" de="Andorra la Vella" fr="Andorre-la-Vieille" es="Andorra la Vella" it="Andorra la Vella" nl="Andorra la Vella"/>
+            <longitude>1.5106201171875</longitude>
+            <latitude>42.506103515625</latitude>
+            <zoom1>9</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="Canillo" eng="Canillo" de="Canillo" fr="Canillo" es="Canillo" it="Canillo" nl="Canillo">
+            <province jpn="Canillo" eng="Canillo" de="Canillo" fr="Canillo" es="Canillo" it="Canillo" nl="Canillo"/>
+            <longitude>1.606032</longitude>
+            <latitude>42.589337</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="Soldeu" eng="Soldeu" de="Soldeu" fr="Soldeu" es="Soldeu" it="Soldeu" nl="Soldeu">
+            <province jpn="Canillo" eng="Canillo" de="Canillo" fr="Canillo" es="Canillo" it="Canillo" nl="Canillo"/>
+            <longitude>1.694996</longitude>
+            <latitude>42.598239</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="Encamp" eng="Encamp" de="Encamp" fr="Encamp" es="Encamp" it="Encamp" nl="Encamp">
+            <province jpn="Encamp" eng="Encamp" de="Encamp" fr="Encamp" es="Encamp" it="Encamp" nl="Encamp"/>
+            <longitude>1.606428</longitude>
+            <latitude>42.530221</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="El Pas de la Casa" eng="El Pas de la Casa" de="Pas de la Casa" fr="Le Pas de la Case" es="Paso de la Casa" it="Pas de la Casa" nl="Pas de la Casa">
+            <province jpn="Encamp" eng="Encamp" de="Encamp" fr="Encamp" es="Encamp" it="Encamp" nl="Encamp"/>
+            <longitude>1.732656</longitude>
+            <latitude>42.541409</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="Escaldes-Engordany" eng="Escaldes-Engordany" de="Escaldes-Engordany" fr="Escaldes-Engordany" es="Las Escaldas-Engordany" it="Escaldes-Engordany" nl="Escaldes-Engordany">
+            <province jpn="Escaldes-Engordany" eng="Escaldes-Engordany" de="Escaldes-Engordany" fr="Escaldes-Engordany" es="Las Escaldas-Engordany" it="Escaldes-Engordany" nl="Escaldes-Engordany"/>
+            <longitude>1.581892</longitude>
+            <latitude>42.504430</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="La Massana" eng="La Massana" de="La Massana" fr="La Massana" es="La Massana" it="La Massana" nl="La Massana">
+            <province jpn="La Massana" eng="La Massana" de="La Massana" fr="La Massana" es="La Massana" it="La Massana" nl="La Massana"/>
+            <longitude>1.482241</longitude>
+            <latitude>42.547127</latitude>
+            <zoom1>2</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="Ordino" eng="Ordino" de="Ordino" fr="Ordino" es="Ordino" it="Ordino" nl="Ordino">
+            <province jpn="Ordino" eng="Ordino" de="Ordino" fr="Ordino" es="Ordino" it="Ordino" nl="Ordino"/>
+            <longitude>1.526689</longitude>
+            <latitude>42.572808</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="Sant Julià de Lòria" eng="Sant Julià de Lòria" de="Sant Julià de Lòria" fr="Sant Julià de Lòria" es="San Julián de Loria" it="Sant Julià de Lòria" nl="Sant Julià de Lòria">
+            <province jpn="Sant Julià de Lòria" eng="Sant Julià de Lòria" de="Sant Julià de Lòria" fr="Sant Julià de Lòria" es="San Julián de Loria" it="Sant Julià de Lòria" nl="Sant Julià de Lòria"/>
+            <longitude>1.482091</longitude>
+            <latitude>42.446369</latitude>
+            <zoom1>2</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+	</country>
     <international>
         <city>
             <country jpn="&#26085;&#26412;" eng="Japan" de="Japan" fr="Japon" es="Jap&#243;n" it="Giappone" nl="Japan"/>
@@ -18915,7 +19065,7 @@
         <city>
             <country jpn="&#12452;&#12462;&#12522;&#12473;" eng="United Kingdom" de="Gro&#223;britannien" fr="Royaume-Uni" es="Reino Unido" it="Regno Unito" nl="Verenigd Koninkrijk"/>
             <name jpn="&#12456;&#12472;&#12531;&#12496;&#12521;" eng="Edinburgh" de="Edinburgh" fr="Edimbourg" es="Edimburgo" it="Edimburgo" nl="Edinburgh"/>
-            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Ecosse" es="Escocia" it="Scozia" nl="Schotland"/>
+            <province jpn="&#12473;&#12467;&#12483;&#12488;&#12521;&#12531;&#12489;" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland"/>
             <longitude>-3.2025146484375</longitude>
             <latitude>55.953369140625</latitude>
             <zoom1>3</zoom1>
@@ -19301,8 +19451,8 @@
         </city>
         <city>
             <country jpn="&#12450;&#12531;&#12489;&#12521;" eng="Andorra" de="Andorra" fr="Andorre" es="Andorra" it="Andorra" nl="Andorra"/>
-            <name jpn="&#12450;&#12531;&#12489;&#12539;&#12521;&#12539;&#12521;&#12505;&#12522;&#12515;" eng="Andorra" de="Andorra" fr="Andorre-la-Vieille" es="Andorra la Vella" it="Andorra la Vella" nl="Andorra la Vella"/>
-            <province jpn="" eng="" de="" fr="" es="" it="" nl=""/>
+            <name jpn="アンドラ・ラ・ベリャ" eng="Andorra la Vella" de="Andorra la Vella" fr="Andorre-la-Vieille" es="Andorra la Vella" it="Andorra la Vella" nl="Andorra la Vella"/>
+            <province jpn="アンドラ・ラ・ベリャ" eng="Andorra la Vella" de="Andorra la Vella" fr="Andorre-la-Vieille" es="Andorra la Vella" it="Andorra la Vella" nl="Andorra la Vella"/>
             <longitude>1.5106201171875</longitude>
             <latitude>42.506103515625</latitude>
             <zoom1>3</zoom1>
@@ -20164,7 +20314,7 @@
             <zoom2>3</zoom2>
         </city>
         <city>
-            <country jpn="&#12452;&#12456;&#12513;&#12531;" eng="Yemen" de="Jemen" fr="R&#233;publique du Y&#233;men" es="Yemen" it="Yemen" nl="Jemen"/>
+            <country jpn="&#12452;&#12456;&#12513;&#12531;" eng="Yemen" de="Jemen" fr="Y&#233;men" es="Yemen" it="Yemen" nl="Jemen"/>
             <name jpn="&#12469;&#12492;&#12450;" eng="Sanaa" de="Sanaa" fr="Sanaa" es="Sanaa" it="Sanaa" nl="Sanaa"/>
             <province jpn="" eng="" de="" fr="" es="" it="" nl=""/>
             <longitude>44.197998046875</longitude>

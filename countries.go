@@ -108,7 +108,8 @@ func PopulateCountryCodes() {
 	countryCodes["Eritrea"] = 119
 	countryCodes["Dijibouti"] = 120
 	countryCodes["Somalia"] = 121
-	countryCodes["Taiwan"] = 122
+	countryCodes["Andorra"] = 122
+	countryCodes["Taiwan"] = 128
 	countryCodes["South Korea"] = 136
 	countryCodes["Hong Kong"] = 144
 	countryCodes["Macao"] = 145
