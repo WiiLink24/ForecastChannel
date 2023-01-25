@@ -17161,15 +17161,8 @@
 		</city>
 		<city jpn="Canillo" eng="Canillo" de="Canillo" fr="Canillo" es="Canillo" it="Canillo" nl="Canillo">
             <province jpn="Canillo" eng="Canillo" de="Canillo" fr="Canillo" es="Canillo" it="Canillo" nl="Canillo"/>
-            <longitude>1.606032</longitude>
-            <latitude>42.589337</latitude>
-            <zoom1>1</zoom1>
-            <zoom2>3</zoom2>
-		</city>
-		<city jpn="Soldeu" eng="Soldeu" de="Soldeu" fr="Soldeu" es="Soldeu" it="Soldeu" nl="Soldeu">
-            <province jpn="Canillo" eng="Canillo" de="Canillo" fr="Canillo" es="Canillo" it="Canillo" nl="Canillo"/>
-            <longitude>1.694996</longitude>
-            <latitude>42.598239</latitude>
+            <longitude>1.620074</longitude>
+            <latitude>42.601939</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
 		</city>
@@ -17182,36 +17175,36 @@
 		</city>
 		<city jpn="El Pas de la Casa" eng="El Pas de la Casa" de="Pas de la Casa" fr="Le Pas de la Case" es="Paso de la Casa" it="Pas de la Casa" nl="Pas de la Casa">
             <province jpn="Encamp" eng="Encamp" de="Encamp" fr="Encamp" es="Encamp" it="Encamp" nl="Encamp"/>
-            <longitude>1.732656</longitude>
-            <latitude>42.541409</latitude>
+            <longitude>1.788290</longitude>
+            <latitude>42.544427</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
 		</city>
 		<city jpn="Escaldes-Engordany" eng="Escaldes-Engordany" de="Escaldes-Engordany" fr="Escaldes-Engordany" es="Las Escaldas-Engordany" it="Escaldes-Engordany" nl="Escaldes-Engordany">
             <province jpn="Escaldes-Engordany" eng="Escaldes-Engordany" de="Escaldes-Engordany" fr="Escaldes-Engordany" es="Las Escaldas-Engordany" it="Escaldes-Engordany" nl="Escaldes-Engordany"/>
-            <longitude>1.581892</longitude>
-            <latitude>42.504430</latitude>
+            <longitude>1.654848</longitude>
+            <latitude>42.503870</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
 		</city>
 		<city jpn="La Massana" eng="La Massana" de="La Massana" fr="La Massana" es="La Massana" it="La Massana" nl="La Massana">
             <province jpn="La Massana" eng="La Massana" de="La Massana" fr="La Massana" es="La Massana" it="La Massana" nl="La Massana"/>
-            <longitude>1.482241</longitude>
-            <latitude>42.547127</latitude>
+            <longitude>1.410288</longitude>
+            <latitude>42.556649</latitude>
             <zoom1>2</zoom1>
             <zoom2>3</zoom2>
 		</city>
 		<city jpn="Ordino" eng="Ordino" de="Ordino" fr="Ordino" es="Ordino" it="Ordino" nl="Ordino">
             <province jpn="Ordino" eng="Ordino" de="Ordino" fr="Ordino" es="Ordino" it="Ordino" nl="Ordino"/>
-            <longitude>1.526689</longitude>
-            <latitude>42.572808</latitude>
+            <longitude>1.477497</longitude>
+            <latitude>42.614081</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
 		</city>
 		<city jpn="Sant Julià de Lòria" eng="Sant Julià de Lòria" de="Sant Julià de Lòria" fr="Sant Julià de Lòria" es="San Julián de Loria" it="Sant Julià de Lòria" nl="Sant Julià de Lòria">
             <province jpn="Sant Julià de Lòria" eng="Sant Julià de Lòria" de="Sant Julià de Lòria" fr="Sant Julià de Lòria" es="San Julián de Loria" it="Sant Julià de Lòria" nl="Sant Julià de Lòria"/>
-            <longitude>1.482091</longitude>
-            <latitude>42.446369</latitude>
+            <longitude>1.445295</longitude>
+            <latitude>42.412779</latitude>
             <zoom1>2</zoom1>
             <zoom2>3</zoom2>
 		</city>
