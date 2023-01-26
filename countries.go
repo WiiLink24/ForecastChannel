@@ -50,6 +50,8 @@ func PopulateCountryCodes() {
 	countryCodes["Uruguay"] = 50
 	countryCodes["US Virgin Islands"] = 51
 	countryCodes["Venezuela"] = 52
+	countryCodes["Armenia"] = 53
+	countryCodes["Belarus"] = 54
 	countryCodes["Albania"] = 64
 	countryCodes["Australia"] = 65
 	countryCodes["Austria"] = 66
