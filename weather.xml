@@ -2295,6 +2295,13 @@
             <zoom1>0</zoom1>
             <zoom2>3</zoom2>
         </city>
+		<city jpn="&#12510;&#12524;&#12540;&#28381;" eng="Malay Falls" de="Malay Falls" fr="Malay Falls" es="Malay Falls" it="Malay Falls" nl="Malay Falls">
+            <province jpn="&#12494;&#12496;&#12539;&#12473;&#12467;&#12471;&#12450;&#24030;" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia"/>
+            <longitude>-62.479248046875</longitude>
+            <latitude>44.97802734375</latitude>
+            <zoom1>0</zoom1>
+            <zoom2>3</zoom2>
+        </city>
         <city jpn="&#12471;&#12489;&#12491;&#12540;" eng="Sydney" de="Sydney" fr="Sydney" es="Sydney" it="Sydney" nl="Sydney">
             <province jpn="&#12491;&#12517;&#12540;&#12501;&#12449;&#12531;&#12489;&#12521;&#12531;&#12489;&#24030;" eng="Newfoundland" de="Neufundland" fr="Terre-Neuve" es="Terranova" it="Terranova" nl="Newfoundland"/>
             <longitude>-60.1776123046875</longitude>
@@ -9615,7 +9622,105 @@
             <zoom2>3</zoom2>
         </city>
     </country>
-    <country>
+	<country>
+        <name jpn="&#12450;&#12523;&#12513;&#12491;&#12450;" eng="Armenia" de="Armenien" fr="Arm&#233;nie" es="Armenia" it="Armenia" nl="Armeni&#235;"/>
+        <city jpn="&#12456;&#12524;&#12496;&#12531;" eng="Yerevan" de="Jerewan" fr="Erevan" es="Erev&#225;n" it="Erevan" nl="Jerevan">
+            <province jpn="&#12456;&#12524;&#12496;&#12531;" eng="Yerevan" de="Jerewan" fr="Erevan" es="Erev&#225;n" it="Erevan" nl="Jerevan"/>
+            <longitude>44.49462890625</longitude>
+            <latitude>40.166015625</latitude>
+            <zoom1>9</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="アルマヴィル地方" eng="Armavir" de="Armavir" fr="Armavir" es="Armavir" it="Armavir" nl="Armavir">
+            <province jpn="アルマヴィル地方" eng="Armavir" de="Armavir" fr="Armavir" es="Armavir" it="Armavir" nl="Armavir"/>
+            <longitude>44.037629</longitude>
+            <latitude>40.149109</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="エチミアジン" eng="Ejmiatsin" de="Etschmiadsin" fr="Etchmiadzin" es="Echmiadzin" it="Echmiadzin" nl="Etsjmiadzin">
+            <province jpn="アルマヴィル地方" eng="Armavir" de="Armavir" fr="Armavir" es="Armavir" it="Armavir" nl="Armavir"/>
+            <longitude>44.273010</longitude>
+            <latitude>40.058421</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="ヴァルデニス" eng="Vardenis" de="Wardenis" fr="Vardenis" es="Vardenis" it="Vardenis" nl="Vardenis">
+            <province jpn="ゲガルクニク地方" eng="Gegharkunik" de="Gegharkunik" fr="Gegharkunik" es="Gegharkunik" it="Gegharkunik" nl="Gecharkoenik"/>
+            <longitude>45.736684</longitude>
+            <latitude>40.181688</latitude>
+            <zoom1>2</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="ヴァナゾル" eng="Vanadzor" de="Wanadsor" fr="Vanadzor" es="Vanadzor" it="Vanadzor" nl="Vanadzor">
+            <province jpn="ロリ地方" eng="Lori" de="Lori" fr="Lori" es="Lori" it="Lori" nl="Lori"/>
+            <longitude>44.467723</longitude>
+            <latitude>40.821001</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="カパン" eng="Kapan" de="Kapan" fr="Kapan" es="Kapan" it="Kapan" nl="Kapan">
+            <province jpn="シュニク地方" eng="Syunik" de="Sjunik" fr="Syunik" es="Syunik" it="Syunik" nl="Sjoenik"/>
+            <longitude>46.405946</longitude>
+            <latitude>39.207609</latitude>
+            <zoom1>2</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="イジェヴァン" eng="Ijevan" de="Idschewan" fr="Idjevan" es="Ijeván" it="Ijevan" nl="Idzjevan">
+            <province jpn="タヴシュ地方" eng="Tavush" de="Tawusch" fr="Tavush" es="Tavush" it="Tavush" nl="Tavoesj"/>
+            <longitude>45.157930</longitude>
+            <latitude>40.894337</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+	</country>
+	
+	<country>
+        <name jpn="&#12505;&#12521;&#12523;&#12540;&#12471;" eng="Belarus" de="Belarus" fr="B&#233;larus" es="Bielorrusia" it="Bielorussia" nl="Wit-Rusland"/>
+        <city jpn="&#12511;&#12531;&#12473;&#12463;" eng="Minsk" de="Minsk" fr="Minsk" es="Minsk" it="Minsk" nl="Minsk">
+            <province jpn="&#12511;&#12531;&#12473;&#12463;" eng="Minsk" de="Minsk" fr="Minsk" es="Minsk" it="Minsk" nl="Minsk"/>
+            <longitude>27.564697265625</longitude>
+            <latitude>53.89892578125</latitude>
+            <zoom1>9</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="ブレスト" eng="Brest" de="Brest" fr="Brest" es="Brest" it="Brest" nl="Brest">
+            <province jpn="ブレスト" eng="Brest" de="Brest" fr="Brest" es="Brest" it="Brest" nl="Brest"/>
+            <longitude>23.765824</longitude>
+            <latitude>52.090540</latitude>
+            <zoom1>3</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="ホメリ" eng="Homiel" de="Homel" fr="Homiel" es="Hómiel" it="Homel" nl="Homel">
+            <province jpn="ホメリ" eng="Homiel" de="Homel" fr="Homiel" es="Hómiel" it="Homel" nl="Homel"/>
+            <longitude>30.991117</longitude>
+            <latitude>52.432521</latitude>
+            <zoom1>3</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="ホラドニャ" eng="Hrodna" de="Hrodna" fr="Hrodna" es="Hrodna" it="Hrodna" nl="Hrodna">
+            <province jpn="ホラドニャ" eng="Hrodna" de="Hrodna" fr="Hrodna" es="Hrodna" it="Hrodna" nl="Hrodna"/>
+            <longitude>23.830364</longitude>
+            <latitude>53.667575</latitude>
+            <zoom1>3</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="マヒリョウ" eng="Mahilyow" de="Mahiljou" fr="Mahiliow" es="Mahiliou" it="Mahileu" nl="Mahiljow">
+            <province jpn="マヒリョウ" eng="Mahilyow" de="Mahiljou" fr="Mahiliow" es="Mahiliou" it="Mahileu" nl="Mahiljow"/>
+            <longitude>30.332184</longitude>
+            <latitude>53.898184</latitude>
+            <zoom1>3</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+		<city jpn="ヴィーツェプスク" eng="Viciebsk" de="Wizebsk" fr="Viciebsk" es="Vítsiebsk" it="Vicebsk" nl="Vitsebsk">
+            <province jpn="ヴィーツェプスク" eng="Viciebsk" de="Wizebsk" fr="Viciebsk" es="Vítsiebsk" it="Vicebsk" nl="Vitsebsk"/>
+            <longitude>30.201925</longitude>
+            <latitude>55.190354</latitude>
+            <zoom1>3</zoom1>
+            <zoom2>3</zoom2>
+		</city>
+	</country>
+		<country>
         <name jpn="&#12458;&#12540;&#12473;&#12488;&#12521;&#12522;&#12450;" eng="Australia" de="Australien" fr="Australie" es="Australia" it="Australia" nl="Australi&#235;"/>
         <city jpn="&#12461;&#12515;&#12531;&#12505;&#12521;" eng="Canberra" de="Canberra" fr="Canberra" es="Canberra" it="Canberra" nl="Canberra">
             <province jpn="&#12458;&#12540;&#12473;&#12488;&#12521;&#12522;&#12450;&#39318;&#37117;&#29305;&#21029;&#22320;&#22495;" eng="Australian Capital Territory" de="Australisches Hauptstadtterritorium" fr="Territoire de la capitale australienne" es="Territorio de la Capital Australiana" it="Australian Capital Territory" nl="Australisch Hoofdstedelijk Territorium"/>
@@ -12906,14 +13011,14 @@
             <province jpn="カペレン" eng="Kapellen" de="Capellen" fr="Capellen" es="Capellen" it="Capellen" nl="Capellen"/>
             <longitude>5.990833</longitude>
             <latitude>49.646184</latitude>
-			<zoom1>2</zoom1>
+			<zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="クレルヴォー" eng="Klierf" de="Clerf" fr="Clervaux" es="Clervaux" it="Clervaux" nl="Clervaux">
             <province jpn="クレルヴォー" eng="Klierf" de="Clerf" fr="Clervaux" es="Clervaux" it="Clervaux" nl="Clervaux"/>
             <longitude>6.022310</longitude>
             <latitude>50.061315</latitude>
-            <zoom1>2</zoom1>
+            <zoom1>1</zoom1>
             <zoom2>3</zoom2>
 		</city>
         <city jpn="ディーキルヒ" eng="Dikrech" de="Diekirch" fr="Diekirch" es="Diekirch" it="Diekirch" nl="Diekirch">
@@ -12927,49 +13032,49 @@
             <province jpn="ディーキルヒ" eng="Dikrech" de="Diekirch" fr="Diekirch" es="Diekirch" it="Diekirch" nl="Diekirch"/>
             <longitude>6.087169</longitude>
             <latitude>49.846201</latitude>
-            <zoom1>2</zoom1>
+            <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="エヒタナハ" eng="Iechternach" de="Echternach" fr="Echternach" es="Echternach" it="Echternach" nl="Echternach">
             <province jpn="エヒタナハ" eng="Iechternach" de="Echternach" fr="Echternach" es="Echternach" it="Echternach" nl="Echternach"/>
             <longitude>6.421612</longitude>
             <latitude>49.812369</latitude>
-			<zoom1>2</zoom1>
+			<zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12456;&#12483;&#12471;&#12517;&#65309;&#12471;&#12517;&#12523;&#65309;&#12450;&#12523;&#12476;&#12483;&#12488;" eng="Esch-Uelzecht" de="Esch an der Alzette" fr="Esch-sur-Alzette" es="Esch-sur-Alzette" it="Esch-sur-Alzette" nl="Esch-sur-Alzette">
             <province jpn="&#12456;&#12483;&#12471;&#12517;&#65309;&#12471;&#12517;&#12523;&#65309;&#12450;&#12523;&#12476;&#12483;&#12488;" eng="Esch-Uelzecht" de="Esch an der Alzette" fr="Esch-sur-Alzette" es="Esch-sur-Alzette" it="Esch-sur-Alzette" nl="Esch-sur-Alzette"/>
             <longitude>5.9710693359375</longitude>
             <latitude>49.4329833984375</latitude>
-            <zoom1>2</zoom1>
+            <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
 		<city jpn="グレーヴェンマハ" eng="Gréiwemaacher" de="Grevenmacher" fr="Grevenmacher" es="Grevenmacher" it="Grevenmacher" nl="Grevenmacher">
             <province jpn="グレーヴェンマハ" eng="Gréiwemaacher" de="Grevenmacher" fr="Grevenmacher" es="Grevenmacher" it="Grevenmacher" nl="Grevenmacher"/>
             <longitude>6.440253</longitude>
             <latitude>49.680485</latitude>
-			<zoom1>2</zoom1>
+			<zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
 		<city jpn="メルシュ" eng="Miersch" de="Mersch" fr="Mersch" es="Mersch" it="Mersch" nl="Mersch">
             <province jpn="メルシュ" eng="Miersch" de="Mersch" fr="Mersch" es="Mersch" it="Mersch" nl="Mersch"/>
             <longitude>6.105258</longitude>
             <latitude>49.751492</latitude>
-			<zoom1>2</zoom1>
+			<zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
 		<city jpn="ルダンジュ" eng="Réiden" de="Redingen" fr="Redange" es="Redange" it="Redange" nl="Redange">
             <province jpn="ルダンジュ" eng="Réiden" de="Redingen" fr="Redange" es="Redange" it="Redange" nl="Redange"/>
             <longitude>5.881842</longitude>
             <latitude>49.769541</latitude>
-			<zoom1>2</zoom1>
+			<zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
 		<city jpn="レーミッヒ" eng="Réimech" de="Remich" fr="Remich" es="Remich" it="Remich" nl="Remich">
             <province jpn="レーミッヒ" eng="Réimech" de="Remich" fr="Remich" es="Remich" it="Remich" nl="Remich"/>
             <longitude>6.368365</longitude>
             <latitude>49.544366</latitude>
-			<zoom1>2</zoom1>
+			<zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
 		<city jpn="レーミッヒ" eng="Schengen" de="Schengen" fr="Schengen" es="Schengen" it="Schengen" nl="Schengen">
@@ -12983,14 +13088,14 @@
             <province jpn="ヴィアンデン" eng="Veianen" de="Vianden" fr="Vianden" es="Vianden" it="Vianden" nl="Vianden"/>
             <longitude>6.2092147</longitude>
             <latitude>49.934716</latitude>
-            <zoom1>2</zoom1>
+            <zoom1>1</zoom1>
             <zoom2>3</zoom2>
 			</city>
 		<city jpn="ヴィルツ" eng="Wolz" de="Wiltz" fr="Wiltz" es="Wiltz" it="Wiltz" nl="Wiltz">
             <province jpn="ヴィルツ" eng="Wolz" de="Wiltz" fr="Wiltz" es="Wiltz" it="Wiltz" nl="Wiltz"/>
             <longitude>5.931817</longitude>
             <latitude>49.967270</latitude>
-            <zoom1>2</zoom1>
+            <zoom1>1</zoom1>
             <zoom2>3</zoom2>
 			</city>
 		<city jpn="ワイワンパック" eng="Wäiswampech" de="Weiswampach" fr="Weiswampach" es="Weiswampach" it="Weiswampach" nl="Weiswampach">
@@ -16467,10 +16572,24 @@
             <zoom1>6</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12499;&#12540;&#12523;" eng="Biel" de="Biel" fr="Bienne" es="Bienne" it="Bienna" nl="Bienne">
+		<city jpn="アーデルボーデン" eng="Adelboden" de="Adelboden" fr="Adelboden" es="Adelboden" it="Adelboden" nl="Adelboden">
+            <province jpn="&#12505;&#12523;&#12531;&#24030;" eng="Bern" de="Bern" fr="Berne" es="Berna" it="Berna" nl="Bern"/>
+            <longitude>7.560672</longitude>
+            <latitude>46.488045</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+        <city jpn="&#12499;&#12540;&#12523;" eng="Biel/Bienne" de="Biel" fr="Bienne" es="Biena" it="Bienne" nl="Biel/Bienne">
             <province jpn="&#12505;&#12523;&#12531;&#24030;" eng="Bern" de="Bern" fr="Berne" es="Berna" it="Berna" nl="Bern"/>
             <longitude>7.415771484375</longitude>
             <latitude>47.2357177734375</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="インターラーケン" eng="Interlaken" de="Interlaken" fr="Interlaken" es="Interlaken" it="Interlaken" nl="Interlaken">
+            <province jpn="&#12505;&#12523;&#12531;&#24030;" eng="Bern" de="Bern" fr="Berne" es="Berna" it="Berna" nl="Bern"/>
+            <longitude>7.862495</longitude>
+            <latitude>46.678978</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
@@ -16481,14 +16600,21 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12496;&#12540;&#12476;&#12523;" eng="Basel" de="Basel" fr="B&#226;le" es="Basilea" it="Basilea" nl="Bazel">
-            <province jpn="&#12496;&#12540;&#12476;&#12523;" eng="Basel-City" de="Basel" fr="B&#226;le-Ville" es="Basilea" it="Basilea Citt&#224;" nl="Bazel"/>
+        <city jpn="&#12496;&#12540;&#12476;&#12523;" eng="Basle" de="Basel" fr="B&#226;le" es="Basilea" it="Basilea" nl="Bazel">
+            <province jpn="&#12496;&#12540;&#12476;&#12523;" eng="Basle-City" de="Basel-Stadt" fr="Bâle-Ville" es="Basilea-Ciudad" it="Basilea Città" nl="Bazel-Stad"/>
             <longitude>7.5860595703125</longitude>
             <latitude>47.537841796875</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12501;&#12522;&#12502;&#12540;&#12523;" eng="Fribourg" de="Freiburg" fr="Fribourg" es="Friburgo" it="Friburgo" nl="Freiburg">
+        <city jpn="リースタル" eng="Liestal" de="Liestal" fr="Liestal" es="Liestal" it="Liestal" nl="Liestal">
+            <province jpn="バーゼル＝ラント" eng="Basle-Country" de="Basel-Landschaft" fr="Bâle-Campagne" es="Basilea-Campiña" it="Basilea Campagna" nl="Bazel-Land"/>
+            <longitude>7.730804</longitude>
+            <latitude>47.492665</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="&#12501;&#12522;&#12502;&#12540;&#12523;" eng="Fribourg" de="Freiburg im Üechtland" fr="Fribourg" es="Friburgo" it="Friburgo" nl="Freiburg">
             <province jpn="&#12501;&#12522;&#12502;&#12540;&#12523;&#24030;" eng="Fribourg" de="Freiburg" fr="Fribourg" es="Friburgo" it="Friburgo" nl="Fribourg"/>
             <longitude>7.1575927734375</longitude>
             <latitude>46.8017578125</latitude>
@@ -16510,16 +16636,30 @@
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12463;&#12540;&#12523;" eng="Chur" de="Chur" fr="Coire" es="Cuera" it="Coira" nl="Chur">
-            <province jpn="&#12464;&#12521;&#12454;&#12499;&#12517;&#12531;&#12487;&#12531;&#24030;" eng="Graub&#252;nden" de="Graub&#252;nden" fr="Grisons" es="Grisones" it="Grigioni" nl="Graub&#252;nden"/>
+            <province jpn="&#12464;&#12521;&#12454;&#12499;&#12517;&#12531;&#12487;&#12531;&#24030;" eng="Grisons/Graubünden" de="Graub&#252;nden" fr="Grisons" es="Grisones" it="Grigioni" nl="Graub&#252;nden"/>
             <longitude>9.5361328125</longitude>
             <latitude>46.856689453125</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12469;&#12531;&#12539;&#12514;&#12522;&#12483;&#12484;" eng="Saint Moritz" de="Sankt Moritz" fr="Saint-Moritz" es="Sankt Moritz" it="San Maurizio" nl="Sankt Moritz">
-            <province jpn="&#12464;&#12521;&#12454;&#12499;&#12517;&#12531;&#12487;&#12531;&#24030;" eng="Graub&#252;nden" de="Graub&#252;nden" fr="Grisons" es="Grisones" it="Grigioni" nl="Graub&#252;nden"/>
+		<city jpn="ダボス" eng="Davos" de="Davos" fr="Davos" es="Davos" it="Davos" nl="Davos">
+            <province jpn="&#12464;&#12521;&#12454;&#12499;&#12517;&#12531;&#12487;&#12531;&#24030;" eng="Grisons/Graubünden" de="Graub&#252;nden" fr="Grisons" es="Grisones" it="Grigioni" nl="Graub&#252;nden"/>
+            <longitude>9.833753</longitude>
+            <latitude>46.801420</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+        <city jpn="&#12469;&#12531;&#12539;&#12514;&#12522;&#12483;&#12484;" eng="St. Moritz" de="Sankt Moritz" fr="Saint-Moritz" es="San Mauricio" it="San Maurizio" nl="Sankt Moritz">
+            <province jpn="&#12464;&#12521;&#12454;&#12499;&#12517;&#12531;&#12487;&#12531;&#24030;" eng="Grisons/Graubünden" de="Graub&#252;nden" fr="Grisons" es="Grisones" it="Grigioni" nl="Graub&#252;nden"/>
             <longitude>9.8382568359375</longitude>
             <latitude>46.4886474609375</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="シュクオル" eng="Scuol" de="Scuol" fr="Scuol" es="Scuol" it="Scuol" nl="Scuol">
+            <province jpn="&#12464;&#12521;&#12454;&#12499;&#12517;&#12531;&#12487;&#12531;&#24030;" eng="Grisons/Graubünden" de="Graub&#252;nden" fr="Grisons" es="Grisones" it="Grigioni" nl="Graub&#252;nden"/>
+            <longitude>10.324721</longitude>
+            <latitude>46.807916</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
@@ -16537,7 +16677,42 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12470;&#12531;&#12463;&#12488;&#12539;&#12460;&#12524;&#12531;" eng="St. Gallen" de="St. Gallen" fr="Saint-Gall" es="San Galo" it="San Gallo" nl="Sankt Gallen">
+		<city jpn="ザルネン" eng="Sarnen" de="Sarnen" fr="Sarnen" es="Sarnen" it="Sarnen" nl="Sarnen">
+            <province jpn="オプヴァルデン" eng="Obwalden/Obwald" de="Obwalden" fr="Obwald" es="Obwalden" it="Obvaldo" nl="Obwalden"/>
+            <longitude>8.244514</longitude>
+            <latitude>46.894994</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="エンゲルベルク" eng="Engelberg" de="Engelberg" fr="Engelberg" es="Engelberg" it="Engelberg" nl="Engelberg">
+            <province jpn="オプヴァルデン" eng="Obwalden/Obwald" de="Obwalden" fr="Obwald" es="Obwalden" it="Obvaldo" nl="Obwalden"/>
+            <longitude>8.406633</longitude>
+            <latitude>46.819915</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="シュタンス" eng="Stans" de="Stans" fr="Stans" es="Stans" it="Stans" nl="Stans">
+            <province jpn="ニトヴァルデン" eng="Nidwalden/Nidwald" de="Nidwalden" fr="Nidwald" es="Nidwalden" it="Nidvaldo" nl="Nidwalden"/>
+            <longitude>8.359727</longitude>
+            <latitude>46.962106</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="シュヴィーツ" eng="Schwyz" de="Schwyz" fr="Schwytz" es="Suiz" it="Svitto" nl="Schwyz">
+            <province jpn="シュヴィーツ" eng="Schwyz" de="Schwyz" fr="Schwytz" es="Suiz" it="Svitto" nl="Schwyz"/>
+            <longitude>8.652135</longitude>
+            <latitude>47.018411</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="フライエンバッハ" eng="Freienbach" de="Freienbach" fr="Freienbach" es="Freienbach" it="Freienbach" nl="Freienbach">
+            <province jpn="シュヴィーツ" eng="Schwyz" de="Schwyz" fr="Schwytz" es="Suiz" it="Svitto" nl="Schwyz"/>
+            <longitude>8.756111</longitude>
+            <latitude>47.205650</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="&#12470;&#12531;&#12463;&#12488;&#12539;&#12460;&#12524;&#12531;" eng="St. Gallen" de="St. Gallen" fr="Saint-Gall" es="San Galo" it="San Gallo" nl="Sankt Gallen">
             <province jpn="&#12470;&#12531;&#12463;&#12488;&#12539;&#12460;&#12524;&#12531;&#24030;" eng="St. Gallen" de="Sankt Gallen" fr="Saint-Gall" es="Sankt Gallen" it="San Gallo" nl="Sankt Gallen"/>
             <longitude>9.371337890625</longitude>
             <latitude>47.4224853515625</latitude>
@@ -16548,6 +16723,13 @@
             <province jpn="&#12471;&#12515;&#12501;&#12495;&#12454;&#12476;&#12531;&#24030;" eng="Schaffhausen" de="Schaffhausen" fr="Schaffhouse" es="Schaffhausen" it="Sciaffusa" nl="Schaffhausen"/>
             <longitude>8.6297607421875</longitude>
             <latitude>47.6971435546875</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="ゾロトゥルン" eng="Solothurn" de="Solothurn" fr="Soleure" es="Soleura" it="Soletta" nl="Solothurn">
+            <province jpn="ゾロトゥルン" eng="Solothurn" de="Solothurn" fr="Soleure" es="Soleura" it="Soletta" nl="Solothurn"/>
+            <longitude>7.535652</longitude>
+            <latitude>47.207514</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
@@ -16565,6 +16747,13 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
+		<city jpn="アルトドルフ" eng="Altdorf" de="Altdorf" fr="Altdorf" es="Altdorf" it="Altdorf" nl="Altdorf">
+            <province jpn="ウーリ" eng="Uri" de="Uri" fr="Uri" es="Uri" it="Uri" nl="Uri"/>
+            <longitude>8.625801</longitude>
+            <latitude>46.885163</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
         <city jpn="&#12471;&#12458;&#12531;" eng="Sion" de="Sitten" fr="Sion" es="Sion" it="Sion" nl="Sion">
             <province jpn="&#12496;&#12524;&#12540;&#24030;" eng="Valais" de="Wallis" fr="Valais" es="Valais" it="Vallese" nl="Wallis"/>
             <longitude>7.3553466796875</longitude>
@@ -16579,10 +16768,31 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
+		<city jpn="マルティニー" eng="Martigny" de="Martigny" fr="Martigny" es="Martigny" it="Martigny" nl="Martigny">
+            <province jpn="&#12496;&#12524;&#12540;&#24030;" eng="Valais" de="Wallis" fr="Valais" es="Valais" it="Vallese" nl="Wallis"/>
+            <longitude>7.074738</longitude>
+            <latitude>46.102135</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="ツェルマット" eng="Zermatt" de="Zermatt" fr="Zermatt" es="Zermatt" it="Zermatt" nl="Zermatt">
+            <province jpn="&#12496;&#12524;&#12540;&#24030;" eng="Valais" de="Wallis" fr="Valais" es="Valais" it="Vallese" nl="Wallis"/>
+            <longitude>7.749777</longitude>
+            <latitude>46.010780</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
         <city jpn="&#12525;&#12540;&#12470;&#12531;&#12492;" eng="Lausanne" de="Lausanne" fr="Lausanne" es="Lausana" it="Losanna" nl="Lausanne">
             <province jpn="&#12508;&#12540;&#24030;" eng="Vaud" de="Waadt" fr="Vaud" es="Vaud" it="Vaud" nl="Vaud"/>
             <longitude>6.624755859375</longitude>
             <latitude>46.5216064453125</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="ベックス" eng="Bex" de="Beis" fr="Bex" es="Bex" it="Bex" nl="Bex">
+            <province jpn="&#12508;&#12540;&#24030;" eng="Vaud" de="Waadt" fr="Vaud" es="Vaud" it="Vaud" nl="Vaud"/>
+            <longitude>7.013842</longitude>
+            <latitude>46.249389</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
@@ -17159,53 +17369,53 @@
             <zoom1>9</zoom1>
             <zoom2>3</zoom2>
 		</city>
-		<city jpn="Canillo" eng="Canillo" de="Canillo" fr="Canillo" es="Canillo" it="Canillo" nl="Canillo">
-            <province jpn="Canillo" eng="Canillo" de="Canillo" fr="Canillo" es="Canillo" it="Canillo" nl="Canillo"/>
+		<city jpn="カニーヨ" eng="Canillo" de="Canillo" fr="Canillo" es="Canillo" it="Canillo" nl="Canillo">
+            <province jpn="カニーヨ" eng="Canillo" de="Canillo" fr="Canillo" es="Canillo" it="Canillo" nl="Canillo"/>
             <longitude>1.620074</longitude>
             <latitude>42.601939</latitude>
-            <zoom1>1</zoom1>
+            <zoom1>0</zoom1>
             <zoom2>3</zoom2>
 		</city>
-		<city jpn="Encamp" eng="Encamp" de="Encamp" fr="Encamp" es="Encamp" it="Encamp" nl="Encamp">
-            <province jpn="Encamp" eng="Encamp" de="Encamp" fr="Encamp" es="Encamp" it="Encamp" nl="Encamp"/>
+		<city jpn="アンカム" eng="Encamp" de="Encamp" fr="Encamp" es="Encamp" it="Encamp" nl="Encamp">
+            <province jpn="アンカム" eng="Encamp" de="Encamp" fr="Encamp" es="Encamp" it="Encamp" nl="Encamp"/>
             <longitude>1.606428</longitude>
             <latitude>42.530221</latitude>
-            <zoom1>1</zoom1>
+            <zoom1>0</zoom1>
             <zoom2>3</zoom2>
 		</city>
-		<city jpn="El Pas de la Casa" eng="El Pas de la Casa" de="Pas de la Casa" fr="Le Pas de la Case" es="Paso de la Casa" it="Pas de la Casa" nl="Pas de la Casa">
-            <province jpn="Encamp" eng="Encamp" de="Encamp" fr="Encamp" es="Encamp" it="Encamp" nl="Encamp"/>
+		<city jpn="パス・ダ・ラ・カザ" eng="El Pas de la Casa" de="Pas de la Casa" fr="Le Pas de la Case" es="Paso de la Casa" it="Pas de la Casa" nl="Pas de la Casa">
+            <province jpn="アンカム" eng="Encamp" de="Encamp" fr="Encamp" es="Encamp" it="Encamp" nl="Encamp"/>
             <longitude>1.788290</longitude>
             <latitude>42.544427</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
 		</city>
-		<city jpn="Escaldes-Engordany" eng="Escaldes-Engordany" de="Escaldes-Engordany" fr="Escaldes-Engordany" es="Las Escaldas-Engordany" it="Escaldes-Engordany" nl="Escaldes-Engordany">
-            <province jpn="Escaldes-Engordany" eng="Escaldes-Engordany" de="Escaldes-Engordany" fr="Escaldes-Engordany" es="Las Escaldas-Engordany" it="Escaldes-Engordany" nl="Escaldes-Engordany"/>
+		<city jpn="エスカルデス＝エンゴルダニ" eng="Escaldes-Engordany" de="Escaldes-Engordany" fr="Escaldes-Engordany" es="Las Escaldas-Engordany" it="Escaldes-Engordany" nl="Escaldes-Engordany">
+            <province jpn="エスカルデス＝エンゴルダニ" eng="Escaldes-Engordany" de="Escaldes-Engordany" fr="Escaldes-Engordany" es="Las Escaldas-Engordany" it="Escaldes-Engordany" nl="Escaldes-Engordany"/>
             <longitude>1.654848</longitude>
             <latitude>42.503870</latitude>
-            <zoom1>1</zoom1>
+            <zoom1>0</zoom1>
             <zoom2>3</zoom2>
 		</city>
-		<city jpn="La Massana" eng="La Massana" de="La Massana" fr="La Massana" es="La Massana" it="La Massana" nl="La Massana">
-            <province jpn="La Massana" eng="La Massana" de="La Massana" fr="La Massana" es="La Massana" it="La Massana" nl="La Massana"/>
+		<city jpn="ラ・マサナ" eng="La Massana" de="La Massana" fr="La Massana" es="La Massana" it="La Massana" nl="La Massana">
+            <province jpn="ラ・マサナ" eng="La Massana" de="La Massana" fr="La Massana" es="La Massana" it="La Massana" nl="La Massana"/>
             <longitude>1.410288</longitude>
             <latitude>42.556649</latitude>
-            <zoom1>2</zoom1>
+            <zoom1>0</zoom1>
             <zoom2>3</zoom2>
 		</city>
-		<city jpn="Ordino" eng="Ordino" de="Ordino" fr="Ordino" es="Ordino" it="Ordino" nl="Ordino">
-            <province jpn="Ordino" eng="Ordino" de="Ordino" fr="Ordino" es="Ordino" it="Ordino" nl="Ordino"/>
+		<city jpn="オルディノ" eng="Ordino" de="Ordino" fr="Ordino" es="Ordino" it="Ordino" nl="Ordino">
+            <province jpn="オルディノ" eng="Ordino" de="Ordino" fr="Ordino" es="Ordino" it="Ordino" nl="Ordino"/>
             <longitude>1.477497</longitude>
             <latitude>42.614081</latitude>
-            <zoom1>1</zoom1>
+            <zoom1>0</zoom1>
             <zoom2>3</zoom2>
 		</city>
-		<city jpn="Sant Julià de Lòria" eng="Sant Julià de Lòria" de="Sant Julià de Lòria" fr="Sant Julià de Lòria" es="San Julián de Loria" it="Sant Julià de Lòria" nl="Sant Julià de Lòria">
-            <province jpn="Sant Julià de Lòria" eng="Sant Julià de Lòria" de="Sant Julià de Lòria" fr="Sant Julià de Lòria" es="San Julián de Loria" it="Sant Julià de Lòria" nl="Sant Julià de Lòria"/>
+		<city jpn="サン・ジュリア・デ・ロリア" eng="Sant Julià de Lòria" de="Sant Julià de Lòria" fr="Sant Julià de Lòria" es="San Julián de Loria" it="Sant Julià de Lòria" nl="Sant Julià de Lòria">
+            <province jpn="サン・ジュリア・デ・ロリア" eng="Sant Julià de Lòria" de="Sant Julià de Lòria" fr="Sant Julià de Lòria" es="San Julián de Loria" it="Sant Julià de Lòria" nl="Sant Julià de Lòria"/>
             <longitude>1.445295</longitude>
             <latitude>42.412779</latitude>
-            <zoom1>2</zoom1>
+            <zoom1>1</zoom1>
             <zoom2>3</zoom2>
 		</city>
 	</country>
@@ -18669,7 +18879,7 @@
             <zoom2>3</zoom2>
         </city>
         <city>
-            <country jpn="&#12510;&#12465;&#12489;&#12491;&#12450;" eng="F.Y.R. of Macedonia" de="Mazedonien" fr="Mac&#233;doine" es="Macedonia" it="Macedonia" nl="Macedoni&#235;"/>
+            <country jpn="&#12510;&#12465;&#12489;&#12491;&#12450;" eng="North Macedonia" de="Nordmazedonien" fr="Macédoine du Nord" es="Macedonia del Norte" it="Macedonia del Nord" nl="Noord-Macedonië"/>
             <name jpn="&#12473;&#12467;&#12500;&#12456;" eng="Skopje" de="Skopje" fr="Skopje" es="Skopje" it="Skopje" nl="Skopje"/>
             <province jpn="&#12473;&#12467;&#12500;&#12456;" eng="Skopje" de="Skopje" fr="Skopje" es="Skopje" it="Skopje" nl="Skopje"/>
             <longitude>21.4453125</longitude>
@@ -19462,7 +19672,7 @@
         </city>
         <city>
             <country jpn="&#12450;&#12523;&#12513;&#12491;&#12450;" eng="Armenia" de="Armenien" fr="Arm&#233;nie" es="Armenia" it="Armenia" nl="Armeni&#235;"/>
-            <name jpn="&#12456;&#12524;&#12496;&#12531;" eng="Yerevan" de="Eriwan" fr="Erevan" es="Erev&#225;n" it="Erevan" nl="Erevan"/>
+            <name jpn="&#12456;&#12524;&#12496;&#12531;" eng="Yerevan" de="Jerewan" fr="Erevan" es="Erev&#225;n" it="Erevan" nl="Jerevan"/>
             <province jpn="" eng="" de="" fr="" es="" it="" nl=""/>
             <longitude>44.49462890625</longitude>
             <latitude>40.166015625</latitude>
