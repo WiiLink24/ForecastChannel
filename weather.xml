@@ -11518,6 +11518,13 @@
             <zoom1>4</zoom1>
             <zoom2>3</zoom2>
         </city>
+		<city jpn="ハイデルベルク" eng="Heidelberg" de="Heidelberg" fr="Heidelberg" es="Heidelberg" it="Heidelberg" nl="Heidelberg">
+            <province jpn="&#12496;&#12540;&#12487;&#12531;&#12539;&#12499;&#12517;&#12523;&#12486;&#12531;&#12505;&#12523;&#12463;&#24030;" eng="Baden-W&#252;rttemberg" de="Baden-W&#252;rttemberg" fr="Bade-Wurtemberg" es="Baden-Wurtemberg" it="Baden-W&#252;rttemberg" nl="Baden-W&#252;rttemberg"/>
+            <longitude>8.686506</longitude>
+            <latitude>49.347521</latitude>
+            <zoom1>0</zoom1>
+            <zoom2>3</zoom2>
+        </city>
         <city jpn="&#12511;&#12517;&#12531;&#12504;&#12531;" eng="M&#252;nchen" de="M&#252;nchen" fr="Munich" es="M&#250;nich" it="Monaco di Baviera" nl="M&#252;nchen">
             <province jpn="&#12496;&#12452;&#12456;&#12523;&#12531;&#24030;" eng="Bavaria" de="Bayern" fr="Bavi&#232;re" es="Baviera" it="Baviera" nl="Beieren"/>
             <longitude>11.5521240234375</longitude>
@@ -11560,11 +11567,25 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
+		<city jpn="バンベルク" eng="Bamberg" de="Bamberg" fr="Bamberg" es="Bamberg" it="Bamberg" nl="Bamberg">
+            <province jpn="&#12496;&#12452;&#12456;&#12523;&#12531;&#24030;" eng="Bavaria" de="Bayern" fr="Bavi&#232;re" es="Baviera" it="Baviera" nl="Beieren"/>
+            <longitude>10.885772</longitude>
+            <latitude>49.983953</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
         <city jpn="&#12532;&#12517;&#12523;&#12484;&#12502;&#12523;&#12463;" eng="W&#252;rzburg" de="W&#252;rzburg" fr="Wurtzbourg" es="Wurzburgo" it="W&#252;rzburg" nl="W&#252;rzburg">
             <province jpn="&#12496;&#12452;&#12456;&#12523;&#12531;&#24030;" eng="Bavaria" de="Bayern" fr="Bavi&#232;re" es="Baviera" it="Baviera" nl="Beieren"/>
             <longitude>9.9371337890625</longitude>
             <latitude>49.779052734375</latitude>
             <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="エアランゲン;" eng="Erlangen" de="Erlangen" fr="Erlangen" es="Erlangen" it="Erlangen" nl="Erlangen">
+            <province jpn="&#12496;&#12452;&#12456;&#12523;&#12531;&#24030;" eng="Bavaria" de="Bayern" fr="Bavi&#232;re" es="Baviera" it="Baviera" nl="Beieren"/>
+            <longitude>11.007510</longitude>
+            <latitude>49.621768</latitude>
+            <zoom1>0</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12497;&#12483;&#12469;&#12454;" eng="Passau" de="Passau" fr="Passau" es="Passau" it="Passavia" nl="Passau">
@@ -11579,6 +11600,34 @@
             <longitude>9.0692138671875</longitude>
             <latitude>49.9273681640625</latitude>
             <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="ローゼンハイム" eng="Rosenheim" de="Rosenheim" fr="Rosenheim" es="Rosenheim" it="Rosenheim" nl="Rosenheim">
+            <province jpn="&#12496;&#12452;&#12456;&#12523;&#12531;&#24030;" eng="Bavaria" de="Bayern" fr="Bavi&#232;re" es="Baviera" it="Baviera" nl="Beieren"/>
+            <longitude>12.137406</longitude>
+            <latitude>47.787463</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="ガルミッシュ＝パルテンキルヒェン" eng="Garmisch-Partenkirchen" de="Garmisch-Partenkirchen" fr="Garmisch-Partenkirchen" es="Garmisch-Partenkirchen" it="Garmisch-Partenkirchen" nl="Garmisch-Partenkirchen">
+            <province jpn="&#12496;&#12452;&#12456;&#12523;&#12531;&#24030;" eng="Bavaria" de="Bayern" fr="Bavi&#232;re" es="Baviera" it="Baviera" nl="Beieren"/>
+            <longitude>11.097036</longitude>
+            <latitude>47.472913</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="ケンプテン" eng="Kempten" de="Kempten" fr="Kempten" es="Kempten" it="Kempten" nl="Kempten">
+            <province jpn="&#12496;&#12452;&#12456;&#12523;&#12531;&#24030;" eng="Bavaria" de="Bayern" fr="Bavi&#232;re" es="Baviera" it="Baviera" nl="Beieren"/>
+            <longitude>10.320168</longitude>
+            <latitude>47.719058</latitude>
+            <zoom1>0</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="ゾントホーフェン" eng="Sonthofen" de="Sonthofen" fr="Sonthofen" es="Sonthofen" it="Sonthofen" nl="Sonthofen">
+            <province jpn="&#12496;&#12452;&#12456;&#12523;&#12531;&#24030;" eng="Bavaria" de="Bayern" fr="Bavi&#232;re" es="Baviera" it="Baviera" nl="Beieren"/>
+            <longitude>10.277057</longitude>
+            <latitude>47.502721</latitude>
+            <zoom1>0</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12509;&#12484;&#12480;&#12512;" eng="Potsdam" de="Potsdam" fr="Potsdam" es="Potsdam" it="Potsdam" nl="Potsdam">
@@ -11728,11 +11777,25 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
+		<city jpn="エッセン" eng="Essen" de="Essen" fr="Essen" es="Essen" it="Essen" nl="Essen">
+            <province jpn="&#12494;&#12523;&#12488;&#12521;&#12452;&#12531;&#12539;&#12454;&#12455;&#12473;&#12488;&#12501;&#12449;&#12540;&#12524;&#12531;&#24030;" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rh&#233;nanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen"/>
+            <longitude>7.004229</longitude>
+            <latitude>51.413297</latitude>
+            <zoom1>0</zoom1>
+            <zoom2>3</zoom2>
+        </city>
         <city jpn="&#12513;&#12531;&#12498;&#12455;&#12531;&#12464;&#12521;&#12540;&#12488;&#12496;&#12483;&#12495;" eng="M&#246;nchengladbach" de="M&#246;nchengladbach" fr="M&#246;nchengladbach" es="M&#246;nchengladbach" it="M&#246;nchengladbach" nl="M&#246;nchengladbach">
             <province jpn="&#12494;&#12523;&#12488;&#12521;&#12452;&#12531;&#12539;&#12454;&#12455;&#12473;&#12488;&#12501;&#12449;&#12540;&#12524;&#12531;&#24030;" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rh&#233;nanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen"/>
             <longitude>6.4324951171875</longitude>
             <latitude>51.185302734375</latitude>
-            <zoom1>1</zoom1>
+            <zoom1>0</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="レックリングハウゼン" eng="Recklinghausen" de="Recklinghausen" fr="Recklinghausen" es="Recklinghausen" it="Recklinghausen" nl="Recklinghausen">
+            <province jpn="&#12494;&#12523;&#12488;&#12521;&#12452;&#12531;&#12539;&#12454;&#12455;&#12473;&#12488;&#12501;&#12449;&#12540;&#12524;&#12531;&#24030;" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rh&#233;nanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen"/>
+            <longitude>7.159922</longitude>
+            <latitude>51.663300</latitude>
+            <zoom1>0</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12450;&#12540;&#12504;&#12531;" eng="Aachen" de="Aachen" fr="Aix-la-Chapelle" es="Aquisgr&#225;n" it="Aquisgrana" nl="Aken">
@@ -11746,6 +11809,13 @@
             <province jpn="&#12494;&#12523;&#12488;&#12521;&#12452;&#12531;&#12539;&#12454;&#12455;&#12473;&#12488;&#12501;&#12449;&#12540;&#12524;&#12531;&#24030;" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rh&#233;nanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen"/>
             <longitude>8.5308837890625</longitude>
             <latitude>52.0147705078125</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="ミュンスター" eng="Münster" de="Münster" fr="Münster" es="Münster" it="Münster" nl="Münster">
+            <province jpn="&#12494;&#12523;&#12488;&#12521;&#12452;&#12531;&#12539;&#12454;&#12455;&#12473;&#12488;&#12501;&#12449;&#12540;&#12524;&#12531;&#24030;" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rh&#233;nanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen"/>
+            <longitude>7.642912</longitude>
+            <latitude>51.947726</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
@@ -11819,7 +11889,7 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12495;&#12524;" eng="Halle" de="Halle (Saale)" fr="Halle" es="Halle" it="Halle" nl="Halle">
+        <city jpn="&#12495;&#12524;" eng="Halle" de="Halle" fr="Halle" es="Halle" it="Halle" nl="Halle">
             <province jpn="&#12470;&#12463;&#12475;&#12531;&#12539;&#12450;&#12531;&#12495;&#12523;&#12488;&#24030;" eng="Saxony-Anhalt" de="Sachsen-Anhalt" fr="Saxe-Anhalt" es="Sajonia-Anhalt" it="Sassonia-Anhalt" nl="Saksen-Anhalt"/>
             <longitude>11.964111328125</longitude>
             <latitude>51.4654541015625</latitude>
@@ -12500,17 +12570,24 @@
     </country>
     <country>
         <name jpn="&#12452;&#12479;&#12522;&#12450;" eng="Italy" de="Italien" fr="Italie" es="Italia" it="Italia" nl="Itali&#235;"/>
-        <city jpn="&#12525;&#12540;&#12510;" eng="Roma" de="Rom" fr="Rome" es="Roma" it="Roma" nl="Rome">
+        <city jpn="&#12525;&#12540;&#12510;" eng="Rome" de="Rom" fr="Rome" es="Roma" it="Roma" nl="Rome">
             <province jpn="&#12521;&#12484;&#12451;&#12458;&#24030;" eng="Lazio" de="Latium" fr="Latium" es="Lacio" it="Lazio" nl="Latium"/>
             <longitude>12.4859619140625</longitude>
             <latitude>41.890869140625</latitude>
             <zoom1>9</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12501;&#12525;&#12472;&#12494;&#12493;" eng="Frosinone" de="Frosinone" fr="Frosinone" es="Frosinone" it="Provincia di Frosinone" nl="Frosinone">
+        <city jpn="&#12501;&#12525;&#12472;&#12494;&#12493;" eng="Frosinone" de="Frosinone" fr="Frosinone" es="Frosinone" it="Frosinone" nl="Frosinone">
             <province jpn="&#12521;&#12484;&#12451;&#12458;&#24030;" eng="Lazio" de="Latium" fr="Latium" es="Lacio" it="Lazio" nl="Latium"/>
             <longitude>13.33740234375</longitude>
             <latitude>41.63818359375</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="ラティーナ" eng="Latina" de="Latina" fr="Latina" es="Latina" it="Latina" nl="Latina">
+            <province jpn="&#12521;&#12484;&#12451;&#12458;&#24030;" eng="Lazio" de="Latium" fr="Latium" es="Lacio" it="Lazio" nl="Latium"/>
+            <longitude>12.904902</longitude>
+            <latitude>41.464084</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
@@ -12528,7 +12605,7 @@
             <zoom1>4</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12488;&#12522;&#12494;" eng="Torino" de="Turin" fr="Turin" es="Tur&#237;n" it="Torino" nl="Turijn">
+        <city jpn="&#12488;&#12522;&#12494;" eng="Turin" de="Turin" fr="Turin" es="Tur&#237;n" it="Torino" nl="Turijn">
             <province jpn="&#12500;&#12456;&#12514;&#12531;&#12486;&#24030;" eng="Piedmont" de="Piemont" fr="Pi&#233;mont" es="Piamonte" it="Piemonte" nl="Pi&#235;mont"/>
             <longitude>7.6739501953125</longitude>
             <latitude>45.0714111328125</latitude>
@@ -12556,6 +12633,13 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
+		<city jpn="ノヴァーラ" eng="Novara" de="Novara" fr="Novare" es="Novara" it="Novara" nl="Novara">
+            <province jpn="&#12500;&#12456;&#12514;&#12531;&#12486;&#24030;" eng="Piedmont" de="Piemont" fr="Pi&#233;mont" es="Piamonte" it="Piemonte" nl="Pi&#235;mont"/>
+            <longitude>8.596846</longitude>
+            <latitude>45.454420</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
         <city jpn="&#12505;&#12523;&#12496;&#12491;&#12450;" eng="Verbania" de="Verbania" fr="Verbania" es="Verbania" it="Verbania" nl="Verbania">
             <province jpn="&#12500;&#12456;&#12514;&#12531;&#12486;&#24030;" eng="Piedmont" de="Piemont" fr="Pi&#233;mont" es="Piamonte" it="Piemonte" nl="Pi&#235;mont"/>
             <longitude>8.5528564453125</longitude>
@@ -12563,7 +12647,7 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12472;&#12455;&#12494;&#12496;" eng="Genova" de="Genua" fr="G&#234;nes" es="G&#233;nova" it="Genova" nl="Genua">
+        <city jpn="&#12472;&#12455;&#12494;&#12496;" eng="Genoa" de="Genua" fr="G&#234;nes" es="G&#233;nova" it="Genova" nl="Genua">
             <province jpn="&#12522;&#12464;&#12522;&#12450;&#24030;" eng="Liguria" de="Ligurien" fr="Ligurie" es="Liguria" it="Liguria" nl="Liguri&#235;"/>
             <longitude>8.931884765625</longitude>
             <latitude>44.4012451171875</latitude>
@@ -12584,11 +12668,18 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12511;&#12521;&#12494;" eng="Milano" de="Mailand" fr="Milan" es="Mil&#225;n" it="Milano" nl="Milaan">
+        <city jpn="&#12511;&#12521;&#12494;" eng="Milan" de="Mailand" fr="Milan" es="Mil&#225;n" it="Milano" nl="Milaan">
             <province jpn="&#12525;&#12531;&#12496;&#12523;&#12487;&#12451;&#12450;&#24030;" eng="Lombardy" de="Lombardei" fr="Lombardie" es="Lombard&#237;a" it="Lombardia" nl="Lombardije"/>
             <longitude>9.1845703125</longitude>
             <latitude>45.4669189453125</latitude>
             <zoom1>4</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="ベルガモ" eng="Bergamo" de="Bergamo" fr="Bergame" es="Bérgamo" it="Bergamo" nl="Bergamo">
+            <province jpn="&#12525;&#12531;&#12496;&#12523;&#12487;&#12451;&#12450;&#24030;" eng="Lombardy" de="Lombardei" fr="Lombardie" es="Lombard&#237;a" it="Lombardia" nl="Lombardije"/>
+            <longitude>9.705253</longitude>
+            <latitude>45.711587</latitude>
+            <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12502;&#12524;&#12471;&#12450;" eng="Brescia" de="Brescia" fr="Brescia" es="Brescia" it="Brescia" nl="Br&#233;scia">
@@ -12598,10 +12689,24 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12510;&#12531;&#12488;&#12496;" eng="Mantova" de="Mantua" fr="Mantoue" es="Mantua" it="Mantova" nl="Mantua">
+		<city jpn="コモ" eng="Como" de="Como" fr="Côme" es="Como" it="Como" nl="Como">
+            <province jpn="&#12525;&#12531;&#12496;&#12523;&#12487;&#12451;&#12450;&#24030;" eng="Lombardy" de="Lombardei" fr="Lombardie" es="Lombard&#237;a" it="Lombardia" nl="Lombardije"/>
+            <longitude>9.036118</longitude>
+            <latitude>45.841363</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+        <city jpn="&#12510;&#12531;&#12488;&#12496;" eng="Mantua" de="Mantua" fr="Mantoue" es="Mantua" it="Mantova" nl="Mantua">
             <province jpn="&#12525;&#12531;&#12496;&#12523;&#12487;&#12451;&#12450;&#24030;" eng="Lombardy" de="Lombardei" fr="Lombardie" es="Lombard&#237;a" it="Lombardia" nl="Lombardije"/>
             <longitude>10.7940673828125</longitude>
             <latitude>45.15380859375</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="モンツァ" eng="Monza" de="Monza" fr="Monza" es="Monza" it="Monza" nl="Monza">
+            <province jpn="&#12525;&#12531;&#12496;&#12523;&#12487;&#12451;&#12450;&#24030;" eng="Lombardy" de="Lombardei" fr="Lombardie" es="Lombard&#237;a" it="Lombardia" nl="Lombardije"/>
+            <longitude>9.289866</longitude>
+            <latitude>45.635388</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
@@ -12633,7 +12738,7 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12497;&#12489;&#12496;" eng="Padova" de="Padua" fr="Padoue" es="Padua" it="Padova" nl="Padua">
+        <city jpn="&#12497;&#12489;&#12496;" eng="Padua" de="Padua" fr="Padoue" es="Padua" it="Padova" nl="Padua">
             <province jpn="&#12505;&#12493;&#12488;&#24030;" eng="Veneto" de="Venetien" fr="V&#233;n&#233;tie" es="V&#233;neto" it="Veneto" nl="Veneto"/>
             <longitude>11.865234375</longitude>
             <latitude>45.4010009765625</latitude>
@@ -12647,11 +12752,18 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12505;&#12493;&#12481;&#12450;" eng="Venezia" de="Venedig" fr="Venise" es="Venecia" it="Venezia" nl="Veneti&#235;">
+        <city jpn="&#12505;&#12493;&#12481;&#12450;" eng="Venice" de="Venedig" fr="Venise" es="Venecia" it="Venezia" nl="Veneti&#235;">
             <province jpn="&#12505;&#12493;&#12488;&#24030;" eng="Veneto" de="Venetien" fr="V&#233;n&#233;tie" es="V&#233;neto" it="Veneto" nl="Veneto"/>
             <longitude>12.3321533203125</longitude>
             <latitude>45.428466796875</latitude>
             <zoom1>4</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="ヴィチェンツァ" eng="Vicenza" de="Vicenza" fr="Vicence" es="Vicenza" it="Vicenza" nl="Vicenza">
+            <province jpn="&#12505;&#12493;&#12488;&#24030;" eng="Veneto" de="Venetien" fr="V&#233;n&#233;tie" es="V&#233;neto" it="Veneto" nl="Veneto"/>
+            <longitude>11.532567</longitude>
+            <latitude>45.575511</latitude>
+            <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
         <city jpn="&#12488;&#12522;&#12456;&#12473;&#12486;" eng="Trieste" de="Triest" fr="Trieste" es="Trieste" it="Trieste" nl="Tri&#235;st">
@@ -12682,6 +12794,34 @@
             <zoom1>4</zoom1>
             <zoom2>3</zoom2>
         </city>
+		<city jpn="フェラーラ" eng="Ferrara" de="Ferrara" fr="Ferrare" es="Ferrara" it="Ferrara" nl="Ferrara">
+            <province jpn="&#12456;&#12511;&#12522;&#12450;&#12539;&#12525;&#12510;&#12540;&#12491;&#12515;&#24030;" eng="Emilia-Romagna" de="Emilia-Romagna" fr="Emilie Romagne" es="Emilia-Roma&#241;a" it="Emilia-Romagna" nl="Emilia-Romagna"/>
+            <longitude>11.611614</longitude>
+            <latitude>44.841829</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="フォルリ" eng="Forlì" de="Forlì" fr="Forlì" es="Forlì" it="Forlì" nl="Forlì">
+            <province jpn="&#12456;&#12511;&#12522;&#12450;&#12539;&#12525;&#12510;&#12540;&#12491;&#12515;&#24030;" eng="Emilia-Romagna" de="Emilia-Romagna" fr="Emilie Romagne" es="Emilia-Roma&#241;a" it="Emilia-Romagna" nl="Emilia-Romagna"/>
+            <longitude>11.990259</longitude>
+            <latitude>44.254117</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="モデナ" eng="Modena" de="Modena" fr="Modène" es="Módena" it="Modena" nl="Modena">
+            <province jpn="&#12456;&#12511;&#12522;&#12450;&#12539;&#12525;&#12510;&#12540;&#12491;&#12515;&#24030;" eng="Emilia-Romagna" de="Emilia-Romagna" fr="Emilie Romagne" es="Emilia-Roma&#241;a" it="Emilia-Romagna" nl="Emilia-Romagna"/>
+            <longitude>10.910239</longitude>
+            <latitude>44.647413</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="パルマ" eng="Parma" de="Parma" fr="Parme" es="Parma" it="Parma" nl="Parma">
+            <province jpn="&#12456;&#12511;&#12522;&#12450;&#12539;&#12525;&#12510;&#12540;&#12491;&#12515;&#24030;" eng="Emilia-Romagna" de="Emilia-Romagna" fr="Emilie Romagne" es="Emilia-Roma&#241;a" it="Emilia-Romagna" nl="Emilia-Romagna"/>
+            <longitude>10.326201</longitude>
+            <latitude>44.840416</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
         <city jpn="&#12500;&#12450;&#12481;&#12455;&#12531;&#12484;&#12449;" eng="Piacenza" de="Piacenza" fr="Plaisance" es="Piacenza" it="Piacenza" nl="Piacenza">
             <province jpn="&#12456;&#12511;&#12522;&#12450;&#12539;&#12525;&#12510;&#12540;&#12491;&#12515;&#24030;" eng="Emilia-Romagna" de="Emilia-Romagna" fr="Emilie Romagne" es="Emilia-Roma&#241;a" it="Emilia-Romagna" nl="Emilia-Romagna"/>
             <longitude>9.68994140625</longitude>
@@ -12703,7 +12843,14 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12501;&#12451;&#12524;&#12531;&#12484;&#12455;" eng="Firenze" de="Florenz" fr="Florence" es="Florencia" it="Firenze" nl="Florence">
+		<city jpn="リミニ" eng="Rimini" de="Rimini" fr="Rimini" es="Rímini" it="Rimini" nl="Rimini">
+            <province jpn="&#12456;&#12511;&#12522;&#12450;&#12539;&#12525;&#12510;&#12540;&#12491;&#12515;&#24030;" eng="Emilia-Romagna" de="Emilia-Romagna" fr="Emilie Romagne" es="Emilia-Roma&#241;a" it="Emilia-Romagna" nl="Emilia-Romagna"/>
+            <longitude>12.583816</longitude>
+            <latitude>44.060740</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+        <city jpn="&#12501;&#12451;&#12524;&#12531;&#12484;&#12455;" eng="Florence" de="Florenz" fr="Florence" es="Florencia" it="Firenze" nl="Florence">
             <province jpn="&#12488;&#12473;&#12459;&#12490;&#24030;" eng="Tuscany" de="Toskana" fr="Toscane" es="Toscana" it="Toscana" nl="Toscane"/>
             <longitude>11.25</longitude>
             <latitude>43.7750244140625</latitude>
@@ -12721,6 +12868,13 @@
             <province jpn="&#12488;&#12473;&#12459;&#12490;&#24030;" eng="Tuscany" de="Toskana" fr="Toscane" es="Toscana" it="Toscana" nl="Toscane"/>
             <longitude>10.30517578125</longitude>
             <latitude>43.5498046875</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="ピサ" eng="Pisa" de="Pisa" fr="Pise" es="Pisa" it="Pisa" nl="Pisa">
+            <province jpn="&#12488;&#12473;&#12459;&#12490;&#24030;" eng="Tuscany" de="Toskana" fr="Toscane" es="Toscana" it="Toscana" nl="Toscane"/>
+            <longitude>10.378841</longitude>
+            <latitude>43.734282</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
@@ -12794,6 +12948,13 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
+		<city jpn="ペスカーラ" eng="Pescara" de="Pescara" fr="Pescara" es="Pescara" it="Pescara" nl="Pescara">
+            <province jpn="&#12450;&#12502;&#12523;&#12483;&#12484;&#12451;&#24030;" eng="Abruzzo" de="Abruzzen" fr="Abruzzes" es="Abruzos" it="Abruzzo" nl="Abruzzen"/>
+            <longitude>14.228262</longitude>
+            <latitude>42.466860</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
         <city jpn="&#12459;&#12531;&#12509;&#12496;&#12483;&#12477;" eng="Campobasso" de="Campobasso" fr="Campobasso" es="Campobasso" it="Campobasso" nl="Campobasso">
             <province jpn="&#12514;&#12522;&#12540;&#12476;&#24030;" eng="Molise" de="Molise" fr="Molise" es="Molise" it="Molise" nl="Molise"/>
             <longitude>14.65576171875</longitude>
@@ -12801,7 +12962,7 @@
             <zoom1>4</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12490;&#12509;&#12522;" eng="Napoli" de="Neapel" fr="Naples" es="N&#225;poles" it="Napoli" nl="Napels">
+        <city jpn="&#12490;&#12509;&#12522;" eng="Naples" de="Neapel" fr="Naples" es="N&#225;poles" it="Napoli" nl="Napels">
             <province jpn="&#12459;&#12531;&#12497;&#12491;&#12450;&#24030;" eng="Campania" de="Kampanien" fr="Campanie" es="Campania" it="Campania" nl="Campani&#235;"/>
             <longitude>14.249267578125</longitude>
             <latitude>40.836181640625</latitude>
@@ -12815,10 +12976,24 @@
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
+		<city jpn="ジュリアーノ・イン・カンパーニア" eng="Giugliano in Campania" de="Giugliano in Campania" fr="Giugliano in Campania" es="Giugliano de Campania" it="Giugliano in Campania" nl="Giugliano in Campania">
+            <province jpn="&#12459;&#12531;&#12497;&#12491;&#12450;&#24030;" eng="Campania" de="Kampanien" fr="Campanie" es="Campania" it="Campania" nl="Campani&#235;"/>
+            <longitude>14.174019</longitude>
+            <latitude>40.947174</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
         <city jpn="&#12497;&#12522;&#12492;&#12525;" eng="Palinuro" de="Palinuro" fr="Palinuro" es="Palinuro" it="Palinuro" nl="Palinuro">
             <province jpn="&#12459;&#12531;&#12497;&#12491;&#12450;&#24030;" eng="Campania" de="Kampanien" fr="Campanie" es="Campania" it="Campania" nl="Campani&#235;"/>
             <longitude>15.2874755859375</longitude>
             <latitude>40.0341796875</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="サレルノ" eng="Salerno" de="Salerno" fr="Salerne" es="Salerno" it="Salerno" nl="Salerno">
+            <province jpn="&#12459;&#12531;&#12497;&#12491;&#12450;&#24030;" eng="Campania" de="Kampanien" fr="Campanie" es="Campania" it="Campania" nl="Campani&#235;"/>
+            <longitude>14.799425</longitude>
+            <latitude>40.655123</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
@@ -12829,7 +13004,14 @@
             <zoom1>4</zoom1>
             <zoom2>3</zoom2>
         </city>
-        <city jpn="&#12501;&#12457;&#12483;&#12472;&#12450;" eng="Foggia" de="Foggia" fr="Foggia" es="Foggia" it="Foggia" nl="Foggia">
+        <city jpn="ブリンディジ" eng="Brindisi" de="Brindisi" fr="Brindisi" es="Bríndisi" it="Brindisi" nl="Brindisi">
+            <province jpn="&#12503;&#12540;&#12522;&#12450;&#24030;" eng="Apulia" de="Apulien" fr="Pouilles" es="Apulia" it="Puglia" nl="Apuli&#235;"/>
+            <longitude>17.953343</longitude>
+            <latitude>40.642558</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="&#12501;&#12457;&#12483;&#12472;&#12450;" eng="Foggia" de="Foggia" fr="Foggia" es="Foggia" it="Foggia" nl="Foggia">
             <province jpn="&#12503;&#12540;&#12522;&#12450;&#24030;" eng="Apulia" de="Apulien" fr="Pouilles" es="Apulia" it="Puglia" nl="Apuli&#235;"/>
             <longitude>15.5401611328125</longitude>
             <latitude>41.4569091796875</latitude>
@@ -12924,6 +13106,13 @@
             <province jpn="&#12471;&#12481;&#12522;&#12450;&#24030;" eng="Sicily" de="Sizilien" fr="Sicile" es="Sicilia" it="Sicilia" nl="Sicili&#235;"/>
             <longitude>15.0677490234375</longitude>
             <latitude>37.5018310546875</latitude>
+            <zoom1>1</zoom1>
+            <zoom2>3</zoom2>
+        </city>
+		<city jpn="メッシーナ" eng="Messina" de="Messina" fr="Messinee" es="Mesina" it="Messina" nl="Messina">
+            <province jpn="&#12471;&#12481;&#12522;&#12450;&#24030;" eng="Sicily" de="Sizilien" fr="Sicile" es="Sicilia" it="Sicilia" nl="Sicili&#235;"/>
+            <longitude>15.560639</longitude>
+            <latitude>38.215441</latitude>
             <zoom1>1</zoom1>
             <zoom2>3</zoom2>
         </city>
