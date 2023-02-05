@@ -17939,14 +17939,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="プルゼニ" eng="Plzeň" de="Pilsen" fr="Pilsen" es="Pilsen" it="Plzeň" nl="Pilsen">
-      <province jpn="プルゼニ州" eng="Plzeň" de="Pilsner Region" fr="Pilsen" es="Pilsen" it="Plzeň" nl="Pilsen" />
+	<city jpn="プルゼニ" eng="Pilsen" de="Pilsen" fr="Pilsen" es="Pilsen" it="Pilsen" nl="Pilsen">
+      <province jpn="プルゼニ州" eng="Pilsen" de="Pilsner Region" fr="Pilsen" es="Pilsen" it="Pilsen" nl="Pilsen" />
       <longitude>13.363017</longitude>
       <latitude>49.733775</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="チェスケー・ブジェヨヴィツェ" eng="České Budějovice" de="Budweis" fr="České Budějovice" es="České Budějovice" it="České Budějovice" nl="České Budějovice">
+	<city jpn="チェスケー・ブジェヨヴィツェ" eng="Ceske Budejovice" de="Budweis" fr="Ceske Budejovice" es="Ceske Budejovice" it="Ceske Budejovice" nl="Ceske Budejovice">
       <province jpn="南ボヘミア州" eng="South Bohemia" de="Südböhmische Region" fr="Bohême-du-Sud" es="Bohemia Meridional" it="Boemia Meridionale" nl="Zuid-Bohemen" />
       <longitude>14.015481</longitude>
       <latitude>50.730035</latitude>
@@ -17958,6 +17958,148 @@
       <longitude>14.005511</longitude>
       <latitude>50.738365</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="エストニア" eng="Estonia" de="Estland" fr="Estonie" es="Estonia" it="Estonia" nl="Estland" />
+    <city jpn="タリン" eng="Tallinn" de="Tallinn" fr="Tallinn" es="Tallin" it="Tallinn" nl="Tallinn">
+      <province jpn="ハリュ" eng="Harju" de="Harju" fr="Harju" es="Harju" it="Harju" nl="Harju" />
+      <longitude>24.730224609375</longitude>
+      <latitude>59.4305419921875</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ナルヴァ" eng="Narva" de="Narva" fr="Narva" es="Narva" it="Narva" nl="Narva">
+      <province jpn="イダ・ビルマ" eng="Ida-Viru" de="Ida-Viru" fr="Ida-Viru" es="Ida-Viru" it="Ida-Viru" nl="Ida-Viru" />
+      <longitude>28.206537</longitude>
+      <latitude>59.382240</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ピャルヌ" eng="Pärnu" de="Pärnu" fr="Pärnu" es="Pärnu" it="Pärnu" nl="Pärnu">
+      <province jpn="ピャルヌ" eng="Pärnu" de="Pärnu" fr="Pärnu" es="Pärnu" it="Pärnu" nl="Pärnu" />
+      <longitude>24.487059</longitude>
+      <latitude>58.378353</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="クレサーレ" eng="Kuressaare" de="Kuressaare" fr="Kuressaare" es="Kuressaare" it="Kuressaare" nl="Kuressaare">
+      <province jpn="サーレ" eng="Saare" de="Saare" fr="Saare" es="Saare" it="Saare" nl="Saare" />
+      <longitude>22.490669</longitude>
+      <latitude>58.233914</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="タルトゥ" eng="Tartu" de="Tartu" fr="Tartumaa" es="Tartu" it="Tartumaa" nl="Tartu">
+      <province jpn="タルトゥ" eng="Tartu" de="Tartu" fr="Tartu" es="Tartu" it="Tartu" nl="Tartu" />
+      <longitude>26.741829</longitude>
+      <latitude>58.367982</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="ハンガリー" eng="Hungary" de="Ungarn" fr="Hongrie" es="Hungría" it="Ungheria" nl="Hongarije" />
+    <city jpn="ブダペスト" eng="Budapest" de="Budapest" fr="Budapest" es="Budapest" it="Budapest" nl="Boedapest">
+      <province jpn="ブダペスト" eng="Budapest" de="Budapest" fr="Budapest" es="Budapest" it="Budapest" nl="Boedapest" />
+      <longitude>19.0777587890625</longitude>
+      <latitude>47.4884033203125</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ペーチ" eng="Pécs" de="Fünfkirchen" fr="Pécs" es="Pécs" it="Pécs" nl="Pécs">
+      <province jpn="バラニャ州" eng="Baranya" de="Baranya" fr="Baranya" es="Baranya" it="Baranya" nl="Baranya" />
+      <longitude>18.226604</longitude>
+      <latitude>46.037711</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ミシュコルツ" eng="Miskolc" de="Mischkolz" fr="Miskolc" es="Miskolc" it="Miskolc" nl="Miskolc">
+      <province jpn="ボルショド・アバウーイ・ゼンプレーン州" eng="Borsod-Abaúj-Zemplén" de="Borsod-Abaúj-Zemplén" fr="Borsod-Abaúj-Zemplén" es="Borsod-Abaúj-Zemplén" it="Borsod-Abaúj-Zemplén" nl="Borsod-Abaúj-Zemplén" />
+      <longitude>20.770265</longitude>
+      <latitude>48.136260</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="セゲド" eng="Szeged" de="Szegedin" fr="Szeged" es="Szeged" it="Szeged" nl="Szeged">
+      <province jpn="チョングラード・チャナード州" eng="Csongrád-Csanád" de="Csongrád-Csanád" fr="Csongrád-Csanád" es="Csongrád-Csanád" it="Csongrád-Csanád" nl="Csongrád-Csanád" />
+      <longitude>20.141146</longitude>
+      <latitude>46.248170</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ジェール" eng="Gyor" de="Raab" fr="Gyor" es="Gyor" it="Gyor" nl="Gyor">
+      <province jpn="ジェール・モション・ショプロン州" eng="Gyor-Moson-Sopron" de="Gyor-Moson-Sopron" fr="Gyor-Moson-Sopron" es="Gyor-Moson-Sopron" it="Gyor-Moson-Sopron" nl="Gyor-Moson-Sopron" />
+      <longitude>17.701539</longitude>
+      <latitude>47.704356</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="デブレツェン" eng="Debrecen" de="Debrezin" fr="Debrecen" es="Debrecen" it="Debrecen" nl="Debrecen">
+      <province jpn="ハイドゥー・ヒバル州" eng="Hajdú-Bihar" de="Hajdú-Bihar" fr="Hajdú-Bihar" es="Hajdú-Bihar" it="Hajdú-Bihar" nl="Hajdú-Bihar" />
+      <longitude>21.648795</longitude>
+      <latitude>47.528535</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ソンバトヘイ" eng="Szombathely" de="Steinamanger" fr="Szombathely" es="Szombathely" it="Szombathely" nl="Szombathely">
+      <province jpn="ヴァシュ州" eng="Vas" de="Vas" fr="Vas" es="Vas" it="Vas" nl="Vas" />
+      <longitude>16.577567</longitude>
+      <latitude>47.237078</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="中国" eng="China" de="China" fr="Chine" es="China" it="Cina" nl="China" />
+    <city jpn="北京" eng="Beijing" de="Peking" fr="Pékin" es="Pekín" it="Pechino" nl="Beijing">
+      <province jpn="北京市" eng="Beijing" de="Peking" fr="Pékin" es="Pekín" it="Pechino" nl="Beijing" />
+      <longitude>116.43310546875</longitude>
+      <latitude>39.913330078125</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="広州" eng="Guangzhou" de="Guangzhou" fr="Canton" es="Cantón" it="Guangzhou" nl="Kanton">
+      <province jpn="広東省" eng="Guangdong" de="Guangdong" fr="Guangdong" es="Guangdong" it="Guangdong" nl="Guangdong" />
+      <longitude>113.0987548828125</longitude>
+      <latitude>23.0987548828125</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="大連" eng="Dalian" de="Dalian" fr="Dalian" es="Dalian" it="Dalian" nl="Dalian">
+      <province jpn="遼寧省" eng="Liaoning" de="Liaoning" fr="Liaoning" es="Liaoning" it="Liaoning" nl="Liaoning" />
+      <longitude>121.3330078125</longitude>
+      <latitude>38.748779296875</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="大連" eng="Dalian" de="Dalian" fr="Dalian" es="Dalian" it="Dalian" nl="Dalian">
+      <province jpn="遼寧省" eng="Liaoning" de="Liaoning" fr="Liaoning" es="Liaoning" it="Liaoning" nl="Liaoning" />
+      <longitude>121.3330078125</longitude>
+      <latitude>38.748779296875</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="桂林" eng="Guilin" de="Guilin" fr="Guilin" es="Guilin" it="Guilin" nl="Guilin">
+      <province jpn="広西チワン族自治区" eng="Guangxi-Zhuangzu" de="Guangxi" fr="Guangxi" es="Guangxi" it="Guangxi" nl="Guangxi" />
+      <longitude>110.1983642578125</longitude>
+      <latitude>25.345458984375</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="上海" eng="Shanghai" de="Schanghai" fr="Shanghai" es="Shanghái" it="Shanghai" nl="Sjanghai">
+      <province jpn="上海市" eng="Shanghai" de="Shanghai" fr="Shanghai" es="Shanghái" it="Shanghai" nl="Sjanghai" />
+      <longitude>121.4703369140625</longitude>
+      <latitude>31.2451171875</latitude>
+      <zoom1>9</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="成都" eng="Chengdu" de="Chengdu" fr="Chengdu" es="Chengdu" it="Chengdu" nl="Chengdu">
+      <province jpn="四川省" eng="Sichuan" de="Sichuan" fr="Sichuan" es="Sichuan" it="Sichuan" nl="Sichuan" />
+      <longitude>104.1119384765625</longitude>
+      <latitude>30.6298828125</latitude>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
@@ -19133,13 +19275,13 @@
       <name jpn="ヌーク" eng="Nuuk" de="Nuuk" fr="Nuuk" es="Nuuk" it="Nuuk" nl="Nuuk" />
     </city>
     <city>
-      <province jpn="ハリュ" eng="Harju" de="Harju" fr="Harjumaa" es="Harju" it="Harjumaa" nl="Harjumaa" />
+      <province jpn="ハリュ" eng="Harju" de="Harju" fr="Harju" es="Harju" it="Harju" nl="Harju" />
       <longitude>24.730224609375</longitude>
       <latitude>59.4305419921875</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
       <country jpn="エストニア" eng="Estonia" de="Estland" fr="Estonie" es="Estonia" it="Estonia" nl="Estland" />
-      <name jpn="タリン" eng="Tallinn" de="Reval" fr="Tallinn" es="Tallin" it="Tallinn" nl="Tallinn" />
+      <name jpn="タリン" eng="Tallinn" de="Tallinn" fr="Tallinn" es="Tallin" it="Tallinn" nl="Tallinn" />
     </city>
     <city>
       <province jpn="南フィンランド州" eng="Southern Finland" de="Südfinnland" fr="Finlande méridionale" es="Finlandia Meridional" it="Finlandia Meridionale" nl="Zuid-Finland" />
@@ -19988,7 +20130,7 @@
       <name jpn="上海" eng="Shanghai" de="Schanghai" fr="Shanghai" es="Shanghái" it="Shanghai" nl="Sjanghai" />
     </city>
     <city>
-      <province jpn="広東省" eng="Guangdong" de="Guangdong" fr="Guangdong" es="Cantón" it="Guangdong" nl="Kanton" />
+      <province jpn="広東省" eng="Guangdong" de="Guangdong" fr="Guangdong" es="Guangdong" it="Guangdong" nl="Guangdong" />
       <longitude>113.0987548828125</longitude>
       <latitude>23.0987548828125</latitude>
       <zoom1>3</zoom1>
