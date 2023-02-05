@@ -18505,6 +18505,285 @@
       <zoom2>3</zoom2>
     </city>
   </country>
+  <country>
+    <name jpn="アフガニスタン" eng="Afghanistan" de="Afghanistan" fr="Afghanistan" es="Afganistán" it="Afghanistan" nl="Afghanistan" />
+    <city jpn="カブール" eng="Kabul" de="Kabul" fr="Kaboul" es="Kabul" it="Kabul" nl="Kaboel">
+	<province jpn="カーブル州" eng="Kabul" de="Kabul" fr="Kaboul" es="Kabul" it="Kabul" nl="Kaboel" />
+      <longitude>69.14794921875</longitude>
+      <latitude>34.5135498046875</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="カザフスタン" eng="Kazakhstan" de="Kasachstan" fr="Kazakhstan" es="Kazajstán" it="Kazakistan" nl="Kazachstan" />
+    <city jpn="ヌルスルタン" eng="Nur-Sultan" de="Nur-Sultan" fr="Noursultan" es="Nur-sultán" it="Nur-Sultan" nl="Nur-Sultan">
+	<province jpn="ヌルスルタン" eng="Nur-Sultan" de="Nur-Sultan" fr="Noursultan" es="Nur-sultán" it="Nur-Sultan" nl="Nur-Sultan" />
+      <longitude>71.466064453125</longitude>
+      <latitude>51.1798095703125</latitude>
+      <zoom1>9</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="キルギス" eng="Kyrgyzstan" de="Kirgisistan" fr="Kirghizistan" es="Kirguistán" it="Kirghizistan" nl="Kirgizische Republiek" />
+    <city jpn="ビシュケク" eng="Bishkek" de="Bischkek" fr="Bishkek" es="Bishkek" it="Bishkek" nl="Bisjkek">
+	<province jpn="チュイ州" eng="Chuy Region" de="Gebiet Tschüi" fr="Province de Tchouï" es="Provincia de Chuy" it="Regione di Chuj" nl="Tsjoej" />
+      <longitude>74.59716796875</longitude>
+      <latitude>42.8631591796875</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="パキスタン" eng="Pakistan" de="Pakistan" fr="Pakistan" es="Pakistán" it="Pakistan" nl="Pakistan" />
+    <city jpn="イスラマバード" eng="Islamabad" de="Islamabad" fr="Islamabad" es="Islamabad" it="Islamabad" nl="Islamabad">
+	<province jpn="イスラーマーバード首都圏" eng="Islamabad Capital Territory" de="Hauptstadtterritorium Islamabad" fr="Territoire fédéral d'Islamabad" es="Territorio Capital de Islamabad" it="Territorio della capitale Islamabad" nl="Hoofdstedelijk Territorium Islamabad" />
+      <longitude>73.1634521484375</longitude>
+      <latitude>33.695068359375</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="タジキスタン" eng="Tajikistan" de="Tadschikistan" fr="Tadjikistan" es="Tayikistán" it="Tagikistan" nl="Tadzjikistan" />
+    <city jpn="ドゥシャンベ" eng="Dushanbe" de="Duschanbe" fr="Douchanbé" es="Dushanbe" it="Dushanbe" nl="Doesjanbe">
+	<province jpn="共和国直轄地" eng="Districts of Republican Subordination" de="Nohijahoi tobei dschumhurij" fr="Nohiyahoi tobei Jumhurii" es="Región bajo subordinación republicana" it="Distretti di Subordinazione Repubblicana" nl="Nohijahoi tobei dzjoemhoeri" />
+      <longitude>68.79638671875</longitude>
+      <latitude>38.5784912109375</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="トルクメニスタン" eng="Turkmenistan" de="Turkmenistan" fr="Turkménistan" es="Turkmenistán" it="Turkmenistan" nl="Turkmenistan" />
+    <city jpn="アシガバット" eng="Ashgabat" de="Aschgabat" fr="Achgabat" es="Ashgabat" it="Ashgabat" nl="Asjchabad">
+	<province jpn="アシガバット" eng="Ashgabat" de="Aschgabat" fr="Achgabat" es="Ashgabat" it="Ashgabat" nl="Asjchabad" />
+      <longitude>58.3758544921875</longitude>
+      <latitude>37.94677734375</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="ウズベキスタン" eng="Uzbekistan" de="Usbekistan" fr="Ouzbékistan" es="Uzbekistán" it="Uzbekistan" nl="Oezbekistan" />
+    <city jpn="タシケント" eng="Tashkent" de="Taschkent" fr="Tachkent" es="Tashkent" it="Taskent" nl="Tasjkent">
+	<province jpn="タシケント" eng="Tashkent" de="Taschkent" fr="Tachkent" es="Tashkent" it="Taskent" nl="Tasjkent" />
+      <longitude>69.2633056640625</longitude>
+      <latitude>41.2646484375</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<country>
+    <name jpn="ウズベキスタン" eng="Uzbekistan" de="Usbekistan" fr="Ouzbékistan" es="Uzbekistán" it="Uzbekistan" nl="Oezbekistan" />
+    <city jpn="タシケント" eng="Tashkent" de="Taschkent" fr="Tachkent" es="Tashkent" it="Taskent" nl="Tasjkent">
+	<province jpn="タシケント" eng="Tashkent" de="Taschkent" fr="Tachkent" es="Tashkent" it="Taskent" nl="Tasjkent" />
+      <longitude>69.2633056640625</longitude>
+      <latitude>41.2646484375</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="アラブ首長国連邦" eng="United Arab Emirates" de="Vereinigte Arabische Emirate" fr="Emirats arabes unis" es="Emiratos Árabes Unidos" it="Emirati Arabi Uniti" nl="Verenigde Arabische Emiraten" />
+    <city jpn="アブダビ" eng="Abu Dhabi" de="Abu Dhabi" fr="Abu Dhabi" es="Abu Dabi" it="Abu Dhabi" nl="Abu Dhabi">
+	<province jpn="アブダビ" eng="Abu Dhabi" de="Abu Dhabi" fr="Abu Dhabi" es="Abu Dabi" it="Abu Dhabi" nl="Abu Dhabi" />
+      <longitude>54.3658447265625</longitude>
+      <latitude>24.466552734375</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ドバイ" eng="Dubai" de="Dubai" fr="Dubaï" es="Dubái" it="Dubai" nl="Dubai">
+	<province jpn="ドバイ" eng="Dubai" de="Dubai" fr="Dubaï" es="Dubái" it="Dubai" nl="Dubai" />
+      <longitude>55.2777099609375</longitude>
+      <latitude>25.2520751953125</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="インド" eng="India" de="Indien" fr="Inde" es="India" it="India" nl="India" />
+    <city jpn="ニューデリー" eng="New Delhi" de="Neu-Delhi" fr="New Delhi" es="Nueva Delhi" it="Nuova Delhi" nl="New Delhi">
+	<province jpn="デリー" eng="Delhi" de="Delhi" fr="Delhi" es="Delhi" it="Delhi" nl="Delhi" />
+     <longitude>77.1954345703125</longitude>
+      <latitude>28.597412109375</latitude>
+      <zoom1>9</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ムンバイ" eng="Mumbai" de="Mumbai" fr="Mumbai" es="Mumbai" it="Mumbai" nl="Mumbai">
+	<province jpn="マハーラーシュトラ州" eng="Maharashtra" de="Maharashtra" fr="Maharashtra" es="Maharashtra" it="Maharashtra" nl="Maharashtra" />
+      <longitude>72.8228759765625</longitude>
+      <latitude>18.973388671875</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="エジプト" eng="Egypt" de="Ägypten" fr="Egypte" es="Egipto" it="Egitto" nl="Egypte" />
+    <city jpn="カイロ" eng="Cairo" de="Kairo" fr="Le Caire" es="El Cairo" it="Il Cairo" nl="Caïro">
+	<province jpn="カイロ" eng="Al Qahirah" de="Kairo" fr="Le Caire" es="El Cairo" it="Il Cairo" nl="Caïro" />
+      <longitude>31.2451171875</longitude>
+      <latitude>30.047607421875</latitude>
+      <zoom1>9</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ルクソール" eng="Luxor" de="Luxor" fr="Louxor" es="Luxor" it="Luxor" nl="Luxor">
+	<province jpn="ルクソール" eng="Luxor" de="Al Uqsur" fr="Al Uqsur" es="Luxor" it="Al Uqsur" nl="Al Uqsur" />
+      <longitude>32.6458740234375</longitude>
+      <latitude>25.6805419921875</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="オマーン" eng="Oman" de="Oman" fr="Oman" es="Omán" it="Oman" nl="Oman" />
+    <city jpn="マスカット" eng="Muscat" de="Maskat" fr="Mascate" es="Mascate" it="Mascate" nl="Masqat">
+	<province jpn="マスカット州" eng="Muscat" de="Maskat" fr="Mascate" es="Mascate" it="Mascate" nl="Masqat" />
+      <longitude>58.590087890625</longitude>
+      <latitude>23.609619140625</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="カタール" eng="Qatar" de="Katar" fr="Qatar" es="Qatar" it="Qatar" nl="Qatar" />
+    <city jpn="ドーハ" eng="Doha" de="Doha" fr="Doha" es="Doha" it="Doha" nl="Doha">
+	<province jpn="ドーハ" eng="Doha" de="Doha" fr="Doha" es="Doha" it="Doha" nl="Doha" />
+      <longitude>51.5313720703125</longitude>
+      <latitude>25.2850341796875</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="クウェート" eng="Kuwait" de="Kuwait" fr="Koweït" es="Kuwait" it="Kuwait" nl="Koeweit" />
+    <city jpn="クウェート" eng="Kuwait City" de="Kuwait-Stadt" fr="Koweït" es="Kuwait" it="Kuwait City" nl="Koeweit">
+	<province jpn="アースィマ県" eng="Al-Asimah" de="al-Asima" fr="Al Asimah" es="Gobernación Capital" it="Governatorato della Capitale" nl="Al-Asimah" />
+      <longitude>47.977294921875</longitude>
+      <latitude>29.366455078125</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="サウジアラビア" eng="Saudi Arabia" de="Saudi-Arabien" fr="Arabie saoudite" es="Arabia Saudí" it="Arabia Saudita" nl="Saoedi-Arabië" />
+    <city jpn="リヤド" eng="Riyadh" de="Riad" fr="Riyad" es="Riad" it="Riyad" nl="Riyad">
+	<province jpn="リヤド州" eng="Ar Riyad" de="Riad" fr="Ar Riyâd" es="Ar Riyad" it="Al Riyad" nl="Ar Riyad" />
+      <longitude>46.768798828125</longitude>
+      <latitude>24.6368408203125</latitude>
+      <zoom1>9</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="メッカ" eng="Mecca" de="Mekka" fr="La Mecque" es="La Meca" it="La Mecca" nl="Mekka">
+	<province jpn="メッカ州" eng="Makkah" de="Mekka" fr="La Mecque" es="Hiyaz" it="Hijàz" nl="Mekka" />
+      <longitude>39.825439453125</longitude>
+      <latitude>21.42333984375</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ジッダ" eng="Jeddah" de="Dschidda" fr="Jiddah" es="Yeddah" it="Gidda" nl="Djedda">
+	 <province jpn="メッカ州" eng="Makkah" de="Mekka" fr="La Mecque" es="Hiyaz" it="Hijàz" nl="Mekka" />
+      <longitude>39.2156982421875</longitude>
+      <latitude>21.5167236328125</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="シリア" eng="Syria" de="Syrien" fr="Syrie" es="Siria" it="Siria" nl="Syrië" />
+    <city jpn="ダマスカス" eng="Damascus" de="Damaskus" fr="Damas" es="Damasco" it="Damasco" nl="Damascus">
+	<province jpn="ダマスカス" eng="Rif Dimashq" de="Damaskus" fr="Rif Dimashq" es="Damasco" it="Damasco" nl="Damascus" />
+      <longitude>36.298828125</longitude>
+      <latitude>33.497314453125</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="バーレーン" eng="Bahrain" de="Bahrain" fr="Bahreïn" es="Bahréin" it="Bahrain" nl="Bahrein" />
+    <city jpn="マナマ" eng="Manama" de="Manama" fr="Manama" es="Manama" it="Manama" nl="Manama">
+	<province jpn="首都県" eng="Capital Governorate" de="Hauptstadtgouvernement" fr="Gouvernorat de la capitale" es="Gobernación Capital" it="Governatorato della Capitale" nl="Hoofdstad" />
+      <longitude>50.5810546875</longitude>
+      <latitude>26.2353515625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="イラン" eng="Iran" de="Iran" fr="Iran" es="Irán" it="Iran" nl="Iran" />
+    <city jpn="テヘラン" eng="Tehran" de="Teheran" fr="Téhéran" es="Teherán" it="Teheran" nl="Teheran">
+	<province jpn="テヘラン" eng="Tehran" de="Teheran" fr="Téhéran" es="Teherán" it="Teheran" nl="Teheran" />
+      <longitude>51.4324951171875</longitude>
+      <latitude>35.66162109375</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="イラク" eng="Iraq" de="Irak" fr="Irak" es="Iraq" it="Iraq" nl="Irak" />
+    <city jpn="バグダッド" eng="Baghdad" de="Bagdad" fr="Bagdad" es="Bagdad" it="Baghdad" nl="Bagdad">
+	<province jpn="バグダード県" eng="Baghdad" de="Bagdad" fr="Bagdad" es="Bagdad" it="Baghdad" nl="Bagdad" />
+      <longitude>44.4122314453125</longitude>
+      <latitude>33.3489990234375</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="イスラエル" eng="Israel" de="Israel" fr="Israël" es="Israel" it="Israele" nl="Israël" />
+    <city jpn="エルサレム" eng="Jerusalem" de="Jerusalem" fr="Jérusalem" es="Jerusalén" it="Gerusalemme" nl="Jeruzalem">
+	<province jpn="エルサレム地区" eng="Jerusalem District" de="Bezirk Jerusalem" fr="District de Jérusalem" es="Distrito de Jerusalén" it="Distretto di Gerusalemme" nl="Jeruzalem" />
+      <longitude>35.211181640625</longitude>
+      <latitude>31.761474609375</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  
+  <country>
+    <name jpn="モルドバ" eng="Moldova" de="Moldawien" fr="Moldavie" es="Moldavia" it="Moldavia" nl="Moldavië" />
+    <city jpn="キシニョフ" eng="Chisinau" de="Chisinau" fr="Chisinau" es="Chisinau" it="Chisinau" nl="Chisinau">
+	<province jpn="キシニョフ" eng="Chisinau" de="Chisinau" fr="Chisinau" es="Chisinau" it="Chisinau" nl="Chisinau" />
+      <longitude>28.828125</longitude>
+      <latitude>46.99951171875</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="ウクライナ" eng="Ukraine" de="Ukraine" fr="Ukraine" es="Ucrania" it="Ucraina" nl="Oekraïne" />
+    <city jpn="キエフ" eng="Kyiv" de="Kiew" fr="Kiev" es="Kiev" it="Kiev" nl="Kiev">
+	<province jpn="キエフ州" eng="Kiev Oblast" de="Oblast Kiew" fr="Oblast de Kiev" es="Óblast de Kiev" it="Oblast di Kiev" nl="Kiev" />
+      <longitude>30.4486083984375</longitude>
+      <latitude>50.3997802734375</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  
+  <country>
+    <name jpn="モロッコ" eng="Morocco" de="Marokko" fr="Maroc" es="Marruecos" it="Marocco" nl="Marokko" />
+    <city jpn="ラバト" eng="Rabat" de="Rabat" fr="Rabat" es="Rabat" it="Rabat" nl="Rabat">
+	<province jpn="ラバト＝サレ＝ケニトラ地方" eng="Rabat-Salé-Kénitra" de="Rabat-Salé-Kénitra" fr="Rabat-Salé-Kénitra" es="Rabat-Salé-Kénitra" it="Rabat-Salé-Kénitra" nl="Rabat-Salé-Kénitra" />
+      <longitude>-6.8499755859375</longitude>
+      <latitude>34.0301513671875</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  
+  <country>
+    <name jpn="キューバ" eng="Cuba" de="Kuba" fr="Cuba" es="Cuba" it="Cuba" nl="Cuba" />
+    <city jpn="ハバナ" eng="Havana" de="Havanna" fr="La Havane" es="La Habana" it="L'Avana" nl="Havana">
+	<province jpn="ハバナ" eng="Havana" de="Havanna" fr="La Havane" es="La Habana" it="L'Avana" nl="Havana" />
+      <longitude>-82.3480224609375</longitude>
+      <latitude>23.148193359375</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  
+  <country>
   <international>
     <city>
       <province jpn="東京都" eng="Tokyo" de="Tokio" fr="Tokyo" es="Tokio" it="Tokyo" nl="Tokio" />
@@ -20582,7 +20861,7 @@
       <latitude>24.466552734375</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アラブ首長国連邦" eng="U.A.E" de="Vereinigte Arabische Emirate" fr="Emirats arabes unis" es="Emiratos Árabes Unidos" it="Emirati Arabi Uniti" nl="Verenigde Arabische Emiraten" />
+      <country jpn="アラブ首長国連邦" eng="United Arab Emirates" de="Vereinigte Arabische Emirate" fr="Emirats arabes unis" es="Emiratos Árabes Unidos" it="Emirati Arabi Uniti" nl="Verenigde Arabische Emiraten" />
       <name jpn="アブダビ" eng="Abu Dhabi" de="Abu Dhabi" fr="Abu Dhabi" es="Abu Dabi" it="Abu Dhabi" nl="Abu Dhabi" />
     </city>
     <city>
@@ -20591,7 +20870,7 @@
       <latitude>25.2520751953125</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アラブ首長国連邦" eng="U.A.E" de="Vereinigte Arabische Emirate" fr="Emirats arabes unis" es="Emiratos Árabes Unidos" it="Emirati Arabi Uniti" nl="Verenigde Arabische Emiraten" />
+      <country jpn="アラブ首長国連邦" eng="United Arab Emirates" de="Vereinigte Arabische Emirate" fr="Emirats arabes unis" es="Emiratos Árabes Unidos" it="Emirati Arabi Uniti" nl="Verenigde Arabische Emiraten" />
       <name jpn="ドバイ" eng="Dubai" de="Dubai" fr="Dubaï" es="Dubái" it="Dubai" nl="Dubai" />
     </city>
     <city>
@@ -20727,7 +21006,7 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
       <country jpn="アフガニスタン" eng="Afghanistan" de="Afghanistan" fr="Afghanistan" es="Afganistán" it="Afghanistan" nl="Afghanistan" />
-      <name jpn="カブール" eng="Kabul" de="Kabul" fr="Kaboul" es="Kabul" it="Kabul" nl="Kaboel" />
+      <name jpn="カーブル" eng="Kabul" de="Kabul" fr="Kaboul" es="Kabul" it="Kabul" nl="Kaboel" />
     </city>
     <city>
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
@@ -21069,7 +21348,7 @@
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
       <country jpn="イラク" eng="Iraq" de="Irak" fr="Irak" es="Iraq" it="Iraq" nl="Irak" />
-      <name jpn="バグダッド" eng="Baghdad" de="Bagdad" fr="Bagdad" es="Bagdad" it="Baghdad" nl="Bagdad" />
+      <name jpn="バグダード" eng="Baghdad" de="Bagdad" fr="Bagdad" es="Bagdad" it="Baghdad" nl="Bagdad" />
     </city>
     <city>
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
@@ -21564,7 +21843,7 @@
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
       <country jpn="ウクライナ" eng="Ukraine" de="Ukraine" fr="Ukraine" es="Ucrania" it="Ucraina" nl="Oekraïne" />
-      <name jpn="キエフ" eng="Kiev" de="Kiew" fr="Kiev" es="Kiev" it="Kiev" nl="Kiev" />
+      <name jpn="キエフ" eng="Kyiv" de="Kiew" fr="Kiev" es="Kiev" it="Kiev" nl="Kiev" />
     </city>
     <city>
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
