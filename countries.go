@@ -153,7 +153,14 @@ func PopulateCountryCodes() {
 	countryCodes["Saint Martin"] = 158
 	countryCodes["Saint Pierre and Miquelon"] = 159
 	countryCodes["China"] = 160
-	countryCodes["U.A.E"] = 168
+	countryCodes["Afghanistan"] = 161
+	countryCodes["Kazakhstan"] = 162
+	countryCodes["Kyrgyzstan"] = 163
+	countryCodes["Pakistan"] = 164
+	countryCodes["Tajikistan"] = 165
+	countryCodes["Turkmenistan"] = 166
+	countryCodes["Uzbekistan"] = 167
+	countryCodes["United Arab Emirates"] = 168
 	countryCodes["India"] = 169
 	countryCodes["Egypt"] = 170
 	countryCodes["Oman"] = 171
@@ -163,4 +170,11 @@ func PopulateCountryCodes() {
 	countryCodes["Syria"] = 175
 	countryCodes["Bahrain"] = 176
 	countryCodes["Jordan"] = 177
+	countryCodes["Iran"] = 178
+	countryCodes["Iraq"] = 179
+	countryCodes["Israel"] = 180
+	countryCodes["Moldova"] = 207
+	countryCodes["Ukraine"] = 208
+	countryCodes["Morocco"] = 219
+	countryCodes["Cuba"] = 223
 }
