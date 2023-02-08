@@ -8,7 +8,7 @@
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="八丈島" eng="Hachijō-jima" de="Hachijō-jima" fr="Hachijō-jima" es="Hachijōjima" it="Hachijō-jima" nl="Hachijojima">
+    <city jpn="八丈島" eng="Hachijojima" de="Hachijojima" fr="Hachijojima" es="Hachijojima" it="Hachijojima" nl="Hachijojima">
       <province jpn="東京都" eng="Tokyo" de="Tokio" fr="Tokyo" es="Tokio" it="Tokyo" nl="Tokio" />
       <longitude>139.7735595703125</longitude>
       <latitude>33.1182861328125</latitude>
@@ -22,14 +22,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="父島" eng="Chichi-jima" de="Chichi-jima" fr="Île Chichi" es="Chichi-jima" it="Chichi-jima" nl="Chichi-jima">
+    <city jpn="父島" eng="Chichijima" de="Chichijima" fr="Chichijima" es="Chichijima" it="Chichijima" nl="Chichijima">
       <province jpn="東京都" eng="Tokyo" de="Tokio" fr="Tokyo" es="Tokio" it="Tokyo" nl="Tokio" />
       <longitude>142.18505859375</longitude>
       <latitude>27.0867919921875</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="三宅島" eng="Miyake Island" de="Miyake Island" fr="Miyake Island" es="Miyake Island" it="Miyake Island" nl="Miyake Island">
+    <city jpn="三宅島" eng="Miyakejima" de="Miyakejima" fr="Miyakejima" es="Miyakejima" it="Miyakejima" nl="Miyakejima">
       <province jpn="東京都" eng="Tokyo" de="Tokio" fr="Tokyo" es="Tokio" it="Tokyo" nl="Tokio" />
       <longitude>139.5208740234375</longitude>
       <latitude>34.1180419921875</latitude>
@@ -106,7 +106,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="釧路市" eng="Kushiro" de="Kushiro-shi" fr="Kushiro" es="Kushiro" it="Kushiro" nl="Kushiro">
+    <city jpn="釧路市" eng="Kushiro" de="Kushiro" fr="Kushiro" es="Kushiro" it="Kushiro" nl="Kushiro">
       <province jpn="北海道" eng="Hokkaido" de="Hokkaido" fr="Hokkaido" es="Hokaido" it="Hokkaido" nl="Hokkaido" />
       <longitude>144.3768310546875</longitude>
       <latitude>42.978515625</latitude>
@@ -295,7 +295,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="新庄市" eng="Shinjō" de="Shinjō" fr="Shinjō" es="Shinjō" it="Shinjō" nl="Shinjo">
+    <city jpn="新庄市" eng="Shinjo" de="Shinjo" fr="Shinjo" es="Shinjo" it="Shinjo" nl="Shinjo">
       <province jpn="山形県" eng="Yamagata" de="Yamagata" fr="Yamagata" es="Yamagata" it="Yamagata" nl="Yamagata" />
       <longitude>140.3118896484375</longitude>
       <latitude>38.7542724609375</latitude>
@@ -351,14 +351,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="大田原市" eng="Otawara" de="Ōtawara" fr="Ōtawara" es="Ōtawara" it="Ōtawara" nl="Otawara">
+    <city jpn="大田原市" eng="Otawara" de="Otawara" fr="Otawara" es="Otawara" it="Otawara" nl="Otawara">
       <province jpn="栃木県" eng="Tochigi" de="Tochigi" fr="Tochigi" es="Tochigi" it="Tochigi" nl="Tochigi" />
       <longitude>140.042724609375</longitude>
       <latitude>36.859130859375</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="日光市" eng="Nikko" de="Nikkō" fr="Nikkō" es="Nikkō" it="Nikkō" nl="Nikko">
+    <city jpn="日光市" eng="Nikko" de="Nikko" fr="Nikko" es="Nikko" it="Nikko" nl="Nikko">
       <province jpn="栃木県" eng="Tochigi" de="Tochigi" fr="Tochigi" es="Tochigi" it="Tochigi" nl="Tochigi" />
       <longitude>139.4989013671875</longitude>
       <latitude>36.7327880859375</latitude>
@@ -407,7 +407,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="銚子市" eng="Choshi" de="Chōshi" fr="Chōshi" es="Chōshi" it="Chōshi" nl="Choshi">
+    <city jpn="銚子市" eng="Choshi" de="Choshi" fr="Choshi" es="Choshi" it="Choshi" nl="Choshi">
       <province jpn="千葉県" eng="Chiba" de="Chiba" fr="Chiba" es="Chiba" it="Chiba" nl="Chiba" />
       <longitude>140.8612060546875</longitude>
       <latitude>35.7330322265625</latitude>
@@ -484,14 +484,14 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="甲府市" eng="Kofu" de="Kōfu" fr="Kōfu" es="Kōfu" it="Kōfu" nl="Kofu">
+    <city jpn="甲府市" eng="Kofu" de="Kofu" fr="Kofu" es="Kofu" it="Kofu" nl="Kofu">
       <province jpn="山梨県" eng="Yamanashi" de="Yamanashi" fr="Yamanashi" es="Yamanashi" it="Yamanashi" nl="Yamanashi" />
       <longitude>138.5540771484375</longitude>
       <latitude>35.66162109375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="河口湖" eng="Lake Kawaguchi" de="Kawaguchi-See" fr="Lac Kawaguchi" es="Lake Kawaguchi" it="Lago Kawaguchi" nl="Kawaguchimeer">
+    <city jpn="河口湖" eng="Fujikawaguchiko" de="Fujikawaguchiko" fr="Fujikawaguchiko" es="Fujikawaguchiko" it="Fujikawaguchiko" nl="Fujikawaguchiko">
       <province jpn="山梨県" eng="Yamanashi" de="Yamanashi" fr="Yamanashi" es="Yamanashi" it="Yamanashi" nl="Yamanashi" />
       <longitude>138.7628173828125</longitude>
       <latitude>35.496826171875</latitude>
@@ -547,7 +547,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="上越市" eng="Joetsu" de="Jōetsu" fr="Jōetsu" es="Jōetsu" it="Jōetsu" nl="Joetsu">
+    <city jpn="上越市" eng="Joetsu" de="Joetsu" fr="Joetsu" es="Joetsu" it="Joetsu" nl="Joetsu">
       <province jpn="新潟県" eng="Niigata" de="Niigata" fr="Niigata" es="Niigata" it="Niigata" nl="Niigata" />
       <longitude>138.2464599609375</longitude>
       <latitude>37.100830078125</latitude>
@@ -673,7 +673,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="大津市" eng="Otsu" de="Ōtsu" fr="Ōtsu" es="Ōtsu" it="Ōtsu" nl="Otsu">
+    <city jpn="大津市" eng="Otsu" de="Otsu" fr="Otsu" es="Otsu" it="Otsu" nl="Otsu">
       <province jpn="滋賀県" eng="Shiga" de="Shiga" fr="Shiga" es="Shiga" it="Shiga" nl="Shiga" />
       <longitude>135.911865234375</longitude>
       <latitude>34.9859619140625</latitude>
@@ -757,7 +757,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="潮岬" eng="Shionomisaki Light" de="Shionomisaki Light" fr="Shionomisaki Light" es="Shionomisaki Light" it="Shionomisaki Light" nl="Shionomisaki Light">
+    <city jpn="潮岬" eng="Shionomisaki" de="Shionomisaki" fr="Shionomisaki" es="Shionomisaki" it="Shionomisaki" nl="Shionomisaki">
       <province jpn="和歌山県" eng="Wakayama" de="Wakayama" fr="Wakayama" es="Wakayama" it="Wakayama" nl="Wakayama" />
       <longitude>135.758056640625</longitude>
       <latitude>33.4478759765625</latitude>
@@ -799,7 +799,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="西郷" eng="Saigocho" de="Saigocho" fr="Saigocho" es="Saigocho" it="Saigocho" nl="Saigocho">
+    <city jpn="隠岐の島町" eng="Okinoshima" de="Okinoshima" fr="Okinoshima" es="Okinoshima" it="Okinoshima" nl="Okinoshima">
       <province jpn="島根県" eng="Shimane" de="Shimane" fr="Shimane" es="Shimane" it="Shimane" nl="Shimane" />
       <longitude>133.3355712890625</longitude>
       <latitude>36.199951171875</latitude>
@@ -827,7 +827,7 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="庄原市" eng="Shobara" de="Shōbara" fr="Shōbara" es="Shōbara" it="Shōbara" nl="Shobara">
+    <city jpn="庄原市" eng="Shobara" de="Shobara" fr="Shobara" es="Shobara" it="Shobara" nl="Shobara">
       <province jpn="広島県" eng="Hiroshima" de="Hiroshima" fr="Hiroshima" es="Hiroshima" it="Hiroshima" nl="Hiroshima" />
       <longitude>133.0279541015625</longitude>
       <latitude>34.8541259765625</latitude>
@@ -932,7 +932,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="高知市" eng="Kochi" de="Kōchi" fr="Kōchi" es="Kōchi" it="Kōchi" nl="Kochi">
+    <city jpn="高知市" eng="Kochi" de="Kochi" fr="Kochi" es="Kochi" it="Kochi" nl="Kochi">
       <province jpn="高知県" eng="Kochi" de="Kochi" fr="Kochi" es="Kochi" it="Kochi" nl="Kochi" />
       <longitude>133.5498046875</longitude>
       <latitude>33.563232421875</latitude>
@@ -1009,14 +1009,14 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="厳原" eng="Izuharamachi Miyadani" de="Izuharamachi Miyadani" fr="Izuharamachi Miyadani" es="Izuharamachi Miyadani" it="Izuharamachi Miyadani" nl="Izuharamachi Miyadani">
+    <city jpn="厳原町" eng="Izuhara" de="Izuhara" fr="Izuhara" es="Izuhara" it="Izuhara" nl="Izuhara">
       <province jpn="長崎県" eng="Nagasaki" de="Nagasaki" fr="Nagasaki" es="Nagasaki" it="Nagasaki" nl="Nagasaki" />
       <longitude>129.2926025390625</longitude>
       <latitude>34.1949462890625</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="福江" eng="Fukue Island" de="Fukue Island" fr="Fukue Island" es="Fukue Island" it="Fukue Island" nl="Fukue Island">
+    <city jpn="五島市" eng="Goto" de="Goto" fr="Goto" es="Goto" it="Goto" nl="Goto">
       <province jpn="長崎県" eng="Nagasaki" de="Nagasaki" fr="Nagasaki" es="Nagasaki" it="Nagasaki" nl="Nagasaki" />
       <longitude>128.82568359375</longitude>
       <latitude>32.6898193359375</latitude>
@@ -1030,7 +1030,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="大村市" eng="Ōmura" de="Ōmura" fr="Ōmura" es="Ōmura" it="Ōmura" nl="Ōmura">
+    <city jpn="大村市" eng="Omura" de="Omura" fr="Omura" es="Omura" it="Omura" nl="Omura">
       <province jpn="長崎県" eng="Nagasaki" de="Nagasaki" fr="Nagasaki" es="Nagasaki" it="Nagasaki" nl="Nagasaki" />
       <longitude>129.913330078125</longitude>
       <latitude>32.9095458984375</latitude>
@@ -1051,7 +1051,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="牛深" eng="Ushibukamachi" de="Ushibukamachi" fr="Ushibukamachi" es="Ushibukamachi" it="Ushibukamachi" nl="Ushibukamachi">
+    <city jpn="天草市" eng="Amakusa" de="Amakusa" fr="Amakusa" es="Amakusa" it="Amakusa" nl="Amakusa">
       <province jpn="熊本県" eng="Kumamoto" de="Kumamoto" fr="Kumamoto" es="Kumamoto" it="Kumamoto" nl="Kumamoto" />
       <longitude>130.023193359375</longitude>
       <latitude>32.18994140625</latitude>
@@ -1072,7 +1072,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="大分市" eng="Oita" de="Ōita" fr="Ōita" es="Ōita" it="Ōita" nl="Oita">
+    <city jpn="大分市" eng="Oita" de="Oita" fr="Oita" es="Oita" it="Oita" nl="Oita">
       <province jpn="大分県" eng="Oita" de="Oita" fr="Oita" es="Oita" it="Oita" nl="Oita" />
       <longitude>131.6162109375</longitude>
       <latitude>33.2281494140625</latitude>
@@ -1114,7 +1114,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="都城市" eng="Miyakonojo" de="Miyakonojō" fr="Miyakonojō" es="Miyakonojō" it="Miyakonojō" nl="Miyakonojo">
+    <city jpn="都城市" eng="Miyakonojo" de="Miyakonojo" fr="Miyakonojo" es="Miyakonojo" it="Miyakonojo" nl="Miyakonojo">
       <province jpn="宮崎県" eng="Miyazaki" de="Miyazaki" fr="Miyazaki" es="Miyazaki" it="Miyazaki" nl="Miyazaki" />
       <longitude>131.0833740234375</longitude>
       <latitude>31.7230224609375</latitude>
@@ -1128,7 +1128,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="油津" eng="Aburatsu" de="Aburatsu" fr="Aburatsu" es="Aburatsu" it="Aburatsu" nl="Aburatsu">
+    <city jpn="日南市" eng="Nichinan" de="Nichinan" fr="Nichinan" es="Nichinan" it="Nichinan" nl="Nichinan">
       <province jpn="宮崎県" eng="Miyazaki" de="Miyazaki" fr="Miyazaki" es="Miyazaki" it="Miyazaki" nl="Miyazaki" />
       <longitude>131.407470703125</longitude>
       <latitude>31.57470703125</latitude>
@@ -1142,7 +1142,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="名瀬" eng="Amami Ōshima" de="Amami-Ōshima" fr="Amami-Ōshima" es="Amami Oshima" it="Amami Ōshima" nl="Amami Ōshima">
+    <city jpn="奄美市" eng="Amami" de="Amami" fr="Amami" es="Amami" it="Amami" nl="Amami">
       <province jpn="鹿児島県" eng="Kagoshima" de="Kagoshima" fr="Kagoshima" es="Kagoshima" it="Kagoshima" nl="Kagoshima" />
       <longitude>129.495849609375</longitude>
       <latitude>28.3721923828125</latitude>
@@ -1163,7 +1163,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="溝辺" eng="Mizobechofumoto" de="Mizobechofumoto" fr="Mizobechofumoto" es="Mizobechofumoto" it="Mizobechofumoto" nl="Mizobechofumoto">
+    <city jpn="霧島市" eng="Kirishima" de="Kirishima" fr="Kirishima" es="Kirishima" it="Kirishima" nl="Kirishima">
       <province jpn="鹿児島県" eng="Kagoshima" de="Kagoshima" fr="Kagoshima" es="Kagoshima" it="Kagoshima" nl="Kagoshima" />
       <longitude>130.7208251953125</longitude>
       <latitude>31.7999267578125</latitude>
@@ -1191,21 +1191,21 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="喜界島" eng="Kikaijima Island" de="Kikaijima Island" fr="Kikaigashima" es="Isla Kikai" it="Kikaijima Island" nl="Kikaijima Island">
+    <city jpn="喜界島" eng="Kikaijima" de="Kikaijima" fr="Kikaijima" es="Kikaijima" it="Kikaijima" nl="Kikaijima">
       <province jpn="鹿児島県" eng="Kagoshima" de="Kagoshima" fr="Kagoshima" es="Kagoshima" it="Kagoshima" nl="Kagoshima" />
       <longitude>129.9298095703125</longitude>
       <latitude>28.3172607421875</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="沖永良部" eng="Okinoerabu Island" de="Okinoerabu Island" fr="Okino-erabu-jima" es="Okinoerabujima" it="Okinoerabujima" nl="Okinoerabu Island">
+    <city jpn="沖永良部" eng="Okinoerabu" de="Okinoerabu" fr="Okinoerabu" es="Okinoerabu" it="Okinoerabu" nl="Okinoerabu">
       <province jpn="鹿児島県" eng="Kagoshima" de="Kagoshima" fr="Kagoshima" es="Kagoshima" it="Kagoshima" nl="Kagoshima" />
       <longitude>128.704833984375</longitude>
       <latitude>27.4273681640625</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="与論島" eng="Yoron Island" de="Yoron Island" fr="Yoron Island" es="Yoron Island" it="Yoron Island" nl="Yoron Island">
+    <city jpn="与論島" eng="Yoronjima" de="Yoronjima" fr="Yoronjima" es="Yoronjima" it="Yoronjima" nl="Yoronjima">
       <province jpn="鹿児島県" eng="Kagoshima" de="Kagoshima" fr="Kagoshima" es="Kagoshima" it="Kagoshima" nl="Kagoshima" />
       <longitude>128.4027099609375</longitude>
       <latitude>27.037353515625</latitude>
@@ -1233,7 +1233,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="南大東島" eng="Minamidaitōjima" de="Minami-daitō" fr="Minamidaitō-jima" es="Minami Daitō" it="Minami Daitō" nl="Minamidaitōjima">
+    <city jpn="南大東島" eng="Minamidaitojima" de="Minamidaitojima" fr="Minamidaitojima" es="Minamidaitojima" it="Minamidaitojima" nl="Minamidaitojima">
       <province jpn="沖縄県" eng="Okinawa" de="Okinawa" fr="Okinawa" es="Okinawa" it="Okinawa" nl="Okinawa" />
       <longitude>131.231689453125</longitude>
       <latitude>25.8233642578125</latitude>
@@ -1247,21 +1247,21 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="石垣島" eng="Ishigaki" de="Ishigaki-jima" fr="Ishigaki-jima" es="Isla Ishigaki" it="Ishigaki" nl="Ishigaki">
+    <city jpn="石垣島" eng="Ishigakijima" de="Ishigakijima" fr="Ishigakijima" es="Ishigakijima" it="Ishigakijima" nl="Ishigakijima">
       <province jpn="沖縄県" eng="Okinawa" de="Okinawa" fr="Okinawa" es="Okinawa" it="Okinawa" nl="Okinawa" />
       <longitude>124.1619873046875</longitude>
       <latitude>24.3292236328125</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="与那国島" eng="Yonaguni" de="Yonaguni" fr="Yonaguni-jima" es="Yonaguni" it="Yonaguni" nl="Yonaguni">
+    <city jpn="与那国島" eng="Yonaguni" de="Yonaguni" fr="Yonaguni" es="Yonaguni" it="Yonaguni" nl="Yonaguni">
       <province jpn="沖縄県" eng="Okinawa" de="Okinawa" fr="Okinawa" es="Okinawa" it="Okinawa" nl="Okinawa" />
       <longitude>123.0084228515625</longitude>
       <latitude>24.4610595703125</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="西表島" eng="Iriomote-jima" de="Iriomote" fr="Iriomote-jima" es="Isla Iriomote" it="Iriomote" nl="Iriomote-jima">
+    <city jpn="西表島" eng="Iriomotejima" de="Iriomotejima" fr="Iriomotejima" es="Iriomotejima" it="Iriomotejima" nl="Iriomotejima">
       <province jpn="沖縄県" eng="Okinawa" de="Okinawa" fr="Okinawa" es="Okinawa" it="Okinawa" nl="Okinawa" />
       <longitude>123.7664794921875</longitude>
       <latitude>24.422607421875</latitude>
@@ -15016,7 +15016,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="エル・ブルゴ・デ・オスマ" eng="Burgo de Osma-Ciudad de Osma" de="El Burgo de Osma-Ciudad de Osma" fr="El Burgo de Osma" es="El Burgo de Osma" it="Burgo de Osma-Ciudad de Osma" nl="Burgo de Osma-Ciudad de Osma">
+    <city jpn="エル・ブルゴ・デ・オスマ" eng="Burgo de Osma-Ciudad de Osma" de="El Burgo de Osma-Ciudad de Osma" fr="El Burgo de Osma-Ciudad de Osma" es="El Burgo de Osma-Ciudad de Osma" it="Burgo de Osma-Ciudad de Osma" nl="Burgo de Osma-Ciudad de Osma">
       <province jpn="カスティーリャ・レオン" eng="Castile and León" de="Kastilien-León" fr="Castille-et-León" es="Castilla y León" it="Castiglia e Leon" nl="Kastilië en León" />
       <longitude>-3.065185546875</longitude>
       <latitude>41.583251953125</latitude>
@@ -16342,325 +16342,535 @@
   <country>
     <name jpn="イギリス" eng="United Kingdom" de="Großbritannien" fr="Royaume-Uni" es="Reino Unido" it="Regno Unito" nl="Verenigd Koninkrijk" />
     <city jpn="ロンドン" eng="London" de="London" fr="Londres" es="Londres" it="Londra" nl="Londen">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
+      <province jpn="イングランド グレーター・ロンドン" eng="England: Greater London" de="England: Greater London" fr="Angleterre: Grand Londres" es="Inglaterra: Gran Londres" it="Inghilterra: Grande Londra" nl="Engeland: Groot-Londen" />
       <longitude>-0.1153564453125</longitude>
       <latitude>51.50390625</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="レディング" eng="Reading" de="Reading" fr="Reading" es="Reading" it="Reading" nl="Reading">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-0.9722900390625</longitude>
-      <latitude>51.4544677734375</latitude>
-      <zoom1>1</zoom1>
+    <city jpn="クロイドン" eng="Croydon" de="Croydon" fr="Croydon" es="Croydon" it="Croydon" nl="Croydon">
+      <province jpn="イングランド グレーター・ロンドン" eng="England: Greater London" de="England: Greater London" fr="Angleterre: Grand Londres" es="Inglaterra: Gran Londres" it="Inghilterra: Grande Londra" nl="Engeland: Groot-Londen" />
+      <longitude>-0.096146</longitude>
+      <latitude>51.375939</latitude>
+      <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ブリストル" eng="Bristol" de="Bristol" fr="Bristol" es="Bristol" it="Bristol" nl="Bristol">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-2.5872802734375</longitude>
-      <latitude>51.4544677734375</latitude>
-      <zoom1>2</zoom1>
+    <city jpn="リバプール" eng="Liverpool" de="Liverpool" fr="Liverpool" es="Liverpool" it="Liverpool" nl="Liverpool">
+      <province jpn="イングランド ノース・ウェスト" eng="England: North West" de="England: North West" fr="Angleterre: Nord-Ouest" es="Inglaterra: Noroeste" it="Inghilterra: Nord Ovest" nl="Engeland: North West" />
+      <longitude>-2.977294921875</longitude>
+      <latitude>53.4100341796875</latitude>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ケンブリッジ" eng="Cambridge" de="Cambridge" fr="Cambridge" es="Cambridge" it="Cambridge" nl="Cambridge">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>0.098876953125</longitude>
-      <latitude>52.20703125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="セント・アイヴス" eng="Saint Ives" de="St Ives" fr="Saint Ives" es="St Ives" it="Saint Ives" nl="Sint Ives">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-5.4876708984375</longitude>
-      <latitude>50.2020263671875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="カーライル" eng="Carlisle" de="Carlisle" fr="Carlisle" es="Carlisle" it="Carlisle" nl="Carlisle">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-2.933349609375</longitude>
-      <latitude>54.8822021484375</latitude>
-      <zoom1>1</zoom1>
+    <city jpn="オールストン" eng="Alston" de="Alston" fr="Alston" es="Alston" it="Alston" nl="Alston">
+      <province jpn="イングランド ノース・ウェスト" eng="England: North West" de="England: North West" fr="Angleterre: Nord-Ouest" es="Inglaterra: Noroeste" it="Inghilterra: Nord Ovest" nl="Engeland: North West" />
+      <longitude>-2.4334716796875</longitude>
+      <latitude>54.8052978515625</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="バロー＝イン＝ファーネス" eng="Barrow-in-Furness" de="Barrow-in-Furness" fr="Barrow-in-Furness" es="Barrow-in-Furness" it="Barrow-in-Furness" nl="Barrow-in-Furness">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
+      <province jpn="イングランド ノース・ウェスト" eng="England: North West" de="England: North West" fr="Angleterre: Nord-Ouest" es="Inglaterra: Noroeste" it="Inghilterra: Nord Ovest" nl="Engeland: North West" />
       <longitude>-3.218994140625</longitude>
       <latitude>54.11865234375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="オールストン" eng="Alston" de="Alston" fr="Alston" es="Alston" it="Alston" nl="Alston">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-2.4334716796875</longitude>
-      <latitude>54.8052978515625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="カークビー・ステファン" eng="Kirkby Stephen" de="Kirkby Stephen" fr="Kirkby Stephen" es="Kirkby Stephen" it="Kirkby Stephen" nl="Kirkby Stephen">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-2.35107421875</longitude>
-      <latitude>54.4647216796875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ケズィック" eng="Keswick" de="Keswick" fr="Keswick" es="Keswick" it="Keswick" nl="Keswick">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-3.1365966796875</longitude>
-      <latitude>54.591064453125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ケンダル" eng="Kendal" de="Kendal" fr="Kendal" es="Kendal" it="Kendal" nl="Kendal">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-2.7410888671875</longitude>
-      <latitude>54.3218994140625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="エクセター" eng="Exeter" de="Exeter" fr="Exeter" es="Exeter" it="Exeter" nl="Exeter">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-3.5211181640625</longitude>
-      <latitude>50.7183837890625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ボーンマス" eng="Bournemouth" de="Bournemouth" fr="Bournemouth" es="Bournemouth" it="Bournemouth" nl="Bournemouth">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-1.8731689453125</longitude>
-      <latitude>50.7183837890625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ダラム" eng="Durham" de="Durham" fr="Durham" es="Durham" it="Durham" nl="Durham">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-1.571044921875</longitude>
-      <latitude>54.7723388671875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="キングストン・アポン・ハル" eng="Kingston upon Hull" de="Kingston Upon Hull" fr="Hull" es="Kingston Upon Hull" it="Hull" nl="Kingston upon Hull">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-0.3680419921875</longitude>
-      <latitude>53.7506103515625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ブライトン" eng="Brighton" de="Brighton" fr="Brighton" es="Brighton" it="Brighton" nl="Brighton">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-0.1318359375</longitude>
-      <latitude>50.8282470703125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="チェルムスフォード" eng="Chelmsford" de="Chelmsford" fr="Chelmsford" es="Chelmsford" it="Chelmsford" nl="Chelmsford">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>0.4669189453125</longitude>
-      <latitude>51.7291259765625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="グロスター" eng="Gloucester" de="Gloucester" fr="Gloucester" es="Gloucester" it="Gloucester" nl="Gloucester">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-2.2357177734375</longitude>
-      <latitude>51.85546875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="マンチェスター" eng="Manchester" de="Manchester" fr="Manchester" es="Mánchester" it="Manchester" nl="Manchester">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-2.2576904296875</longitude>
-      <latitude>53.4869384765625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="サウサンプトン" eng="Southampton" de="Southampton" fr="Southampton" es="Southampton" it="Southampton" nl="Southampton">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-1.40625</longitude>
-      <latitude>50.9051513671875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ウスター" eng="Worcester" de="Worcester" fr="Worcester" es="Worcester" it="Worcester" nl="Worcester">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-2.21923828125</longitude>
-      <latitude>52.18505859375</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="セント・オールバンズ" eng="St Albans" de="Saint Albans" fr="Saint Albans" es="Saint Albans" it="Saint Albans" nl="Saint Albans">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-0.32958984375</longitude>
-      <latitude>51.7510986328125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ジリンガム" eng="Gillingham" de="Gillingham" fr="Gillingham" es="Gillingham" it="Gillingham" nl="Gillingham">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>0.54931640625</longitude>
-      <latitude>51.383056640625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="アシュフォード" eng="Ashford" de="Ashford" fr="Ashford" es="Ashford" it="Ashford" nl="Ashford">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>0.867919921875</longitude>
-      <latitude>51.1468505859375</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="ブラックプール" eng="Blackpool" de="Blackpool" fr="Blackpool" es="Blackpool" it="Blackpool" nl="Blackpool">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
+      <province jpn="イングランド ノース・ウェスト" eng="England: North West" de="England: North West" fr="Angleterre: Nord-Ouest" es="Inglaterra: Noroeste" it="Inghilterra: Nord Ovest" nl="Engeland: North West" />
       <longitude>-3.0487060546875</longitude>
       <latitude>53.8055419921875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="レスター" eng="Leicester" de="Leicester" fr="Leicester" es="Leicester" it="Leicester" nl="Leicester">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-1.1370849609375</longitude>
-      <latitude>52.635498046875</latitude>
+    <city jpn="カーライル" eng="Carlisle" de="Carlisle" fr="Carlisle" es="Carlisle" it="Carlisle" nl="Carlisle">
+      <province jpn="イングランド ノース・ウェスト" eng="England: North West" de="England: North West" fr="Angleterre: Nord-Ouest" es="Inglaterra: Noroeste" it="Inghilterra: Nord Ovest" nl="Engeland: North West" />
+      <longitude>-2.933349609375</longitude>
+      <latitude>54.8822021484375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="リンカン" eng="Lincoln" de="Lincoln" fr="Lincoln" es="Lincoln" it="Lincoln" nl="Lincoln">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-0.538330078125</longitude>
-      <latitude>53.228759765625</latitude>
+    <city jpn="チェスター" eng="Chester" de="Chester" fr="Chester" es="Chester" it="Chester" nl="Chester">
+      <province jpn="イングランド ノース・ウェスト" eng="England: North West" de="England: North West" fr="Angleterre: Nord-Ouest" es="Inglaterra: Noroeste" it="Inghilterra: Nord Ovest" nl="Engeland: North West" />
+      <longitude>-2.898803</longitude>
+      <latitude>53.21164</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ケンダル" eng="Kendal" de="Kendal" fr="Kendal" es="Kendal" it="Kendal" nl="Kendal">
+      <province jpn="イングランド ノース・ウェスト" eng="England: North West" de="England: North West" fr="Angleterre: Nord-Ouest" es="Inglaterra: Noroeste" it="Inghilterra: Nord Ovest" nl="Engeland: North West" />
+      <longitude>-2.7410888671875</longitude>
+      <latitude>54.3218994140625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="リバプール" eng="Liverpool" de="Liverpool" fr="Liverpool" es="Liverpool" it="Liverpool" nl="Liverpool">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-2.977294921875</longitude>
-      <latitude>53.4100341796875</latitude>
-      <zoom1>2</zoom1>
+    <city jpn="ケズィック" eng="Keswick" de="Keswick" fr="Keswick" es="Keswick" it="Keswick" nl="Keswick">
+      <province jpn="イングランド ノース・ウェスト" eng="England: North West" de="England: North West" fr="Angleterre: Nord-Ouest" es="Inglaterra: Noroeste" it="Inghilterra: Nord Ovest" nl="Engeland: North West" />
+      <longitude>-3.1365966796875</longitude>
+      <latitude>54.591064453125</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ノリッジ" eng="Norwich" de="Norwich" fr="Norwich" es="Norwich" it="Norwich" nl="Norwich">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>1.2908935546875</longitude>
-      <latitude>52.62451171875</latitude>
-      <zoom1>2</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ミドルズブラ" eng="Middlesbrough" de="Middlesbrough" fr="Middlesbrough" es="Middlesbrough" it="Middlesbrough" nl="Middlesbrough">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-1.23046875</longitude>
-      <latitude>54.5745849609375</latitude>
+    <city jpn="カークビー・ステファン" eng="Kirkby Stephen" de="Kirkby Stephen" fr="Kirkby Stephen" es="Kirkby Stephen" it="Kirkby Stephen" nl="Kirkby Stephen">
+      <province jpn="イングランド ノース・ウェスト" eng="England: North West" de="England: North West" fr="Angleterre: Nord-Ouest" es="Inglaterra: Noroeste" it="Inghilterra: Nord Ovest" nl="Engeland: North West" />
+      <longitude>-2.35107421875</longitude>
+      <latitude>54.4647216796875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ヨーク" eng="York" de="York" fr="York" es="York" it="York" nl="York">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-1.0821533203125</longitude>
-      <latitude>53.953857421875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ノーザンプトン" eng="Northampton" de="Northampton" fr="Northampton" es="Northampton" it="Northampton" nl="Northampton">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-0.8953857421875</longitude>
-      <latitude>52.2344970703125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ヘクサム" eng="Hexham" de="Hexham" fr="Hexham" es="Hexham" it="Hexham" nl="Hexham">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-2.1038818359375</longitude>
-      <latitude>54.964599609375</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ノッティンガム" eng="Nottingham" de="Nottingham" fr="Nottingham" es="Nottingham" it="Nottingham" nl="Nottingham">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-1.1480712890625</longitude>
-      <latitude>52.9541015625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="オックスフォード" eng="Oxford" de="Oxford" fr="Oxford" es="Oxford" it="Oxford" nl="Oxford">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-1.25244140625</longitude>
-      <latitude>51.7510986328125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="シュルーズベリー" eng="Shrewsbury" de="Shrewsbury" fr="Shrewsbury" es="Shrewsbury" it="Shrewsbury" nl="Shrewsbury">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-2.757568359375</longitude>
-      <latitude>52.7069091796875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="トーントン" eng="Taunton" de="Taunton" fr="Taunton" es="Taunton" it="Taunton" nl="Taunton">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-3.109130859375</longitude>
-      <latitude>51.009521484375</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="シェフィールド" eng="Sheffield" de="Sheffield" fr="Sheffield" es="Sheffield" it="Sheffield" nl="Sheffield">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-1.461181640625</longitude>
-      <latitude>53.3770751953125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ストーク・オン・トレント" eng="Stoke-on-Trent" de="Stoke-on-Trent" fr="Stoke-on-Trent" es="Stoke-on-Trent" it="Stoke-on-Trent" nl="Stoke-on-Trent">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-2.2027587890625</longitude>
-      <latitude>53.0145263671875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="イプスウィッチ" eng="Ipswich" de="Ipswich" fr="Ipswich" es="Ipswich" it="Ipswich" nl="Ipswich">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>1.1480712890625</longitude>
-      <latitude>52.05322265625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="レザーヘッド" eng="Leatherhead" de="Leatherhead" fr="Leatherhead" es="Leatherhead" it="Leatherhead" nl="Leatherhead">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-0.3240966796875</longitude>
-      <latitude>51.2896728515625</latitude>
+    <city jpn="マンチェスター" eng="Manchester" de="Manchester" fr="Manchester" es="Mánchester" it="Manchester" nl="Manchester">
+      <province jpn="イングランド ノース・ウェスト" eng="England: North West" de="England: North West" fr="Angleterre: Nord-Ouest" es="Inglaterra: Noroeste" it="Inghilterra: Nord Ovest" nl="Engeland: North West" />
+      <longitude>-2.2576904296875</longitude>
+      <latitude>53.4869384765625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ニューカッスル・アポン・タイン" eng="Newcastle upon Tyne" de="Newcastle upon Tyne" fr="Newcastle upon Tyne" es="Newcastle upon Tyne" it="Newcastle upon Tyne" nl="Newcastle upon Tyne">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
+      <province jpn="イングランド ノース・イースト" eng="England: North East" de="England: North East" fr="Angleterre: Nord-Est" es="Inglaterra: Nordeste" it="Inghilterra: Nord Est" nl="Engeland: North East" />
       <longitude>-1.6094970703125</longitude>
       <latitude>54.9755859375</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="バーミンガム" eng="Birmingham" de="Birmingham" fr="Birmingham" es="Birmingham" it="Birmingham" nl="Birmingham">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-1.900634765625</longitude>
-      <latitude>52.4761962890625</latitude>
-      <zoom1>4</zoom1>
+    <city jpn="ダラム" eng="Durham" de="Durham" fr="Durham" es="Durham" it="Durham" nl="Durham">
+      <province jpn="イングランド ノース・イースト" eng="England: North East" de="England: North East" fr="Angleterre: Nord-Est" es="Inglaterra: Nordeste" it="Inghilterra: Nord Est" nl="Engeland: North East" />
+      <longitude>-1.571044921875</longitude>
+      <latitude>54.7723388671875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ヘクサム" eng="Hexham" de="Hexham" fr="Hexham" es="Hexham" it="Hexham" nl="Hexham">
+      <province jpn="イングランド ノース・イースト" eng="England: North East" de="England: North East" fr="Angleterre: Nord-Est" es="Inglaterra: Nordeste" it="Inghilterra: Nord Est" nl="Engeland: North East" />
+      <longitude>-2.1038818359375</longitude>
+      <latitude>54.964599609375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ミドルズブラ" eng="Middlesbrough" de="Middlesbrough" fr="Middlesbrough" es="Middlesbrough" it="Middlesbrough" nl="Middlesbrough">
+      <province jpn="イングランド ノース・イースト" eng="England: North East" de="England: North East" fr="Angleterre: Nord-Est" es="Inglaterra: Nordeste" it="Inghilterra: Nord Est" nl="Engeland: North East" />
+      <longitude>-1.23046875</longitude>
+      <latitude>54.5745849609375</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="リーズ" eng="Leeds" de="Leeds" fr="Leeds" es="Leeds" it="Leeds" nl="Leeds">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
+      <province jpn="イングランド ヨークシャー・アンド・ザ・ハンバー" eng="England: Yorkshire and the Humber" de="England: Yorkshire and the Humber" fr="Angleterre: Yorkshire-et-Humber" es="Inglaterra: Yorkshire y Humber" it="Inghilterra: Yorkshire e Humber" nl="Engeland: Yorkshire and the Humber" />
       <longitude>-1.5380859375</longitude>
       <latitude>53.7945556640625</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="キングストン・アポン・ハル" eng="Kingston upon Hull" de="Kingston Upon Hull" fr="Hull" es="Kingston Upon Hull" it="Hull" nl="Kingston upon Hull">
+      <province jpn="イングランド ヨークシャー・アンド・ザ・ハンバー" eng="England: Yorkshire and the Humber" de="England: Yorkshire and the Humber" fr="Angleterre: Yorkshire-et-Humber" es="Inglaterra: Yorkshire y Humber" it="Inghilterra: Yorkshire e Humber" nl="Engeland: Yorkshire and the Humber" />
+      <longitude>-0.3680419921875</longitude>
+      <latitude>53.7506103515625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ブリドリントン" eng="Bridlington" de="Bridlington" fr="Bridlington" es="Bridlington" it="Bridlington" nl="Bridlington">
+      <province jpn="イングランド ヨークシャー・アンド・ザ・ハンバー" eng="England: Yorkshire and the Humber" de="England: Yorkshire and the Humber" fr="Angleterre: Yorkshire-et-Humber" es="Inglaterra: Yorkshire y Humber" it="Inghilterra: Yorkshire e Humber" nl="Engeland: Yorkshire and the Humber" />
+      <longitude>-0.19656</longitude>
+      <latitude>54.089029</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ドンカスター" eng="Doncaster" de="Doncaster" fr="Doncaster" es="Doncaster" it="Doncaster" nl="Doncaster">
+      <province jpn="イングランド ヨークシャー・アンド・ザ・ハンバー" eng="England: Yorkshire and the Humber" de="England: Yorkshire and the Humber" fr="Angleterre: Yorkshire-et-Humber" es="Inglaterra: Yorkshire y Humber" it="Inghilterra: Yorkshire e Humber" nl="Engeland: Yorkshire and the Humber" />
+      <longitude>-1.057572</longitude>
+      <latitude>53.494129</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ドンカスター" eng="Northallerton" de="Northallerton" fr="Northallerton" es="Northallerton" it="Northallerton" nl="Northallerton">
+      <province jpn="イングランド ヨークシャー・アンド・ザ・ハンバー" eng="England: Yorkshire and the Humber" de="England: Yorkshire and the Humber" fr="Angleterre: Yorkshire-et-Humber" es="Inglaterra: Yorkshire y Humber" it="Inghilterra: Yorkshire e Humber" nl="Engeland: Yorkshire and the Humber" />
+      <longitude>-1.430542</longitude>
+      <latitude>54.334333</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="スカーブラ" eng="Scarborough" de="Scarborough" fr="Scarborough" es="Scarborough" it="Scarborough" nl="Scarborough">
+      <province jpn="イングランド ヨークシャー・アンド・ザ・ハンバー" eng="England: Yorkshire and the Humber" de="England: Yorkshire and the Humber" fr="Angleterre: Yorkshire-et-Humber" es="Inglaterra: Yorkshire y Humber" it="Inghilterra: Yorkshire e Humber" nl="Engeland: Yorkshire and the Humber" />
+      <longitude>-0.38624</longitude>
+      <latitude>54.285738</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="スカンソープ" eng="Scunthorpe" de="Scunthorpe" fr="Scunthorpe" es="Scunthorpe" it="Scunthorpe" nl="Scunthorpe">
+      <province jpn="イングランド ヨークシャー・アンド・ザ・ハンバー" eng="England: Yorkshire and the Humber" de="England: Yorkshire and the Humber" fr="Angleterre: Yorkshire-et-Humber" es="Inglaterra: Yorkshire y Humber" it="Inghilterra: Yorkshire e Humber" nl="Engeland: Yorkshire and the Humber" />
+      <longitude>-0.667218</longitude>
+      <latitude>53.577182</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="シェフィールド" eng="Sheffield" de="Sheffield" fr="Sheffield" es="Sheffield" it="Sheffield" nl="Sheffield">
+      <province jpn="イングランド ヨークシャー・アンド・ザ・ハンバー" eng="England: Yorkshire and the Humber" de="England: Yorkshire and the Humber" fr="Angleterre: Yorkshire-et-Humber" es="Inglaterra: Yorkshire y Humber" it="Inghilterra: Yorkshire e Humber" nl="Engeland: Yorkshire and the Humber" />
+      <longitude>-1.461181640625</longitude>
+      <latitude>53.3770751953125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="スキプトン" eng="Skipton" de="Skipton" fr="Skipton" es="Skipton" it="Skipton" nl="Skipton">
+      <province jpn="イングランド ヨークシャー・アンド・ザ・ハンバー" eng="England: Yorkshire and the Humber" de="England: Yorkshire and the Humber" fr="Angleterre: Yorkshire-et-Humber" es="Inglaterra: Yorkshire y Humber" it="Inghilterra: Yorkshire e Humber" nl="Engeland: Yorkshire and the Humber" />
+      <longitude>-2.025685</longitude>
+      <latitude>53.953618</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ヨーク" eng="York" de="York" fr="York" es="York" it="York" nl="York">
+      <province jpn="イングランド ヨークシャー・アンド・ザ・ハンバー" eng="England: Yorkshire and the Humber" de="England: Yorkshire and the Humber" fr="Angleterre: Yorkshire-et-Humber" es="Inglaterra: Yorkshire y Humber" it="Inghilterra: Yorkshire e Humber" nl="Engeland: Yorkshire and the Humber" />
+      <longitude>-1.0821533203125</longitude>
+      <latitude>53.953857421875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="バーミンガム" eng="Birmingham" de="Birmingham" fr="Birmingham" es="Birmingham" it="Birmingham" nl="Birmingham">
+      <province jpn="イングランド ウェスト・ミッドランズ" eng="England: West Midlands" de="England: West Midlands" fr="Angleterre: Midlands de l'Ouest" es="Inglaterra: Tierras Medias Occidentales" it="Inghilterra: Midlands Occidentali" nl="Engeland: West Midlands" />
+      <longitude>-1.900634765625</longitude>
+      <latitude>52.4761962890625</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ヘレフォード" eng="Hereford" de="Hereford" fr="Hereford" es="Hereford" it="Hereford" nl="Hereford">
+      <province jpn="イングランド ウェスト・ミッドランズ" eng="England: West Midlands" de="England: West Midlands" fr="Angleterre: Midlands de l'Ouest" es="Inglaterra: Tierras Medias Occidentales" it="Inghilterra: Midlands Occidentali" nl="Engeland: West Midlands" />
+      <longitude>-2.222568</longitude>
+      <latitude>52.185565</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="シュルーズベリー" eng="Shrewsbury" de="Shrewsbury" fr="Shrewsbury" es="Shrewsbury" it="Shrewsbury" nl="Shrewsbury">
+      <province jpn="イングランド ウェスト・ミッドランズ" eng="England: West Midlands" de="England: West Midlands" fr="Angleterre: Midlands de l'Ouest" es="Inglaterra: Tierras Medias Occidentales" it="Inghilterra: Midlands Occidentali" nl="Engeland: West Midlands" />
+      <longitude>-2.757568359375</longitude>
+      <latitude>52.7069091796875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ストーク・オン・トレント" eng="Stoke-on-Trent" de="Stoke-on-Trent" fr="Stoke-on-Trent" es="Stoke-on-Trent" it="Stoke-on-Trent" nl="Stoke-on-Trent">
+      <province jpn="イングランド ウェスト・ミッドランズ" eng="England: West Midlands" de="England: West Midlands" fr="Angleterre: Midlands de l'Ouest" es="Inglaterra: Tierras Medias Occidentales" it="Inghilterra: Midlands Occidentali" nl="Engeland: West Midlands" />
+      <longitude>-2.2027587890625</longitude>
+      <latitude>53.0145263671875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ウスター" eng="Worcester" de="Worcester" fr="Worcester" es="Worcester" it="Worcester" nl="Worcester">
+      <province jpn="イングランド ウェスト・ミッドランズ" eng="England: West Midlands" de="England: West Midlands" fr="Angleterre: Midlands de l'Ouest" es="Inglaterra: Tierras Medias Occidentales" it="Inghilterra: Midlands Occidentali" nl="Engeland: West Midlands" />
+      <longitude>-2.21923828125</longitude>
+      <latitude>52.18505859375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="レスター" eng="Leicester" de="Leicester" fr="Leicester" es="Leicester" it="Leicester" nl="Leicester">
+      <province jpn="イングランド イースト・ミッドランズ" eng="England: East Midlands" de="England: East Midlands" fr="Angleterre: Midlands de l'Est" es="Inglaterra: Tierras Medias Orientales" it="Inghilterra: Midlands Orientali" nl="Engeland: East Midlands" />
+      <longitude>-1.1370849609375</longitude>
+      <latitude>52.635498046875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="チェスターフィールド" eng="Chesterfield" de="Chesterfield" fr="Chesterfield" es="Chesterfield" it="Chesterfield" nl="Chesterfield">
+      <province jpn="イングランド イースト・ミッドランズ" eng="England: East Midlands" de="England: East Midlands" fr="Angleterre: Midlands de l'Est" es="Inglaterra: Tierras Medias Orientales" it="Inghilterra: Midlands Orientali" nl="Engeland: East Midlands" />
+      <longitude>-1.42384</longitude>
+      <latitude>53.237954</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="リンカン" eng="Lincoln" de="Lincoln" fr="Lincoln" es="Lincoln" it="Lincoln" nl="Lincoln">
+      <province jpn="イングランド イースト・ミッドランズ" eng="England: East Midlands" de="England: East Midlands" fr="Angleterre: Midlands de l'Est" es="Inglaterra: Tierras Medias Orientales" it="Inghilterra: Midlands Orientali" nl="Engeland: East Midlands" />
+      <longitude>-0.538330078125</longitude>
+      <latitude>53.228759765625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ノーザンプトン" eng="Northampton" de="Northampton" fr="Northampton" es="Northampton" it="Northampton" nl="Northampton">
+      <province jpn="イングランド イースト・ミッドランズ" eng="England: East Midlands" de="England: East Midlands" fr="Angleterre: Midlands de l'Est" es="Inglaterra: Tierras Medias Orientales" it="Inghilterra: Midlands Orientali" nl="Engeland: East Midlands" />
+      <longitude>-0.8953857421875</longitude>
+      <latitude>52.2344970703125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ノッティンガム" eng="Nottingham" de="Nottingham" fr="Nottingham" es="Nottingham" it="Nottingham" nl="Nottingham">
+      <province jpn="イングランド イースト・ミッドランズ" eng="England: East Midlands" de="England: East Midlands" fr="Angleterre: Midlands de l'Est" es="Inglaterra: Tierras Medias Orientales" it="Inghilterra: Midlands Orientali" nl="Engeland: East Midlands" />
+      <longitude>-1.1480712890625</longitude>
+      <latitude>52.9541015625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ケンブリッジ" eng="Cambridge" de="Cambridge" fr="Cambridge" es="Cambridge" it="Cambridge" nl="Cambridge">
+      <province jpn="イングランド イースト" eng="England: East" de="England: East" fr="Angleterre: Est" es="Inglaterra: Este" it="Inghilterra: Est" nl="Engeland: East" />
+      <longitude>0.098876953125</longitude>
+      <latitude>52.20703125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ボストン" eng="Boston" de="Boston" fr="Boston" es="Boston" it="Boston" nl="Boston">
+      <province jpn="イングランド イースト" eng="England: East" de="England: East" fr="Angleterre: Est" es="Inglaterra: Este" it="Inghilterra: Est" nl="Engeland: East" />
+      <longitude>-0.003896</longitude>
+      <latitude>52.978091</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ベリー・セント・エドマンズ" eng="Bury St Edmunds" de="Bury St Edmunds" fr="Bury St Edmunds" es="Bury St Edmunds" it="Bury St Edmunds" nl="Bury St Edmunds">
+      <province jpn="イングランド イースト" eng="England: East" de="England: East" fr="Angleterre: Est" es="Inglaterra: Este" it="Inghilterra: Est" nl="Engeland: East" />
+      <longitude>0.71856</longitude>
+      <latitude>52.302657</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="チェルムスフォード" eng="Chelmsford" de="Chelmsford" fr="Chelmsford" es="Chelmsford" it="Chelmsford" nl="Chelmsford">
+      <province jpn="イングランド イースト" eng="England: East" de="England: East" fr="Angleterre: Est" es="Inglaterra: Este" it="Inghilterra: Est" nl="Engeland: East" />
+      <longitude>0.4669189453125</longitude>
+      <latitude>51.7291259765625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="イプスウィッチ" eng="Ipswich" de="Ipswich" fr="Ipswich" es="Ipswich" it="Ipswich" nl="Ipswich">
+      <province jpn="イングランド イースト" eng="England: East" de="England: East" fr="Angleterre: Est" es="Inglaterra: Este" it="Inghilterra: Est" nl="Engeland: East" />
+      <longitude>1.1480712890625</longitude>
+      <latitude>52.05322265625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ルートン" eng="Luton" de="Luton" fr="Luton" es="Luton" it="Luton" nl="Luton">
+      <province jpn="イングランド イースト" eng="England: East" de="England: East" fr="Angleterre: Est" es="Inglaterra: Este" it="Inghilterra: Est" nl="Engeland: East" />
+      <longitude>-0.416656</longitude>
+      <latitude>51.870955</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ミルトン・キーンズ" eng="Milton Keynes" de="Milton Keynes" fr="Milton Keynes" es="Milton Keynes" it="Milton Keynes" nl="Milton Keynes">
+      <province jpn="イングランド イースト" eng="England: East" de="England: East" fr="Angleterre: Est" es="Inglaterra: Este" it="Inghilterra: Est" nl="Engeland: East" />
+      <longitude>-0.756198</longitude>
+      <latitude>52.029339</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ノリッジ" eng="Norwich" de="Norwich" fr="Norwich" es="Norwich" it="Norwich" nl="Norwich">
+      <province jpn="イングランド イースト" eng="England: East" de="England: East" fr="Angleterre: Est" es="Inglaterra: Este" it="Inghilterra: Est" nl="Engeland: East" />
+      <longitude>1.2908935546875</longitude>
+      <latitude>52.62451171875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ピーターバラ" eng="Peterborough" de="Peterborough" fr="Peterborough" es="Peterborough" it="Peterborough" nl="Peterborough">
+      <province jpn="イングランド イースト" eng="England: East" de="England: East" fr="Angleterre: Est" es="Inglaterra: Este" it="Inghilterra: Est" nl="Engeland: East" />
+      <longitude>-0.266866</longitude>
+      <latitude>52.559957</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ブリストル" eng="Bristol" de="Bristol" fr="Bristol" es="Bristol" it="Bristol" nl="Bristol">
+      <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
+      <longitude>-2.5872802734375</longitude>
+      <latitude>51.4544677734375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="バース" eng="Bath" de="Bath" fr="Bath" es="Bath" it="Bath" nl="Bath">
+      <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
+      <longitude>-2.346072</longitude>
+      <latitude>51.355685</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ボーンマス" eng="Bournemouth" de="Bournemouth" fr="Bournemouth" es="Bournemouth" it="Bournemouth" nl="Bournemouth">
+      <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
+      <longitude>-1.8731689453125</longitude>
+      <latitude>50.7183837890625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ブード" eng="Bude" de="Bude" fr="Bude" es="Bude" it="Bude" nl="Bude">
+      <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
+      <longitude>-4.548572</longitude>
+      <latitude>50.830342</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="エクセター" eng="Exeter" de="Exeter" fr="Exeter" es="Exeter" it="Exeter" nl="Exeter">
+      <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
+      <longitude>-3.5211181640625</longitude>
+      <latitude>50.7183837890625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="グロスター" eng="Gloucester" de="Gloucester" fr="Gloucester" es="Gloucester" it="Gloucester" nl="Gloucester">
+      <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
+      <longitude>-2.2357177734375</longitude>
+      <latitude>51.85546875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="プリマス" eng="Plymouth" de="Plymouth" fr="Plymouth" es="Plymouth" it="Plymouth" nl="Plymouth">
+      <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
+      <longitude>-4.140033</longitude>
+      <latitude>50.364218</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ペンザンス" eng="Penzance" de="Penzance" fr="Penzance" es="Penzance" it="Penzance" nl="Penzance">
+      <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
+      <longitude>-5.4876708984375</longitude>
+      <latitude>50.2020263671875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ソールズベリー" eng="Salisbury" de="Salisbury" fr="Salisbury" es="Salisbury" it="Salisbury" nl="Salisbury">
+      <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
+      <longitude>-1.81852</longitude>
+      <latitude>51.045467</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="サウサンプトン" eng="Southampton" de="Southampton" fr="Southampton" es="Southampton" it="Southampton" nl="Southampton">
+      <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
+      <longitude>-1.40625</longitude>
+      <latitude>50.9051513671875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="スウィンドン" eng="Swindon" de="Swindon" fr="Swindon" es="Swindon" it="Swindon" nl="Swindon">
-      <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
+      <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
       <longitude>-1.7742919921875</longitude>
       <latitude>51.558837890625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="イギリス" eng="Douglas" de="Douglas" fr="Douglas" es="Douglas" it="Douglas" nl="Douglas">
-      <province jpn="マン島" eng="Isle of Man" de="Isle of Man" fr="Ile de Man" es="Isla de Man" it="Isola di Man" nl="Man" />
-      <longitude>-4.482421875</longitude>
-      <latitude>54.16259765625</latitude>
+    <city jpn="トーントン" eng="Taunton" de="Taunton" fr="Taunton" es="Taunton" it="Taunton" nl="Taunton">
+      <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
+      <longitude>-3.109130859375</longitude>
+      <latitude>51.009521484375</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="トーキー" eng="Torquay" de="Torquay" fr="Torquay" es="Torquay" it="Torquay" nl="Torquay">
+      <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
+      <longitude>-3.526001</longitude>
+      <latitude>50.461679</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="トゥルーロ" eng="Truro" de="Truro" fr="Truro" es="Truro" it="Truro" nl="Truro">
+      <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
+      <longitude>-5.052061</longitude>
+      <latitude>50.259288</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ヨービル" eng="Yeovil" de="Yeovil" fr="Yeovil" es="Yeovil" it="Yeovil" nl="Yeovil">
+      <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
+      <longitude>-2.63944</longitude>
+      <latitude>50.936094</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ブライトン" eng="Brighton and Hove" de="Brighton and Hove" fr="Brighton et Hove" es="Brighton y Hove" it="Brighton e Hove" nl="Brighton and Hove">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>-0.1318359375</longitude>
+      <latitude>50.8282470703125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="アシュフォード" eng="Ashford" de="Ashford" fr="Ashford" es="Ashford" it="Ashford" nl="Ashford">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>0.867919921875</longitude>
+      <latitude>51.1468505859375</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ベイジングストーク" eng="Basingstoke" de="Basingstoke" fr="Basingstoke" es="Basingstoke" it="Basingstoke" nl="Basingstoke">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>-1.113401</longitude>
+      <latitude>51.262809</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="カンタベリー" eng="Canterbury" de="Canterbury" fr="Canterbury" es="Canterbury" it="Canterbury" nl="Canterbury">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>1.098424</longitude>
+      <latitude>51.270332</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="クローリー" eng="Crawley" de="Crawley" fr="Crawley" es="Crawley" it="Crawley" nl="Crawley">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>-0.228088</longitude>
+      <latitude>51.110928</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ドーバー" eng="Dover" de="Dover" fr="Dover" es="Dover" it="Dover" nl="Dover">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>1.335563</longitude>
+      <latitude>51.123512</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="イーストボーン" eng="Eastbourne" de="Eastbourne" fr="Eastbourne" es="Eastbourne" it="Eastbourne" nl="Eastbourne">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>0.268936</longitude>
+      <latitude>50.75042</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ジリンガム" eng="Gillingham" de="Gillingham" fr="Gillingham" es="Gillingham" it="Gillingham" nl="Gillingham">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>0.54931640625</longitude>
+      <latitude>51.383056640625</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ギルフォード" eng="Guildford" de="Guildford" fr="Guildford" es="Guildford" it="Guildford" nl="Guildford">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>-0.571493</longitude>
+      <latitude>51.233502</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ヘイスティングス" eng="Hastings" de="Hastings" fr="Hastings" es="Hastings" it="Hastings" nl="Hastings">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>0.566769</longitude>
+      <latitude>50.854837</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="メードストン" eng="Maidstone" de="Maidstone" fr="Maidstone" es="Maidstone" it="Maidstone" nl="Maidstone">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>0.537023</longitude>
+      <latitude>51.27431</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ニューポート" eng="Newport" de="Newport" fr="Newport" es="Newport" it="Newport" nl="Newport">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>-1.264348</longitude>
+      <latitude>50.621461</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="オックスフォード" eng="Oxford" de="Oxford" fr="Oxford" es="Oxford" it="Oxford" nl="Oxford">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>-1.25244140625</longitude>
+      <latitude>51.7510986328125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ポーツマス" eng="Portsmouth" de="Portsmouth" fr="Portsmouth" es="Portsmouth" it="Portsmouth" nl="Portsmouth">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>-1.25244140625</longitude>
+      <latitude>51.7510986328125</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="レディング" eng="Reading" de="Reading" fr="Reading" es="Reading" it="Reading" nl="Reading">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>-0.9722900390625</longitude>
+      <latitude>51.4544677734375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ウィンチェスター" eng="Winchester" de="Winchester" fr="Winchester" es="Winchester" it="Winchester" nl="Winchester">
+      <province jpn="イングランド サウス・イースト" eng="England: South East" de="England: South East" fr="Angleterre: Sud-Est" es="Inglaterra: Sudeste" it="Inghilterra: Sud Est" nl="Engeland: South East" />
+      <longitude>-1.316792</longitude>
+      <latitude>51.066534</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="エディンバラ" eng="Edinburgh" de="Edinburgh" fr="Édimbourg" es="Edimburgo" it="Edimburgo" nl="Edinburgh">
@@ -16670,10 +16880,73 @@
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ホーイック" eng="Hawick" de="Hawick" fr="Hawick" es="Hawick" it="Hawick" nl="Hawick">
+    <city jpn="グラスゴー" eng="Glasgow" de="Glasgow" fr="Glasgow" es="Glasgow" it="Glasgow" nl="Glasgow">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
-      <longitude>-2.7850341796875</longitude>
-      <latitude>55.4205322265625</latitude>
+      <longitude>-4.2462158203125</longitude>
+      <latitude>55.8544921875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="アバディーン" eng="Aberdeen" de="Aberdeen" fr="Aberdeen" es="Aberdeen" it="Aberdeen" nl="Aberdeen">
+      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
+      <longitude>-2.1038818359375</longitude>
+      <latitude>57.15087890625</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="オーバン" eng="An t-Òban" de="An t-Òban" fr="An t-Òban" es="An t-Òban" it="An t-Òban" nl="An t-Òban">
+      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
+      <longitude>-5.4656982421875</longitude>
+      <latitude>56.4093017578125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="アビモア" eng="Aviemore" de="Aviemore" fr="Aviemore" es="Aviemore" it="Aviemore" nl="Aviemore">
+      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
+      <longitude>-3.818282</longitude>
+      <latitude>57.193123</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="エア" eng="Ayr" de="Ayr" fr="Ayr" es="Ayr" it="Ayr" nl="Ayr">
+      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
+      <longitude>-4.625244140625</longitude>
+      <latitude>55.4425048828125</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ボウモア" eng="Bowmore" de="Bowmore" fr="Bowmore" es="Bowmore" it="Bowmore" nl="Bowmore">
+      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
+      <longitude>-6.291901</longitude>
+      <latitude>55.749397</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="カムナック" eng="Cumnock" de="Cumnock" fr="Cumnock" es="Cumnock" it="Cumnock" nl="Cumnock">
+      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
+      <longitude>-4.2681884765625</longitude>
+      <latitude>55.447998046875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ダンフリース" eng="Dumfries" de="Dumfries" fr="Dumfries" es="Dumfries" it="Dumfries" nl="Dumfries">
+      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
+      <longitude>-3.614501953125</longitude>
+      <latitude>55.0634765625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ダンディー" eng="Dundee" de="Dundee" fr="Dundee" es="Dundee" it="Dundee" nl="Dundee">
+      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
+      <longitude>-2.96630859375</longitude>
+      <latitude>56.458740234375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ダーネス" eng="Durness" de="Durness" fr="Durness" es="Durness" it="Durness" nl="Durness">
+      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
+      <longitude>-4.744035</longitude>
+      <latitude>58.552661</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -16681,13 +16954,13 @@
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
       <longitude>-3.7738037109375</longitude>
       <latitude>55.986328125</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ダンフリース" eng="Dumfries" de="Dumfries" fr="Dumfries" es="Dumfries" it="Dumfries" nl="Dumfries">
+	<city jpn="フォート・ウィリアム" eng="Fort William" de="Fort William" fr="Fort William" es="Fort William" it="Fort William" nl="Fort William">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
-      <longitude>-3.614501953125</longitude>
-      <latitude>55.0634765625</latitude>
+      <longitude>-5.132632</longitude>
+      <latitude>56.813007</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -16698,24 +16971,31 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="アバディーン" eng="Aberdeen" de="Aberdeen" fr="Aberdeen" es="Aberdeen" it="Aberdeen" nl="Aberdeen">
+    <city jpn="グリーノック" eng="Greenock" de="Greenock" fr="Greenock" es="Greenock" it="Greenock" nl="Greenock">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
-      <longitude>-2.1038818359375</longitude>
-      <latitude>57.15087890625</latitude>
-      <zoom1>4</zoom1>
+      <longitude>-4.7625732421875</longitude>
+      <latitude>55.9478759765625</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ホーイック" eng="Hawick" de="Hawick" fr="Hawick" es="Hawick" it="Hawick" nl="Hawick">
+      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
+      <longitude>-2.7850341796875</longitude>
+      <latitude>55.4205322265625</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="インヴァネス" eng="Inverness" de="Inverness" fr="Inverness" es="Inverness" it="Inverness" nl="Inverness">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
       <longitude>-4.2242431640625</longitude>
       <latitude>57.4749755859375</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ポートリー" eng="Portree" de="Portree" fr="Portree" es="Portree" it="Portree" nl="Portree">
+	<city jpn="カーコーディ" eng="Kirkcaldy" de="Kirkcaldy" fr="Kirkcaldy" es="Kirkcaldy" it="Kirkcaldy" nl="Kirkcaldy">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
-      <longitude>-6.2017822265625</longitude>
-      <latitude>57.4090576171875</latitude>
+      <longitude>-3.132209</longitude>
+      <latitude>56.124082</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -16723,6 +17003,20 @@
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
       <longitude>-2.9608154296875</longitude>
       <latitude>58.9801025390625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="レアグ" eng="Lairg" de="Lairg" fr="Lairg" es="Lairg" it="Lairg" nl="Lairg">
+      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
+      <longitude>-4.412536</longitude>
+      <latitude>58.027976</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ラムラッシュ" eng="Lamlash" de="Lamlash" fr="Lamlash" es="Lamlash" it="Lamlash" nl="Lamlash">
+      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
+      <longitude>-5.2349853515625</longitude>
+      <latitude>55.56884765625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -16730,55 +17024,13 @@
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
       <longitude>-1.1480712890625</longitude>
       <latitude>60.150146484375</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="グラスゴー" eng="Glasgow" de="Glasgow" fr="Glasgow" es="Glasgow" it="Glasgow" nl="Glasgow">
-      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
-      <longitude>-4.2462158203125</longitude>
-      <latitude>55.8544921875</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="カムナック" eng="Cumnock" de="Cumnock" fr="Cumnock" es="Cumnock" it="Cumnock" nl="Cumnock">
+    <city jpn="ポートリー" eng="Port Rìgh" de="Port Rìgh" fr="Port Rìgh" es="Port Rìgh" it="Port Rìgh" nl="Port Rìgh">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
-      <longitude>-4.2681884765625</longitude>
-      <latitude>55.447998046875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="エア" eng="Ayr" de="Ayr" fr="Ayr" es="Ayr" it="Ayr" nl="Ayr">
-      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
-      <longitude>-4.625244140625</longitude>
-      <latitude>55.4425048828125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="グリーノック" eng="Greenock" de="Greenock" fr="Greenock" es="Greenock" it="Greenock" nl="Greenock">
-      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
-      <longitude>-4.7625732421875</longitude>
-      <latitude>55.9478759765625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="アラン島" eng="Arran" de="Isle of Arran" fr="Île d'Arran" es="Arran" it="Arran" nl="Arran">
-      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
-      <longitude>-5.2349853515625</longitude>
-      <latitude>55.56884765625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="オーバン" eng="Oban" de="Oban" fr="Oban" es="Oban" it="Oban" nl="Oban">
-      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
-      <longitude>-5.4656982421875</longitude>
-      <latitude>56.4093017578125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ダンディー" eng="Dundee" de="Dundee" fr="Dundee" es="Dundee" it="Dundee" nl="Dundee">
-      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
-      <longitude>-2.96630859375</longitude>
-      <latitude>56.458740234375</latitude>
+      <longitude>-6.2017822265625</longitude>
+      <latitude>57.4090576171875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -16789,10 +17041,17 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ストーノウェー" eng="Stornoway" de="Stornoway" fr="Stornoway" es="Stornoway" it="Stornoway" nl="Steòrnabhagh">
+    <city jpn="ストーノーウェイ" eng="Steòrnabhagh" de="Steòrnabhagh" fr="Steòrnabhagh" es="Steòrnabhagh" it="Steòrnabhagh" nl="Steòrnabhagh">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
       <longitude>-6.3775634765625</longitude>
       <latitude>58.20556640625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ウィック" eng="Wick" de="Wick" fr="Wick" es="Wick" it="Wick" nl="Wick">
+      <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
+      <longitude>-3.103424</longitude>
+      <latitude>58.422041</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -16800,6 +17059,104 @@
       <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
       <longitude>-3.175048828125</longitude>
       <latitude>51.4764404296875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="フィッシュガード" eng="Abergwaun" de="Abergwaun" fr="Abergwaun" es="Abergwaun" it="Abergwaun" nl="Abergwaun">
+      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
+      <longitude>-4.9822998046875</longitude>
+      <latitude>51.9927978515625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="アバーホンドゥ" eng="Aberhonddu" de="Aberhonddu" fr="Aberhonddu" es="Aberhonddu" it="Aberhonddu" nl="Aberhonddu">
+      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
+      <longitude>-3.389517</longitude>
+      <latitude>51.947765</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="アベリストウィス" eng="Aberystwyth" de="Aberystwyth" fr="Aberystwyth" es="Aberystwyth" it="Aberystwyth" nl="Aberystwyth">
+      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
+      <longitude>-4.0814208984375</longitude>
+      <latitude>52.4102783203125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="コルウィン・ベイ" eng="Colwyn Bay" de="Colwyn Bay" fr="Colwyn Bay" es="Colwyn Bay" it="Colwyn Bay" nl="Colwyn Bay">
+      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
+      <longitude>-3.7298583984375</longitude>
+      <latitude>53.294677734375</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="カエルヴァルジン" eng="Caerfyrddin" de="Caerfyrddin" fr="Caerfyrddin" es="Caerfyrddin" it="Caerfyrddin" nl="Caerfyrddin">
+      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
+      <longitude>-4.30541</longitude>
+      <latitude>51.855695</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ホリーヘッド" eng="Caergybi" de="Caergybi" fr="Caergybi" es="Caergybi" it="Caergybi" nl="Caergybi">
+      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
+      <longitude>-4.6307373046875</longitude>
+      <latitude>53.3056640625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="テンビー" eng="Dinbych-y-pysgod" de="Dinbych-y-pysgod" fr="Dinbych-y-pysgod" es="Dinbych-y-pysgod" it="Dinbych-y-pysgod" nl="Dinbych-y-pysgod">
+      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
+      <longitude>-4.716879</longitude>
+      <latitude>51.652613</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ランピター" eng="Llanbedr Pont Steffan" de="Llanbedr Pont Steffan" fr="Llanbedr Pont Steffan" es="Llanbedr Pont Steffan" it="Llanbedr Pont Steffan" nl="Llanbedr Pont Steffan">
+      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
+      <longitude>-4.088047</longitude>
+      <latitude>52.117235</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ランヴァイル・プルグウィンギル" eng="Llanfairpwllgwyngyll" de="Llanfairpwllgwyngyll" fr="Llanfairpwllgwyngyll" es="Llanfairpwllgwyngyll" it="Llanfairpwllgwyngyll" nl="Llanfairpwllgwyngyll">
+      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
+      <longitude>-4.252889</longitude>
+      <latitude>53.226131</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="スランライアドル＝イム＝モホナント" eng="Llanrhaeadr-ym-Mochnant" de="Llanrhaeadr-ym-Mochnant" fr="Llanrhaeadr-ym-Mochnant" es="Llanrhaeadr-ym-Mochnant" it="Llanrhaeadr-ym-Mochnant" nl="Llanrhaeadr-ym-Mochnant">
+      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
+      <longitude>-3.303503</longitude>
+      <latitude>52.822602</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="マーサー・ティドビル" eng="Merthyr Tydfil" de="Merthyr Tydfil" fr="Merthyr Tydfil" es="Merthyr Tydfil" it="Merthyr Tydfil" nl="Merthyr Tydfil">
+      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
+      <longitude>-3.372802734375</longitude>
+      <latitude>51.7510986328125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ポルスマドグ" eng="Porthmadog" de="Porthmadog" fr="Porthmadog" es="Porthmadog" it="Porthmadog" nl="Porthmadog">
+      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
+      <longitude>-4.148285</longitude>
+      <latitude>52.91886</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="リル" eng="Rhyl" de="Rhyl" fr="Rhyl" es="Rhyl" it="Rhyl" nl="Rhyl">
+      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
+      <longitude>-3.441964</longitude>
+      <latitude>53.332781</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="スウォンジー" eng="Swansea" de="Swansea" fr="Swansea" es="Swansea" it="Swansea" nl="Swansea">
+      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
+      <longitude>-3.944091796875</longitude>
+      <latitude>51.6192626953125</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -16810,45 +17167,17 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="コルウィン・ベイ" eng="Colwyn Bay" de="Colwyn Bay" fr="Colwyn Bay" es="Colwyn Bay" it="Colwyn Bay" nl="Colwyn Bay">
+    <city jpn="イ・ドレネウィド" eng="Y Drenewydd" de="Y Drenewydd" fr="Y Drenewydd" es="Y Drenewydd" it="Y Drenewydd" nl="Y Drenewydd">
       <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
-      <longitude>-3.7298583984375</longitude>
-      <latitude>53.294677734375</latitude>
+      <longitude>-3.309837</longitude>
+      <latitude>52.51971</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ホーリーヘッド" eng="Holyhead" de="Holyhead" fr="Holyhead" es="Holyhead" it="Holyhead" nl="Holyhead">
-      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
-      <longitude>-4.6307373046875</longitude>
-      <latitude>53.3056640625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="アベリストウィス" eng="Aberystwyth" de="Aberystwyth" fr="Aberystwyth" es="Aberystwyth" it="Aberystwyth" nl="Aberystwyth">
-      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
-      <longitude>-4.0814208984375</longitude>
-      <latitude>52.4102783203125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="フィッシュガード" eng="Fishguard" de="Fishguard" fr="Fishguard" es="Fishguard" it="Fishguard" nl="Fishguard">
-      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
-      <longitude>-4.9822998046875</longitude>
-      <latitude>51.9927978515625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="スウォンジー" eng="Swansea" de="Swansea" fr="Swansea" es="Swansea" it="Swansea" nl="Swansea">
-      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
-      <longitude>-3.944091796875</longitude>
-      <latitude>51.6192626953125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="マーサー・ティドビル" eng="Merthyr Tydfil" de="Merthyr Tydfil" fr="Merthyr Tydfil" es="Merthyr Tydfil" it="Merthyr Tydfil" nl="Merthyr Tydfil">
-      <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
-      <longitude>-3.372802734375</longitude>
-      <latitude>51.7510986328125</latitude>
+	<city jpn="イギリス" eng="Douglas" de="Douglas" fr="Douglas" es="Douglas" it="Douglas" nl="Douglas">
+      <province jpn="マン島" eng="Isle of Man" de="Isle of Man" fr="Ile de Man" es="Isla de Man" it="Isola di Man" nl="Man" />
+      <longitude>-4.482421875</longitude>
+      <latitude>54.16259765625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -16870,7 +17199,7 @@
       <province jpn="北アイルランド" eng="Northern Ireland" de="Nordirland" fr="Irlande du Nord" es="Irlanda del Norte" it="Irlanda del Nord" nl="Noord-Ierland" />
       <longitude>-5.6689453125</longitude>
       <latitude>54.6514892578125</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="デリー" eng="Londonderry" de="Derry" fr="Derry" es="Derry" it="Derry" nl="Derry">
@@ -16888,6 +17217,13 @@
       <zoom2>3</zoom2>
     </city>
   </country>
+  <city jpn="ジブラルタル" eng="Gibraltar" de="Gibraltar" fr="Gibraltar" es="Gibraltar" it="Gibilterra" nl="Gibraltar">
+      <province jpn="ジブラルタル" eng="Gibraltar" de="Gibraltar" fr="Gibraltar" es="Gibraltar" it="Gibilterra" nl="Gibraltar" />
+      <longitude>-5.345272</longitude>
+      <latitude>36.121167</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
   <country>
     <name jpn="カリブ・オランダ" eng="Caribbean Netherlands" de="Karibische Niederlande" fr="Pays-Bas caribéens" es="Caribe Neerlandés" it="Paesi Bassi caraibici" nl="Caribisch Nederland" />
     <city jpn="クラレンダイク" eng="Kralendijk" de="Kralendijk" fr="Kralendijk" es="Kralendijk" it="Kralendijk" nl="Kralendijk">
@@ -16897,7 +17233,7 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ボトム" eng="The Bottom" de="The Bottom" fr="The Bottom" es="The Bottom" it="The Bottom" nl="The Bottom">
+    <city jpn="ボトム" eng="The Bottom" de="The Bottom" fr="The Bottom" es="The Bottom" it="The Bottom" nl="The Bottom">
       <province jpn="サバ島" eng="Saba" de="Saba" fr="Saba" es="Saba" it="Saba" nl="Saba" />
       <longitude>-63.237156</longitude>
       <latitude>17.6319</latitude>
@@ -16955,21 +17291,21 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="スフミ" eng="Sukhumi" de="Sochumi" fr="Soukhoumi" es="Sujumi" it="Sukhumi" nl="Soechoemi">
+    <city jpn="スフミ" eng="Sukhumi" de="Sochumi" fr="Soukhoumi" es="Sujumi" it="Sukhumi" nl="Soechoemi">
       <province jpn="アブハジア共和国" eng="Abkhazia" de="Abchasien" fr="Abkhazie" es="Abjasia" it="Abcasia" nl="Abchazië" />
       <longitude>41.010017</longitude>
       <latitude>43.001972</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="バトゥミ" eng="Batumi" de="Batumi" fr="Batoumi" es="Batumi" it="Batumi" nl="Batumi">
+    <city jpn="バトゥミ" eng="Batumi" de="Batumi" fr="Batoumi" es="Batumi" it="Batumi" nl="Batumi">
       <province jpn="アジャリア自治共和国" eng="Adjara" de="Adscharien" fr="Adjarie" es="Ayaria" it="Agiaria" nl="Adzjarië" />
       <longitude>41.576463</longitude>
       <latitude>41.584957</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="クタイシ" eng="Kutaisi" de="Kutaissi" fr="Koutaïssi" es="Kutaisi" it="Kutaisi" nl="Kutaisi">
+    <city jpn="クタイシ" eng="Kutaisi" de="Kutaissi" fr="Koutaïssi" es="Kutaisi" it="Kutaisi" nl="Kutaisi">
       <province jpn="イメレティ州" eng="Imereti" de="Imeretien" fr="Iméréthie" es="Imericia" it="Imerezia" nl="Imereti" />
       <longitude>42.731655</longitude>
       <latitude>42.290101</latitude>
@@ -16986,17 +17322,17 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ミトロヴィツァ" eng="Mitrovica" de="Mitrovica" fr="Mitrovica" es="Mitrovica" it="Mitrovica" nl="Mitrovica">
+    <city jpn="ミトロヴィツァ" eng="Mitrovica" de="Mitrovica" fr="Mitrovica" es="Mitrovica" it="Mitrovica" nl="Mitrovica">
       <province jpn="ミトロヴィツァ" eng="Mitrovica" de="Mitrovica" fr="Mitrovica" es="Mitrovica" it="Mitrovica" nl="Mitrovica" />
       <longitude>20.865973</longitude>
       <latitude>42.885522</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="プリズレン" eng="Prizren" de="Prizren" fr="Prizren" es="Prizren" it="Prizren" nl="Prizren">
+    <city jpn="プリズレン" eng="Prizren" de="Prizren" fr="Prizren" es="Prizren" it="Prizren" nl="Prizren">
       <province jpn="プリズレン" eng="Prizren" de="Prizren" fr="Prizren" es="Prizren" it="Prizren" nl="Prizren" />
       <longitude>20.740419</longitude>
-      <latitude>42.225600</latitude>
+      <latitude>42.2256</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -17010,14 +17346,14 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="クラクスヴィーク" eng="Klaksvík" de="Klaksvík" fr="Klaksvík" es="Klaksvík" it="Klaksvík" nl="Klaksvík">
+    <city jpn="クラクスヴィーク" eng="Klaksvík" de="Klaksvík" fr="Klaksvík" es="Klaksvík" it="Klaksvík" nl="Klaksvík">
       <province jpn="ノルソヤール島" eng="Norðoyar" de="Norðoyar" fr="Norðoyar" es="Norðoyar" it="Norðoyar" nl="Norðoyar" />
       <longitude>-6.574484</longitude>
       <latitude>62.225403</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴァーグール" eng="Vágur" de="Vágur" fr="Vágur" es="Vágur" it="Vágur" nl="Vágur">
+    <city jpn="ヴァーグール" eng="Vágur" de="Vágur" fr="Vágur" es="Vágur" it="Vágur" nl="Vágur">
       <province jpn="スズドロイ島" eng="Suðuroy" de="Suðuroy" fr="Suðuroy" es="Suðuroy" it="Suðuroy" nl="Suðuroy" />
       <longitude>-6.844678</longitude>
       <latitude>61.470921</latitude>
@@ -17034,14 +17370,14 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="エルバサン" eng="Elbasan" de="Elbasan" fr="Elbasan" es="Elbasan" it="Elbasan" nl="Elbasan">
+    <city jpn="エルバサン" eng="Elbasan" de="Elbasan" fr="Elbasan" es="Elbasan" it="Elbasan" nl="Elbasan">
       <province jpn="エルバサン州" eng="Elbasan" de="Elbasan" fr="Elbasan" es="Elbasan" it="Elbasan" nl="Elbasan" />
       <longitude>20.195954</longitude>
-      <latitude>41.116100</latitude>
+      <latitude>41.1161</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴロラ" eng="Vlorë" de="Vlora" fr="Vlora" es="Vlorë" it="Valona" nl="Vlorë">
+    <city jpn="ヴロラ" eng="Vlorë" de="Vlora" fr="Vlora" es="Vlorë" it="Valona" nl="Vlorë">
       <province jpn="ヴロラ州" eng="Vlorë" de="Vlora" fr="Vlora" es="Vlorë" it="Valona" nl="Vlorë" />
       <longitude>19.484573</longitude>
       <latitude>40.414701</latitude>
@@ -17058,24 +17394,24 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="モスタル" eng="Mostar" de="Mostar" fr="Mostar" es="Mostar" it="Mostar" nl="Mostar">
+    <city jpn="モスタル" eng="Mostar" de="Mostar" fr="Mostar" es="Mostar" it="Mostar" nl="Mostar">
       <province jpn="ヘルツェゴビナ＝ネレトヴァ県" eng="Herzegovina-Neretva" de="Herzegowina-Neretva" fr="Herzégovine-Neretva" es="Herzegovina-Neretva" it="Erzegovina-Narenta" nl="Herzegovina-Neretva" />
       <longitude>17.803017</longitude>
       <latitude>43.303445</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="バニャ・ルカ" eng="Banja Luka" de="Banja Luka" fr="Banja Luka" es="Bania Luka" it="Banja Luka" nl="Banja Luka">
+    <city jpn="バニャ・ルカ" eng="Banja Luka" de="Banja Luka" fr="Banja Luka" es="Bania Luka" it="Banja Luka" nl="Banja Luka">
       <province jpn="ヘルツェゴビナ＝ネレトヴァ県" eng="Republic of Srpska" de="Republika Srpska" fr="République serbe" es="República Serbia" it="Repubblica Serba" nl="Servische Republiek" />
-      <longitude>17.189170</longitude>
+      <longitude>17.18917</longitude>
       <latitude>44.760645</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="トゥズラ" eng="Tuzla" de="Tuzla" fr="Tuzla" es="Tuzla" it="Tuzla" nl="Tuzla">
+    <city jpn="トゥズラ" eng="Tuzla" de="Tuzla" fr="Tuzla" es="Tuzla" it="Tuzla" nl="Tuzla">
       <province jpn="トゥズラ県" eng="Tuzla" de="Tuzla" fr="Tuzla" es="Tuzla" it="Tuzla" nl="Tuzla" />
       <longitude>18.717291</longitude>
-      <latitude>44.522410</latitude>
+      <latitude>44.52241</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -17106,28 +17442,28 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ブルガス" eng="Burgas" de="Burgas" fr="Bourgas" es="Burgas" it="Burgas" nl="Burgas">
+    <city jpn="ブルガス" eng="Burgas" de="Burgas" fr="Bourgas" es="Burgas" it="Burgas" nl="Burgas">
       <province jpn="ブルガス" eng="Burgas" de="Burgas" fr="Bourgas" es="Burgas" it="Burgas" nl="Burgas" />
       <longitude>27.465567</longitude>
-      <latitude>42.493140</latitude>
+      <latitude>42.49314</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="プロヴディフ" eng="Plovdiv" de="Plowdiw" fr="Plovdiv" es="Plovdiv" it="Plovdiv" nl="Plovdiv">
+    <city jpn="プロヴディフ" eng="Plovdiv" de="Plowdiw" fr="Plovdiv" es="Plovdiv" it="Plovdiv" nl="Plovdiv">
       <province jpn="プロヴディフ" eng="Plovdiv" de="Plowdiw" fr="Plovdiv" es="Plovdiv" it="Plovdiv" nl="Plovdiv" />
       <longitude>24.758719</longitude>
       <latitude>42.125844</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴァルナ" eng="Varna" de="Warna" fr="Varna" es="Varna" it="Varna" nl="Varna">
+    <city jpn="ヴァルナ" eng="Varna" de="Warna" fr="Varna" es="Varna" it="Varna" nl="Varna">
       <province jpn="ヴァルナ" eng="Varna" de="Warna" fr="Varna" es="Varna" it="Varna" nl="Varna" />
       <longitude>27.932507</longitude>
       <latitude>43.202793</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴェリコ・タルノヴォ" eng="Veliko Tarnovo" de="Weliko Tarnowo" fr="Veliko Tarnovo" es="Veliko Tarnovo" it="Veliko Tarnovo" nl="Veliko Tarnovo">
+    <city jpn="ヴェリコ・タルノヴォ" eng="Veliko Tarnovo" de="Weliko Tarnowo" fr="Veliko Tarnovo" es="Veliko Tarnovo" it="Veliko Tarnovo" nl="Veliko Tarnovo">
       <province jpn="ヴェリコ・タルノヴォ" eng="Veliko Tarnovo" de="Weliko Tarnowo" fr="Veliko Tarnovo" es="Veliko Tarnovo" it="Veliko Tarnovo" nl="Veliko Tarnovo" />
       <longitude>25.580855</longitude>
       <latitude>43.070758</latitude>
@@ -17144,28 +17480,28 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="オシエク" eng="Osijek" de="Osijek" fr="Osijek" es="Osijek" it="Òssero" nl="Osijek">
+    <city jpn="オシエク" eng="Osijek" de="Osijek" fr="Osijek" es="Osijek" it="Òssero" nl="Osijek">
       <province jpn="プリモリェ＝ゴルスキ・コタル郡" eng="Osijek-Baranja" de="Osijek-Baranja" fr="Osijek-Baranja" es="Osijek-Baraña" it="Regione di Osijek e della Baranja" nl="Osijek-Baranja" />
       <longitude>18.862802</longitude>
       <latitude>45.553481</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="リエカ" eng="Rijeka" de="Rijeka" fr="Rijeka" es="Rijeka" it="Fiume" nl="Rijeka">
+    <city jpn="リエカ" eng="Rijeka" de="Rijeka" fr="Rijeka" es="Rijeka" it="Fiume" nl="Rijeka">
       <province jpn="プリモリェ＝ゴルスキ・コタル郡" eng="Primorje-Gorski Kotar" de="Primorje-Gorski Kotar" fr="Primorje-Gorski Kotar" es="Primorje-Gorski Kotar" it="Regione litoraneo-montana" nl="Primorje-Gorski Kotar" />
       <longitude>14.328167</longitude>
       <latitude>45.355211</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="スプリト" eng="Split" de="Split" fr="Split" es="Split" it="Spalato" nl="Split">
+    <city jpn="スプリト" eng="Split" de="Split" fr="Split" es="Split" it="Spalato" nl="Split">
       <province jpn="スプリト＝ダルマチア郡" eng="Split-Dalmatia" de="Split-Dalmatien" fr="Split-Dalmatie" es="Split-Dalmacia" it="Regione spalatino-dalmata" nl="Split-Dalmatië" />
       <longitude>16.451068</longitude>
       <latitude>43.502362</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ザダル" eng="Zadar" de="Zadar" fr="Zadar" es="Zadar" it="Zara" nl="Zadar">
+    <city jpn="ザダル" eng="Zadar" de="Zadar" fr="Zadar" es="Zadar" it="Zara" nl="Zadar">
       <province jpn="ザダル郡" eng="Zadar" de="Zadar" fr="Zadar" es="Zadar" it="Regione zaratina" nl="Zadar" />
       <longitude>15.204334</longitude>
       <latitude>44.121415</latitude>
@@ -17182,7 +17518,7 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="パフォス" eng="Paphos" de="Paphos" fr="Paphos" es="Pafos" it="Pafo" nl="Paphos">
+    <city jpn="パフォス" eng="Paphos" de="Paphos" fr="Paphos" es="Pafos" it="Pafo" nl="Paphos">
       <province jpn="パフォス" eng="Paphos" de="Paphos" fr="Paphos" es="Pafos" it="Pafo" nl="Paphos" />
       <longitude>32.419257</longitude>
       <latitude>34.740661</latitude>
@@ -17199,35 +17535,35 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ブルノ" eng="Brno" de="Brünn" fr="Brno" es="Brno" it="Brno" nl="Brno">
+    <city jpn="ブルノ" eng="Brno" de="Brünn" fr="Brno" es="Brno" it="Brno" nl="Brno">
       <province jpn="南モラヴィア州" eng="South Moravia" de="Südmährische Region" fr="Moravie-du-Sud" es="Moravia Meridional" it="Moravia Meridionale" nl="Zuid-Moravië" />
       <longitude>16.611796</longitude>
       <latitude>49.187052</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="オストラヴァ" eng="Ostrava" de="Ostrau" fr="Ostrava" es="Ostrava" it="Ostrava" nl="Ostrava">
+    <city jpn="オストラヴァ" eng="Ostrava" de="Ostrau" fr="Ostrava" es="Ostrava" it="Ostrava" nl="Ostrava">
       <province jpn="モラヴィア・スレスコ州" eng="Moravia-Silesia" de="Mährisch-Schlesische Region" fr="Moravie-Silésie" es="Moravia-Silesia" it="Moravia-Slesia" nl="Moravië-Silezië" />
       <longitude>18.536243</longitude>
       <latitude>49.826907</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="プルゼニ" eng="Pilsen" de="Pilsen" fr="Pilsen" es="Pilsen" it="Pilsen" nl="Pilsen">
+    <city jpn="プルゼニ" eng="Pilsen" de="Pilsen" fr="Pilsen" es="Pilsen" it="Pilsen" nl="Pilsen">
       <province jpn="プルゼニ州" eng="Pilsen" de="Pilsner Region" fr="Pilsen" es="Pilsen" it="Pilsen" nl="Pilsen" />
       <longitude>13.363017</longitude>
       <latitude>49.733775</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="チェスケー・ブジェヨヴィツェ" eng="Ceske Budejovice" de="Budweis" fr="Ceske Budejovice" es="Ceske Budejovice" it="Ceske Budejovice" nl="Ceske Budejovice">
+    <city jpn="チェスケー・ブジェヨヴィツェ" eng="Ceske Budejovice" de="Budweis" fr="Ceske Budejovice" es="Ceske Budejovice" it="Ceske Budejovice" nl="Ceske Budejovice">
       <province jpn="南ボヘミア州" eng="South Bohemia" de="Südböhmische Region" fr="Bohême-du-Sud" es="Bohemia Meridional" it="Boemia Meridionale" nl="Zuid-Bohemen" />
       <longitude>14.015481</longitude>
       <latitude>50.730035</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ウースチー・ナド・ラベム" eng="Ústí nad Labem" de="Aussig an der Elbe" fr="Ústí nad Labem" es="Ústí nad Labem" it="Ústí nad Labem" nl="Ústí nad Labem">
+    <city jpn="ウースチー・ナド・ラベム" eng="Ústí nad Labem" de="Aussig an der Elbe" fr="Ústí nad Labem" es="Ústí nad Labem" it="Ústí nad Labem" nl="Ústí nad Labem">
       <province jpn="ウースチー州" eng="Ústí nad Labem" de="Aussiger Region" fr="Ústí nad Labem" es="Ústí nad Labem" it="Ústí nad Labem" nl="Ústí nad Labem" />
       <longitude>14.005511</longitude>
       <latitude>50.738365</latitude>
@@ -17244,28 +17580,28 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ナルヴァ" eng="Narva" de="Narva" fr="Narva" es="Narva" it="Narva" nl="Narva">
+    <city jpn="ナルヴァ" eng="Narva" de="Narva" fr="Narva" es="Narva" it="Narva" nl="Narva">
       <province jpn="イダ・ビルマ" eng="Ida-Viru" de="Ida-Viru" fr="Ida-Viru" es="Ida-Viru" it="Ida-Viru" nl="Ida-Viru" />
       <longitude>28.206537</longitude>
-      <latitude>59.382240</latitude>
+      <latitude>59.38224</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ピャルヌ" eng="Pärnu" de="Pärnu" fr="Pärnu" es="Pärnu" it="Pärnu" nl="Pärnu">
+    <city jpn="ピャルヌ" eng="Pärnu" de="Pärnu" fr="Pärnu" es="Pärnu" it="Pärnu" nl="Pärnu">
       <province jpn="ピャルヌ" eng="Pärnu" de="Pärnu" fr="Pärnu" es="Pärnu" it="Pärnu" nl="Pärnu" />
       <longitude>24.487059</longitude>
       <latitude>58.378353</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="クレサーレ" eng="Kuressaare" de="Kuressaare" fr="Kuressaare" es="Kuressaare" it="Kuressaare" nl="Kuressaare">
+    <city jpn="クレサーレ" eng="Kuressaare" de="Kuressaare" fr="Kuressaare" es="Kuressaare" it="Kuressaare" nl="Kuressaare">
       <province jpn="サーレ" eng="Saare" de="Saare" fr="Saare" es="Saare" it="Saare" nl="Saare" />
       <longitude>22.490669</longitude>
       <latitude>58.233914</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="タルトゥ" eng="Tartu" de="Tartu" fr="Tartumaa" es="Tartu" it="Tartumaa" nl="Tartu">
+    <city jpn="タルトゥ" eng="Tartu" de="Tartu" fr="Tartumaa" es="Tartu" it="Tartumaa" nl="Tartu">
       <province jpn="タルトゥ" eng="Tartu" de="Tartu" fr="Tartu" es="Tartu" it="Tartu" nl="Tartu" />
       <longitude>26.741829</longitude>
       <latitude>58.367982</latitude>
@@ -17282,42 +17618,42 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ペーチ" eng="Pécs" de="Fünfkirchen" fr="Pécs" es="Pécs" it="Pécs" nl="Pécs">
+    <city jpn="ペーチ" eng="Pécs" de="Fünfkirchen" fr="Pécs" es="Pécs" it="Pécs" nl="Pécs">
       <province jpn="バラニャ州" eng="Baranya" de="Baranya" fr="Baranya" es="Baranya" it="Baranya" nl="Baranya" />
       <longitude>18.226604</longitude>
       <latitude>46.037711</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ミシュコルツ" eng="Miskolc" de="Mischkolz" fr="Miskolc" es="Miskolc" it="Miskolc" nl="Miskolc">
+    <city jpn="ミシュコルツ" eng="Miskolc" de="Mischkolz" fr="Miskolc" es="Miskolc" it="Miskolc" nl="Miskolc">
       <province jpn="ボルショド・アバウーイ・ゼンプレーン州" eng="Borsod-Abaúj-Zemplén" de="Borsod-Abaúj-Zemplén" fr="Borsod-Abaúj-Zemplén" es="Borsod-Abaúj-Zemplén" it="Borsod-Abaúj-Zemplén" nl="Borsod-Abaúj-Zemplén" />
       <longitude>20.770265</longitude>
-      <latitude>48.136260</latitude>
+      <latitude>48.13626</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="セゲド" eng="Szeged" de="Szegedin" fr="Szeged" es="Szeged" it="Szeged" nl="Szeged">
+    <city jpn="セゲド" eng="Szeged" de="Szegedin" fr="Szeged" es="Szeged" it="Szeged" nl="Szeged">
       <province jpn="チョングラード・チャナード州" eng="Csongrád-Csanád" de="Csongrád-Csanád" fr="Csongrád-Csanád" es="Csongrád-Csanád" it="Csongrád-Csanád" nl="Csongrád-Csanád" />
       <longitude>20.141146</longitude>
-      <latitude>46.248170</latitude>
+      <latitude>46.24817</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ジェール" eng="Gyor" de="Raab" fr="Gyor" es="Gyor" it="Gyor" nl="Gyor">
+    <city jpn="ジェール" eng="Gyor" de="Raab" fr="Gyor" es="Gyor" it="Gyor" nl="Gyor">
       <province jpn="ジェール・モション・ショプロン州" eng="Gyor-Moson-Sopron" de="Gyor-Moson-Sopron" fr="Gyor-Moson-Sopron" es="Gyor-Moson-Sopron" it="Gyor-Moson-Sopron" nl="Gyor-Moson-Sopron" />
       <longitude>17.701539</longitude>
       <latitude>47.704356</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="デブレツェン" eng="Debrecen" de="Debrezin" fr="Debrecen" es="Debrecen" it="Debrecen" nl="Debrecen">
+    <city jpn="デブレツェン" eng="Debrecen" de="Debrezin" fr="Debrecen" es="Debrecen" it="Debrecen" nl="Debrecen">
       <province jpn="ハイドゥー・ヒバル州" eng="Hajdú-Bihar" de="Hajdú-Bihar" fr="Hajdú-Bihar" es="Hajdú-Bihar" it="Hajdú-Bihar" nl="Hajdú-Bihar" />
       <longitude>21.648795</longitude>
       <latitude>47.528535</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ソンバトヘイ" eng="Szombathely" de="Steinamanger" fr="Szombathely" es="Szombathely" it="Szombathely" nl="Szombathely">
+    <city jpn="ソンバトヘイ" eng="Szombathely" de="Steinamanger" fr="Szombathely" es="Szombathely" it="Szombathely" nl="Szombathely">
       <province jpn="ヴァシュ州" eng="Vas" de="Vas" fr="Vas" es="Vas" it="Vas" nl="Vas" />
       <longitude>16.577567</longitude>
       <latitude>47.237078</latitude>
@@ -17334,52 +17670,52 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="セイジスフィヨルズル" eng="Seyðisfjörður" de="Seyðisfjörður" fr="Seyðisfjörður" es="Seyðisfjörður" it="Seyðisfjörður" nl="Seyðisfjörður">
+    <city jpn="セイジスフィヨルズル" eng="Seyðisfjörður" de="Seyðisfjörður" fr="Seyðisfjörður" es="Seyðisfjörður" it="Seyðisfjörður" nl="Seyðisfjörður">
       <province jpn="東アイスランド" eng="Austurland" de="Austurland" fr="Austurland" es="Austurland" it="Austurland" nl="Austurland" />
       <longitude>-13.977546</longitude>
       <latitude>65.257162</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="アークレイリ" eng="Akureyri" de="Akureyri" fr="Akureyri" es="Akureyri" it="Akureyri" nl="Akureyri">
+    <city jpn="アークレイリ" eng="Akureyri" de="Akureyri" fr="Akureyri" es="Akureyri" it="Akureyri" nl="Akureyri">
       <province jpn="北アイスランド（東部）" eng="Norðurland eystra" de="Norðurland eystra" fr="Norðurland eystra" es="Norðurland eystra" it="Norðurland eystra" nl="Norðurland eystra" />
       <longitude>-18.091624</longitude>
       <latitude>65.679224</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="レイキャネスベア" eng="Reykjanesbær" de="Reykjanesbær" fr="Reykjanesbær" es="Reykjanesbær" it="Reykjanesbær" nl="Reykjanesbær">
+    <city jpn="レイキャネスベア" eng="Reykjanesbær" de="Reykjanesbær" fr="Reykjanesbær" es="Reykjanesbær" it="Reykjanesbær" nl="Reykjanesbær">
       <province jpn="南西アイスランド" eng="Suðurnes" de="Suðurnes" fr="Suðurnes" es="Suðurnes" it="Suðurnes" nl="Suðurnes" />
       <longitude>-22.553859</longitude>
       <latitude>63.999435</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="セールフォス" eng="Selfoss" de="Selfoss" fr="Selfoss" es="Selfoss" it="Selfoss" nl="Selfoss">
+    <city jpn="セールフォス" eng="Selfoss" de="Selfoss" fr="Selfoss" es="Selfoss" it="Selfoss" nl="Selfoss">
       <province jpn="南アイスランド" eng="Suðurland" de="Suðurland" fr="Suðurland" es="Suðurland" it="Suðurland" nl="Suðurland" />
       <longitude>-20.999716</longitude>
       <latitude>63.933886</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴェストマン諸島" eng="Vestmannaeyjar" de="Vestmannaeyjar" fr="Vestmannaeyjar" es="Vestmannaeyjar" it="Vestmannaeyjar" nl="Vestmannaeyjar">
+    <city jpn="ヴェストマン諸島" eng="Vestmannaeyjar" de="Vestmannaeyjar" fr="Vestmannaeyjar" es="Vestmannaeyjar" it="Vestmannaeyjar" nl="Vestmannaeyjar">
       <province jpn="南アイスランド" eng="Suðurland" de="Suðurland" fr="Suðurland" es="Suðurland" it="Suðurland" nl="Suðurland" />
       <longitude>-20.279656</longitude>
       <latitude>63.422794</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴィーク" eng="Vík í Mýrdal" de="Vík í Mýrdal" fr="Vík í Mýrdal" es="Vík í Mýrdal" it="Vík í Mýrdal" nl="Vík í Mýrdal">
+    <city jpn="ヴィーク" eng="Vík í Mýrdal" de="Vík í Mýrdal" fr="Vík í Mýrdal" es="Vík í Mýrdal" it="Vík í Mýrdal" nl="Vík í Mýrdal">
       <province jpn="南アイスランド" eng="Suðurland" de="Suðurland" fr="Suðurland" es="Suðurland" it="Suðurland" nl="Suðurland" />
-      <longitude>-19.005790</longitude>
+      <longitude>-19.00579</longitude>
       <latitude>63.417179</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="イーサフィヨルズゥル" eng="Ísafjörður" de="Ísafjörður" fr="Ísafjörður" es="Ísafjörður" it="Ísafjörður" nl="Ísafjörður">
+    <city jpn="イーサフィヨルズゥル" eng="Ísafjörður" de="Ísafjörður" fr="Ísafjörður" es="Ísafjörður" it="Ísafjörður" nl="Ísafjörður">
       <province jpn="西部フィヨルド" eng="Vestfirðir" de="Vestfirðir" fr="Vestfirðir" es="Vestfirðir" it="Vestfirðir" nl="Vestfirðir" />
       <longitude>-23.139755</longitude>
-      <latitude>66.074360</latitude>
+      <latitude>66.07436</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -17393,21 +17729,21 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ダウガフピルス" eng="Daugavpils" de="Daugavpils" fr="Daugavpils" es="Daugavpils" it="Daugavpils" nl="Daugavpils">
+    <city jpn="ダウガフピルス" eng="Daugavpils" de="Daugavpils" fr="Daugavpils" es="Daugavpils" it="Daugavpils" nl="Daugavpils">
       <province jpn="ダウガフピルス" eng="Daugavpils" de="Daugavpils" fr="Daugavpils" es="Daugavpils" it="Daugavpils" nl="Daugavpils" />
-      <longitude>26.547420</longitude>
+      <longitude>26.54742</longitude>
       <latitude>55.880923</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="イェルガヴァ" eng="Jelgava" de="Jelgava" fr="Jelgava" es="Jelgava" it="Jelgava" nl="Jelgava">
+    <city jpn="イェルガヴァ" eng="Jelgava" de="Jelgava" fr="Jelgava" es="Jelgava" it="Jelgava" nl="Jelgava">
       <province jpn="イェルガヴァ" eng="Jelgava" de="Jelgava" fr="Jelgava" es="Jelgava" it="Jelgava" nl="Jelgava" />
       <longitude>23.680681</longitude>
       <latitude>56.629446</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="リエパーヤ" eng="Liepaja" de="Liepaja" fr="Liepaja" es="Liepaja" it="Liepaja" nl="Liepaja">
+    <city jpn="リエパーヤ" eng="Liepaja" de="Liepaja" fr="Liepaja" es="Liepaja" it="Liepaja" nl="Liepaja">
       <province jpn="リエパーヤ" eng="Liepaja" de="Liepaja" fr="Liepaja" es="Liepaja" it="Liepaja" nl="Liepaja" />
       <longitude>21.003591</longitude>
       <latitude>56.535918</latitude>
@@ -17444,21 +17780,21 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="カウナス" eng="Kaunas" de="Kaunas" fr="Kaunas" es="Kaunas" it="Kaunas" nl="Kaunas">
+    <city jpn="カウナス" eng="Kaunas" de="Kaunas" fr="Kaunas" es="Kaunas" it="Kaunas" nl="Kaunas">
       <province jpn="カウナス州" eng="Kaunas" de="Kaunas" fr="Kaunas" es="Kaunas" it="Kaunas" nl="Kaunas" />
       <longitude>23.874944</longitude>
       <latitude>54.898539</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="クライペダ" eng="Klaipeda" de="Klaipeda" fr="Klaipeda" es="Klaipeda" it="Klaipeda" nl="Klaipeda">
+    <city jpn="クライペダ" eng="Klaipeda" de="Klaipeda" fr="Klaipeda" es="Klaipeda" it="Klaipeda" nl="Klaipeda">
       <province jpn="クライペダ州" eng="Klaipeda" de="Klaipeda" fr="Klaipeda" es="Klaipeda" it="Klaipeda" nl="Klaipeda" />
       <longitude>21.106802</longitude>
       <latitude>55.698819</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="シャウレイ" eng="Siauliai" de="Siauliai" fr="Siauliai" es="Siauliai" it="Siauliai" nl="Siauliai">
+    <city jpn="シャウレイ" eng="Siauliai" de="Siauliai" fr="Siauliai" es="Siauliai" it="Siauliai" nl="Siauliai">
       <province jpn="シャウレイ州" eng="Siauliai" de="Siauliai" fr="Siauliai" es="Siauliai" it="Siauliai" nl="Siauliai" />
       <longitude>23.315448</longitude>
       <latitude>55.923085</latitude>
@@ -17475,7 +17811,7 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ビトラ" eng="Bitola" de="Bitola" fr="Bitola" es="Bitola" it="Bitola" nl="Bitola">
+    <city jpn="ビトラ" eng="Bitola" de="Bitola" fr="Bitola" es="Bitola" it="Bitola" nl="Bitola">
       <province jpn="ペラゴニア" eng="Pelagonia" de="Pelagonia" fr="Pelagonia" es="Pelagonia" it="Pelagonia" nl="Pelagonia" />
       <longitude>21.320485</longitude>
       <latitude>41.028475</latitude>
@@ -17492,17 +17828,17 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="コーミ" eng="Qormi" de="Qormi" fr="Qormi" es="Qormi" it="Qormi" nl="Qormi">
+    <city jpn="コーミ" eng="Qormi" de="Qormi" fr="Qormi" es="Qormi" it="Qormi" nl="Qormi">
       <province jpn="南地域" eng="Southern Region" de="Süd" fr="Sud" es="Sur" it="Sud" nl="Zuid" />
       <longitude>14.459827</longitude>
       <latitude>35.860618</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴィクトリア" eng="Victoria" de="Victoria" fr="Victoria" es="Victoria" it="Victoria" nl="Victoria">
+    <city jpn="ヴィクトリア" eng="Victoria" de="Victoria" fr="Victoria" es="Victoria" it="Victoria" nl="Victoria">
       <province jpn="ゴゾ・コミーノ" eng="Gozo and Comino" de="Gozo und Comino" fr="Gozo et Comino" es="Gozo y Comino" it="Gozo e Comino" nl="Gozo en Comino" />
       <longitude>14.239969</longitude>
-      <latitude>36.044130</latitude>
+      <latitude>36.04413</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -17526,7 +17862,7 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ナンプラ州" eng="Nampula" de="Nampula" fr="Nampula" es="Nampula" it="Nampula" nl="Nampula">
+    <city jpn="ナンプラ州" eng="Nampula" de="Nampula" fr="Nampula" es="Nampula" it="Nampula" nl="Nampula">
       <province jpn="ナンプラ" eng="Nampula" de="Nampula" fr="Nampula" es="Nampula" it="Nampula" nl="Nampula" />
       <longitude>39.277387</longitude>
       <latitude>-15.066444</latitude>
@@ -17553,28 +17889,28 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="クラクフ" eng="Kraków" de="Krakau" fr="Cracovie" es="Cracovia" it="Cracovia" nl="Kraków">
+    <city jpn="クラクフ" eng="Kraków" de="Krakau" fr="Cracovie" es="Cracovia" it="Cracovia" nl="Kraków">
       <province jpn="マウォポルスカ" eng="Lesser Poland" de="Kleinpolen" fr="Petite-Pologne" es="Pequeña Polonia" it="Piccola Polonia" nl="Klein-Polen" />
       <longitude>21.005859375</longitude>
       <latitude>52.239990234375</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="グダニスク" eng="Gdansk" de="Danzig" fr="Gdansk" es="Gdansk" it="Gdansk" nl="Gdansk">
+    <city jpn="グダニスク" eng="Gdansk" de="Danzig" fr="Gdansk" es="Gdansk" it="Gdansk" nl="Gdansk">
       <province jpn="ポモージェ" eng="Pomerania" de="Pommern" fr="Poméranie" es="Pomerania" it="Pomerania" nl="Pommeren" />
       <longitude>18.6328125</longitude>
       <latitude>54.3658447265625</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="シュチェチン" eng="Szczecin" de="Stettin" fr="Szczecin" es="Szczecin" it="Szczecin" nl="Szczecin">
+    <city jpn="シュチェチン" eng="Szczecin" de="Stettin" fr="Szczecin" es="Szczecin" it="Szczecin" nl="Szczecin">
       <province jpn="西ポモージェ" eng="Western Pomerania" de="Westpommern" fr="Poméranie Occidentale" es="Pomerania Occidental" it="Pomerania Occidentale" nl="West-Pommeren" />
       <longitude>14.5458984375</longitude>
       <latitude>53.4320068359375</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="シュチェチン" eng="Wroclaw" de="Breslau" fr="Vratislavie" es="Breslavia" it="Breslavia" nl="Wroclaw">
+    <city jpn="シュチェチン" eng="Wroclaw" de="Breslau" fr="Vratislavie" es="Breslavia" it="Breslavia" nl="Wroclaw">
       <province jpn="シュレジエン" eng="Silesia" de="Schlesien" fr="Silésie" es="Silesia" it="Slesia" nl="Silezië" />
       <longitude>17.02880859375</longitude>
       <latitude>51.097412109375</latitude>
@@ -17582,8 +17918,8 @@
       <zoom2>3</zoom2>
     </city>
   </country>
-    <country>
-	<name jpn="ルーマニア" eng="Romania" de="Rumänien" fr="Roumanie" es="Rumanía" it="Romania" nl="Roemenië" />
+  <country>
+    <name jpn="ルーマニア" eng="Romania" de="Rumänien" fr="Roumanie" es="Rumanía" it="Romania" nl="Roemenië" />
     <city jpn="ブカレスト" eng="Bucharest" de="Bukarest" fr="Bucarest" es="Bucarest" it="Bucarest" nl="Boekarest">
       <province jpn="ブカレスト州" eng="Bucharest" de="Bukarest" fr="Bucarest" es="Bucarest" it="Bucarest" nl="Boekarest" />
       <longitude>26.08154296875</longitude>
@@ -17591,29 +17927,29 @@
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
-  <city jpn="クルージュ＝ナポカ" eng="Cluj-Napoca" de="Cluj-Napoca" fr="Cluj-Napoca" es="Cluj-Napoca" it="Cluj-Napoca" nl="Cluj-Napoca">
+    <city jpn="クルージュ＝ナポカ" eng="Cluj-Napoca" de="Cluj-Napoca" fr="Cluj-Napoca" es="Cluj-Napoca" it="Cluj-Napoca" nl="Cluj-Napoca">
       <province jpn="クルージュ県" eng="Cluj County" de="Kreis Cluj" fr="Département de Cluj" es="Distrito de Cluj" it="Distretto di Cluj" nl="District Cluj" />
       <longitude>23.5821533203125</longitude>
       <latitude>46.7633056640625</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヤシ" eng="Iasi" de="Iasi" fr="Iasi" es="Iasi" it="Iasi" nl="Iasi">
+    <city jpn="ヤシ" eng="Iasi" de="Iasi" fr="Iasi" es="Iasi" it="Iasi" nl="Iasi">
       <province jpn="ヤシ" eng="Iasi" de="Iasi" fr="Iasi" es="Iasi" it="Iasi" nl="Iasi" />
       <longitude>27.586669921875</longitude>
       <latitude>47.1533203125</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ティミショアラ" eng="Timisoara" de="Temeswar" fr="Timisoara" es="Timisoara" it="Timisoara" nl="Timisoara">
+    <city jpn="ティミショアラ" eng="Timisoara" de="Temeswar" fr="Timisoara" es="Timisoara" it="Timisoara" nl="Timisoara">
       <province jpn="ティミショアラ" eng="Timis County" de="Kreis Timis" fr="Département de Timis" es="Distrito de Timis" it="Distretto de Timis" nl="District Timis" />
       <longitude>21.2255859375</longitude>
       <latitude>45.758056640625</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	</country>
-	<country>
+  </country>
+  <country>
     <name jpn="ロシア" eng="Russia" de="Russland" fr="Russie" es="Rusia" it="Russia" nl="Rusland" />
     <city jpn="モスクワ" eng="Moscow" de="Moskau" fr="Moscou" es="Moscú" it="Mosca" nl="Moskou">
       <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
@@ -17622,63 +17958,63 @@
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="イルクーツク" eng="Irkutsk" de="Irkutsk" fr="Irkoutsk" es="Irkutsk" it="Irkutsk" nl="Irkoetsk">
+    <city jpn="イルクーツク" eng="Irkutsk" de="Irkutsk" fr="Irkoutsk" es="Irkutsk" it="Irkutsk" nl="Irkoetsk">
       <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" />
       <longitude>104.2327880859375</longitude>
       <latitude>52.3114013671875</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ハバロフスク" eng="Khabarovsk" de="Chabarowsk" fr="Khabarovsk" es="Jabarovsk" it="Khabarovsk" nl="Chabarovsk">
+    <city jpn="ハバロフスク" eng="Khabarovsk" de="Chabarowsk" fr="Khabarovsk" es="Jabarovsk" it="Khabarovsk" nl="Chabarovsk">
       <province jpn="極東連邦管区" eng="Far Eastern Federal District" de="Ferner Osten" fr="District fédéral extrême-oriental" es="Distrito Federal de Extremo Oriente" it="Estremo Oriente Russo" nl="Federaal District Verre Oosten" />
       <longitude>135.087890625</longitude>
       <latitude>48.482666015625</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ウラジオストク" eng="Vladivostok" de="Wladiwostok" fr="Vladivostok" es="Vladivostok" it="Vladivostok" nl="Vladivostok">
+    <city jpn="ウラジオストク" eng="Vladivostok" de="Wladiwostok" fr="Vladivostok" es="Vladivostok" it="Vladivostok" nl="Vladivostok">
       <province jpn="極東連邦管区" eng="Far Eastern Federal District" de="Ferner Osten" fr="District fédéral extrême-oriental" es="Distrito Federal de Extremo Oriente" it="Estremo Oriente Russo" nl="Federaal District Verre Oosten" />
       <longitude>131.912841796875</longitude>
       <latitude>43.1158447265625</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ユジノ・サハリンスク" eng="Yuzhno-Sakhalinsk" de="Juschno-Sachalinsk" fr="Ioujno Sakhalinsk" es="Yuzhno-Sakhalinsk" it="Yuzhno-Sakhalinsk" nl="Joezjno-Sachalinsk">
+    <city jpn="ユジノ・サハリンスク" eng="Yuzhno-Sakhalinsk" de="Juschno-Sachalinsk" fr="Ioujno Sakhalinsk" es="Yuzhno-Sakhalinsk" it="Yuzhno-Sakhalinsk" nl="Joezjno-Sachalinsk">
       <province jpn="極東連邦管区" eng="Far Eastern Federal District" de="Ferner Osten" fr="District fédéral extrême-oriental" es="Distrito Federal de Extremo Oriente" it="Estremo Oriente Russo" nl="Federaal District Verre Oosten" />
       <longitude>142.7178955078125</longitude>
       <latitude>46.944580078125</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="サンクトペテルブルク" eng="Saint Petersburg" de="Sankt Petersburg" fr="Saint-Pétersbourg" es="San Petersburgo" it="San Pietroburgo" nl="Sint-Petersburg">
+    <city jpn="サンクトペテルブルク" eng="Saint Petersburg" de="Sankt Petersburg" fr="Saint-Pétersbourg" es="San Petersburgo" it="San Pietroburgo" nl="Sint-Petersburg">
       <province jpn="北西連邦管区" eng="Northwestern Federal District" de="Nordwestrussland" fr="District fédéral du Nord-Ouest" es="Distrito Federal del Noroeste" it="Distretto Federale Nordoccidentale" nl="Noordwestelijk Federaal District" />
       <longitude>30.43212890625</longitude>
       <latitude>59.930419921875</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ノヴォシビルスク" eng="Novosibirsk" de="Nowosibirsk" fr="Novossibirsk" es="Novosibirsk" it="Novosibirsk" nl="Novosibirsk">
+    <city jpn="ノヴォシビルスク" eng="Novosibirsk" de="Nowosibirsk" fr="Novossibirsk" es="Novosibirsk" it="Novosibirsk" nl="Novosibirsk">
       <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" />
       <longitude>82.895197</longitude>
       <latitude>54.956727</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="グロズヌイ" eng="Grozny" de="Grosny" fr="Grozny" es="Grozni" it="Grozny" nl="Grozny">
+    <city jpn="グロズヌイ" eng="Grozny" de="Grosny" fr="Grozny" es="Grozni" it="Grozny" nl="Grozny">
       <province jpn="南部連邦管区" eng="Southern Federal District" de="Südrussland" fr="District fédéral du Sud" es="Distrito Federal Meridional" it="Distretto Federale Meridionale" nl="Zuidelijk Federaal District" />
       <longitude>45.68115234375</longitude>
       <latitude>43.2916259765625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="エカテリンブルク" eng="Yekaterinburg" de="Jekaterinburg" fr="Ekaterinbourg" es="Ekaterimburgo" it="Ekaterinburg" nl="Ekaterinburg">
+    <city jpn="エカテリンブルク" eng="Yekaterinburg" de="Jekaterinburg" fr="Ekaterinbourg" es="Ekaterimburgo" it="Ekaterinburg" nl="Ekaterinburg">
       <province jpn="ウラル連邦管区" eng="Urals Federal District" de="Ural" fr="District fédéral de l'Oural" es="Distrito Federal de los Urales" it="Distretto Federale degli Urali" nl="Federaal District Oeral" />
       <longitude>60.57861328125</longitude>
       <latitude>56.832275390625</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="カザン" eng="Kazan" de="Kasan" fr="Kazan" es="Kazán" it="Kazàn" nl="Kazan">
+    <city jpn="カザン" eng="Kazan" de="Kasan" fr="Kazan" es="Kazán" it="Kazàn" nl="Kazan">
       <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
       <longitude>49.046635</longitude>
       <latitude>55.771366</latitude>
@@ -17695,17 +18031,17 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ニシュ" eng="Nis" de="Nis" fr="Nis" es="Nis" it="Nis" nl="Nis">
+    <city jpn="ニシュ" eng="Nis" de="Nis" fr="Nis" es="Nis" it="Nis" nl="Nis">
       <province jpn="中央セルビア" eng="Central Serbia" de="Engeres Serbien" fr="Serbie Intérieure" es="Serbia Central" it="Serbia Centrale" nl="Centraal Servië" />
       <longitude>21.887544</longitude>
       <latitude>43.318814</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ベオグラード" eng="Novi Sad" de="Neusatz" fr="Novi Sad" es="Novi Sad" it="Novi Sad" nl="Novi Sad">
+    <city jpn="ベオグラード" eng="Novi Sad" de="Neusatz" fr="Novi Sad" es="Novi Sad" it="Novi Sad" nl="Novi Sad">
       <province jpn="ボイボディナ" eng="Vojvodina" de="Wojwodina" fr="Voïvodine" es="Vojvodina" it="Vojvodina" nl="Vojvodina" />
       <longitude>19.810264</longitude>
-      <latitude>45.241340</latitude>
+      <latitude>45.24134</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -17719,7 +18055,7 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="コシツェ" eng="Kosice" de="Kosice" fr="Kosice" es="Kosice" it="Kosice" nl="Kosice">
+    <city jpn="コシツェ" eng="Kosice" de="Kosice" fr="Kosice" es="Kosice" it="Kosice" nl="Kosice">
       <province jpn="コシツェ" eng="Kosice" de="Kosice" fr="Kosice" es="Kosice" it="Kosice" nl="Kosice" />
       <longitude>21.266328</longitude>
       <latitude>48.707502</latitude>
@@ -17736,7 +18072,7 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="マリボル" eng="Maribor" de="Maribor" fr="Maribor" es="Maribor" it="Maribor" nl="Maribor">
+    <city jpn="マリボル" eng="Maribor" de="Maribor" fr="Maribor" es="Maribor" it="Maribor" nl="Maribor">
       <province jpn="シュタィエルスカ地方" eng="Lower Styria" de="Untersteiermark" fr="Styrie" es="Estiria" it="Stiria Slovena" nl="Stiermarken" />
       <longitude>15.657379</longitude>
       <latitude>46.540231</latitude>
@@ -17753,21 +18089,21 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヨハネスバーグ" eng="Johannesburg" de="Johannesburg" fr="Johannesburg" es="Johannesburgo" it="Johannesburg" nl="Johannesburg">
+    <city jpn="ヨハネスバーグ" eng="Johannesburg" de="Johannesburg" fr="Johannesburg" es="Johannesburgo" it="Johannesburg" nl="Johannesburg">
       <province jpn="ハウテン州" eng="Gauteng" de="Gauteng" fr="Gauteng" es="Gauteng" it="Gauteng" nl="Gauteng" />
       <longitude>28.048095703125</longitude>
       <latitude>-26.1419677734375</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ケープタウン" eng="Cape Town" de="Kapstadt" fr="Le Cap" es="Ciudad del Cabo" it="Città del Capo" nl="Kaapstad">
+    <city jpn="ケープタウン" eng="Cape Town" de="Kapstadt" fr="Le Cap" es="Ciudad del Cabo" it="Città del Capo" nl="Kaapstad">
       <province jpn="ウェスタン・ケープ州" eng="Western Cape" de="Westkap" fr="Cap-Occidental" es="Cabo Occidental" it="Capo Occidentale" nl="West-Kaap" />
       <longitude>-3.702392578125</longitude>
       <latitude>40.4132080078125</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ダーバン" eng="Durban" de="Durban" fr="Durban" es="Durban" it="Durban" nl="Durban">
+    <city jpn="ダーバン" eng="Durban" de="Durban" fr="Durban" es="Durban" it="Durban" nl="Durban">
       <province jpn="クワズールー・ナタール州" eng="KwaZulu-Natal" de="KwaZulu-Natal" fr="KwaZulu-Natal" es="KwaZulu-Natal" it="KwaZulu-Natal" nl="KwaZulu-Natal" />
       <longitude>31.063392</longitude>
       <latitude>-29.868438</latitude>
@@ -17778,7 +18114,7 @@
   <country>
     <name jpn="エスワティニ" eng="Eswatini" de="Eswatini" fr="Eswatini" es="Eswatini" it="Eswatini" nl="Eswatini" />
     <city jpn="ムババネ" eng="Mbabane" de="Mbabane" fr="Mbabane" es="Mbabane" it="Mbabane" nl="Mbabane">
-	<province jpn="ホホ" eng="Hhohho" de="Hhohho" fr="Hhohho" es="Hhohho" it="Hhohho" nl="Hhohho" />
+      <province jpn="ホホ" eng="Hhohho" de="Hhohho" fr="Hhohho" es="Hhohho" it="Hhohho" nl="Hhohho" />
       <longitude>31.13525390625</longitude>
       <latitude>-26.3177490234375</latitude>
       <zoom1>4</zoom1>
@@ -17786,68 +18122,68 @@
     </city>
   </country>
   <country>
-    <name jpn="アンカラ" eng="Ankara" de="Ankara" fr="Ankara" es="Ankara" it="Ankara" nl="Ankara" />
-    <city jpn="トルコ" eng="Turkey" de="Türkei" fr="Turquie" es="Turquía" it="Turchia" nl="Turkije">
+    <name jpn="トルコ" eng="Turkey" de="Türkei" fr="Turquie" es="Turquía" it="Turchia" nl="Turkije" />
+    <city jpn="アンカラ" eng="Ankara" de="Ankara" fr="Ankara" es="Ankara" it="Ankara" nl="Ankara">
       <province jpn="アンカラ県" eng="Ankara" de="Ankara" fr="Ankara" es="Ankara" it="Ankara" nl="Ankara" />
       <longitude>32.84912109375</longitude>
       <latitude>39.92431640625</latitude>
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="イスタンブール" eng="Istanbul" de="Istanbul" fr="Istanbul" es="Estambul" it="Istanbul" nl="Istanbul">
+    <city jpn="イスタンブール" eng="Istanbul" de="Istanbul" fr="Istanbul" es="Estambul" it="Istanbul" nl="Istanbul">
       <province jpn="イスタンブル県" eng="Istanbul" de="Istanbul" fr="Istanbul" es="Estambul" it="Istanbul" nl="Istanbul" />
       <longitude>28.9984130859375</longitude>
       <latitude>41.055908203125</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="アダナ" eng="Adana" de="Adana" fr="Adana" es="Adana" it="Adana" nl="Adana">
+    <city jpn="アダナ" eng="Adana" de="Adana" fr="Adana" es="Adana" it="Adana" nl="Adana">
       <province jpn="アダナ県" eng="Adana" de="Adana" fr="Adana" es="Adana" it="Adana" nl="Adana" />
-      <longitude>35.339520</longitude>
+      <longitude>35.33952</longitude>
       <latitude>36.979165</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="アンタリヤ" eng="Antalya" de="Antalya" fr="Antalya" es="Antalya" it="Antalya" nl="Antalya">
+    <city jpn="アンタリヤ" eng="Antalya" de="Antalya" fr="Antalya" es="Antalya" it="Antalya" nl="Antalya">
       <province jpn="アンタリヤ県" eng="Antalya" de="Antalya" fr="Antalya" es="Antalya" it="Antalya" nl="Antalya" />
       <longitude>30.691686</longitude>
       <latitude>36.868118</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ディヤルバクル" eng="Diyarbakir" de="Diyarbakir" fr="Diyarbakir" es="Diyarbakir" it="Diyarbakir" nl="Diyarbakir">
+    <city jpn="ディヤルバクル" eng="Diyarbakir" de="Diyarbakir" fr="Diyarbakir" es="Diyarbakir" it="Diyarbakir" nl="Diyarbakir">
       <province jpn="ディヤルバクル県" eng="Diyarbakir" de="Diyarbakir" fr="Diyarbakir" es="Diyarbakir" it="Diyarbakir" nl="Diyarbakir" />
-      <longitude>40.177450</longitude>
-      <latitude>37.925890</latitude>
+      <longitude>40.17745</longitude>
+      <latitude>37.92589</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ガジアンテプ" eng="Gaziantep" de="Gaziantep" fr="Gaziantep" es="Gaziantep" it="Gaziantep" nl="Gaziantep">
+    <city jpn="ガジアンテプ" eng="Gaziantep" de="Gaziantep" fr="Gaziantep" es="Gaziantep" it="Gaziantep" nl="Gaziantep">
       <province jpn="ガジアンテプ県" eng="Gaziantep" de="Gaziantep" fr="Gaziantep" es="Gaziantep" it="Gaziantep" nl="Gaziantep" />
       <longitude>37.356836</longitude>
       <latitude>37.038216</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="コニヤ" eng="Konya" de="Konya" fr="Konya" es="Konya" it="Konya" nl="Konya">
+    <city jpn="コニヤ" eng="Konya" de="Konya" fr="Konya" es="Konya" it="Konya" nl="Konya">
       <province jpn="コニヤ県" eng="Konya" de="Konya" fr="Konya" es="Konya" it="Konya" nl="Konya" />
       <longitude>32.502849</longitude>
       <latitude>37.847479</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="イズミル" eng="Izmir" de="Izmir" fr="Smyrne" es="Esmirna" it="Smirne" nl="İzmir">
+    <city jpn="イズミル" eng="Izmir" de="Izmir" fr="Smyrne" es="Esmirna" it="Smirne" nl="İzmir">
       <province jpn="イズミル県" eng="Izmir" de="Izmir" fr="Smyrne" es="Esmirna" it="Smirne" nl="İzmir" />
-      <longitude>27.133110</longitude>
+      <longitude>27.13311</longitude>
       <latitude>38.415719</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
- <country>
+  <country>
     <name jpn="ザンビア" eng="Zambia" de="Sambia" fr="Zambie" es="Zambia" it="Zambia" nl="Zambia" />
     <city jpn="ルサカ" eng="Lusaka" de="Lusaka" fr="Lusaka" es="Lusaka" it="Lusaka" nl="Lusaka">
-	<province jpn="ルサカ州" eng="Lusaka Province" de="Provinz Lusaka" fr="Province de Lusaka" es="Provincia de Lusaka" it="Provincia di Lusaka" nl="Lusaka" />
+      <province jpn="ルサカ州" eng="Lusaka Province" de="Provinz Lusaka" fr="Province de Lusaka" es="Provincia de Lusaka" it="Provincia di Lusaka" nl="Lusaka" />
       <longitude>28.27880859375</longitude>
       <latitude>-15.413818359375</latitude>
       <zoom1>5</zoom1>
@@ -17857,7 +18193,7 @@
   <country>
     <name jpn="ジンバブエ" eng="Zimbabwe" de="Simbabwe" fr="Zimbabwe" es="Zimbabue" it="Zimbabwe" nl="Zimbabwe" />
     <city jpn="ハラレ" eng="Harare" de="Harare" fr="Harare" es="Harare" it="Harare" nl="Harare">
-	<province jpn="ハラーレ市" eng="Harare" de="Harare" fr="Harare" es="Harare" it="Harare" nl="Harare" />
+      <province jpn="ハラーレ市" eng="Harare" de="Harare" fr="Harare" es="Harare" it="Harare" nl="Harare" />
       <longitude>31.04736328125</longitude>
       <latitude>-17.81982421875</latitude>
       <zoom1>7</zoom1>
@@ -17867,7 +18203,7 @@
   <country>
     <name jpn="アゼルバイジャン" eng="Azerbaijan" de="Aserbaidschan" fr="Azerbaïdjan" es="Azerbaiyán" it="Azerbaigian" nl="Azerbeidzjan" />
     <city jpn="バクー" eng="Baku" de="Baku" fr="Bakou" es="Bakú" it="Baku" nl="Bakoe">
-	<province jpn="バクー市" eng="Baku" de="Baku" fr="Bakou" es="Bakú" it="Baku" nl="Bakoe" />
+      <province jpn="バクー市" eng="Baku" de="Baku" fr="Bakou" es="Bakú" it="Baku" nl="Bakoe" />
       <longitude>49.844970703125</longitude>
       <latitude>40.3802490234375</latitude>
       <zoom1>3</zoom1>
@@ -17877,7 +18213,7 @@
   <country>
     <name jpn="モーリタニア" eng="Mauritania" de="Mauretanien" fr="Mauritanie" es="Mauritania" it="Mauritania" nl="Mauritanië" />
     <city jpn="ヌアクショット" eng="Nouakchott" de="Nouakchott" fr="Nouakchott" es="Nuakchott" it="Nouakchott" nl="Nouakchott">
-	<province jpn="ヌアクショット" eng="Nouakchott" de="Nouakchott" fr="Nouakchott" es="Nuakchott" it="Nouakchott" nl="Nouakchott" />
+      <province jpn="ヌアクショット" eng="Nouakchott" de="Nouakchott" fr="Nouakchott" es="Nuakchott" it="Nouakchott" nl="Nouakchott" />
       <longitude>-15.9466552734375</longitude>
       <latitude>18.0999755859375</latitude>
       <zoom1>5</zoom1>
@@ -17886,8 +18222,8 @@
   </country>
   <country>
     <name jpn="マリ" eng="Mali" de="Mali" fr="Mali" es="Malí" it="Mali" nl="Mali" />
-    <city jpn="バマコ" eng="Bamako" de="Bamako" fr="Bamako" es="Bamako" it="Bamako" nl="Bamako" >
-	<province jpn="バマコ特別区" eng="Bamako" de="Bamako" fr="Bamako" es="Bamako" it="Bamako" nl="Bamako" />
+    <city jpn="バマコ" eng="Bamako" de="Bamako" fr="Bamako" es="Bamako" it="Bamako" nl="Bamako">
+      <province jpn="バマコ特別区" eng="Bamako" de="Bamako" fr="Bamako" es="Bamako" it="Bamako" nl="Bamako" />
       <longitude>-7.9815673828125</longitude>
       <latitude>12.645263671875</latitude>
       <zoom1>5</zoom1>
@@ -17896,8 +18232,8 @@
   </country>
   <country>
     <name jpn="マリ" eng="Mali" de="Mali" fr="Mali" es="Malí" it="Mali" nl="Mali" />
-    <city jpn="バマコ" eng="Bamako" de="Bamako" fr="Bamako" es="Bamako" it="Bamako" nl="Bamako" >
-	<province jpn="バマコ特別区" eng="Bamako" de="Bamako" fr="Bamako" es="Bamako" it="Bamako" nl="Bamako" />
+    <city jpn="バマコ" eng="Bamako" de="Bamako" fr="Bamako" es="Bamako" it="Bamako" nl="Bamako">
+      <province jpn="バマコ特別区" eng="Bamako" de="Bamako" fr="Bamako" es="Bamako" it="Bamako" nl="Bamako" />
       <longitude>-7.9815673828125</longitude>
       <latitude>12.645263671875</latitude>
       <zoom1>5</zoom1>
@@ -17906,8 +18242,8 @@
   </country>
   <country>
     <name jpn="ニジェール" eng="Niger" de="Niger" fr="Niger" es="Níger" it="Niger" nl="Niger" />
-    <city jpn="ニアメ" eng="Niamey" de="Niamey" fr="Niamey" es="Niamey" it="Niamey" nl="Niamey" >
-	<province jpn="ニアメ首都特別区" eng="Niamey" de="Niamey" fr="Niamey" es="Niamey" it="Niamey" nl="Niamey" />
+    <city jpn="ニアメ" eng="Niamey" de="Niamey" fr="Niamey" es="Niamey" it="Niamey" nl="Niamey">
+      <province jpn="ニアメ首都特別区" eng="Niamey" de="Niamey" fr="Niamey" es="Niamey" it="Niamey" nl="Niamey" />
       <longitude>2.13134765625</longitude>
       <latitude>13.4967041015625</latitude>
       <zoom1>5</zoom1>
@@ -17916,8 +18252,8 @@
   </country>
   <country>
     <name jpn="チャド" eng="Chad" de="Tschad" fr="Tchad" es="Chad" it="Ciad" nl="Tsjaad" />
-    <city jpn="ンジャメナ" eng="N'Djamena" de="N'Djamena" fr="Ndjamena" es="Yamena" it="N'Djamena" nl="Ndjamena" >
-	<province jpn="ンジャメナ市" eng="N'Djamena" de="N'Djamena" fr="Ndjamena" es="Yamena" it="N'Djamena" nl="Ndjamena" />
+    <city jpn="ンジャメナ" eng="N'Djamena" de="N'Djamena" fr="Ndjamena" es="Yamena" it="N'Djamena" nl="Ndjamena">
+      <province jpn="ンジャメナ市" eng="N'Djamena" de="N'Djamena" fr="Ndjamena" es="Yamena" it="N'Djamena" nl="Ndjamena" />
       <longitude>15.0457763671875</longitude>
       <latitude>12.1124267578125</latitude>
       <zoom1>9</zoom1>
@@ -17926,8 +18262,8 @@
   </country>
   <country>
     <name jpn="スーダン" eng="Sudan" de="Sudan" fr="Soudan" es="Sudán" it="Sudan" nl="Soedan" />
-    <city jpn="ハルツーム" eng="Khartoum" de="Khartum" fr="Khartoum" es="Jartum" it="Khartoum" nl="Khartoem" >
-	<province jpn="ハルツーム州" eng="Khartoum" de="Khartum" fr="Khartoum" es="Jartum" it="Khartoum" nl="Khartoem" />
+    <city jpn="ハルツーム" eng="Khartoum" de="Khartum" fr="Khartoum" es="Jartum" it="Khartoum" nl="Khartoem">
+      <province jpn="ハルツーム州" eng="Khartoum" de="Khartum" fr="Khartoum" es="Jartum" it="Khartoum" nl="Khartoem" />
       <longitude>32.530517578125</longitude>
       <latitude>15.5950927734375</latitude>
       <zoom1>5</zoom1>
@@ -17936,8 +18272,8 @@
   </country>
   <country>
     <name jpn="エリトリア" eng="Eritrea" de="Eritrea" fr="Erythrée" es="Eritrea" it="Eritrea" nl="Eritrea" />
-    <city jpn="アスマラ" eng="Asmara" de="Asmara" fr="Asmara" es="Asmara" it="Asmara" nl="Asmara" >
-	<province jpn="マアカル地方" eng="Maakel Region" de="Maekel" fr="Maekel" es="Región de Maekel" it="Regione Centrale" nl="Maekel" />
+    <city jpn="アスマラ" eng="Asmara" de="Asmara" fr="Asmara" es="Asmara" it="Asmara" nl="Asmara">
+      <province jpn="マアカル地方" eng="Maakel Region" de="Maekel" fr="Maekel" es="Región de Maekel" it="Regione Centrale" nl="Maekel" />
       <longitude>38.924560546875</longitude>
       <latitude>15.3314208984375</latitude>
       <zoom1>6</zoom1>
@@ -17946,8 +18282,8 @@
   </country>
   <country>
     <name jpn="ジブチ" eng="Djibouti" de="Dschibuti" fr="Djibouti" es="Yibuti" it="Gibuti" nl="Djibouti" />
-    <city jpn="ジブチ" eng="Djibouti" de="Dschibuti" fr="Djibouti" es="Yibuti" it="Gibuti" nl="Djibouti" >
-	<province jpn="ジブチ市" eng="Djibouti Region" de="Dschibuti" fr="Djibouti" es="Yibuti" it="Gibuti" nl="Djibouti" />
+    <city jpn="ジブチ" eng="Djibouti" de="Dschibuti" fr="Djibouti" es="Yibuti" it="Gibuti" nl="Djibouti">
+      <province jpn="ジブチ市" eng="Djibouti Region" de="Dschibuti" fr="Djibouti" es="Yibuti" it="Gibuti" nl="Djibouti" />
       <longitude>43.1488037109375</longitude>
       <latitude>11.5960693359375</latitude>
       <zoom1>5</zoom1>
@@ -17956,8 +18292,8 @@
   </country>
   <country>
     <name jpn="ソマリア" eng="Somalia" de="Somalia" fr="Somalie" es="Somalia" it="Somalia" nl="Somalië" />
-    <city jpn="モガディシュ" eng="Mogadishu" de="Mogadischu" fr="Mogadiscio" es="Mogadiscio" it="Mogadiscio" nl="Mogadishu" >
-	<province jpn="バナディール州" eng="Banaadir Region" de="Banaadir" fr="Banaadir" es="Región de Benadir" it="Benadir" nl="Banaadir" />
+    <city jpn="モガディシュ" eng="Mogadishu" de="Mogadischu" fr="Mogadiscio" es="Mogadiscio" it="Mogadiscio" nl="Mogadishu">
+      <province jpn="バナディール州" eng="Banaadir Region" de="Banaadir" fr="Banaadir" es="Región de Benadir" it="Benadir" nl="Banaadir" />
       <longitude>45.3460693359375</longitude>
       <latitude>2.032470703125</latitude>
       <zoom1>7</zoom1>
@@ -18025,8 +18361,8 @@
   </country>
   <country>
     <name jpn="ジブラルタル" eng="Gibraltar" de="Gibraltar" fr="Gibraltar" es="Gibraltar" it="Gibilterra" nl="Gibraltar" />
-    <city jpn="ジブラルタル" eng="Gibraltar" de="Gibraltar" fr="Gibraltar" es="Gibraltar" it="Gibilterra" nl="Gibraltar" >
-	<province jpn="ジブラルタル" eng="Gibraltar" de="Gibraltar" fr="Gibraltar" es="Gibraltar" it="Gibilterra" nl="Gibraltar" />
+    <city jpn="ジブラルタル" eng="Gibraltar" de="Gibraltar" fr="Gibraltar" es="Gibraltar" it="Gibilterra" nl="Gibraltar">
+      <province jpn="ジブラルタル" eng="Gibraltar" de="Gibraltar" fr="Gibraltar" es="Gibraltar" it="Gibilterra" nl="Gibraltar" />
       <longitude>-5.345272</longitude>
       <latitude>36.121167</latitude>
       <zoom1>7</zoom1>
@@ -18035,8 +18371,8 @@
   </country>
   <country>
     <name jpn="ガーンジー島" eng="Guernsey" de="Guernsey" fr="Guernesey" es="Guernsey" it="Guernsey" nl="Guernsey" />
-    <city jpn="ガーンジー島" eng="Guernsey" de="Guernsey" fr="Guernesey" es="Guernsey" it="Guernsey" nl="Guernsey" >
-	<province jpn="ガーンジー島" eng="Guernsey" de="Guernsey" fr="Guernesey" es="Guernsey" it="Guernsey" nl="Guernsey" />
+    <city jpn="ガーンジー島" eng="Guernsey" de="Guernsey" fr="Guernesey" es="Guernsey" it="Guernsey" nl="Guernsey">
+      <province jpn="ガーンジー島" eng="Guernsey" de="Guernsey" fr="Guernesey" es="Guernsey" it="Guernsey" nl="Guernsey" />
       <longitude>-2.589711</longitude>
       <latitude>49.449624</latitude>
       <zoom1>7</zoom1>
@@ -18057,7 +18393,7 @@
     <name jpn="ジャージー島" eng="Jersey" de="Jersey" fr="Jersey" es="Jersey" it="Jersey" nl="Jersey" />
     <city jpn="ジャージー島" eng="Jersey" de="Jersey" fr="Jersey" es="Jersey" it="Jersey" nl="Jersey">
       <province jpn="ジャージー島" eng="Jersey" de="Jersey" fr="Jersey" es="Jersey" it="Jersey" nl="Jersey" />
-      <longitude>-2.132090</longitude>
+      <longitude>-2.13209</longitude>
       <latitude>49.213628</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
@@ -18075,18 +18411,130 @@
   </country>
   <country>
     <name jpn="台湾" eng="Taiwan" de="Taiwan" fr="Taiwan" es="Taiwán" it="Taiwan" nl="Taiwan" />
-    <city jpn="台北" eng="Taipei City" de="Taipeh" fr="Taïpei" es="Taipéi" it="Taipei" nl="Taipei">
-      <province jpn="台北市" eng="Taipei City" de="Taipeh" fr="Taïpei" es="Taipéi" it="Taipei" nl="Taipei" />
+    <city jpn="台北" eng="Taipei" de="Taipeh" fr="Taïpei" es="Taipéi" it="Taipei" nl="Taipei">
+      <province jpn="台北市" eng="Taipei" de="Taipeh" fr="Taïpei" es="Taipéi" it="Taipei" nl="Taipei" />
       <longitude>121.5472412109375</longitude>
       <latitude>25.0982666015625</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="カオシュン" eng="Kaohsiung City" de="Kaohsiung" fr="Kaohsiung" es="Kaohsiung" it="Kaohsiung" nl="Kaohsiung">
-      <province jpn="高雄市" eng="Kaohsiung City" de="Kaohsiung" fr="Kaohsiung" es="Condado de Kaohsiung" it="Kaohsiung" nl="Kaohsiung" />
+    <city jpn="高雄" eng="Kaohsiung" de="Kaohsiung" fr="Kaohsiung" es="Kaohsiung" it="Kaohsiung" nl="Kaohsiung">
+      <province jpn="高雄市" eng="Kaohsiung" de="Kaohsiung" fr="Kaohsiung" es="Kaohsiung" it="Kaohsiung" nl="Kaohsiung" />
       <longitude>120.2783203125</longitude>
       <latitude>22.598876953125</latitude>
       <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="桃園" eng="Taoyuan" de="Taoyuan" fr="Taoyuan" es="Taoyuan" it="Taoyuan" nl="Taoyuan">
+      <province jpn="桃園市" eng="Taoyuan City" de="Taoyuan" fr="Taoyuan" es="Taoyuan" it="Taoyuan" nl="Taoyuan" />
+      <longitude>121.24213</longitude>
+      <latitude>24.904322</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="台中" eng="Taichung" de="Taichung" fr="Taichung" es="Taichung" it="Taichung" nl="Taichung">
+      <province jpn="台中市" eng="Taichung City" de="Taichung" fr="Taichung" es="Taichung" it="Taichung" nl="Taichung" />
+      <longitude>120.67351</longitude>
+      <latitude>24.147673</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="台南" eng="Tainan" de="Tainan" fr="Tainan" es="Tainan" it="Tainan" nl="Tainan">
+      <province jpn="台南市" eng="Tainan City" de="Tainan" fr="Tainan" es="Tainan" it="Tainan" nl="Tainan" />
+      <longitude>120.234535</longitude>
+      <latitude>22.997776</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="宜蘭" eng="Yilan" de="Yilan" fr="Yilan" es="Yilan" it="Yilan" nl="Yilan">
+      <province jpn="宜蘭県" eng="Yilan County" de="Yilan" fr="Yilan" es="Yilan" it="Yilan" nl="Yilan" />
+      <longitude>21.787243</longitude>
+      <latitude>24.758147</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="新竹" eng="Hsinchu" de="Hsinchu" fr="Hsinchu" es="Hsinchu" it="Hsinchu" nl="Hsinchu">
+      <province jpn="新竹市" eng="Hsinchu City" de="Hsinchu" fr="Hsinchu" es="Hsinchu" it="Hsinchu" nl="Hsinchu" />
+      <longitude>120.993877</longitude>
+      <latitude>24.84106</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="苗栗" eng="Miaoli" de="Miaoli" fr="Miaoli" es="Miaoli" it="Miaoli" nl="Miaoli">
+      <province jpn="苗栗県" eng="Miaoli County" de="Miaoli" fr="Miaoli" es="Miaoli" it="Miaoli" nl="Miaoli" />
+      <longitude>120.81758</longitude>
+      <latitude>24.562184</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="彰化" eng="Changhua" de="Changhua" fr="Changhua" es="Changhua" it="Changhua" nl="Changhua">
+      <province jpn="彰化県" eng="Changhua County" de="Changhua" fr="Changhua" es="Changhua" it="Changhua" nl="Changhua" />
+      <longitude>120.474553</longitude>
+      <latitude>23.960669</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="南投" eng="Nantou" de="Nantou" fr="Nantou" es="Nantou" it="Nantou" nl="Nantou">
+      <province jpn="南投県" eng="Nantou County" de="Nantou" fr="Nantou" es="Nantou" it="Nantou" nl="Nantou" />
+      <longitude>120.891546</longitude>
+      <latitude>23.890898</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="斗六" eng="Douliu" de="Douliu" fr="Douliu" es="Douliu" it="Douliu" nl="Douliu">
+      <province jpn="雲林県" eng="Yunlin County" de="Yunlin" fr="Yunlin" es="Yunlin" it="Yunlin" nl="Yunlin" />
+      <longitude>120.54026</longitude>
+      <latitude>23.707854</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="嘉義" eng="Chiayi" de="Chiayi" fr="Chiayi" es="Chiayi" it="Chiayi" nl="Chiayi">
+      <province jpn="嘉義市" eng="Chiayi City" de="Chiayi" fr="Chiayi" es="Chiayi" it="Chiayi" nl="Chiayi" />
+      <longitude>120.44227</longitude>
+      <latitude>23.443163</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="屏東" eng="Pingtung" de="Pingtung" fr="Pingtung" es="Pingtung" it="Pingtung" nl="Pingtung">
+      <province jpn="屏東県" eng="Pingtung County" de="Pingtung" fr="Pingtung" es="Pingtung" it="Pingtung" nl="Pingtung" />
+      <longitude>120.599895</longitude>
+      <latitude>22.448589</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="台東" eng="Taitung" de="Taitung" fr="Taitung" es="Taitung" it="Taitung" nl="Taitung">
+      <province jpn="台東県" eng="Taitung County" de="Taitung" fr="Taitung" es="Taitung" it="Taitung" nl="Taitung" />
+      <longitude>121.14524</longitude>
+      <latitude>22.738389</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="花蓮" eng="Hualien" de="Hualien" fr="Hualien" es="Hualien" it="Hualien" nl="Hualien">
+      <province jpn="花蓮県" eng="Hualien County" de="Hualien" fr="Hualien" es="Hualien" it="Hualien" nl="Hualien" />
+      <longitude>121.581649</longitude>
+      <latitude>23.871275</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="馬公" eng="Magong" de="Magong" fr="Magong" es="Magong" it="Magong" nl="Magong">
+      <province jpn="澎湖県" eng="Penghu County" de="Penghu" fr="Penghu" es="Penghu" it="Penghu" nl="Penghu" />
+      <longitude>119.581097</longitude>
+      <latitude>23.566448</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="晋城" eng="Jincheng" de="Jincheng" fr="Jincheng" es="Jincheng" it="Jincheng" nl="Jincheng">
+      <province jpn="金門県" eng="Kinmen County" de="Kinmen" fr="Kinmen" es="Kinmen" it="Kinmen" nl="Kinmen" />
+      <longitude>121.14524</longitude>
+      <latitude>22.738389</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="南竿" eng="Nangan" de="Nangan" fr="Nangan" es="Nangan" it="Nangan" nl="Nangan">
+      <province jpn="連江県" eng="Lienchiang County" de="Lienchiang" fr="Lienchiang" es="Lienchiang" it="Lienchiang" nl="Lienchiang" />
+      <longitude>119.951947</longitude>
+      <latitude>26.158961</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
@@ -18099,7 +18547,7 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="アンコール・ワット" eng="Angkor Wat" de="Angkor Wat" fr="Angkor Vat" es="Angkor Wat" it="Angkor Wat" nl="Angkor Wat">
+    <city jpn="アンコール・ワット" eng="Angkor Wat" de="Angkor Wat" fr="Angkor Vat" es="Angkor Wat" it="Angkor Wat" nl="Angkor Wat">
       <province jpn="シェムリアップ州" eng="Siem Reap" de="Siem Reap" fr="Siem Reap" es="Siem Reap" it="Siem Reap" nl="Siem Reap" />
       <longitude>103.831787109375</longitude>
       <latitude>13.4307861328125</latitude>
@@ -18107,10 +18555,10 @@
       <zoom2>3</zoom2>
     </city>
   </country>
-    <country>
+  <country>
     <name jpn="ラオス" eng="Laos" de="Laos" fr="Laos" es="Laos" it="Laos" nl="Laos" />
     <city jpn="ヴィエンチャン" eng="Vientiane" de="Vientiane" fr="Vientiane" es="Vientián" it="Vientiane" nl="Vientiane">
-	<province jpn="ヴィエンチャン都" eng="Vientiane Prefecture" de="Präfektur Vientiane" fr="Préfecture de Vientiane" es="Prefectura de Vientián" it="Prefettura di Vientiane" nl="Vientiane (prefectuur)" />
+      <province jpn="ヴィエンチャン都" eng="Vientiane Prefecture" de="Präfektur Vientiane" fr="Préfecture de Vientiane" es="Prefectura de Vientián" it="Prefettura di Vientiane" nl="Vientiane (prefectuur)" />
       <longitude>102.5958251953125</longitude>
       <latitude>17.962646484375</latitude>
       <zoom1>4</zoom1>
@@ -18120,7 +18568,7 @@
   <country>
     <name jpn="モンゴル" eng="Mongolia" de="Mongolei" fr="Mongolie" es="Mongolia" it="Mongolia" nl="Mongolië" />
     <city jpn="ウランバートル" eng="Ulan Bator" de="Ulan Bator" fr="Oulan-Bator" es="Ulan Bator" it="Ulan Bator" nl="Ulaanbaatar">
-	<province jpn="ウランバートル市" eng="Ulan Bator" de="Ulan Bator" fr="Oulan-Bator" es="Ulan Bator" it="Ulan Bator" nl="Ulaanbaatar" />
+      <province jpn="ウランバートル市" eng="Ulan Bator" de="Ulan Bator" fr="Oulan-Bator" es="Ulan Bator" it="Ulan Bator" nl="Ulaanbaatar" />
       <longitude>106.8804931640625</longitude>
       <latitude>47.911376953125</latitude>
       <zoom1>7</zoom1>
@@ -18130,7 +18578,7 @@
   <country>
     <name jpn="ミャンマー" eng="Myanmar" de="Myanmar" fr="Myanmar" es="Myanmar" it="Myanmar" nl="Myanmar" />
     <city jpn="ヤンゴン" eng="Yangon" de="Yangon" fr="Rangoon" es="Yangon" it="Yangon" nl="Yangon">
-	<province jpn="ヤンゴン" eng="Yangon" de="Yangon" fr="Rangoon" es="Rangún" it="Yangon" nl="Yangon" />
+      <province jpn="ヤンゴン" eng="Yangon" de="Yangon" fr="Rangoon" es="Rangún" it="Yangon" nl="Yangon" />
       <longitude>96.163330078125</longitude>
       <latitude>16.7816162109375</latitude>
       <zoom1>5</zoom1>
@@ -18140,7 +18588,7 @@
   <country>
     <name jpn="ネパール" eng="Nepal" de="Nepal" fr="Népal" es="Nepal" it="Nepal" nl="Nepal" />
     <city jpn="カトマンズ" eng="Kathmandu" de="Kathmandu" fr="Katmandou" es="Katmandú" it="Katmandu" nl="Kathmandu">
-	<province jpn="カトマンズ" eng="Bagmati Province" de="Provinz Bagmati" fr="Bagmati" es="Provincia de Bagmati" it="Bagmati Pradesh" nl="Bagmati" />
+      <province jpn="カトマンズ" eng="Bagmati Province" de="Provinz Bagmati" fr="Bagmati" es="Provincia de Bagmati" it="Bagmati Pradesh" nl="Bagmati" />
       <longitude>85.330810546875</longitude>
       <latitude>27.696533203125</latitude>
       <zoom1>3</zoom1>
@@ -18150,14 +18598,14 @@
   <country>
     <name jpn="ベトナム" eng="Vietnam" de="Vietnam" fr="Viêt Nam" es="Vietnam" it="Vietnam" nl="Vietnam" />
     <city jpn="ハノイ" eng="Hanoi" de="Hanoi" fr="Hanoï" es="Hanoi" it="Hanoi" nl="Hanoi">
-	<province jpn="紅河デルタ" eng="Red River Delta" de="Delta des Roten Flusses" fr="Delta du fleuve Rouge" es="Región del Delta del Río Rojo" it="Delta del fiume Rosso" nl="Rode Rivierdelta" />
+      <province jpn="紅河デルタ" eng="Red River Delta" de="Delta des Roten Flusses" fr="Delta du fleuve Rouge" es="Región del Delta del Río Rojo" it="Delta del fiume Rosso" nl="Rode Rivierdelta" />
       <longitude>105.8477783203125</longitude>
       <latitude>21.0333251953125</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ホー・チミン" eng="Ho Chi Minh City" de="Ho-Chi-Minh-Stadt" fr="Hô-Chi-Minh-Ville" es="Ho Chi Minh" it="Ho Chi Minh" nl="Ho Chi Minhstad">
-	<province jpn="東南部" eng="Dong Nam Bo" de="Dong Nam Bo" fr="Dong Nam Bo" es="Dong Nam Bo" it="Dong Nam Bo" nl="Dong Nam Bo" />
+    <city jpn="ホー・チミン" eng="Ho Chi Minh City" de="Ho-Chi-Minh-Stadt" fr="Hô-Chi-Minh-Ville" es="Ho Chi Minh" it="Ho Chi Minh" nl="Ho Chi Minhstad">
+      <province jpn="東南部" eng="Dong Nam Bo" de="Dong Nam Bo" fr="Dong Nam Bo" es="Dong Nam Bo" it="Dong Nam Bo" nl="Dong Nam Bo" />
       <longitude>106.69921875</longitude>
       <latitude>10.7830810546875</latitude>
       <zoom1>4</zoom1>
@@ -18167,21 +18615,21 @@
   <country>
     <name jpn="北朝鮮" eng="North Korea" de="Nordkorea" fr="Corée du Nord" es="Corea del Norte" it="Corea del Nord" nl="Noord-Korea" />
     <city jpn="平壌" eng="Pyongyang" de="Pjöngjang" fr="Pyongyang" es="Pyongyang" it="Pyongyang" nl="Pyongyang">
-	<province jpn="平壌" eng="Pyongyang" de="Pjöngjang" fr="Pyongyang" es="Pyongyang" it="Pyongyang" nl="Pyongyang" />
+      <province jpn="平壌" eng="Pyongyang" de="Pjöngjang" fr="Pyongyang" es="Pyongyang" it="Pyongyang" nl="Pyongyang" />
       <longitude>125.7330322265625</longitude>
       <latitude>38.9959716796875</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="咸興市" eng="Hamhung" de="Hamhung" fr="Hamhung" es="Hamhung" it="Hamhung" nl="Hamhung">
-	<province jpn="咸鏡南道" eng="South Hamgyong Province" de="Hamgyong-namdo" fr="Hamgyong du Sud" es="Provincia de Hamgyong del Sur" it="Hamgyong Meridionale" nl="Hamgyong-namdo" />
+    <city jpn="咸興市" eng="Hamhung" de="Hamhung" fr="Hamhung" es="Hamhung" it="Hamhung" nl="Hamhung">
+      <province jpn="咸鏡南道" eng="South Hamgyong Province" de="Hamgyong-namdo" fr="Hamgyong du Sud" es="Provincia de Hamgyong del Sur" it="Hamgyong Meridionale" nl="Hamgyong-namdo" />
       <longitude>127.616793</longitude>
       <latitude>39.990214</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="清津市" eng="Chongjin" de="Chongjin" fr="Chongjin" es="Chongjin" it="Chongjin" nl="Chongjin">
-	<province jpn="咸鏡北道" eng="North Hamgyong Province" de="Hamgyong-pukto" fr="Hamgyong du Nord" es="Provincia de Hamgyong del Norte" it="Hamgyong Settentrionale" nl="Hamgyong-pukto" />
+    <city jpn="清津市" eng="Chongjin" de="Chongjin" fr="Chongjin" es="Chongjin" it="Chongjin" nl="Chongjin">
+      <province jpn="咸鏡北道" eng="North Hamgyong Province" de="Hamgyong-pukto" fr="Hamgyong du Nord" es="Provincia de Hamgyong del Norte" it="Hamgyong Settentrionale" nl="Hamgyong-pukto" />
       <longitude>129.735904</longitude>
       <latitude>41.761169</latitude>
       <zoom1>3</zoom1>
@@ -18191,21 +18639,21 @@
   <country>
     <name jpn="韓国" eng="South Korea" de="Südkorea" fr="Corée du Sud" es="Corea del Sur" it="Corea del Sud" nl="Zuid-Korea" />
     <city jpn="ソウル" eng="Seoul" de="Seoul" fr="Séoul" es="Seúl" it="Seoul" nl="Seoul">
-	<province jpn="ソウル特別市" eng="Seoul" de="Seoul" fr="Séoul" es="Seúl" it="Seoul" nl="Seoul" />
+      <province jpn="ソウル特別市" eng="Seoul" de="Seoul" fr="Séoul" es="Seúl" it="Seoul" nl="Seoul" />
       <longitude>126.9964599609375</longitude>
       <latitude>37.496337890625</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="プサン" eng="Busan" de="Busan" fr="Pusan" es="Busán" it="Busan" nl="Busan">
-	<province jpn="プサン広域市" eng="Busan" de="Busan" fr="Pusan" es="Busán" it="Busan" nl="Busan" />
+    <city jpn="プサン" eng="Busan" de="Busan" fr="Pusan" es="Busán" it="Busan" nl="Busan">
+      <province jpn="プサン広域市" eng="Busan" de="Busan" fr="Pusan" es="Busán" it="Busan" nl="Busan" />
       <longitude>129.0289306640625</longitude>
       <latitude>35.079345703125</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="クァンジュ" eng="Gwangju" de="Gwangju" fr="Gwangju" es="Gwangju" it="Gwangju" nl="Gwangju">
-	<province jpn="クァンジュ広域市" eng="Gwangju" de="Gwangju" fr="Gwangju" es="Gwangju" it="Gwangju" nl="Gwangju" />
+    <city jpn="クァンジュ" eng="Gwangju" de="Gwangju" fr="Gwangju" es="Gwangju" it="Gwangju" nl="Gwangju">
+      <province jpn="クァンジュ広域市" eng="Gwangju" de="Gwangju" fr="Gwangju" es="Gwangju" it="Gwangju" nl="Gwangju" />
       <longitude>126.842315</longitude>
       <latitude>35.146627</latitude>
       <zoom1>2</zoom1>
@@ -18215,7 +18663,7 @@
   <country>
     <name jpn="バングラデシュ" eng="Bangladesh" de="Bangladesch" fr="Bangladesh" es="Bangladesh" it="Bangladesh" nl="Bangladesh" />
     <city jpn="ダッカ" eng="Dhaka" de="Dhaka" fr="Dhâkâ" es="Dacca" it="Dhaka" nl="Dhaka">
-	<province jpn="ダッカ管区" eng="Dhaka Division" de="Dhaka" fr="Dhâkâ" es="Dacca" it="Dhaka" nl="Dhaka" />
+      <province jpn="ダッカ管区" eng="Dhaka Division" de="Dhaka" fr="Dhâkâ" es="Dacca" it="Dhaka" nl="Dhaka" />
       <longitude>90.406494140625</longitude>
       <latitude>23.70849609375</latitude>
       <zoom1>7</zoom1>
@@ -18225,7 +18673,7 @@
   <country>
     <name jpn="ブータン" eng="Bhutan" de="Bhutan" fr="Bhoutan" es="Bután" it="Bhutan" nl="Bhutan" />
     <city jpn="ティンプー" eng="Thimphu" de="Thimphu" fr="Thimphou" es="Thimphu" it="Thimphu" nl="Thimphu">
-	<province jpn="ティンプー県" eng="Thimphu District" de="Thimphu" fr="Thimphou" es="Thimphu" it="Thimphu" nl="Thimphu" />
+      <province jpn="ティンプー県" eng="Thimphu District" de="Thimphu" fr="Thimphou" es="Thimphu" it="Thimphu" nl="Thimphu" />
       <longitude>89.6484375</longitude>
       <latitude>27.4658203125</latitude>
       <zoom1>3</zoom1>
@@ -18235,7 +18683,7 @@
   <country>
     <name jpn="ブルネイ" eng="Brunei" de="Brunei" fr="Brunei" es="Brunei" it="Brunei" nl="Brunei" />
     <city jpn="バンダル・スリ・ブガワン" eng="Bandar Seri Begawan" de="Bandar Seri Begawan" fr="Bandar Seri Begawan" es="Bandar Seri Begawan" it="Bandar Seri Begawan">
-	<province jpn="ブルネイ・ムアラ地区" eng="Brunei-Muara District" de="Brunei-Muara" fr="Brunei-Muara" es="Distrito de Brunéi y Muara" it="Distretto di Brunei-Muara" nl="Brunei en Muara" />
+      <province jpn="ブルネイ・ムアラ地区" eng="Brunei-Muara District" de="Brunei-Muara" fr="Brunei-Muara" es="Distrito de Brunéi y Muara" it="Distretto di Brunei-Muara" nl="Brunei en Muara" />
       <longitude>114.9114990234375</longitude>
       <latitude>4.932861328125</latitude>
       <zoom1>5</zoom1>
@@ -18245,7 +18693,7 @@
   <country>
     <name jpn="モルディブ" eng="Maldives" de="Malediven" fr="Maldives" es="Maldivas" it="Maldive" nl="Malediven" />
     <city jpn="マレ" eng="Malé" de="Malé" fr="Malé" es="Malé" it="Malé" nl="Malé">
-	<province jpn="北中部" eng="Medhu-Uthuru" de="Medhu-Uthuru" fr="Medhu-Uthuru" es="Medhu-Uthuru" it="Medhu-Uthuru" nl="Medhu-Uthuru" />
+      <province jpn="北中部" eng="Medhu-Uthuru" de="Medhu-Uthuru" fr="Medhu-Uthuru" es="Medhu-Uthuru" it="Medhu-Uthuru" nl="Medhu-Uthuru" />
       <longitude>73.509521484375</longitude>
       <latitude>4.1693115234375</latitude>
       <zoom1>5</zoom1>
@@ -18255,7 +18703,7 @@
   <country>
     <name jpn="スリランカ" eng="Sri Lanka" de="Sri Lanka" fr="Sri Lanka" es="Sri Lanka" it="Sri Lanka" nl="Sri-Lanka" />
     <city jpn="スリ・ジャヤワルダナプラ・コッテ" eng="Sri Jayawardenepura-Kotte" de="Sri Jayewardenepura-Kotte" fr="Sri Jayewardenapura Kotte" es="Sri Jayewardenapura Kotte" it="Sri Jayawardanapura Kotte" nl="Sri Jayewardenapura Kotte">
-	<province jpn="西部州" eng="Western Province" de="Westprovinz" fr="Province de l'Ouest" es="Provincia Occidental" it="Provincia Occidentale" nl="Westelijke Provincie" />
+      <province jpn="西部州" eng="Western Province" de="Westprovinz" fr="Province de l'Ouest" es="Provincia Occidental" it="Provincia Occidentale" nl="Westelijke Provincie" />
       <longitude>79.91455078125</longitude>
       <latitude>6.8994140625</latitude>
       <zoom1>7</zoom1>
@@ -18265,8 +18713,8 @@
   <country>
     <name jpn="東ティモール" eng="East Timor" de="Osttimor" fr="Timor oriental" es="Timor Oriental" it="Timor Est" nl="Oost-Timor" />
     <city jpn="ディリ" eng="Dili" de="Díli" fr="Dili" es="Dili" it="Dili" nl="Dili">
-	<province jpn="ディリ県" eng="Dili Municipality" de="Díli" fr="Dili" es="Distrito de Dili" it="Distretto di Dili" nl="Dili" />
-	<longitude>125.5792236328125</longitude>
+      <province jpn="ディリ県" eng="Dili Municipality" de="Díli" fr="Dili" es="Distrito de Dili" it="Distretto di Dili" nl="Dili" />
+      <longitude>125.5792236328125</longitude>
       <latitude>-8.54736328125</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
@@ -18275,8 +18723,8 @@
   <country>
     <name jpn="イギリス領インド洋地域" eng="British Indian Ocean Territory" de="Britisches Territorium im Indischen Ozean" fr="Territoire britannique de l'océan Indien" es="Territorio Británico del Océano Índico" it="Territorio britannico dell'Oceano Indiano" nl="Brits Indische Oceaanterritorium" />
     <city jpn="ディリ" eng="Diego Garcia" de="Diego Garcia" fr="Diego Garcia" es="Diego García" it="Diego Garcia" nl="Diego Garcia">
-	<province jpn="イギリス領インド洋地域" eng="British Indian Ocean Territory" de="Britisches Territorium im Indischen Ozean" fr="Territoire britannique de l'océan Indien" es="Territorio Británico del Océano Índico" it="Territorio britannico dell'Oceano Indiano" nl="Brits Indische Oceaanterritorium" />
-	<longitude>72.444396</longitude>
+      <province jpn="イギリス領インド洋地域" eng="British Indian Ocean Territory" de="Britisches Territorium im Indischen Ozean" fr="Territoire britannique de l'océan Indien" es="Territorio Británico del Océano Índico" it="Territorio britannico dell'Oceano Indiano" nl="Brits Indische Oceaanterritorium" />
+      <longitude>72.444396</longitude>
       <latitude>-7.292761</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
@@ -18285,7 +18733,7 @@
   <country>
     <name jpn="香港" eng="Hong Kong" de="Hongkong" fr="Hong Kong" es="Hong Kong" it="Hong Kong" nl="Hongkong" />
     <city jpn="香港" eng="Hong Kong" de="Hongkong" fr="Hong Kong" es="Hong Kong" it="Hong Kong" nl="Hongkong">
-	<province jpn="香港" eng="Hong Kong" de="Hongkong" fr="Hong Kong" es="Hong Kong" it="Hong Kong" nl="Hongkong" />
+      <province jpn="香港" eng="Hong Kong" de="Hongkong" fr="Hong Kong" es="Hong Kong" it="Hong Kong" nl="Hongkong" />
       <longitude>114.2962646484375</longitude>
       <latitude>22.4615478515625</latitude>
       <zoom1>9</zoom1>
@@ -18295,8 +18743,8 @@
   <country>
     <name jpn="マカオ" eng="Macao" de="Macau" fr="Macao" es="Macao" it="Macao" nl="Macau" />
     <city jpn="マカオ" eng="Macao" de="Macau" fr="Macao" es="Macao" it="Macao" nl="Macau">
-	<province jpn="マカオ" eng="Macao" de="Macau" fr="Macao" es="Macao" it="Macao" nl="Macau" />
-       <longitude>113.5986328125</longitude>
+      <province jpn="マカオ" eng="Macao" de="Macau" fr="Macao" es="Macao" it="Macao" nl="Macau" />
+      <longitude>113.5986328125</longitude>
       <latitude>22.21435546875</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
@@ -18305,8 +18753,8 @@
   <country>
     <name jpn="クック諸島" eng="Cook Islands" de="Cookinseln" fr="Îles Cook" es="Islas Cook" it="Isole Cook" nl="Cookeilanden" />
     <city jpn="アバルア" eng="Avarua" de="Avarua" fr="Avarua" es="Avarua" it="Avarua" nl="Avarua">
-	<province jpn="南クック諸島" eng="Southern Cook Islands" de="Südliche" fr="Îles Cook du Sud" es="Islas Cook del Sur" it="Isole Cook meridionali" nl="Zuidelijke Cookeilanden" />
-       <longitude>-159.747993</longitude>
+      <province jpn="南クック諸島" eng="Southern Cook Islands" de="Südliche" fr="Îles Cook du Sud" es="Islas Cook del Sur" it="Isole Cook meridionali" nl="Zuidelijke Cookeilanden" />
+      <longitude>-159.747993</longitude>
       <latitude>-21.210269</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
@@ -18315,8 +18763,8 @@
   <country>
     <name jpn="ニウエ" eng="Niue" de="Niue" fr="Niue" es="Niue" it="Niue" nl="Niue" />
     <city jpn="アロフィ" eng="Alofi" de="Alofi" fr="Alofi" es="Alofi" it="Alofi" nl="Alofi">
-	<province jpn="ニウエ" eng="Niue" de="Niue" fr="Niue" es="Niue" it="Niue" nl="Niue" />
-       <longitude>-169.920916</longitude>
+      <province jpn="ニウエ" eng="Niue" de="Niue" fr="Niue" es="Niue" it="Niue" nl="Niue" />
+      <longitude>-169.920916</longitude>
       <latitude>-19.047917</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
@@ -18325,8 +18773,8 @@
   <country>
     <name jpn="北マリアナ諸島" eng="Northern Mariana Islands" de="Nördliche Marianen" fr="Îles Mariannes du Nord" es="Islas Marianas del Norte" it="Isole Marianne Settentrionali" nl="Noordelijke Marianen" />
     <city jpn="サイパン" eng="Saipan" de="Saipan" fr="Saipan" es="Saipán" it="Saipan" nl="Saipan">
-	<province jpn="サイパン島" eng="Saipan Island" de="Saipan" fr="Saipan" es="Saipán" it="Saipan" nl="Saipan" />
-       <longitude>145.746668</longitude>
+      <province jpn="サイパン島" eng="Saipan Island" de="Saipan" fr="Saipan" es="Saipán" it="Saipan" nl="Saipan" />
+      <longitude>145.746668</longitude>
       <latitude>15.184082</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
@@ -18335,9 +18783,9 @@
   <country>
     <name jpn="アメリカ領サモア" eng="American Samoa" de="Amerikanisch-Samoa" fr="Samoa américaines" es="Samoa Americana" it="Samoa Americane" nl="Amerikaans-Samoa" />
     <city jpn="タフナ" eng="Tafuna" de="Tafuna" fr="Tafuna" es="Tafuna" it="Tafuna" nl="Tafuna">
-	<province jpn="西地区" eng="Western District" de="Western District" fr="Western District" es="Western District" it="Western District" nl="Western District" />
-      <longitude>-170.724000</longitude>
-      <latitude>-14.327960</latitude>
+      <province jpn="西地区" eng="Western District" de="Western District" fr="Western District" es="Western District" it="Western District" nl="Western District" />
+      <longitude>-170.724</longitude>
+      <latitude>-14.32796</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -18345,7 +18793,7 @@
   <country>
     <name jpn="グアム" eng="Guam" de="Guam" fr="Guam" es="Guam" it="Guam" nl="Guam" />
     <city jpn="グアム" eng="Guam" de="Guam" fr="Guam" es="Guam" it="Guam" nl="Guam">
-	<province jpn="グアム" eng="Guam" de="Guam" fr="Guam" es="Guam" it="Guam" nl="Guam" />
+      <province jpn="グアム" eng="Guam" de="Guam" fr="Guam" es="Guam" it="Guam" nl="Guam" />
       <longitude>144.744873046875</longitude>
       <latitude>13.4637451171875</latitude>
       <zoom1>7</zoom1>
@@ -18355,14 +18803,14 @@
   <country>
     <name jpn="インドネシア" eng="Indonesia" de="Indonesien" fr="Indonésie" es="Indonesia" it="Indonesia" nl="Indonesië" />
     <city jpn="ジャカルタ" eng="Jakarta" de="Jakarta" fr="Jakarta" es="Yakarta" it="Giakarta" nl="Jakarta">
-	<province jpn="ジャカルタ・ラヤ" eng="Jakarta Raya" de="Jakarta" fr="Jakarta" es="Jakarta Raya" it="Giakarta" nl="Jakarta" />
+      <province jpn="ジャカルタ・ラヤ" eng="Jakarta Raya" de="Jakarta" fr="Jakarta" es="Jakarta Raya" it="Giakarta" nl="Jakarta" />
       <longitude>106.8255615234375</longitude>
       <latitude>-6.17431640625</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="デンパサル" eng="Denpasar" de="Denpasar" fr="Denpasar" es="Denpasar" it="Denpasar" nl="Denpasar">
-	<province jpn="バリ州" eng="Bali" de="Bali" fr="Bali" es="Bali" it="Bali" nl="Bali" />
+    <city jpn="デンパサル" eng="Denpasar" de="Denpasar" fr="Denpasar" es="Denpasar" it="Denpasar" nl="Denpasar">
+      <province jpn="バリ州" eng="Bali" de="Bali" fr="Bali" es="Bali" it="Bali" nl="Bali" />
       <longitude>115.213623046875</longitude>
       <latitude>-8.646240234375</latitude>
       <zoom1>5</zoom1>
@@ -18372,7 +18820,7 @@
   <country>
     <name jpn="シンガポール" eng="Singapore" de="Singapur" fr="Singapour" es="Singapur" it="Singapore" nl="Singapore" />
     <city jpn="シンガポール" eng="Singapore" de="Singapur" fr="Singapour" es="Singapur" it="Singapore" nl="Singapore">
-	<province jpn="シンガポール" eng="Singapore" de="Singapur" fr="Singapour" es="Singapur" it="Singapore" nl="Singapore" />
+      <province jpn="シンガポール" eng="Singapore" de="Singapur" fr="Singapour" es="Singapur" it="Singapore" nl="Singapore" />
       <longitude>100.513916015625</longitude>
       <latitude>13.7493896484375</latitude>
       <zoom1>5</zoom1>
@@ -18382,14 +18830,14 @@
   <country>
     <name jpn="タイ" eng="Thailand" de="Thailand" fr="Thaïlande" es="Tailandia" it="Thailandia" nl="Thailand" />
     <city jpn="バンコク" eng="Bangkok" de="Bangkok" fr="Bangkok" es="Bangkok" it="Bangkok" nl="Bangkok">
-	<province jpn="バンコク" eng="Krung Thep Mahanakhon" de="Bangkok" fr="Bangkok" es="Bangkok" it="Bangkok" nl="Bangkok" />
+      <province jpn="バンコク" eng="Krung Thep Mahanakhon" de="Bangkok" fr="Bangkok" es="Bangkok" it="Bangkok" nl="Bangkok" />
       <longitude>100.513916015625</longitude>
       <latitude>13.7493896484375</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="プーケット" eng="Phuket" de="Phuket" fr="Phuket" es="Phuket" it="Phuket" nl="Phuket">
-	<province jpn="プーケット県" eng="Phuket" de="Phuket" fr="Phuket" es="Phuket" it="Phuket" nl="Phuket" />
+    <city jpn="プーケット" eng="Phuket" de="Phuket" fr="Phuket" es="Phuket" it="Phuket" nl="Phuket">
+      <province jpn="プーケット県" eng="Phuket" de="Phuket" fr="Phuket" es="Phuket" it="Phuket" nl="Phuket" />
       <longitude>98.3990478515625</longitude>
       <latitude>7.8826904296875</latitude>
       <zoom1>7</zoom1>
@@ -18399,14 +18847,14 @@
   <country>
     <name jpn="フィリピン" eng="Philippines" de="Philippinen" fr="Philippines" es="Filipinas" it="Filippine" nl="Filipijnen" />
     <city jpn="マニラ" eng="Manila" de="Manila" fr="Manille" es="Manila" it="Manila" nl="Manilla">
-	<province jpn="マニラ" eng="Manila" de="Metro Manila" fr="Manille" es="Manila" it="Manila" nl="Metro Manilla" />
+      <province jpn="マニラ" eng="Manila" de="Metro Manila" fr="Manille" es="Manila" it="Manila" nl="Metro Manilla" />
       <longitude>120.9814453125</longitude>
       <latitude>14.600830078125</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="セブ" eng="Cebu City" de="Cebu" fr="Cebu City" es="Cebú" it="Cebu City" nl="Cebu City">
-	<province jpn="中部ヴィサヤ" eng="Central Visayas" de="Central Visayas" fr="Visayas centrales" es="Visayas Central" it="Visayas Centrale" nl="Central Visayas" />
+    <city jpn="セブ" eng="Cebu City" de="Cebu" fr="Cebu City" es="Cebú" it="Cebu City" nl="Cebu City">
+      <province jpn="中部ヴィサヤ" eng="Central Visayas" de="Central Visayas" fr="Visayas centrales" es="Visayas Central" it="Visayas Centrale" nl="Central Visayas" />
       <longitude>123.8873291015625</longitude>
       <latitude>10.3106689453125</latitude>
       <zoom1>4</zoom1>
@@ -18414,9 +18862,9 @@
     </city>
   </country>
   <country>
-    <name jpn="マレーシア" eng="Malaysia" de="Malaysia" fr="Malaisie" es="Malasia" it="Malaysia" nl="Maleisië"  />
+    <name jpn="マレーシア" eng="Malaysia" de="Malaysia" fr="Malaisie" es="Malasia" it="Malaysia" nl="Maleisië" />
     <city jpn="クアラ・ルンプール" eng="Kuala Lumpur" de="Kuala Lumpur" fr="Kuala Lumpur" es="Kuala Lumpur" it="Kuala Lumpur" nl="Kuala Lumpur">
-	<province jpn="クアラ・ルンプール" eng="Kuala Lumpur" de="Kuala Lumpur" fr="Kuala Lumpur" es="Kuala Lumpur" it="Kuala Lumpur" nl="Kuala Lumpur" />
+      <province jpn="クアラ・ルンプール" eng="Kuala Lumpur" de="Kuala Lumpur" fr="Kuala Lumpur" es="Kuala Lumpur" it="Kuala Lumpur" nl="Kuala Lumpur" />
       <longitude>101.6949462890625</longitude>
       <latitude>3.1640625</latitude>
       <zoom1>5</zoom1>
@@ -18424,9 +18872,9 @@
     </city>
   </country>
   <country>
-    <name jpn="サン・バルテルミー島" eng="Saint Barthélemy" de="Saint-Barthélemy" fr="Saint-Barthélemy" es="San Bartolomé" it="Saint-Barthélemy" nl="Saint-Barthélemy"  />
+    <name jpn="サン・バルテルミー島" eng="Saint Barthélemy" de="Saint-Barthélemy" fr="Saint-Barthélemy" es="San Bartolomé" it="Saint-Barthélemy" nl="Saint-Barthélemy" />
     <city jpn="グスタビア" eng="Gustavia" de="Gustavia" fr="Gustavia" es="Gustavia" it="Gustavia" nl="Gustavia">
-	<province jpn="サン・バルテルミー島" eng="Saint Barthélemy" de="Saint-Barthélemy" fr="Saint-Barthélemy" es="San Bartolomé" it="Saint-Barthélemy" nl="Saint-Barthélemy" />
+      <province jpn="サン・バルテルミー島" eng="Saint Barthélemy" de="Saint-Barthélemy" fr="Saint-Barthélemy" es="San Bartolomé" it="Saint-Barthélemy" nl="Saint-Barthélemy" />
       <longitude>-62.850912</longitude>
       <latitude>17.895311</latitude>
       <zoom1>5</zoom1>
@@ -18436,7 +18884,7 @@
   <country>
     <name jpn="サン・マルタン" eng="Saint Martin" de="Saint-Martin" fr="Saint-Martin" es="San Martín" it="Saint-Martin" nl="Saint-Martin" />
     <city jpn="マリゴ" eng="Marigot" de="Marigot" fr="Marigot" es="Marigot" it="Marigot" nl="Marigot">
-	<province jpn="サン・マルタン" eng="Saint Martin" de="Saint-Martin" fr="Saint-Martin" es="San Martín" it="Saint-Martin" nl="Saint-Martin" />
+      <province jpn="サン・マルタン" eng="Saint Martin" de="Saint-Martin" fr="Saint-Martin" es="San Martín" it="Saint-Martin" nl="Saint-Martin" />
       <longitude>-63.084727</longitude>
       <latitude>18.069804</latitude>
       <zoom1>5</zoom1>
@@ -18446,14 +18894,14 @@
   <country>
     <name jpn="サンピエール島・ミクロン島" eng="Saint Pierre and Miquelon" de="Saint-Pierre und Miquelon" fr="Saint-Pierre-et-Miquelon" es="San Pedro y Miquelón" it="Saint-Pierre e Miquelon" nl="Saint-Pierre en Miquelon" />
     <city jpn="マリゴ" eng="Saint Pierre" de="Saint-Pierre" fr="Saint-Pierre" es="San Pedro y Miquelón" it="Saint-Pierre" nl="Saint-Pierre">
-	<province jpn="マリゴ" eng="Saint Pierre" de="Saint-Pierre" fr="Saint-Pierre" es="San Pedro y Miquelón" it="Saint-Pierre" nl="Saint-Pierre" />
+      <province jpn="マリゴ" eng="Saint Pierre" de="Saint-Pierre" fr="Saint-Pierre" es="San Pedro y Miquelón" it="Saint-Pierre" nl="Saint-Pierre" />
       <longitude>-56.183571</longitude>
-      <latitude>46.772530</latitude>
+      <latitude>46.77253</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
-    <country>
+  <country>
     <name jpn="中国" eng="China" de="China" fr="Chine" es="China" it="Cina" nl="China" />
     <city jpn="北京" eng="Beijing" de="Peking" fr="Pékin" es="Pekín" it="Pechino" nl="Beijing">
       <province jpn="北京市" eng="Beijing" de="Peking" fr="Pékin" es="Pekín" it="Pechino" nl="Beijing" />
@@ -18462,42 +18910,42 @@
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="広州" eng="Guangzhou" de="Guangzhou" fr="Canton" es="Cantón" it="Guangzhou" nl="Kanton">
+    <city jpn="広州" eng="Guangzhou" de="Guangzhou" fr="Canton" es="Cantón" it="Guangzhou" nl="Kanton">
       <province jpn="広東省" eng="Guangdong" de="Guangdong" fr="Guangdong" es="Guangdong" it="Guangdong" nl="Guangdong" />
       <longitude>113.0987548828125</longitude>
       <latitude>23.0987548828125</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="大連" eng="Dalian" de="Dalian" fr="Dalian" es="Dalian" it="Dalian" nl="Dalian">
+    <city jpn="大連" eng="Dalian" de="Dalian" fr="Dalian" es="Dalian" it="Dalian" nl="Dalian">
       <province jpn="遼寧省" eng="Liaoning" de="Liaoning" fr="Liaoning" es="Liaoning" it="Liaoning" nl="Liaoning" />
       <longitude>121.3330078125</longitude>
       <latitude>38.748779296875</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="大連" eng="Dalian" de="Dalian" fr="Dalian" es="Dalian" it="Dalian" nl="Dalian">
+    <city jpn="大連" eng="Dalian" de="Dalian" fr="Dalian" es="Dalian" it="Dalian" nl="Dalian">
       <province jpn="遼寧省" eng="Liaoning" de="Liaoning" fr="Liaoning" es="Liaoning" it="Liaoning" nl="Liaoning" />
       <longitude>121.3330078125</longitude>
       <latitude>38.748779296875</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="桂林" eng="Guilin" de="Guilin" fr="Guilin" es="Guilin" it="Guilin" nl="Guilin">
+    <city jpn="桂林" eng="Guilin" de="Guilin" fr="Guilin" es="Guilin" it="Guilin" nl="Guilin">
       <province jpn="広西チワン族自治区" eng="Guangxi-Zhuangzu" de="Guangxi" fr="Guangxi" es="Guangxi" it="Guangxi" nl="Guangxi" />
       <longitude>110.1983642578125</longitude>
       <latitude>25.345458984375</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="上海" eng="Shanghai" de="Schanghai" fr="Shanghai" es="Shanghái" it="Shanghai" nl="Sjanghai">
+    <city jpn="上海" eng="Shanghai" de="Schanghai" fr="Shanghai" es="Shanghái" it="Shanghai" nl="Sjanghai">
       <province jpn="上海市" eng="Shanghai" de="Shanghai" fr="Shanghai" es="Shanghái" it="Shanghai" nl="Sjanghai" />
       <longitude>121.4703369140625</longitude>
       <latitude>31.2451171875</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="成都" eng="Chengdu" de="Chengdu" fr="Chengdu" es="Chengdu" it="Chengdu" nl="Chengdu">
+    <city jpn="成都" eng="Chengdu" de="Chengdu" fr="Chengdu" es="Chengdu" it="Chengdu" nl="Chengdu">
       <province jpn="四川省" eng="Sichuan" de="Sichuan" fr="Sichuan" es="Sichuan" it="Sichuan" nl="Sichuan" />
       <longitude>104.1119384765625</longitude>
       <latitude>30.6298828125</latitude>
@@ -18508,7 +18956,7 @@
   <country>
     <name jpn="アフガニスタン" eng="Afghanistan" de="Afghanistan" fr="Afghanistan" es="Afganistán" it="Afghanistan" nl="Afghanistan" />
     <city jpn="カブール" eng="Kabul" de="Kabul" fr="Kaboul" es="Kabul" it="Kabul" nl="Kaboel">
-	<province jpn="カーブル州" eng="Kabul" de="Kabul" fr="Kaboul" es="Kabul" it="Kabul" nl="Kaboel" />
+      <province jpn="カーブル州" eng="Kabul" de="Kabul" fr="Kaboul" es="Kabul" it="Kabul" nl="Kaboel" />
       <longitude>69.14794921875</longitude>
       <latitude>34.5135498046875</latitude>
       <zoom1>5</zoom1>
@@ -18518,7 +18966,7 @@
   <country>
     <name jpn="カザフスタン" eng="Kazakhstan" de="Kasachstan" fr="Kazakhstan" es="Kazajstán" it="Kazakistan" nl="Kazachstan" />
     <city jpn="ヌルスルタン" eng="Nur-Sultan" de="Nur-Sultan" fr="Noursultan" es="Nur-sultán" it="Nur-Sultan" nl="Nur-Sultan">
-	<province jpn="ヌルスルタン" eng="Nur-Sultan" de="Nur-Sultan" fr="Noursultan" es="Nur-sultán" it="Nur-Sultan" nl="Nur-Sultan" />
+      <province jpn="ヌルスルタン" eng="Nur-Sultan" de="Nur-Sultan" fr="Noursultan" es="Nur-sultán" it="Nur-Sultan" nl="Nur-Sultan" />
       <longitude>71.466064453125</longitude>
       <latitude>51.1798095703125</latitude>
       <zoom1>9</zoom1>
@@ -18528,7 +18976,7 @@
   <country>
     <name jpn="キルギス" eng="Kyrgyzstan" de="Kirgisistan" fr="Kirghizistan" es="Kirguistán" it="Kirghizistan" nl="Kirgizische Republiek" />
     <city jpn="ビシュケク" eng="Bishkek" de="Bischkek" fr="Bishkek" es="Bishkek" it="Bishkek" nl="Bisjkek">
-	<province jpn="チュイ州" eng="Chuy Region" de="Gebiet Tschüi" fr="Province de Tchouï" es="Provincia de Chuy" it="Regione di Chuj" nl="Tsjoej" />
+      <province jpn="チュイ州" eng="Chuy Region" de="Gebiet Tschüi" fr="Province de Tchouï" es="Provincia de Chuy" it="Regione di Chuj" nl="Tsjoej" />
       <longitude>74.59716796875</longitude>
       <latitude>42.8631591796875</latitude>
       <zoom1>7</zoom1>
@@ -18538,7 +18986,7 @@
   <country>
     <name jpn="パキスタン" eng="Pakistan" de="Pakistan" fr="Pakistan" es="Pakistán" it="Pakistan" nl="Pakistan" />
     <city jpn="イスラマバード" eng="Islamabad" de="Islamabad" fr="Islamabad" es="Islamabad" it="Islamabad" nl="Islamabad">
-	<province jpn="イスラーマーバード首都圏" eng="Islamabad Capital Territory" de="Hauptstadtterritorium Islamabad" fr="Territoire fédéral d'Islamabad" es="Territorio Capital de Islamabad" it="Territorio della capitale Islamabad" nl="Hoofdstedelijk Territorium Islamabad" />
+      <province jpn="イスラーマーバード首都圏" eng="Islamabad Capital Territory" de="Hauptstadtterritorium Islamabad" fr="Territoire fédéral d'Islamabad" es="Territorio Capital de Islamabad" it="Territorio della capitale Islamabad" nl="Hoofdstedelijk Territorium Islamabad" />
       <longitude>73.1634521484375</longitude>
       <latitude>33.695068359375</latitude>
       <zoom1>7</zoom1>
@@ -18548,7 +18996,7 @@
   <country>
     <name jpn="タジキスタン" eng="Tajikistan" de="Tadschikistan" fr="Tadjikistan" es="Tayikistán" it="Tagikistan" nl="Tadzjikistan" />
     <city jpn="ドゥシャンベ" eng="Dushanbe" de="Duschanbe" fr="Douchanbé" es="Dushanbe" it="Dushanbe" nl="Doesjanbe">
-	<province jpn="共和国直轄地" eng="Districts of Republican Subordination" de="Nohijahoi tobei dschumhurij" fr="Nohiyahoi tobei Jumhurii" es="Región bajo subordinación republicana" it="Distretti di Subordinazione Repubblicana" nl="Nohijahoi tobei dzjoemhoeri" />
+      <province jpn="共和国直轄地" eng="Districts of Republican Subordination" de="Nohijahoi tobei dschumhurij" fr="Nohiyahoi tobei Jumhurii" es="Región bajo subordinación republicana" it="Distretti di Subordinazione Repubblicana" nl="Nohijahoi tobei dzjoemhoeri" />
       <longitude>68.79638671875</longitude>
       <latitude>38.5784912109375</latitude>
       <zoom1>4</zoom1>
@@ -18558,7 +19006,7 @@
   <country>
     <name jpn="トルクメニスタン" eng="Turkmenistan" de="Turkmenistan" fr="Turkménistan" es="Turkmenistán" it="Turkmenistan" nl="Turkmenistan" />
     <city jpn="アシガバット" eng="Ashgabat" de="Aschgabat" fr="Achgabat" es="Ashgabat" it="Ashgabat" nl="Asjchabad">
-	<province jpn="アシガバット" eng="Ashgabat" de="Aschgabat" fr="Achgabat" es="Ashgabat" it="Ashgabat" nl="Asjchabad" />
+      <province jpn="アシガバット" eng="Ashgabat" de="Aschgabat" fr="Achgabat" es="Ashgabat" it="Ashgabat" nl="Asjchabad" />
       <longitude>58.3758544921875</longitude>
       <latitude>37.94677734375</latitude>
       <zoom1>5</zoom1>
@@ -18568,221 +19016,12 @@
   <country>
     <name jpn="ウズベキスタン" eng="Uzbekistan" de="Usbekistan" fr="Ouzbékistan" es="Uzbekistán" it="Uzbekistan" nl="Oezbekistan" />
     <city jpn="タシケント" eng="Tashkent" de="Taschkent" fr="Tachkent" es="Tashkent" it="Taskent" nl="Tasjkent">
-	<province jpn="タシケント" eng="Tashkent" de="Taschkent" fr="Tachkent" es="Tashkent" it="Taskent" nl="Tasjkent" />
+      <province jpn="タシケント" eng="Tashkent" de="Taschkent" fr="Tachkent" es="Tashkent" it="Taskent" nl="Tasjkent" />
       <longitude>69.2633056640625</longitude>
       <latitude>41.2646484375</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<country>
-    <name jpn="ウズベキスタン" eng="Uzbekistan" de="Usbekistan" fr="Ouzbékistan" es="Uzbekistán" it="Uzbekistan" nl="Oezbekistan" />
-    <city jpn="タシケント" eng="Tashkent" de="Taschkent" fr="Tachkent" es="Tashkent" it="Taskent" nl="Tasjkent">
-	<province jpn="タシケント" eng="Tashkent" de="Taschkent" fr="Tachkent" es="Tashkent" it="Taskent" nl="Tasjkent" />
-      <longitude>69.2633056640625</longitude>
-      <latitude>41.2646484375</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  <country>
-    <name jpn="アラブ首長国連邦" eng="United Arab Emirates" de="Vereinigte Arabische Emirate" fr="Emirats arabes unis" es="Emiratos Árabes Unidos" it="Emirati Arabi Uniti" nl="Verenigde Arabische Emiraten" />
-    <city jpn="アブダビ" eng="Abu Dhabi" de="Abu Dhabi" fr="Abu Dhabi" es="Abu Dabi" it="Abu Dhabi" nl="Abu Dhabi">
-	<province jpn="アブダビ" eng="Abu Dhabi" de="Abu Dhabi" fr="Abu Dhabi" es="Abu Dabi" it="Abu Dhabi" nl="Abu Dhabi" />
-      <longitude>54.3658447265625</longitude>
-      <latitude>24.466552734375</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="ドバイ" eng="Dubai" de="Dubai" fr="Dubaï" es="Dubái" it="Dubai" nl="Dubai">
-	<province jpn="ドバイ" eng="Dubai" de="Dubai" fr="Dubaï" es="Dubái" it="Dubai" nl="Dubai" />
-      <longitude>55.2777099609375</longitude>
-      <latitude>25.2520751953125</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  <country>
-    <name jpn="インド" eng="India" de="Indien" fr="Inde" es="India" it="India" nl="India" />
-    <city jpn="ニューデリー" eng="New Delhi" de="Neu-Delhi" fr="New Delhi" es="Nueva Delhi" it="Nuova Delhi" nl="New Delhi">
-	<province jpn="デリー" eng="Delhi" de="Delhi" fr="Delhi" es="Delhi" it="Delhi" nl="Delhi" />
-     <longitude>77.1954345703125</longitude>
-      <latitude>28.597412109375</latitude>
-      <zoom1>9</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="ムンバイ" eng="Mumbai" de="Mumbai" fr="Mumbai" es="Mumbai" it="Mumbai" nl="Mumbai">
-	<province jpn="マハーラーシュトラ州" eng="Maharashtra" de="Maharashtra" fr="Maharashtra" es="Maharashtra" it="Maharashtra" nl="Maharashtra" />
-      <longitude>72.8228759765625</longitude>
-      <latitude>18.973388671875</latitude>
-      <zoom1>7</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  <country>
-    <name jpn="エジプト" eng="Egypt" de="Ägypten" fr="Egypte" es="Egipto" it="Egitto" nl="Egypte" />
-    <city jpn="カイロ" eng="Cairo" de="Kairo" fr="Le Caire" es="El Cairo" it="Il Cairo" nl="Caïro">
-	<province jpn="カイロ" eng="Al Qahirah" de="Kairo" fr="Le Caire" es="El Cairo" it="Il Cairo" nl="Caïro" />
-      <longitude>31.2451171875</longitude>
-      <latitude>30.047607421875</latitude>
-      <zoom1>9</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="ルクソール" eng="Luxor" de="Luxor" fr="Louxor" es="Luxor" it="Luxor" nl="Luxor">
-	<province jpn="ルクソール" eng="Luxor" de="Al Uqsur" fr="Al Uqsur" es="Luxor" it="Al Uqsur" nl="Al Uqsur" />
-      <longitude>32.6458740234375</longitude>
-      <latitude>25.6805419921875</latitude>
-      <zoom1>6</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  <country>
-    <name jpn="オマーン" eng="Oman" de="Oman" fr="Oman" es="Omán" it="Oman" nl="Oman" />
-    <city jpn="マスカット" eng="Muscat" de="Maskat" fr="Mascate" es="Mascate" it="Mascate" nl="Masqat">
-	<province jpn="マスカット州" eng="Muscat" de="Maskat" fr="Mascate" es="Mascate" it="Mascate" nl="Masqat" />
-      <longitude>58.590087890625</longitude>
-      <latitude>23.609619140625</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  <country>
-    <name jpn="カタール" eng="Qatar" de="Katar" fr="Qatar" es="Qatar" it="Qatar" nl="Qatar" />
-    <city jpn="ドーハ" eng="Doha" de="Doha" fr="Doha" es="Doha" it="Doha" nl="Doha">
-	<province jpn="ドーハ" eng="Doha" de="Doha" fr="Doha" es="Doha" it="Doha" nl="Doha" />
-      <longitude>51.5313720703125</longitude>
-      <latitude>25.2850341796875</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  <country>
-    <name jpn="クウェート" eng="Kuwait" de="Kuwait" fr="Koweït" es="Kuwait" it="Kuwait" nl="Koeweit" />
-    <city jpn="クウェート" eng="Kuwait City" de="Kuwait-Stadt" fr="Koweït" es="Kuwait" it="Kuwait City" nl="Koeweit">
-	<province jpn="アースィマ県" eng="Al-Asimah" de="al-Asima" fr="Al Asimah" es="Gobernación Capital" it="Governatorato della Capitale" nl="Al-Asimah" />
-      <longitude>47.977294921875</longitude>
-      <latitude>29.366455078125</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  <country>
-    <name jpn="サウジアラビア" eng="Saudi Arabia" de="Saudi-Arabien" fr="Arabie saoudite" es="Arabia Saudí" it="Arabia Saudita" nl="Saoedi-Arabië" />
-    <city jpn="リヤド" eng="Riyadh" de="Riad" fr="Riyad" es="Riad" it="Riyad" nl="Riyad">
-	<province jpn="リヤド州" eng="Ar Riyad" de="Riad" fr="Ar Riyâd" es="Ar Riyad" it="Al Riyad" nl="Ar Riyad" />
-      <longitude>46.768798828125</longitude>
-      <latitude>24.6368408203125</latitude>
-      <zoom1>9</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="メッカ" eng="Mecca" de="Mekka" fr="La Mecque" es="La Meca" it="La Mecca" nl="Mekka">
-	<province jpn="メッカ州" eng="Makkah" de="Mekka" fr="La Mecque" es="Hiyaz" it="Hijàz" nl="Mekka" />
-      <longitude>39.825439453125</longitude>
-      <latitude>21.42333984375</latitude>
-      <zoom1>7</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="ジッダ" eng="Jeddah" de="Dschidda" fr="Jiddah" es="Yeddah" it="Gidda" nl="Djedda">
-	 <province jpn="メッカ州" eng="Makkah" de="Mekka" fr="La Mecque" es="Hiyaz" it="Hijàz" nl="Mekka" />
-      <longitude>39.2156982421875</longitude>
-      <latitude>21.5167236328125</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  <country>
-    <name jpn="シリア" eng="Syria" de="Syrien" fr="Syrie" es="Siria" it="Siria" nl="Syrië" />
-    <city jpn="ダマスカス" eng="Damascus" de="Damaskus" fr="Damas" es="Damasco" it="Damasco" nl="Damascus">
-	<province jpn="ダマスカス" eng="Rif Dimashq" de="Damaskus" fr="Rif Dimashq" es="Damasco" it="Damasco" nl="Damascus" />
-      <longitude>36.298828125</longitude>
-      <latitude>33.497314453125</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  <country>
-    <name jpn="バーレーン" eng="Bahrain" de="Bahrain" fr="Bahreïn" es="Bahréin" it="Bahrain" nl="Bahrein" />
-    <city jpn="マナマ" eng="Manama" de="Manama" fr="Manama" es="Manama" it="Manama" nl="Manama">
-	<province jpn="首都県" eng="Capital Governorate" de="Hauptstadtgouvernement" fr="Gouvernorat de la capitale" es="Gobernación Capital" it="Governatorato della Capitale" nl="Hoofdstad" />
-      <longitude>50.5810546875</longitude>
-      <latitude>26.2353515625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  <country>
-    <name jpn="イラン" eng="Iran" de="Iran" fr="Iran" es="Irán" it="Iran" nl="Iran" />
-    <city jpn="テヘラン" eng="Tehran" de="Teheran" fr="Téhéran" es="Teherán" it="Teheran" nl="Teheran">
-	<province jpn="テヘラン" eng="Tehran" de="Teheran" fr="Téhéran" es="Teherán" it="Teheran" nl="Teheran" />
-      <longitude>51.4324951171875</longitude>
-      <latitude>35.66162109375</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  <country>
-    <name jpn="イラク" eng="Iraq" de="Irak" fr="Irak" es="Iraq" it="Iraq" nl="Irak" />
-    <city jpn="バグダッド" eng="Baghdad" de="Bagdad" fr="Bagdad" es="Bagdad" it="Baghdad" nl="Bagdad">
-	<province jpn="バグダード県" eng="Baghdad" de="Bagdad" fr="Bagdad" es="Bagdad" it="Baghdad" nl="Bagdad" />
-      <longitude>44.4122314453125</longitude>
-      <latitude>33.3489990234375</latitude>
-      <zoom1>7</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  <country>
-    <name jpn="イスラエル" eng="Israel" de="Israel" fr="Israël" es="Israel" it="Israele" nl="Israël" />
-    <city jpn="エルサレム" eng="Jerusalem" de="Jerusalem" fr="Jérusalem" es="Jerusalén" it="Gerusalemme" nl="Jeruzalem">
-	<province jpn="エルサレム地区" eng="Jerusalem District" de="Bezirk Jerusalem" fr="District de Jérusalem" es="Distrito de Jerusalén" it="Distretto di Gerusalemme" nl="Jeruzalem" />
-      <longitude>35.211181640625</longitude>
-      <latitude>31.761474609375</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  
-  <country>
-    <name jpn="モルドバ" eng="Moldova" de="Moldawien" fr="Moldavie" es="Moldavia" it="Moldavia" nl="Moldavië" />
-    <city jpn="キシニョフ" eng="Chisinau" de="Chisinau" fr="Chisinau" es="Chisinau" it="Chisinau" nl="Chisinau">
-	<province jpn="キシニョフ" eng="Chisinau" de="Chisinau" fr="Chisinau" es="Chisinau" it="Chisinau" nl="Chisinau" />
-      <longitude>28.828125</longitude>
-      <latitude>46.99951171875</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  <country>
-    <name jpn="ウクライナ" eng="Ukraine" de="Ukraine" fr="Ukraine" es="Ucrania" it="Ucraina" nl="Oekraïne" />
-    <city jpn="キエフ" eng="Kyiv" de="Kiew" fr="Kiev" es="Kiev" it="Kiev" nl="Kiev">
-	<province jpn="キエフ州" eng="Kiev Oblast" de="Oblast Kiew" fr="Oblast de Kiev" es="Óblast de Kiev" it="Oblast di Kiev" nl="Kiev" />
-      <longitude>30.4486083984375</longitude>
-      <latitude>50.3997802734375</latitude>
-      <zoom1>7</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  
-  <country>
-    <name jpn="モロッコ" eng="Morocco" de="Marokko" fr="Maroc" es="Marruecos" it="Marocco" nl="Marokko" />
-    <city jpn="ラバト" eng="Rabat" de="Rabat" fr="Rabat" es="Rabat" it="Rabat" nl="Rabat">
-	<province jpn="ラバト＝サレ＝ケニトラ地方" eng="Rabat-Salé-Kénitra" de="Rabat-Salé-Kénitra" fr="Rabat-Salé-Kénitra" es="Rabat-Salé-Kénitra" it="Rabat-Salé-Kénitra" nl="Rabat-Salé-Kénitra" />
-      <longitude>-6.8499755859375</longitude>
-      <latitude>34.0301513671875</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  
-  <country>
-    <name jpn="キューバ" eng="Cuba" de="Kuba" fr="Cuba" es="Cuba" it="Cuba" nl="Cuba" />
-    <city jpn="ハバナ" eng="Havana" de="Havanna" fr="La Havane" es="La Habana" it="L'Avana" nl="Havana">
-	<province jpn="ハバナ" eng="Havana" de="Havanna" fr="La Havane" es="La Habana" it="L'Avana" nl="Havana" />
-      <longitude>-82.3480224609375</longitude>
-      <latitude>23.148193359375</latitude>
-      <zoom1>7</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  
   </country>
   <international>
     <city>
@@ -20667,22 +20906,22 @@
       <name jpn="ハラレ" eng="Harare" de="Harare" fr="Harare" es="Harare" it="Harare" nl="Harare" />
     </city>
     <city>
-      <province jpn="台北市" eng="Taipei City" de="Taipeh" fr="Taïpei" es="Taipéi" it="Taipei" nl="Taipei" />
+      <province jpn="台北市" eng="Taipei" de="Taipeh" fr="Taïpei" es="Taipéi" it="Taipei" nl="Taipei" />
       <longitude>121.5472412109375</longitude>
       <latitude>25.0982666015625</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
       <country jpn="台湾" eng="Taiwan" de="Taiwan" fr="Taiwan" es="Taiwán" it="Taiwan" nl="Taiwan" />
-      <name jpn="台北" eng="Taipei City" de="Taipeh" fr="Taïpei" es="Taipéi" it="Taipei" nl="Taipei" />
+      <name jpn="台北" eng="Taipei" de="Taipeh" fr="Taïpei" es="Taipéi" it="Taipei" nl="Taipei" />
     </city>
     <city>
-      <province jpn="高雄市" eng="Kaohsiung City" de="Kaohsiung" fr="Kaohsiung" es="Condado de Kaohsiung" it="Kaohsiung" nl="Kaohsiung" />
+      <province jpn="高雄市" eng="Kaohsiung" de="Kaohsiung" fr="Kaohsiung" es="Kaohsiung" it="Kaohsiung" nl="Kaohsiung" />
       <longitude>120.2783203125</longitude>
       <latitude>22.598876953125</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
       <country jpn="台湾" eng="Taiwan" de="Taiwan" fr="Taiwan" es="Taiwán" it="Taiwan" nl="Taiwan" />
-      <name jpn="カオシュン" eng="Kaohsiung City" de="Kaohsiung" fr="Kaohsiung" es="Kaohsiung" it="Kaohsiung" nl="Kaohsiung" />
+      <name eng="Kaohsiung" de="Kaohsiung" fr="Kaohsiung" es="Kaohsiung" it="Kaohsiung" nl="Kaohsiung" />
     </city>
     <city>
       <province jpn="ソウル特別市" eng="Seoul" de="Seoul" fr="Séoul" es="Seúl" it="Seoul" nl="Seoul" />
