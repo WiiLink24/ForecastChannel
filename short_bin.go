@@ -47,7 +47,7 @@ func (f *Forecast) MakeShortBin(cities []InternationalCity) ([]byte, []byte) {
 		CRC32:                         0,
 		OpenTimestamp:                 fixTime(int(time.Now().Unix())),
 		CloseTimestamp:                fixTime(int(time.Now().Unix())) + 63,
-		CountryCode:                   0,
+		CountryCode:                   f.currentCountryCode,
 		LanguageCode:                  f.currentLanguageCode,
 		TemperatureFlag:               0,
 		NumberOfCurrentForecastTables: 0,
