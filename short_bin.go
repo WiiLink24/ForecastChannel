@@ -47,7 +47,7 @@ func (f *Forecast) MakeShortBin(cities []InternationalCity) ([]byte, []byte) {
 		CRC32:                         0,
 		OpenTimestamp:                 fixTime(int(time.Now().Unix())),
 		CloseTimestamp:                fixTime(int(time.Now().Unix())) + 63,
-		CountryCode:                   0,
+		CountryCode:                   f.currentCountryCode,
 		LanguageCode:                  f.currentLanguageCode,
 		TemperatureFlag:               0,
 		NumberOfCurrentForecastTables: 0,
@@ -135,7 +135,7 @@ func (f *Forecast) MakeShortBin(cities []InternationalCity) ([]byte, []byte) {
 	Write(wiiUBuffer, header)
 	Write(wiiUBuffer, currentForecastTables)
 
-	compressedU, err := lz10.Compress(buffer.Bytes())
+	compressedU, err := lz10.Compress(wiiUBuffer.Bytes())
 	checkError(err)
 
 	return compressed, compressedU
