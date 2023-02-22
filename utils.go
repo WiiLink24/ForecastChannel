@@ -84,7 +84,7 @@ func GetSupportedLanguages(countryCode uint8) []uint8 {
 		return []uint8{1, 2, 3, 4, 5, 6}
 	}
 
-	return []uint8{1}
+	return []uint8{0, 1, 2, 3, 4, 5, 6}
 }
 
 func (f *Forecast) GetLocalizedName(names LocalizedNames) string {
