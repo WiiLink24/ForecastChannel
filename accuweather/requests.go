@@ -14,7 +14,10 @@ const (
 	apiURL = "https://api.accuweather.com"
 )
 
-func GetWeather(longitude float64, latitude float64) *Weather {
+var currentTime = time.Now().Unix()
+
+func GetWeather(longitude float64, latitude float64, _time int64) *Weather {
+	currentTime = _time
 	weather := Weather{}
 
 	// First retrieve the location code.
@@ -77,7 +80,7 @@ func (w *Weather) GetCurrentWeather(locationKey string) {
 		w.Globe.Offset *= -1
 	}
 
-	w.Globe.Time = int(time.Now().Unix()) + w.Globe.Offset*3600
+	w.Globe.Time = int(currentTime) + w.Globe.Offset*3600
 }
 
 func (w *Weather) Get5DayWeather(locationKey string) {

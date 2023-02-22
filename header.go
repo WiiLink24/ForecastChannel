@@ -1,7 +1,5 @@
 package main
 
-import "time"
-
 type Header struct {
 	Version                        uint32
 	Filesize                       uint32
@@ -36,8 +34,8 @@ func (f *Forecast) MakeHeader() {
 		Version:                        0,
 		Filesize:                       0,
 		CRC32:                          0,
-		OpenTimestamp:                  fixTime(int(time.Now().Unix())),
-		CloseTimestamp:                 fixTime(int(time.Now().Unix())) + 63,
+		OpenTimestamp:                  fixTime(int(currentTime)),
+		CloseTimestamp:                 fixTime(int(currentTime)) + 63,
 		CountryCode:                    f.currentCountryCode,
 		LanguageCode:                   f.currentLanguageCode,
 		TemperatureFlag:                f.GetTemperatureFlag(),

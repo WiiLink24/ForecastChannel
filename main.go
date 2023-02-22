@@ -37,6 +37,7 @@ type Forecast struct {
 }
 
 var weatherMap = map[string]*accuweather.Weather{}
+var currentTime = time.Now().Unix()
 var weatherList *WeatherList
 var mapMutex = sync.RWMutex{}
 
@@ -59,7 +60,7 @@ func main() {
 			defer wg.Done()
 			semaphore <- struct{}{}
 			fmt.Println("Processing", city.Name.English)
-			weather := accuweather.GetWeather(city.Longitude, city.Latitude)
+			weather := accuweather.GetWeather(city.Longitude, city.Latitude, currentTime)
 			mapMutex.Lock()
 			weatherMap[fmt.Sprintf("%f,%f", city.Longitude, city.Latitude)] = weather
 			mapMutex.Unlock()
@@ -88,7 +89,7 @@ func main() {
 					defer wg.Done()
 					semaphore <- struct{}{}
 					fmt.Println("Processing", city.English)
-					weather := accuweather.GetWeather(city.Longitude, city.Latitude)
+					weather := accuweather.GetWeather(city.Longitude, city.Latitude, currentTime)
 					mapMutex.Lock()
 					weatherMap[fmt.Sprintf("%f,%f", city.Longitude, city.Latitude)] = weather
 					mapMutex.Unlock()

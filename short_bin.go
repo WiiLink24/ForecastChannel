@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"github.com/wii-tools/lzx/lz10"
 	"hash/crc32"
-	"time"
 )
 
 type ShortHeader struct {
@@ -45,8 +44,8 @@ func (f *Forecast) MakeShortBin(cities []InternationalCity) ([]byte, []byte) {
 		Version:                       0,
 		Filesize:                      0,
 		CRC32:                         0,
-		OpenTimestamp:                 fixTime(int(time.Now().Unix())),
-		CloseTimestamp:                fixTime(int(time.Now().Unix())) + 63,
+		OpenTimestamp:                 fixTime(int(currentTime)),
+		CloseTimestamp:                fixTime(int(currentTime)) + 63,
 		CountryCode:                   f.currentCountryCode,
 		LanguageCode:                  f.currentLanguageCode,
 		TemperatureFlag:               0,
@@ -63,7 +62,7 @@ func (f *Forecast) MakeShortBin(cities []InternationalCity) ([]byte, []byte) {
 			RegionCode:                   f.rawLocations[f.currentCountryList.Name.English][city.Province.English][city.English].RegionCode,
 			LocationCode:                 f.rawLocations[f.currentCountryList.Name.English][city.Province.English][city.English].LocationCode,
 			LocalTimestamp:               fixTime(weather.Globe.Time),
-			GlobalTimestamp:              fixTime(int(time.Now().Unix())),
+			GlobalTimestamp:              fixTime(int(currentTime)),
 			CurrentForecast:              ConvertIcon(weather.Current.WeatherIcon, countryCode),
 			CurrentTemperatureCelsius:    uint8(weather.Current.TempCelsius),
 			CurrentTemperatureFahrenheit: uint8(weather.Current.TempFahrenheit),
@@ -86,7 +85,7 @@ func (f *Forecast) MakeShortBin(cities []InternationalCity) ([]byte, []byte) {
 			RegionCode:                   f.rawLocations[city.Country.English][city.Province.English][city.Name.English].RegionCode,
 			LocationCode:                 f.rawLocations[city.Country.English][city.Province.English][city.Name.English].LocationCode,
 			LocalTimestamp:               fixTime(weather.Globe.Time),
-			GlobalTimestamp:              fixTime(int(time.Now().Unix())),
+			GlobalTimestamp:              fixTime(int(currentTime)),
 			CurrentForecast:              ConvertIcon(weather.Current.WeatherIcon, countryCode),
 			CurrentTemperatureCelsius:    uint8(weather.Current.TempCelsius),
 			CurrentTemperatureFahrenheit: uint8(weather.Current.TempFahrenheit),

@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"time"
 )
 
 type ShortForecastTable struct {
@@ -73,7 +72,7 @@ func (f *Forecast) MakeShortForecastTable(cities []InternationalCity) {
 			RegionCode:                          f.rawLocations[city.Country.English][city.Province.English][city.Name.English].RegionCode,
 			LocationCode:                        f.rawLocations[city.Country.English][city.Province.English][city.Name.English].LocationCode,
 			LocalTimestamp:                      fixTime(weather.Globe.Time),
-			GlobalTimestamp:                     fixTime(int(time.Now().Unix())),
+			GlobalTimestamp:                     fixTime(int(currentTime)),
 			TodayForecast:                       ConvertIcon(weather.Today.WeatherIcon, countryCode),
 			Today6Hour12AMTo6AM:                 ConvertIcon(weather.HourlyIcon[0], countryCode),
 			Today6Hour6AMTo12PM:                 ConvertIcon(weather.HourlyIcon[1], countryCode),
