@@ -1,6 +1,8 @@
 package main
 
-import "unicode/utf16"
+import (
+	"unicode/utf16"
+)
 
 type LocationTable struct {
 	CountryCode       uint8
@@ -36,6 +38,10 @@ func (f *Forecast) PopulateLocations(cities []InternationalCity) {
 			locations[f.currentCountryList.Name.English][city.Province.English] = map[string]Location{}
 		}
 
+		if _, ok := locations[f.currentCountryList.Name.English][city.Province.English][city.English]; ok {
+			continue
+		}
+
 		locations[f.currentCountryList.Name.English][city.Province.English][city.English] = Location{
 			CountryCode:  f.currentCountryCode,
 			RegionCode:   uint8(len(locations[f.currentCountryList.Name.English]) + 1),
@@ -65,6 +71,10 @@ func (f *Forecast) PopulateLocations(cities []InternationalCity) {
 				LocationCode: uint16(noProvince),
 			}
 			noProvince++
+			continue
+		}
+
+		if _, ok := locations[city.Country.English][city.Province.English][city.Name.English]; ok {
 			continue
 		}
 
