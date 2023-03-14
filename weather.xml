@@ -2295,6 +2295,13 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="マレー滝" eng="Malay Falls" de="Malay Falls" fr="Malay Falls" es="Malay Falls" it="Malay Falls" nl="Malay Falls">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-62.479248046875</longitude>
+      <latitude>44.97802734375</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="シドニー" eng="Sydney" de="Sydney" fr="Sydney" es="Sydney" it="Sydney" nl="Sydney">
       <province jpn="ニューファンドランド州" eng="Newfoundland" de="Neufundland" fr="Terre-Neuve" es="Terranova" it="Terranova" nl="Newfoundland" />
       <longitude>-60.1776123046875</longitude>
@@ -10724,142 +10731,149 @@
   <country>
     <name jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
     <city jpn="パリ" eng="Paris" de="Paris" fr="Paris" es="París" it="Parigi" nl="Parijs">
-      <province jpn="イール・ド・フランス" eng="Île-de-France" de="Île-de-France" fr="Ile-de-France" es="Isla de Francia" it="Île-de-France" nl="Île-de-France" />
+      <province jpn="イル＝ド＝フランス" eng="Île-de-France" de="Île-de-France" fr="Île-de-France" es="Isla de Francia" it="Île-de-France" nl="Île-de-France" />
       <longitude>2.3455810546875</longitude>
       <latitude>48.8507080078125</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ストラスブール" eng="Strasbourg" de="Straßburg" fr="Strasbourg" es="Estrasburgo" it="Strasburgo" nl="Straatsburg">
-      <province jpn="アルザス" eng="Alsace" de="Elsass" fr="Alsace" es="Alsacia" it="Alsazia" nl="Elzas" />
-      <longitude>7.7398681640625</longitude>
-      <latitude>48.58154296875</latitude>
-      <zoom1>2</zoom1>
+	<city jpn="クレテイユ" eng="Créteil" de="Créteil" fr="Créteil" es="Créteil" it="Créteil" nl="Créteil">
+      <province jpn="イル＝ド＝フランス" eng="Île-de-France" de="Île-de-France" fr="Île-de-France" es="Isla de Francia" it="Île-de-France" nl="Île-de-France" />
+      <longitude>2.583125</longitude>
+      <latitude>48.703085</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="コルマール" eng="Colmar" de="Colmar" fr="Colmar" es="Colmar" it="Colmar" nl="Colmar">
-      <province jpn="アルザス" eng="Alsace" de="Elsass" fr="Alsace" es="Alsacia" it="Alsazia" nl="Elzas" />
-      <longitude>7.349853515625</longitude>
-      <latitude>48.0816650390625</latitude>
-      <zoom1>1</zoom1>
+	<city jpn="ヴェルサイユ" eng="Versailles" de="Versailles" fr="Versailles" es="Versalles" it="Versailles" nl="Versailles">
+      <province jpn="イル＝ド＝フランス" eng="Île-de-France" de="Île-de-France" fr="Île-de-France" es="Isla de Francia" it="Île-de-France" nl="Île-de-France" />
+      <longitude>1.942454</longitude>
+      <latitude>48.694510</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ミュルーズ" eng="Mulhouse" de="Mülhausen" fr="Mulhouse" es="Mulhouse" it="Mulhouse" nl="Mulhouse">
-      <province jpn="アルザス" eng="Alsace" de="Elsass" fr="Alsace" es="Alsacia" it="Alsazia" nl="Elzas" />
-      <longitude>7.3333740234375</longitude>
-      <latitude>47.74658203125</latitude>
-      <zoom1>1</zoom1>
+    <city jpn="リヨン" eng="Lyon" de="Lyon" fr="Lyon" es="Lyon" it="Lione" nl="Lyon">
+      <province jpn="オーヴェルニュ＝ローヌ＝アルプ" eng="Auvergne-Rhône-Alpes" de="Auvergne-Rhône-Alpes" fr="Auvergne-Rhône-Alpes" es="Auvernia-Ródano-Alpes" it="Alvernia-Rodano-Alpi" nl="Auvergne-Rhône-Alpes" />
+      <longitude>4.8284912109375</longitude>
+      <latitude>45.7525634765625</latitude>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ボルドー" eng="Bordeaux" de="Bordeaux" fr="Bordeaux" es="Burdeos" it="Bordeaux" nl="Bordeaux">
-      <province jpn="アキテーヌ" eng="Aquitaine" de="Aquitanien" fr="Aquitaine" es="Aquitania" it="Aquitania" nl="Aquitanië" />
-      <longitude>-0.582275390625</longitude>
-      <latitude>44.835205078125</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ペリグー" eng="Périgueux" de="Périgueux" fr="Périgueux" es="Périgueux" it="Périgueux" nl="Périgueux">
-      <province jpn="アキテーヌ" eng="Aquitaine" de="Aquitanien" fr="Aquitaine" es="Aquitania" it="Aquitania" nl="Aquitanië" />
-      <longitude>0.7086181640625</longitude>
-      <latitude>45.1812744140625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="アジャン" eng="Agen" de="Agen" fr="Agen" es="Agen" it="Agen" nl="Agen">
-      <province jpn="アキテーヌ" eng="Aquitaine" de="Aquitanien" fr="Aquitaine" es="Aquitania" it="Aquitania" nl="Aquitanië" />
-      <longitude>0.6207275390625</longitude>
-      <latitude>44.2034912109375</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ポー" eng="Pau" de="Pau" fr="Pau" es="Pau" it="Pau" nl="Pau">
-      <province jpn="アキテーヌ" eng="Aquitaine" de="Aquitanien" fr="Aquitaine" es="Aquitania" it="Aquitania" nl="Aquitanië" />
-      <longitude>-0.37353515625</longitude>
-      <latitude>43.297119140625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="バイヨンヌ" eng="Bayonne" de="Bayonne" fr="Bayonne" es="Bayona" it="Bayonne" nl="Bayonne">
-      <province jpn="アキテーヌ" eng="Aquitaine" de="Aquitanien" fr="Aquitaine" es="Aquitania" it="Aquitania" nl="Aquitanië" />
-      <longitude>-1.47216796875</longitude>
-      <latitude>43.4893798828125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ベルジュラック" eng="Bergerac" de="Bergerac" fr="Bergerac" es="Bergerac" it="Bergerac" nl="Bergerac">
-      <province jpn="アキテーヌ" eng="Aquitaine" de="Aquitanien" fr="Aquitaine" es="Aquitania" it="Aquitania" nl="Aquitanië" />
-      <longitude>0.4833984375</longitude>
-      <latitude>44.8516845703125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="クレルモン・フェラン" eng="Clermont-Ferrand" de="Clermont-Ferrand" fr="Clermont-Ferrand" es="Clermont-Ferrand" it="Clermont-Ferrand" nl="Clermont-Ferrand">
-      <province jpn="オーベルニュ" eng="Auvergne" de="Auvergne" fr="Auvergne" es="Auvernia" it="Alvernia" nl="Auvergne" />
-      <longitude>3.0816650390625</longitude>
-      <latitude>45.7745361328125</latitude>
-      <zoom1>2</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="モンリュソン" eng="Montluçon" de="Montluçon" fr="Montluçon" es="Montluçon" it="Montluçon" nl="Montluçon">
-      <province jpn="オーベルニュ" eng="Auvergne" de="Auvergne" fr="Auvergne" es="Auvernia" it="Alvernia" nl="Auvergne" />
-      <longitude>2.5982666015625</longitude>
-      <latitude>46.3348388671875</latitude>
+    <city jpn="アヌシー" eng="Annecy" de="Annecy" fr="Annecy" es="Annecy" it="Annecy" nl="Annecy">
+      <province jpn="オーヴェルニュ＝ローヌ＝アルプ" eng="Auvergne-Rhône-Alpes" de="Auvergne-Rhône-Alpes" fr="Auvergne-Rhône-Alpes" es="Auvernia-Ródano-Alpes" it="Alvernia-Rodano-Alpi" nl="Auvergne-Rhône-Alpes" />
+      <longitude>6.119384765625</longitude>
+      <latitude>45.8953857421875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="オーリヤック" eng="Aurillac" de="Aurillac" fr="Aurillac" es="Aurillac" it="Aurillac" nl="Aurillac">
-      <province jpn="オーベルニュ" eng="Auvergne" de="Auvergne" fr="Auvergne" es="Auvernia" it="Alvernia" nl="Auvergne" />
+      <province jpn="オーヴェルニュ＝ローヌ＝アルプ" eng="Auvergne-Rhône-Alpes" de="Auvergne-Rhône-Alpes" fr="Auvergne-Rhône-Alpes" es="Auvernia-Ródano-Alpes" it="Alvernia-Rodano-Alpi" nl="Auvergne-Rhône-Alpes" />
       <longitude>2.4334716796875</longitude>
       <latitude>44.9176025390625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="カーン" eng="Caen" de="Caen" fr="Caen" es="Caen" it="Caen" nl="Caen">
-      <province jpn="バス・ノルマンディ" eng="Lower Normandy" de="Basse-Normandie" fr="Basse-Normandie" es="Baja Normandía" it="Bassa Normandia" nl="Laag-Normandië" />
-      <longitude>-0.3570556640625</longitude>
-      <latitude>49.1802978515625</latitude>
+    <city jpn="ブールカン＝ブレス" eng="Bourg-en-Bresse" de="Bourg-en-Bresse" fr="Bourg-en-Bresse" es="Bourg-en-Bresse" it="Bourg-en-Bresse" nl="Bourg-en-Bresse">
+      <province jpn="オーヴェルニュ＝ローヌ＝アルプ" eng="Auvergne-Rhône-Alpes" de="Auvergne-Rhône-Alpes" fr="Auvergne-Rhône-Alpes" es="Auvernia-Ródano-Alpes" it="Alvernia-Rodano-Alpi" nl="Auvergne-Rhône-Alpes" />
+      <longitude>5.2239990234375</longitude>
+      <latitude>46.2030029296875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="シェルブール＝オクトヴィル" eng="Cherbourg-Octeville" de="Cherbourg-Octeville" fr="Cherbourg-Octeville" es="Cherburgo-Octeville" it="Cherbourg-Octeville" nl="Cherbourg-Octeville">
-      <province jpn="バス・ノルマンディ" eng="Lower Normandy" de="Basse-Normandie" fr="Basse-Normandie" es="Baja Normandía" it="Bassa Normandia" nl="Laag-Normandië" />
-      <longitude>-1.636962890625</longitude>
-      <latitude>49.6417236328125</latitude>
+    <city jpn="シャンベリー" eng="Chambéry" de="Chambéry" fr="Chambéry" es="Chambéry" it="Chambéry" nl="Chambéry">
+      <province jpn="オーヴェルニュ＝ローヌ＝アルプ" eng="Auvergne-Rhône-Alpes" de="Auvergne-Rhône-Alpes" fr="Auvergne-Rhône-Alpes" es="Auvernia-Ródano-Alpes" it="Alvernia-Rodano-Alpi" nl="Auvergne-Rhône-Alpes" />
+      <longitude>5.9161376953125</longitude>
+      <latitude>45.5657958984375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="アランソン" eng="Alençon" de="Alençon" fr="Alençon" es="Alenzón" it="Alençon" nl="Alençon">
-      <province jpn="バス・ノルマンディ" eng="Lower Normandy" de="Basse-Normandie" fr="Basse-Normandie" es="Baja Normandía" it="Bassa Normandia" nl="Laag-Normandië" />
-      <longitude>0.076904296875</longitude>
-      <latitude>48.4332275390625</latitude>
+    <city jpn="クレルモン・フェラン" eng="Clermont-Ferrand" de="Clermont-Ferrand" fr="Clermont-Ferrand" es="Clermont-Ferrand" it="Clermont-Ferrand" nl="Clermont-Ferrand">
+      <province jpn="オーヴェルニュ＝ローヌ＝アルプ" eng="Auvergne-Rhône-Alpes" de="Auvergne-Rhône-Alpes" fr="Auvergne-Rhône-Alpes" es="Auvernia-Ródano-Alpes" it="Alvernia-Rodano-Alpi" nl="Auvergne-Rhône-Alpes" />
+      <longitude>3.0816650390625</longitude>
+      <latitude>45.7745361328125</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="グルノーブル" eng="Grenoble" de="Grenoble" fr="Grenoble" es="Grenoble" it="Grenoble" nl="Grenoble">
+      <province jpn="オーヴェルニュ＝ローヌ＝アルプ" eng="Auvergne-Rhône-Alpes" de="Auvergne-Rhône-Alpes" fr="Auvergne-Rhône-Alpes" es="Auvernia-Ródano-Alpes" it="Alvernia-Rodano-Alpi" nl="Auvergne-Rhône-Alpes" />
+      <longitude>5.7183837890625</longitude>
+      <latitude>45.1812744140625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="モンリュソン" eng="Montluçon" de="Montluçon" fr="Montluçon" es="Montluçon" it="Montluçon" nl="Montluçon">
+      <province jpn="オーヴェルニュ＝ローヌ＝アルプ" eng="Auvergne-Rhône-Alpes" de="Auvergne-Rhône-Alpes" fr="Auvergne-Rhône-Alpes" es="Auvernia-Ródano-Alpes" it="Alvernia-Rodano-Alpi" nl="Auvergne-Rhône-Alpes" />
+      <longitude>2.5982666015625</longitude>
+      <latitude>46.3348388671875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ロアンヌ" eng="Roanne" de="Roanne" fr="Roanne" es="Roanne" it="Roanne" nl="Roanne">
+      <province jpn="オーヴェルニュ＝ローヌ＝アルプ" eng="Auvergne-Rhône-Alpes" de="Auvergne-Rhône-Alpes" fr="Auvergne-Rhône-Alpes" es="Auvernia-Ródano-Alpes" it="Alvernia-Rodano-Alpi" nl="Auvergne-Rhône-Alpes" />
+      <longitude>4.06494140625</longitude>
+      <latitude>46.03271484375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="サンテティエンヌ" eng="Saint-Étienne" de="Saint-Étienne" fr="Saint-Étienne" es="Saint-Étienne" it="Saint-Étienne" nl="Saint-Étienne">
+      <province jpn="オーヴェルニュ＝ローヌ＝アルプ" eng="Auvergne-Rhône-Alpes" de="Auvergne-Rhône-Alpes" fr="Auvergne-Rhône-Alpes" es="Auvernia-Ródano-Alpes" it="Alvernia-Rodano-Alpi" nl="Auvergne-Rhône-Alpes" />
+      <longitude>4.383544921875</longitude>
+      <latitude>45.4339599609375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="バランス" eng="Valence" de="Valence" fr="Valence" es="Valence" it="Valenza" nl="Valence">
+      <province jpn="オーヴェルニュ＝ローヌ＝アルプ" eng="Auvergne-Rhône-Alpes" de="Auvergne-Rhône-Alpes" fr="Auvergne-Rhône-Alpes" es="Auvernia-Ródano-Alpes" it="Alvernia-Rodano-Alpi" nl="Auvergne-Rhône-Alpes" />
+      <longitude>4.8834228515625</longitude>
+      <latitude>44.9285888671875</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ディジョン" eng="Dijon" de="Dijon" fr="Dijon" es="Dijon" it="Digione" nl="Dijon">
-      <province jpn="ブルゴーニュ" eng="Burgundy" de="Burgund" fr="Bourgogne" es="Borgoña" it="Borgogna" nl="Bourgondië" />
+      <province jpn="ブルゴーニュ＝フランシュ＝コンテ" eng="Bourgogne-Franche-Comté" de="Bourgogne-Franche-Comté" fr="Bourgogne-Franche-Comté" es="Borgoña-Franco Condado" it="Borgogna-Franca Contea" nl="Bourgogne-Franche-Comté" />
       <longitude>5.0372314453125</longitude>
       <latitude>47.318115234375</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ブザンソン" eng="Besançon" de="Besançon" fr="Besançon" es="Besanzón" it="Besançon" nl="Besançon">
+      <province jpn="ブルゴーニュ＝フランシュ＝コンテ" eng="Bourgogne-Franche-Comté" de="Bourgogne-Franche-Comté" fr="Bourgogne-Franche-Comté" es="Borgoña-Franco Condado" it="Borgogna-Franca Contea" nl="Bourgogne-Franche-Comté" />
+      <longitude>6.0150146484375</longitude>
+      <latitude>47.2357177734375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ヌベール" eng="Nevers" de="Nevers" fr="Nevers" es="Nevers" it="Nevers" nl="Nevers">
-      <province jpn="ブルゴーニュ" eng="Burgundy" de="Burgund" fr="Bourgogne" es="Borgoña" it="Borgogna" nl="Bourgondië" />
-      <longitude>3.153076171875</longitude>
-      <latitude>46.988525390625</latitude>
+    <city jpn="オーセール" eng="Auxerre" de="Auxerre" fr="Auxerre" es="Auxerre" it="Auxerre" nl="Auxerre">
+      <province jpn="ブルゴーニュ＝フランシュ＝コンテ" eng="Bourgogne-Franche-Comté" de="Bourgogne-Franche-Comté" fr="Bourgogne-Franche-Comté" es="Borgoña-Franco Condado" it="Borgogna-Franca Contea" nl="Bourgogne-Franche-Comté" />
+      <longitude>3.570556640625</longitude>
+      <latitude>47.7960205078125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ベルフォール" eng="Belfort" de="Belfort" fr="Belfort" es="Belfort" it="Belfort" nl="Belfort">
+      <province jpn="ブルゴーニュ＝フランシュ＝コンテ" eng="Bourgogne-Franche-Comté" de="Bourgogne-Franche-Comté" fr="Bourgogne-Franche-Comté" es="Borgoña-Franco Condado" it="Borgogna-Franca Contea" nl="Bourgogne-Franche-Comté" />
+      <longitude>6.8499755859375</longitude>
+      <latitude>47.63671875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="シャロン＝シュル＝ソーヌ" eng="Chalon-sur-Saône" de="Chalon-sur-Saône" fr="Chalon-sur-Saône" es="Chalon-sur-Saône" it="Chalon-sur-Saône" nl="Chalon-sur-Saône">
-      <province jpn="ブルゴーニュ" eng="Burgundy" de="Burgund" fr="Bourgogne" es="Borgoña" it="Borgogna" nl="Bourgondië" />
+      <province jpn="ブルゴーニュ＝フランシュ＝コンテ" eng="Bourgogne-Franche-Comté" de="Bourgogne-Franche-Comté" fr="Bourgogne-Franche-Comté" es="Borgoña-Franco Condado" it="Borgogna-Franca Contea" nl="Bourgogne-Franche-Comté" />
       <longitude>4.8504638671875</longitude>
       <latitude>46.77978515625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="オーセール" eng="Auxerre" de="Auxerre" fr="Auxerre" es="Auxerre" it="Auxerre" nl="Auxerre">
-      <province jpn="ブルゴーニュ" eng="Burgundy" de="Burgund" fr="Bourgogne" es="Borgoña" it="Borgogna" nl="Bourgondië" />
-      <longitude>3.570556640625</longitude>
-      <latitude>47.7960205078125</latitude>
+    <city jpn="ヌベール" eng="Nevers" de="Nevers" fr="Nevers" es="Nevers" it="Nevers" nl="Nevers">
+      <province jpn="ブルゴーニュ＝フランシュ＝コンテ" eng="Bourgogne-Franche-Comté" de="Bourgogne-Franche-Comté" fr="Bourgogne-Franche-Comté" es="Borgoña-Franco Condado" it="Borgogna-Franca Contea" nl="Bourgogne-Franche-Comté" />
+      <longitude>3.153076171875</longitude>
+      <latitude>46.988525390625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ブズール" eng="Vesoul" de="Vesoul" fr="Vesoul" es="Vesoul" it="Vesoul" nl="Vesoul">
+      <province jpn="ブルゴーニュ＝フランシュ＝コンテ" eng="Bourgogne-Franche-Comté" de="Bourgogne-Franche-Comté" fr="Bourgogne-Franche-Comté" es="Borgoña-Franco Condado" it="Borgogna-Franca Contea" nl="Bourgogne-Franche-Comté" />
+      <longitude>6.15234375</longitude>
+      <latitude>47.6202392578125</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -10867,6 +10881,48 @@
       <province jpn="ブルターニュ" eng="Brittany" de="Bretagne" fr="Bretagne" es="Bretaña" it="Bretagna" nl="Bretagne" />
       <longitude>-1.680908203125</longitude>
       <latitude>48.109130859375</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ブレスト" eng="Brest" de="Brest" fr="Brest" es="Brest" it="Brest" nl="Brest">
+      <province jpn="ブルターニュ" eng="Brittany" de="Bretagne" fr="Bretagne" es="Bretaña" it="Bretagna" nl="Bretagne" />
+      <longitude>-4.482421875</longitude>
+      <latitude>48.3837890625</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ロリアン" eng="An Oriant" de="Lorient" fr="Lorient" es="Lorient" it="Lorient" nl="Lorient">
+      <province jpn="ブルターニュ" eng="Brittany" de="Bretagne" fr="Bretagne" es="Bretaña" it="Bretagna" nl="Bretagne" />
+      <longitude>-3.36181640625</longitude>
+      <latitude>47.74658203125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="カレ＝プルゲール" eng="Carhaix-Plouguer" de="Carhaix-Plouguer" fr="Carhaix-Plouguer" es="Carhaix-Plouguer" it="Carhaix-Plouguer" nl="Carhaix-Plouguer">
+      <province jpn="ブルターニュ" eng="Brittany" de="Bretagne" fr="Bretagne" es="Bretaña" it="Bretagna" nl="Bretagne" />
+      <longitude>-3.564297</longitude>
+      <latitude>48.273556</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ドゥアルヌネ" eng="Douarnenez" de="Douarnenez" fr="Douarnenez" es="Douarnenez" it="Douarnenez" nl="Douarnenez">
+      <province jpn="ブルターニュ" eng="Brittany" de="Bretagne" fr="Bretagne" es="Bretaña" it="Bretagna" nl="Bretagne" />
+      <longitude>-4.333386</longitude>
+      <latitude>48.104505</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="フージェール" eng="Fougères" de="Fougères" fr="Fougères" es="Fougères" it="Fougères" nl="Fougères">
+      <province jpn="ブルターニュ" eng="Brittany" de="Bretagne" fr="Bretagne" es="Bretaña" it="Bretagna" nl="Bretagne" />
+      <longitude>-1.206801</longitude>
+      <latitude>48.347791</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ランニオン" eng="Lannion" de="Lannion" fr="Lannion" es="Lannion" it="Lannion" nl="Lannion">
+      <province jpn="ブルターニュ" eng="Brittany" de="Bretagne" fr="Bretagne" es="Bretaña" it="Bretagna" nl="Bretagne" />
+      <longitude>-3.469171</longitude>
+      <latitude>48.760319</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -10877,24 +10933,10 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ブレスト" eng="Brest" de="Brest" fr="Brest" es="Brest" it="Brest" nl="Brest">
+    <city jpn="ポンティビー" eng="Pontivy" de="Pontivy" fr="Pontivy" es="Pontivy" it="Pontivy" nl="Pontivy">
       <province jpn="ブルターニュ" eng="Brittany" de="Bretagne" fr="Bretagne" es="Bretaña" it="Bretagna" nl="Bretagne" />
-      <longitude>-4.482421875</longitude>
-      <latitude>48.3837890625</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="サン＝マロ" eng="Saint-Malo" de="Saint-Malo" fr="Saint-Malo" es="Saint-Malo" it="Saint-Malo" nl="Saint-Malo">
-      <province jpn="ブルターニュ" eng="Brittany" de="Bretagne" fr="Bretagne" es="Bretaña" it="Bretagna" nl="Bretagne" />
-      <longitude>-1.99951171875</longitude>
-      <latitude>48.6419677734375</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ロリアン" eng="Lorient" de="Lorient" fr="Lorient" es="Lorient" it="Lorient" nl="Lorient">
-      <province jpn="ブルターニュ" eng="Brittany" de="Bretagne" fr="Bretagne" es="Bretaña" it="Bretagna" nl="Bretagne" />
-      <longitude>-3.36181640625</longitude>
-      <latitude>47.74658203125</latitude>
+      <longitude>-2.96630859375</longitude>
+      <latitude>48.0596923828125</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -10905,109 +10947,74 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="バンヌ" eng="Vannes" de="Vannes" fr="Vannes" es="Vannes" it="Vannes" nl="Vannes">
+    <city jpn="サン＝マロ" eng="Sant-Maloù" de="Saint-Malo" fr="Saint-Malo" es="Saint-Malo" it="Saint-Malo" nl="Saint-Malo">
+      <province jpn="ブルターニュ" eng="Brittany" de="Bretagne" fr="Bretagne" es="Bretaña" it="Bretagna" nl="Bretagne" />
+      <longitude>-1.99951171875</longitude>
+      <latitude>48.6419677734375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="バンヌ" eng="Gwened" de="Vannes" fr="Vannes" es="Vannes" it="Vannes" nl="Vannes">
       <province jpn="ブルターニュ" eng="Brittany" de="Bretagne" fr="Bretagne" es="Bretaña" it="Bretagna" nl="Bretagne" />
       <longitude>-2.7520751953125</longitude>
       <latitude>47.6531982421875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ポンティビー" eng="Pontivy" de="Pontivy" fr="Pontivy" es="Pontivy" it="Pontivy" nl="Pontivy">
-      <province jpn="ブルターニュ" eng="Brittany" de="Bretagne" fr="Bretagne" es="Bretaña" it="Bretagna" nl="Bretagne" />
-      <longitude>-2.96630859375</longitude>
-      <latitude>48.0596923828125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="オルレアン" eng="Orléans" de="Orléans" fr="Orléans" es="Orleans" it="Orléans" nl="Orléans">
-      <province jpn="サントル" eng="Centre Loire Valley" de="Centre" fr="Centre" es="Centro" it="Centro" nl="Centre" />
+      <province jpn="サントル＝ロワール渓谷" eng="Centre-Loire Valley" de="Zentrum-Loiretal" fr="Centre-Val de Loire" es="Centro-Valle del Loira" it="Centro-Valle della Loira" nl="Centre-Val de Loire" />
       <longitude>1.900634765625</longitude>
       <latitude>47.900390625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="シャトールー" eng="Chateauroux" de="Châteauroux" fr="Châteauroux" es="Châteauroux" it="Châteauroux" nl="Châteauroux">
-      <province jpn="サントル" eng="Centre Loire Valley" de="Centre" fr="Centre" es="Centro" it="Centro" nl="Centre" />
-      <longitude>1.6973876953125</longitude>
-      <latitude>46.8072509765625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="トゥール" eng="Tours" de="Tours" fr="Tours" es="Tours" it="Tours" nl="Tours">
-      <province jpn="サントル" eng="Centre Loire Valley" de="Centre" fr="Centre" es="Centro" it="Centro" nl="Centre" />
-      <longitude>0.692138671875</longitude>
-      <latitude>47.384033203125</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ブロア" eng="Blois" de="Blois" fr="Blois" es="Blois" it="Blois" nl="Blois">
-      <province jpn="サントル" eng="Centre Loire Valley" de="Centre" fr="Centre" es="Centro" it="Centro" nl="Centre" />
+      <province jpn="サントル＝ロワール渓谷" eng="Centre-Loire Valley" de="Zentrum-Loiretal" fr="Centre-Val de Loire" es="Centro-Valle del Loira" it="Centro-Valle della Loira" nl="Centre-Val de Loire" />
       <longitude>1.318359375</longitude>
       <latitude>47.5872802734375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="シャルトル" eng="Chartres" de="Chartres" fr="Chartres" es="Chartres" it="Chartres" nl="Chartres">
-      <province jpn="サントル" eng="Centre Loire Valley" de="Centre" fr="Centre" es="Centro" it="Centro" nl="Centre" />
+      <province jpn="サントル＝ロワール渓谷" eng="Centre-Loire Valley" de="Zentrum-Loiretal" fr="Centre-Val de Loire" es="Centro-Valle del Loira" it="Centro-Valle della Loira" nl="Centre-Val de Loire" />
       <longitude>1.483154296875</longitude>
       <latitude>48.438720703125</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="シャトールー" eng="Chateauroux" de="Châteauroux" fr="Châteauroux" es="Châteauroux" it="Châteauroux" nl="Châteauroux">
+      <province jpn="サントル＝ロワール渓谷" eng="Centre-Loire Valley" de="Zentrum-Loiretal" fr="Centre-Val de Loire" es="Centro-Valle del Loira" it="Centro-Valle della Loira" nl="Centre-Val de Loire" />
+      <longitude>1.6973876953125</longitude>
+      <latitude>46.8072509765625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="モンタルジ" eng="Montargis" de="Montargis" fr="Montargis" es="Montargis" it="Montargis" nl="Montargis">
-      <province jpn="サントル" eng="Centre Loire Valley" de="Centre" fr="Centre" es="Centro" it="Centro" nl="Centre" />
+      <province jpn="サントル＝ロワール渓谷" eng="Centre-Loire Valley" de="Zentrum-Loiretal" fr="Centre-Val de Loire" es="Centro-Valle del Loira" it="Centro-Valle della Loira" nl="Centre-Val de Loire" />
       <longitude>2.724609375</longitude>
       <latitude>47.999267578125</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="シャロン＝アン＝シャンパーニュ" eng="Châlons-en-Champagne" de="Châlons-en-Champagne" fr="Châlons-en-Champagne" es="Châlons-en-Champagne" it="Châlons-en-Champagne" nl="Châlons-en-Champagne">
-      <province jpn="シャンパーニュ・アルデンヌ" eng="Champagne-Ardenne" de="Champagne-Ardenne" fr="Champagne-Ardenne" es="Champaña-Ardenas" it="Champagne-Ardenne" nl="Champagne-Ardennen" />
-      <longitude>4.361572265625</longitude>
-      <latitude>48.9605712890625</latitude>
-      <zoom1>1</zoom1>
+    <city jpn="トゥール" eng="Tours" de="Tours" fr="Tours" es="Tours" it="Tours" nl="Tours">
+      <province jpn="サントル＝ロワール渓谷" eng="Centre-Loire Valley" de="Zentrum-Loiretal" fr="Centre-Val de Loire" es="Centro-Valle del Loira" it="Centro-Valle della Loira" nl="Centre-Val de Loire" />
+      <longitude>0.692138671875</longitude>
+      <latitude>47.384033203125</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="トロア" eng="Troyes" de="Troyes" fr="Troyes" es="Troyes" it="Troyes" nl="Troyes">
-      <province jpn="シャンパーニュ・アルデンヌ" eng="Champagne-Ardenne" de="Champagne-Ardenne" fr="Champagne-Ardenne" es="Champaña-Ardenas" it="Champagne-Ardenne" nl="Champagne-Ardennen" />
-      <longitude>4.0704345703125</longitude>
-      <latitude>48.2904052734375</latitude>
-      <zoom1>1</zoom1>
+	<city jpn="ヴァンドーム" eng="Vendôme" de="Vendôme" fr="Vendôme" es="Vendôme" it="Vendôme" nl="Vendôme">
+      <province jpn="サントル＝ロワール渓谷" eng="Centre-Loire Valley" de="Zentrum-Loiretal" fr="Centre-Val de Loire" es="Centro-Valle del Loira" it="Centro-Valle della Loira" nl="Centre-Val de Loire" />
+      <longitude>1.019844</longitude>
+      <latitude>47.890299</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="シャルルヴィル＝メジエール" eng="Charleville-Mézières" de="Charleville-Mézières" fr="Charleville-Mézières" es="Charleville-Mézières" it="Charleville-Mézières" nl="Charleville-Mézières">
-      <province jpn="シャンパーニュ・アルデンヌ" eng="Champagne-Ardenne" de="Champagne-Ardenne" fr="Champagne-Ardenne" es="Champaña-Ardenas" it="Champagne-Ardenne" nl="Champagne-Ardennen" />
-      <longitude>4.713134765625</longitude>
-      <latitude>49.76806640625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ランス" eng="Reims" de="Reims" fr="Reims" es="Reims" it="Reims" nl="Reims">
-      <province jpn="シャンパーニュ・アルデンヌ" eng="Champagne-Ardenne" de="Champagne-Ardenne" fr="Champagne-Ardenne" es="Champaña-Ardenas" it="Champagne-Ardenne" nl="Champagne-Ardennen" />
-      <longitude>4.02099609375</longitude>
-      <latitude>49.2462158203125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="サン＝ディジエ" eng="Saint-Dizier" de="Saint-Dizier" fr="Saint-Dizier" es="Saint-Dizier" it="Saint-Dizier" nl="Saint-Dizier">
-      <province jpn="シャンパーニュ・アルデンヌ" eng="Champagne-Ardenne" de="Champagne-Ardenne" fr="Champagne-Ardenne" es="Champaña-Ardenas" it="Champagne-Ardenne" nl="Champagne-Ardennen" />
-      <longitude>4.954833984375</longitude>
-      <latitude>48.6419677734375</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ノジャン＝シュル＝セーヌ" eng="Nogent-sur-Seine" de="Nogent-sur-Seine" fr="Nogent-sur-Seine" es="Nogent-sur-Seine" it="Nogent-sur-Seine" nl="Nogent-sur-Seine">
-      <province jpn="シャンパーニュ・アルデンヌ" eng="Champagne-Ardenne" de="Champagne-Ardenne" fr="Champagne-Ardenne" es="Champaña-Ardenas" it="Champagne-Ardenne" nl="Champagne-Ardennen" />
-      <longitude>3.49365234375</longitude>
-      <latitude>48.4881591796875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ショーモン" eng="Chaumont" de="Chaumont" fr="Chaumont" es="Chaumont" it="Chaumont" nl="Chaumont">
-      <province jpn="シャンパーニュ・アルデンヌ" eng="Champagne-Ardenne" de="Champagne-Ardenne" fr="Champagne-Ardenne" es="Champaña-Ardenas" it="Champagne-Ardenne" nl="Champagne-Ardennen" />
-      <longitude>5.1361083984375</longitude>
-      <latitude>48.1036376953125</latitude>
-      <zoom1>1</zoom1>
+    <city jpn="アジャクシオ" eng="Aiacciu" de="Ajaccio" fr="Ajaccio" es="Ajaccio" it="Ajaccio" nl="Ajaccio">
+      <province jpn="コルシカ" eng="Corsica" de="Korsika" fr="Corse" es="Córcega" it="Corsica" nl="Corsica" />
+      <longitude>8.734130859375</longitude>
+      <latitude>41.9183349609375</latitude>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="バスティア" eng="Bastia" de="Bastia" fr="Bastia" es="Bastia" it="Bastia" nl="Bastia">
@@ -11017,431 +11024,851 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="アジャクシオ" eng="Ajaccio" de="Ajaccio" fr="Ajaccio" es="Ajaccio" it="Ajaccio" nl="Ajaccio">
+	<city jpn="ブニファジウ" eng="Bunifaziu" de="Bunifaziu" fr="Bunifaziu" es="Bunifaziu" it="Bunifaziu" nl="Bunifaziu">
       <province jpn="コルシカ" eng="Corsica" de="Korsika" fr="Corse" es="Córcega" it="Corsica" nl="Corsica" />
-      <longitude>8.734130859375</longitude>
-      <latitude>41.9183349609375</latitude>
-      <zoom1>4</zoom1>
+      <longitude>9.183560</longitude>
+      <latitude>41.369867</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ブザンソン" eng="Besançon" de="Besançon" fr="Besançon" es="Besanzón" it="Besançon" nl="Besançon">
-      <province jpn="フランシュ・コンテ" eng="Franche-Comté" de="Franche-Comté" fr="Franche-Comté" es="Franco Condado" it="Franca Contea" nl="Franche-Comté" />
-      <longitude>6.0150146484375</longitude>
-      <latitude>47.2357177734375</latitude>
+	<city jpn="カルヴィ" eng="Calvi" de="Calvi" fr="Calvi" es="Calvi" it="Calvi" nl="Calvi">
+      <province jpn="コルシカ" eng="Corsica" de="Korsika" fr="Corse" es="Córcega" it="Corsica" nl="Corsica" />
+      <longitude>8.757621</longitude>
+      <latitude>42.568073</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ブズール" eng="Vesoul" de="Vesoul" fr="Vesoul" es="Vesoul" it="Vesoul" nl="Vesoul">
-      <province jpn="フランシュ・コンテ" eng="Franche-Comté" de="Franche-Comté" fr="Franche-Comté" es="Franco Condado" it="Franca Contea" nl="Franche-Comté" />
-      <longitude>6.15234375</longitude>
-      <latitude>47.6202392578125</latitude>
+	<city jpn="カルジェーズ" eng="Carghjese" de="Carghjese" fr="Carghjese" es="Carghjese" it="Carghjese" nl="Carghjese">
+      <province jpn="コルシカ" eng="Corsica" de="Korsika" fr="Corse" es="Córcega" it="Corsica" nl="Corsica" />
+      <longitude>8.607020</longitude>
+      <latitude>42.138443	</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="コルティ" eng="Corti" de="Corti" fr="Corti" es="Corti" it="Corti" nl="Corti">
+      <province jpn="コルシカ" eng="Corsica" de="Korsika" fr="Corse" es="Córcega" it="Corsica" nl="Corsica" />
+      <longitude>9.151776</longitude>
+      <latitude>42.309663</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ベルフォール" eng="Belfort" de="Belfort" fr="Belfort" es="Belfort" it="Belfort" nl="Belfort">
-      <province jpn="フランシュ・コンテ" eng="Franche-Comté" de="Franche-Comté" fr="Franche-Comté" es="Franco Condado" it="Franca Contea" nl="Franche-Comté" />
-      <longitude>6.8499755859375</longitude>
-      <latitude>47.63671875</latitude>
+	<city jpn="ギソナクシア" eng="Ghisonaccia" de="Ghisonaccia" fr="Ghisonaccia" es="Ghisonaccia" it="Ghisonaccia" nl="Ghisonaccia">
+      <province jpn="コルシカ" eng="Corsica" de="Korsika" fr="Corse" es="Córcega" it="Corsica" nl="Corsica" />
+      <longitude>9.424753</longitude>
+      <latitude>42.008449</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ルーアン" eng="Rouen" de="Rouen" fr="Rouen" es="Ruan" it="Rouen" nl="Rouen">
-      <province jpn="オート・ノルマンディ" eng="Upper Normandy" de="Haute-Normandie" fr="Haute-Normandie" es="Alta Normandía" it="Alta Normandia" nl="Hoog-Normandië" />
-      <longitude>1.0986328125</longitude>
-      <latitude>49.4384765625</latitude>
+	<city jpn="リィスラ" eng="Lìsula" de="Lìsula" fr="Lìsula" es="Lìsula" it="Lìsula" nl="Lìsula">
+      <province jpn="コルシカ" eng="Corsica" de="Korsika" fr="Corse" es="Córcega" it="Corsica" nl="Corsica" />
+      <longitude>8.934888</longitude>
+      <latitude>42.638905</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ルミウ" eng="Lumiu" de="Lumiu" fr="Lumiu" es="Lumiu" it="Lumiu" nl="Lumiu">
+      <province jpn="コルシカ" eng="Corsica" de="Korsika" fr="Corse" es="Córcega" it="Corsica" nl="Corsica" />
+      <longitude>8.830621</longitude>
+      <latitude>42.577194</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ポルティベッチュ" eng="Portivechju" de="Portivechju" fr="Portivechju" es="Portivechju" it="Portivechju" nl="Portivechju">
+      <province jpn="コルシカ" eng="Corsica" de="Korsika" fr="Corse" es="Córcega" it="Corsica" nl="Corsica" />
+      <longitude>9.283960</longitude>
+      <latitude>41.585268</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ル・アーブル" eng="Le Havre" de="Le Havre" fr="Le Havre" es="El Havre" it="Le Havre" nl="Le Havre">
-      <province jpn="オート・ノルマンディ" eng="Upper Normandy" de="Haute-Normandie" fr="Haute-Normandie" es="Alta Normandía" it="Alta Normandia" nl="Hoog-Normandië" />
-      <longitude>0.1153564453125</longitude>
-      <latitude>49.4879150390625</latitude>
+	<city jpn="プルピヤ" eng="Pruprià" de="Pruprià" fr="Pruprià" es="Pruprià" it="Pruprià" nl="Pruprià">
+      <province jpn="コルシカ" eng="Corsica" de="Korsika" fr="Corse" es="Córcega" it="Corsica" nl="Corsica" />
+      <longitude>8.898024</longitude>
+      <latitude>41.677662</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="サルーラ＝カルキュピヌ" eng="Sarrula è Carcupinu" de="Sarrula-Carcupinu" fr="Sarrula-Carcupinu" es="Sarrula-Carcupinu" it="Sarrula-Carcupinu" nl="Sarrula-Carcupinu">
+      <province jpn="コルシカ" eng="Corsica" de="Korsika" fr="Corse" es="Córcega" it="Corsica" nl="Corsica" />
+      <longitude>8.859460</longitude>
+      <latitude>42.004089</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ボーグ" eng="U Borgu" de="U Borgu" fr="U Borgu" es="U Borgu" it="U Borgu" nl="U Borgu">
+      <province jpn="コルシカ" eng="Corsica" de="Korsika" fr="Corse" es="Córcega" it="Corsica" nl="Corsica" />
+      <longitude>9.428324</longitude>
+      <latitude>42.544654</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ストラスブール" eng="Strasbourg" de="Straßburg" fr="Strasbourg" es="Estrasburgo" it="Strasburgo" nl="Straatsburg">
+      <province jpn="グラン・テスト" eng="Grand Est" de="Großer Osten" fr="Grand Est" es="Gran Este" it="Grande Est" nl="Grand Est" />
+      <longitude>7.7398681640625</longitude>
+      <latitude>48.58154296875</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="シャロン＝アン＝シャンパーニュ" eng="Châlons-en-Champagne" de="Châlons-en-Champagne" fr="Châlons-en-Champagne" es="Châlons-en-Champagne" it="Châlons-en-Champagne" nl="Châlons-en-Champagne">
+      <province jpn="グラン・テスト" eng="Grand Est" de="Großer Osten" fr="Grand Est" es="Gran Este" it="Grande Est" nl="Grand Est" />
+      <longitude>4.361572265625</longitude>
+      <latitude>48.9605712890625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ディエップ" eng="Dieppe" de="Dieppe" fr="Dieppe" es="Dieppe" it="Dieppe" nl="Dieppe">
-      <province jpn="オート・ノルマンディ" eng="Upper Normandy" de="Haute-Normandie" fr="Haute-Normandie" es="Alta Normandía" it="Alta Normandia" nl="Hoog-Normandië" />
-      <longitude>1.087646484375</longitude>
-      <latitude>49.921875</latitude>
+    <city jpn="シャルルヴィル＝メジエール" eng="Charleville-Mézières" de="Charleville-Mézières" fr="Charleville-Mézières" es="Charleville-Mézières" it="Charleville-Mézières" nl="Charleville-Mézières">
+      <province jpn="グラン・テスト" eng="Grand Est" de="Großer Osten" fr="Grand Est" es="Gran Este" it="Grande Est" nl="Grand Est" />
+      <longitude>4.713134765625</longitude>
+      <latitude>49.76806640625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="モンペリエ" eng="Montpellier" de="Montpellier" fr="Montpellier" es="Montpellier" it="Montpellier" nl="Montpellier">
-      <province jpn="ラングドック・ルシヨン" eng="Languedoc-Roussillon" de="Languedoc-Roussillon" fr="Languedoc-Roussillon" es="Languedoc-Rosellón" it="Linguadoca-Rossiglione" nl="Languedoc-Roussillon" />
-      <longitude>3.8726806640625</longitude>
-      <latitude>43.604736328125</latitude>
+    <city jpn="ショーモン" eng="Chaumont" de="Chaumont" fr="Chaumont" es="Chaumont" it="Chaumont" nl="Chaumont">
+      <province jpn="グラン・テスト" eng="Grand Est" de="Großer Osten" fr="Grand Est" es="Gran Este" it="Grande Est" nl="Grand Est" />
+      <longitude>5.1361083984375</longitude>
+      <latitude>48.1036376953125</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ベジエ" eng="Béziers" de="Béziers" fr="Béziers" es="Béziers" it="Béziers" nl="Béziers">
-      <province jpn="ラングドック・ルシヨン" eng="Languedoc-Roussillon" de="Languedoc-Roussillon" fr="Languedoc-Roussillon" es="Languedoc-Rosellón" it="Linguadoca-Rossiglione" nl="Languedoc-Roussillon" />
-      <longitude>3.2080078125</longitude>
-      <latitude>43.3355712890625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ペルピニャン" eng="Perpignan" de="Perpignan" fr="Perpignan" es="Perpiñán" it="Perpignano" nl="Perpignan">
-      <province jpn="ラングドック・ルシヨン" eng="Languedoc-Roussillon" de="Languedoc-Roussillon" fr="Languedoc-Roussillon" es="Languedoc-Rosellón" it="Linguadoca-Rossiglione" nl="Languedoc-Roussillon" />
-      <longitude>2.889404296875</longitude>
-      <latitude>42.6873779296875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="マンド" eng="Mende" de="Mende" fr="Mende" es="Mende" it="Mende" nl="Mende">
-      <province jpn="ラングドック・ルシヨン" eng="Languedoc-Roussillon" de="Languedoc-Roussillon" fr="Languedoc-Roussillon" es="Languedoc-Rosellón" it="Linguadoca-Rossiglione" nl="Languedoc-Roussillon" />
-      <longitude>3.4991455078125</longitude>
-      <latitude>44.5166015625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="リモージュ" eng="Limoges" de="Limoges" fr="Limoges" es="Limoges" it="Limoges" nl="Limoges">
-      <province jpn="リムーザン" eng="Limousin" de="Limousin" fr="Limousin" es="Lemosín" it="Limosino" nl="Limousin" />
-      <longitude>1.25244140625</longitude>
-      <latitude>45.8294677734375</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ブリーヴ＝ラ＝ガイヤルド" eng="Brive-la-Gaillarde" de="Brive-la-Gaillarde" fr="Brive-la-Gaillarde" es="Brive-la-Gaillarde" it="Brive-la-Gaillarde" nl="Brive-la-Gaillarde">
-      <province jpn="リムーザン" eng="Limousin" de="Limousin" fr="Limousin" es="Lemosín" it="Limosino" nl="Limousin" />
-      <longitude>1.5325927734375</longitude>
-      <latitude>45.15380859375</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ベラック" eng="Bellac" de="Bellac" fr="Bellac" es="Bellac" it="Bellac" nl="Bellac">
-      <province jpn="リムーザン" eng="Limousin" de="Limousin" fr="Limousin" es="Lemosín" it="Limosino" nl="Limousin" />
-      <longitude>1.0491943359375</longitude>
-      <latitude>46.1151123046875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="メッス" eng="Metz" de="Metz" fr="Metz" es="Metz" it="Metz" nl="Metz">
-      <province jpn="ロレーヌ" eng="Lorraine" de="Lothringen" fr="Lorraine" es="Lorena" it="Lorena" nl="Lotharingen" />
-      <longitude>6.17431640625</longitude>
-      <latitude>49.10888671875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ナンシー" eng="Nancy" de="Nancy" fr="Nancy" es="Nancy" it="Nancy" nl="Nancy">
-      <province jpn="ロレーヌ" eng="Lorraine" de="Lothringen" fr="Lorraine" es="Lorena" it="Lorena" nl="Lotharingen" />
-      <longitude>6.1798095703125</longitude>
-      <latitude>48.6859130859375</latitude>
+    <city jpn="コルマール" eng="Colmar" de="Colmar" fr="Colmar" es="Colmar" it="Colmar" nl="Colmar">
+      <province jpn="グラン・テスト" eng="Grand Est" de="Großer Osten" fr="Grand Est" es="Gran Este" it="Grande Est" nl="Grand Est" />
+      <longitude>7.349853515625</longitude>
+      <latitude>48.0816650390625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="エピナル" eng="Epinal" de="Épinal" fr="Épinal" es="Épinal" it="Épinal" nl="Épinal">
-      <province jpn="ロレーヌ" eng="Lorraine" de="Lothringen" fr="Lorraine" es="Lorena" it="Lorena" nl="Lotharingen" />
+      <province jpn="グラン・テスト" eng="Grand Est" de="Großer Osten" fr="Grand Est" es="Gran Este" it="Grande Est" nl="Grand Est" />
       <longitude>6.4434814453125</longitude>
       <latitude>48.175048828125</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="トゥールーズ" eng="Toulouse" de="Toulouse" fr="Toulouse" es="Toulouse" it="Tolosa" nl="Toulouse">
-      <province jpn="ミディ・ピレネー" eng="Midi-Pyrénées" de="Midi-Pyrénées" fr="Midi-Pyrénées" es="Mediodía-Pirineos" it="Midi-Pirenei" nl="Midi-Pyreneeën" />
-      <longitude>1.4337158203125</longitude>
-      <latitude>43.5992431640625</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="アルビ" eng="Albi" de="Albi" fr="Albi" es="Albí" it="Albi" nl="Albi">
-      <province jpn="ミディ・ピレネー" eng="Midi-Pyrénées" de="Midi-Pyrénées" fr="Midi-Pyrénées" es="Mediodía-Pirineos" it="Midi-Pirenei" nl="Midi-Pyreneeën" />
-      <longitude>2.1368408203125</longitude>
-      <latitude>43.92333984375</latitude>
+    <city jpn="メッス" eng="Metz" de="Metz" fr="Metz" es="Metz" it="Metz" nl="Metz">
+      <province jpn="グラン・テスト" eng="Grand Est" de="Großer Osten" fr="Grand Est" es="Gran Este" it="Grande Est" nl="Grand Est" />
+      <longitude>6.17431640625</longitude>
+      <latitude>49.10888671875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ミヨー" eng="Millau" de="Millau" fr="Millau" es="Millau" it="Millau" nl="Millau">
-      <province jpn="ミディ・ピレネー" eng="Midi-Pyrénées" de="Midi-Pyrénées" fr="Midi-Pyrénées" es="Mediodía-Pirineos" it="Midi-Pirenei" nl="Midi-Pyreneeën" />
-      <longitude>3.0706787109375</longitude>
-      <latitude>44.09912109375</latitude>
+    <city jpn="ミュルーズ" eng="Mulhouse" de="Mülhausen" fr="Mulhouse" es="Mulhouse" it="Mulhouse" nl="Mulhouse">
+      <province jpn="グラン・テスト" eng="Grand Est" de="Großer Osten" fr="Grand Est" es="Gran Este" it="Grande Est" nl="Grand Est" />
+      <longitude>7.3333740234375</longitude>
+      <latitude>47.74658203125</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="オーシュ" eng="Auch" de="Auch" fr="Auch" es="Auch" it="Auch" nl="Auch">
-      <province jpn="ミディ・ピレネー" eng="Midi-Pyrénées" de="Midi-Pyrénées" fr="Midi-Pyrénées" es="Mediodía-Pirineos" it="Midi-Pirenei" nl="Midi-Pyreneeën" />
-      <longitude>0.582275390625</longitude>
-      <latitude>43.6376953125</latitude>
+    <city jpn="ナンシー" eng="Nancy" de="Nancy" fr="Nancy" es="Nancy" it="Nancy" nl="Nancy">
+      <province jpn="グラン・テスト" eng="Grand Est" de="Großer Osten" fr="Grand Est" es="Gran Este" it="Grande Est" nl="Grand Est" />
+      <longitude>6.1798095703125</longitude>
+      <latitude>48.6859130859375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="カオール" eng="Cahors" de="Cahors" fr="Cahors" es="Cahors" it="Cahors" nl="Cahors">
-      <province jpn="ミディ・ピレネー" eng="Midi-Pyrénées" de="Midi-Pyrénées" fr="Midi-Pyrénées" es="Mediodía-Pirineos" it="Midi-Pirenei" nl="Midi-Pyreneeën" />
-      <longitude>1.4337158203125</longitude>
-      <latitude>44.439697265625</latitude>
+    <city jpn="ノジャン＝シュル＝セーヌ" eng="Nogent-sur-Seine" de="Nogent-sur-Seine" fr="Nogent-sur-Seine" es="Nogent-sur-Seine" it="Nogent-sur-Seine" nl="Nogent-sur-Seine">
+      <province jpn="グラン・テスト" eng="Grand Est" de="Großer Osten" fr="Grand Est" es="Gran Este" it="Grande Est" nl="Grand Est" />
+      <longitude>3.49365234375</longitude>
+      <latitude>48.4881591796875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ランス" eng="Reims" de="Reims" fr="Reims" es="Reims" it="Reims" nl="Reims">
+      <province jpn="グラン・テスト" eng="Grand Est" de="Großer Osten" fr="Grand Est" es="Gran Este" it="Grande Est" nl="Grand Est" />
+      <longitude>4.02099609375</longitude>
+      <latitude>49.2462158203125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="サン＝ディジエ" eng="Saint-Dizier" de="Saint-Dizier" fr="Saint-Dizier" es="Saint-Dizier" it="Saint-Dizier" nl="Saint-Dizier">
+      <province jpn="グラン・テスト" eng="Grand Est" de="Großer Osten" fr="Grand Est" es="Gran Este" it="Grande Est" nl="Grand Est" />
+      <longitude>4.954833984375</longitude>
+      <latitude>48.6419677734375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="トロア" eng="Troyes" de="Troyes" fr="Troyes" es="Troyes" it="Troyes" nl="Troyes">
+      <province jpn="グラン・テスト" eng="Grand Est" de="Großer Osten" fr="Grand Est" es="Gran Este" it="Grande Est" nl="Grand Est" />
+      <longitude>4.0704345703125</longitude>
+      <latitude>48.2904052734375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="リール" eng="Lille" de="Lille" fr="Lille" es="Lila" it="Lilla" nl="Rijsel">
-      <province jpn="ノール・パ・ド・カレー" eng="Nord-Pas-de-Calais" de="Nord-Pas-de-Calais" fr="Nord-Pas-de-Calais" es="Norte-Paso de Calais" it="Nord-Passo di Calais" nl="Noord-Nauw van Calais" />
+      <province jpn="オー＝ド＝フランス" eng="Hauts-de-France" de="Hauts-de-France" fr="Hauts-de-France" es="Alta Francia" it="Alta Francia" nl="Hauts-de-France" />
       <longitude>3.0596923828125</longitude>
       <latitude>50.6304931640625</latitude>
-      <zoom1>2</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="カレー" eng="Calais" de="Calais" fr="Calais" es="Calais" it="Calais" nl="Calais">
-      <province jpn="ノール・パ・ド・カレー" eng="Nord-Pas-de-Calais" de="Nord-Pas-de-Calais" fr="Nord-Pas-de-Calais" es="Norte-Paso de Calais" it="Nord-Passo di Calais" nl="Noord-Nauw van Calais" />
-      <longitude>1.856689453125</longitude>
-      <latitude>50.9490966796875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="アラス" eng="Arras" de="Arras" fr="Arras" es="Arrás" it="Arras" nl="Arras">
-      <province jpn="ノール・パ・ド・カレー" eng="Nord-Pas-de-Calais" de="Nord-Pas-de-Calais" fr="Nord-Pas-de-Calais" es="Norte-Paso de Calais" it="Nord-Passo di Calais" nl="Noord-Nauw van Calais" />
-      <longitude>2.7740478515625</longitude>
-      <latitude>50.284423828125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ナント" eng="Nantes" de="Nantes" fr="Nantes" es="Nantes" it="Nantes" nl="Nantes">
-      <province jpn="ペイ・ド・ラ・ロワール" eng="Western Loire Valley" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Loira" nl="Pays de la Loire" />
-      <longitude>-1.549072265625</longitude>
-      <latitude>47.2137451171875</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="サン＝ナゼール" eng="Saint-Nazaire" de="Saint-Nazaire" fr="Saint-Nazaire" es="Saint-Nazaire" it="Saint-Nazaire" nl="Saint-Nazaire">
-      <province jpn="ペイ・ド・ラ・ロワール" eng="Western Loire Valley" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Loira" nl="Pays de la Loire" />
-      <longitude>-2.208251953125</longitude>
-      <latitude>47.274169921875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="アンジェ" eng="Angers" de="Angers" fr="Angers" es="Angers" it="Angers" nl="Angers">
-      <province jpn="ペイ・ド・ラ・ロワール" eng="Western Loire Valley" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Loira" nl="Pays de la Loire" />
-      <longitude>-0.54931640625</longitude>
-      <latitude>47.4664306640625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ラバル" eng="Laval" de="Laval" fr="Laval" es="Laval" it="Laval" nl="Laval">
-      <province jpn="ペイ・ド・ラ・ロワール" eng="Western Loire Valley" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Loira" nl="Pays de la Loire" />
-      <longitude>-0.7635498046875</longitude>
-      <latitude>48.065185546875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ル・マン" eng="Le Mans" de="Le Mans" fr="Le Mans" es="Le Mans" it="Le Mans" nl="Le Mans">
-      <province jpn="ペイ・ド・ラ・ロワール" eng="Western Loire Valley" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Loira" nl="Pays de la Loire" />
-      <longitude>0.186767578125</longitude>
-      <latitude>47.999267578125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ロシュ＝シュル＝ヨン" eng="La Roche-sur-Yon" de="La Roche-sur-Yon" fr="La Roche-sur-Yon" es="La Roche-sur-Yon" it="La Roche-sur-Yon" nl="La Roche-sur-Yon">
-      <province jpn="ペイ・ド・ラ・ロワール" eng="Western Loire Valley" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Loira" nl="Pays de la Loire" />
-      <longitude>-1.417236328125</longitude>
-      <latitude>46.6644287109375</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アミアン" eng="Amiens" de="Amiens" fr="Amiens" es="Amiens" it="Amiens" nl="Amiens">
-      <province jpn="ピカルディー" eng="Picardy" de="Picardie" fr="Picardie" es="Picardía" it="Picardia" nl="Picardië" />
+      <province jpn="オー＝ド＝フランス" eng="Hauts-de-France" de="Hauts-de-France" fr="Hauts-de-France" es="Alta Francia" it="Alta Francia" nl="Hauts-de-France" />
       <longitude>2.2906494140625</longitude>
       <latitude>49.8834228515625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="アラス" eng="Arras" de="Arras" fr="Arras" es="Arrás" it="Arras" nl="Arras">
+      <province jpn="オー＝ド＝フランス" eng="Hauts-de-France" de="Hauts-de-France" fr="Hauts-de-France" es="Alta Francia" it="Alta Francia" nl="Hauts-de-France" />
+      <longitude>2.7740478515625</longitude>
+      <latitude>50.284423828125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="ボーベ" eng="Beauvais" de="Beauvais" fr="Beauvais" es="Beauvais" it="Beauvais" nl="Beauvais">
-      <province jpn="ピカルディー" eng="Picardy" de="Picardie" fr="Picardie" es="Picardía" it="Picardia" nl="Picardië" />
+      <province jpn="オー＝ド＝フランス" eng="Hauts-de-France" de="Hauts-de-France" fr="Hauts-de-France" es="Alta Francia" it="Alta Francia" nl="Hauts-de-France" />
       <longitude>2.0819091796875</longitude>
       <latitude>49.4329833984375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="サン＝カンタン" eng="Saint Quentin" de="Saint-Quentin" fr="Saint-Quentin" es="San Quintín" it="Saint-Quentin" nl="Saint-Quentin">
-      <province jpn="ピカルディー" eng="Picardy" de="Picardie" fr="Picardie" es="Picardía" it="Picardia" nl="Picardië" />
-      <longitude>3.284912109375</longitude>
-      <latitude>49.8394775390625</latitude>
+    <city jpn="カレー" eng="Calais" de="Calais" fr="Calais" es="Calais" it="Calais" nl="Calais">
+      <province jpn="オー＝ド＝フランス" eng="Hauts-de-France" de="Hauts-de-France" fr="Hauts-de-France" es="Alta Francia" it="Alta Francia" nl="Hauts-de-France" />
+      <longitude>1.856689453125</longitude>
+      <latitude>50.9490966796875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ポアティエ" eng="Poitiers" de="Poitiers" fr="Poitiers" es="Poitiers" it="Poitiers" nl="Poitiers">
-      <province jpn="ポワトゥー・シャラント" eng="Poitou-Charentes" de="Poitou-Charentes" fr="Poitou-Charentes" es="Poitou-Charentes" it="Poitou-Charentes" nl="Poitou-Charentes" />
-      <longitude>0.3350830078125</longitude>
-      <latitude>46.58203125</latitude>
+	<city jpn="カレー" eng="Calais" de="Calais" fr="Calais" es="Calais" it="Calais" nl="Calais">
+      <province jpn="オー＝ド＝フランス" eng="Hauts-de-France" de="Hauts-de-France" fr="Hauts-de-France" es="Alta Francia" it="Alta Francia" nl="Hauts-de-France" />
+      <longitude>1.856689453125</longitude>
+      <latitude>50.9490966796875</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ランス" eng="Lens" de="Lens" fr="Lens" es="Lens" it="Lens" nl="Lens">
+      <province jpn="オー＝ド＝フランス" eng="Hauts-de-France" de="Hauts-de-France" fr="Hauts-de-France" es="Alta Francia" it="Alta Francia" nl="Hauts-de-France" />
+      <longitude>2.843741</longitude>
+      <latitude>50.456669</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ルーベ" eng="Roubaix" de="Roubaix" fr="Roubaix" es="Roubaix" it="Roubaix" nl="Robaais">
+      <province jpn="オー＝ド＝フランス" eng="Hauts-de-France" de="Hauts-de-France" fr="Hauts-de-France" es="Alta Francia" it="Alta Francia" nl="Hauts-de-France" />
+      <longitude>3.196965</longitude>
+      <latitude>50.693565</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ルーアン" eng="Rouen" de="Rouen" fr="Rouen" es="Ruan" it="Rouen" nl="Rouen">
+      <province jpn="ノルマンディー" eng="Normandy" de="Normandie" fr="Normandie" es="Normandía" it="Normandia" nl="Normandië" />
+      <longitude>1.0986328125</longitude>
+      <latitude>49.4384765625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="アランソン" eng="Alençon" de="Alençon" fr="Alençon" es="Alenzón" it="Alençon" nl="Alençon">
+      <province jpn="ノルマンディー" eng="Normandy" de="Normandie" fr="Normandie" es="Normandía" it="Normandia" nl="Normandië" />
+      <longitude>0.076904296875</longitude>
+      <latitude>48.4332275390625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="カーン" eng="Caen" de="Caen" fr="Caen" es="Caen" it="Caen" nl="Caen">
+      <province jpn="ノルマンディー" eng="Normandy" de="Normandie" fr="Normandie" es="Normandía" it="Normandia" nl="Normandië" />
+      <longitude>-0.3570556640625</longitude>
+      <latitude>49.1802978515625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="シェルブール＝オクトヴィル" eng="Cherbourg-Octeville" de="Cherbourg-Octeville" fr="Cherbourg-Octeville" es="Cherburgo-Octeville" it="Cherbourg-Octeville" nl="Cherbourg-Octeville">
+      <province jpn="ノルマンディー" eng="Normandy" de="Normandie" fr="Normandie" es="Normandía" it="Normandia" nl="Normandië" />
+      <longitude>-1.636962890625</longitude>
+      <latitude>49.6417236328125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ディエップ" eng="Dieppe" de="Dieppe" fr="Dieppe" es="Dieppe" it="Dieppe" nl="Dieppe">
+      <province jpn="ノルマンディー" eng="Normandy" de="Normandie" fr="Normandie" es="Normandía" it="Normandia" nl="Normandië" />
+      <longitude>1.087646484375</longitude>
+      <latitude>49.921875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ドルー" eng="Dreux" de="Dreux" fr="Dreux" es="Dreux" it="Dreux" nl="Dreux">
+      <province jpn="ノルマンディー" eng="Normandy" de="Normandie" fr="Normandie" es="Normandía" it="Normandia" nl="Normandië" />
+      <longitude>1.370628</longitude>
+      <latitude>48.727501</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="エヴルー" eng="Évreux" de="Évreux" fr="Évreux" es="Évreux" it="Évreux" nl="Évreux">
+      <province jpn="ノルマンディー" eng="Normandy" de="Normandie" fr="Normandie" es="Normandía" it="Normandia" nl="Normandië" />
+      <longitude>1.149312</longitude>
+      <latitude>49.001403</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ル・アーブル" eng="Le Havre" de="Le Havre" fr="Le Havre" es="El Havre" it="Le Havre" nl="Le Havre">
+      <province jpn="ノルマンディー" eng="Normandy" de="Normandie" fr="Normandie" es="Normandía" it="Normandia" nl="Normandië" />
+      <longitude>0.1153564453125</longitude>
+      <latitude>49.4879150390625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="リジュー" eng="Lisieux" de="Lisieux" fr="Lisieux" es="Lisieux" it="Lisieux" nl="Lisieux">
+      <province jpn="ノルマンディー" eng="Normandy" de="Normandie" fr="Normandie" es="Normandía" it="Normandia" nl="Normandië" />
+      <longitude>0.200686</longitude>
+      <latitude>49.127685</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="サン＝ティレール＝デュ＝アルクエ" eng="Saint-Hilaire-du-Harcouët" de="Saint-Hilaire-du-Harcouët" fr="Saint-Hilaire-du-Harcouët" es="Saint-Hilaire-du-Harcouët" it="Saint-Hilaire-du-Harcouët" nl="Saint-Hilaire-du-Harcouët">
+      <province jpn="ノルマンディー" eng="Normandy" de="Normandie" fr="Normandie" es="Normandía" it="Normandia" nl="Normandië" />
+      <longitude>-1.082536</longitude>
+      <latitude>48.602782</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="サン＝ロー" eng="Saint-Lô" de="Saint-Lô" fr="Saint-Lô" es="Saint-Lô" it="Saint-Lô" nl="Saint-Lô">
+      <province jpn="ノルマンディー" eng="Normandy" de="Normandie" fr="Normandie" es="Normandía" it="Normandia" nl="Normandië" />
+      <longitude>-1.100407</longitude>
+      <latitude>49.122675</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ヴィール＝ノルマンディー" eng="Vire Normandie" de="Vire Normandie" fr="Vire Normandie" es="Vire Normandie" it="Vire Normandie" nl="Vire Normandie">
+      <province jpn="ノルマンディー" eng="Normandy" de="Normandie" fr="Normandie" es="Normandía" it="Normandia" nl="Normandië" />
+      <longitude>-0.889439</longitude>
+      <latitude>48.841936</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ボルドー" eng="Bordeaux" de="Bordeaux" fr="Bordeaux" es="Burdeos" it="Bordeaux" nl="Bordeaux">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-0.582275390625</longitude>
+      <latitude>44.835205078125</latitude>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アングレーム" eng="Angoulême" de="Angoulême" fr="Angoulême" es="Angulema" it="Angoulême" nl="Angoulême">
-      <province jpn="ポワトゥー・シャラント" eng="Poitou-Charentes" de="Poitou-Charentes" fr="Poitou-Charentes" es="Poitou-Charentes" it="Poitou-Charentes" nl="Poitou-Charentes" />
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
       <longitude>0.15380859375</longitude>
       <latitude>45.648193359375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ラ・ロシェル" eng="La Rochelle" de="La Rochelle" fr="La Rochelle" es="La Rochelle" it="La Rochelle" nl="La Rochelle">
-      <province jpn="ポワトゥー・シャラント" eng="Poitou-Charentes" de="Poitou-Charentes" fr="Poitou-Charentes" es="Poitou-Charentes" it="Poitou-Charentes" nl="Poitou-Charentes" />
-      <longitude>-1.1480712890625</longitude>
-      <latitude>46.153564453125</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ニオール" eng="Niort" de="Niort" fr="Niort" es="Niort" it="Niort" nl="Niort">
-      <province jpn="ポワトゥー・シャラント" eng="Poitou-Charentes" de="Poitou-Charentes" fr="Poitou-Charentes" es="Poitou-Charentes" it="Poitou-Charentes" nl="Poitou-Charentes" />
-      <longitude>-0.4559326171875</longitude>
-      <latitude>46.318359375</latitude>
+    <city jpn="アジャン" eng="Agen" de="Agen" fr="Agen" es="Agen" it="Agen" nl="Agen">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>0.6207275390625</longitude>
+      <latitude>44.2034912109375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="アルカション" eng="Arcachon" de="Arcachon" fr="Arcachon" es="Arcachón" it="Arcachon" nl="Arcachon">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-1.190534</longitude>
+      <latitude>44.661115</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="バルブジュー＝サン＝ティレール" eng="Barbezieux-Saint-Hilaire" de="Barbezieux-Saint-Hilaire" fr="Barbezieux-Saint-Hilaire" es="Barbezieux-Saint-Hilaire" it="Barbezieux-Saint-Hilaire" nl="Barbezieux-Saint-Hilaire">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-0.156031</longitude>
+      <latitude>44.661115</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="バイヨンヌ" eng="Baiona" de="Bayonne" fr="Bayonne" es="Bayona" it="Bayonne" nl="Bayonne">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-1.47216796875</longitude>
+      <latitude>43.4893798828125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ベラック" eng="Bellac" de="Bellac" fr="Bellac" es="Bellac" it="Bellac" nl="Bellac">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>1.0491943359375</longitude>
+      <latitude>46.1151123046875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ベルジュラック" eng="Bergerac" de="Bergerac" fr="Bergerac" es="Bergerac" it="Bergerac" nl="Bergerac">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>0.4833984375</longitude>
+      <latitude>44.8516845703125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ビスカロッス" eng="Biscarrosse" de="Biscarrosse" fr="Biscarrosse" es="Biscarrosa" it="Biscarrosse" nl="Biscarrosse">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-1.167802</longitude>
+      <latitude>44.390387</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="ブレシュイール" eng="Bressuire" de="Bressuire" fr="Bressuire" es="Bressuire" it="Bressuire" nl="Bressuire">
-      <province jpn="ポワトゥー・シャラント" eng="Poitou-Charentes" de="Poitou-Charentes" fr="Poitou-Charentes" es="Poitou-Charentes" it="Poitou-Charentes" nl="Poitou-Charentes" />
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
       <longitude>-0.4833984375</longitude>
       <latitude>46.834716796875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="ブリーヴ＝ラ＝ガイヤルド" eng="Brive-la-Gaillarde" de="Brive-la-Gaillarde" fr="Brive-la-Gaillarde" es="Brive-la-Gaillarde" it="Brive-la-Gaillarde" nl="Brive-la-Gaillarde">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>1.5325927734375</longitude>
+      <latitude>45.15380859375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ダクス" eng="Dax" de="Dax" fr="Dax" es="Dax" it="Dax" nl="Dax">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-1.052587</longitude>
+      <latitude>43.705755</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>	
+	<city jpn="サン＝ジャン＝ピエ＝ド＝ポル" eng="Donibane Garazi" de="Saint-Jean-Pied-de-Port" fr="Saint-Jean-Pied-de-Port" es="San Juan Pie de Puerto" it="Saint-Jean-Pied-de-Port" nl="Saint-Jean-Pied-de-Port">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-1.250631</longitude>
+      <latitude>43.132565</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ラ・ロシェル" eng="La Rochelle" de="La Rochelle" fr="La Rochelle" es="La Rochelle" it="La Rochelle" nl="La Rochelle">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-1.1480712890625</longitude>
+      <latitude>46.153564453125</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="リブルヌ" eng="Libourne" de="Libourne" fr="Libourne" es="Liborna" it="Libourne" nl="Libourne">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-0.216100</longitude>
+      <latitude>44.914305</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="リモージュ" eng="Limoges" de="Limoges" fr="Limoges" es="Limoges" it="Limoges" nl="Limoges">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>1.25244140625</longitude>
+      <latitude>45.8294677734375</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="マルマンド" eng="Marmande" de="Marmande" fr="Marmande" es="Marmanda" it="Marmande" nl="Marmande">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>0.161430</longitude>
+      <latitude>44.486963</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ミミザン" eng="Mimizan" de="Mimizan" fr="Mimizan" es="Mimizan" it="Mimizan" nl="Mimizan">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-1.292556</longitude>
+      <latitude>44.208144</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="モン＝ド＝マルサン" eng="Lo Mont de Marçan" de="Mont-de-Marsan" fr="Mont-de-Marsan" es="Monte de Marsán" it="Mont-de-Marsan" nl="Mont-de-Marsan">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-0.500250</longitude>
+      <latitude>43.891368</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ニオール" eng="Niort" de="Niort" fr="Niort" es="Niort" it="Niort" nl="Niort">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-0.4559326171875</longitude>
+      <latitude>46.318359375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="オルテズ" eng="Orthez" de="Orthez" fr="Orthez" es="Orthez" it="Orthez" nl="Orthez">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-0.774053</longitude>
+      <latitude>43.484620</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ポー" eng="Pau" de="Pau" fr="Pau" es="Pau" it="Pau" nl="Pau">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-0.37353515625</longitude>
+      <latitude>43.297119140625</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ペリグー" eng="Périgueux" de="Périgueux" fr="Périgueux" es="Périgueux" it="Périgueux" nl="Périgueux">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>0.7086181640625</longitude>
+      <latitude>45.1812744140625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ポアティエ" eng="Poitiers" de="Poitiers" fr="Poitiers" es="Poitiers" it="Poitiers" nl="Poitiers">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>0.3350830078125</longitude>
+      <latitude>46.58203125</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	 <city jpn="ロシュフォール＝シュル＝メール" eng="Rochefort-sur-Mer" de="Rochefort-sur-Mer" fr="Rochefort-sur-Mer" es="Rochefort del Mar" it="Rochefort-sur-Mer" nl="Rochefort-sur-Mer">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-0.997362</longitude>
+      <latitude>45.920715</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ロワイヤン" eng="Royan" de="Royan" fr="Royan" es="Royan" it="Royan" nl="Royan">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-1.029437</longitude>
+      <latitude>45.675832</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="サント" eng="Saintes" de="Saintes" fr="Saintes" es="Saintes" it="Saintes" nl="Saintes">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-0.601024</longitude>
+      <latitude>45.717953</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="スラック" eng="Sarlat e La Canedat" de="Sarlat-la-Canéda" fr="Sarlat-la-Canéda" es="Sarlat-La Canedat" it="Sarlat-la-Canéda" nl="Sarlat-la-Canéda">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-1.127560</longitude>
+      <latitude>45.516411</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="スラック" eng="Soulac-sur-Mer" de="Soulac-sur-Mer" fr="Soulac-sur-Mer" es="Solac de Mar" it="Soulac-sur-Mer" nl="Soulac-sur-Mer">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-1.127560</longitude>
+      <latitude>45.516411</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ユセル" eng="Ussel" de="Ussel" fr="Ussel" es="Ussel" it="Ussel" nl="Ussel">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>2.310931</longitude>
+      <latitude>45.548305</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ヴィルヌーヴ＝シュル＝ロット" eng="Villeneuve-sur-Lot" de="Villeneuve-sur-Lot" fr="Villeneuve-sur-Lot" es="Vilanueva del Lot" it="Villeneuve-sur-Lot" nl="Villeneuve-sur-Lot">
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>0.671168</longitude>
+      <latitude>44.403747</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="トゥールーズ" eng="Toulouse" de="Toulouse" fr="Toulouse" es="Toulouse" it="Tolosa" nl="Toulouse">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>1.4337158203125</longitude>
+      <latitude>43.5992431640625</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="オーシュ" eng="Auch" de="Auch" fr="Auch" es="Auch" it="Auch" nl="Auch">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>0.582275390625</longitude>
+      <latitude>43.6376953125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="オリュ" eng="Aulús" de="Aulus-les-Bains" fr="Aulus-les-Bains" es="Aulús" it="Aulus-les-Bains" nl="Aulus-les-Bains">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>1.337967</longitude>
+      <latitude>42.779975</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="アルビ" eng="Albi" de="Albi" fr="Albi" es="Albí" it="Albi" nl="Albi">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>2.1368408203125</longitude>
+      <latitude>43.92333984375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アルジュレス＝シュル＝メール" eng="Argelers de la Marenda" de="Argelès-sur-Mer" fr="Argelès-sur-Mer" es="Argelers de la Marenda" it="Argelès-sur-Mer" nl="Argelès-sur-Mer">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>3.052907</longitude>
+      <latitude>42.536522</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ベジエ" eng="Béziers" de="Béziers" fr="Béziers" es="Béziers" it="Béziers" nl="Béziers">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>3.2080078125</longitude>
+      <latitude>43.3355712890625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="カオール" eng="Cahors" de="Cahors" fr="Cahors" es="Cahors" it="Cahors" nl="Cahors">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>1.4337158203125</longitude>
+      <latitude>44.439697265625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="カルカソンヌ" eng="Carcassonne" de="Carcassonne" fr="Carcassonne" es="Carcasona" it="Carcassona" nl="Carcassonne	">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>2.329130</longitude>
+      <latitude>43.215198</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="カステルノーダリ" eng="Castellnou d'Arri" de="Castelnaudary" fr="Castelnaudary" es="Castelnaudary" it="Castelnaudary" nl="Castelnaudary">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>1.886834</longitude>
+      <latitude>43.357820</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="コンドン" eng="Condom" de="Condom" fr="Condom" es="Condom" it="Condom" nl="Condom">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>0.370697</longitude>
+      <latitude>43.956490</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ラトル・デ・カロル" eng="La Tor de Querol" de="Latour-de-Carol" fr="Le Barcarès" es="La Torre de Querol" it="Latour-de-Carol" nl="Latour-de-Carol">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>1.880883</longitude>
+      <latitude>42.462280</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="バルカレス" eng="El Barcarès" de="Le Barcarès" fr="Le Barcarès" es="El Barcarés" it="Le Barcarès" nl="Le Barcarès">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>3.040229</longitude>
+      <latitude>42.836965</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アングル" eng="Els Angles" de="Les Angles" fr="Les Angles" es="Els Angles" it="Les Angles" nl="Les Angles">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>2.073816</longitude>
+      <latitude>42.574870</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="フォワ" eng="Foix" de="Foix" fr="Foix" es="Foix" it="Foix" nl="Foix">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>1.591045</longitude>
+      <latitude>42.944993</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="リムー" eng="Limoux" de="Limoux" fr="Limoux" es="Limoux" it="Limoux" nl="Limoux">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>2.218258</longitude>
+      <latitude>43.052123</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ルルド" eng="Lourdes" de="Lourdes" fr="Lourdes" es="Lorda" it="Lourdes" nl="Lourdes">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>-0.037269</longitude>
+      <latitude>43.076860</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="マンド" eng="Mende" de="Mende" fr="Mende" es="Mende" it="Mende" nl="Mende">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>3.4991455078125</longitude>
+      <latitude>44.5166015625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ミヨー" eng="Millau" de="Millau" fr="Millau" es="Millau" it="Millau" nl="Millau">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>3.0706787109375</longitude>
+      <latitude>44.09912109375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="モントーバン" eng="Montauban" de="Montauban" fr="Montauban" es="Montalbán" it="Montauban" nl="Montauban">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>1.368085</longitude>
+      <latitude>44.050413</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="モンペリエ" eng="Montpellier" de="Montpellier" fr="Montpellier" es="Montpellier" it="Montpellier" nl="Montpellier">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>3.8726806640625</longitude>
+      <latitude>43.604736328125</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ナルボンヌ" eng="Narbonne" de="Narbonne" fr="Narbonne" es="Narbona" it="Narbona" nl="Narbonne">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>2.994674</longitude>
+      <latitude>43.155410</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="オセジャ" eng="Oceja" de="Osséja" fr="Osséja" es="Oceja" it="Osséja" nl="Osséja">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>1.975731</longitude>
+      <latitude>42.413877</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="パルピニャー" eng="Perpinyà" de="Perpignan" fr="Perpignan" es="Perpiñán" it="Perpignano" nl="Perpignan">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>2.889404296875</longitude>
+      <latitude>42.6873779296875</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="サン＝ゴーダンス" eng="Sent-Gaudenç" de="Saint-Gaudens" fr="Saint-Gaudens" es="Saint-Gaudens" it="Saint-Gaudens" nl="Saint-Gaudens">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>0.723071</longitude>
+      <latitude>43.108295</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="サン・ユアン・ラ・セーラ" eng="Sant Joan la Cella" de="Saint-Jean-Lasseille" fr="Saint-Jean-Lasseille" es="San Juan la Cella" it="Saint-Jean-Lasseille" nl="Saint-Jean-Lasseille">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>2.814318</longitude>
+      <latitude>42.560434</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="トータヴェル" eng="Talteüll" de="Tautavel" fr="Tautavel" es="Talteüll" it="Tautavel" nl="Tautavel">
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>2.719511</longitude>
+      <latitude>42.824042</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ナント" eng="Nantes" de="Nantes" fr="Nantes" es="Nantes" it="Nantes" nl="Nantes">
+      <province jpn="ペイ・ド・ラ・ロワール" eng="Pays de la Loire" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Paesi della Loira" nl="Pays de la Loire" />
+      <longitude>-1.549072265625</longitude>
+      <latitude>47.2137451171875</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="アンジェ" eng="Angers" de="Angers" fr="Angers" es="Angers" it="Angers" nl="Angers">
+      <province jpn="ペイ・ド・ラ・ロワール" eng="Pays de la Loire" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Paesi della Loira" nl="Pays de la Loire" />
+      <longitude>-0.54931640625</longitude>
+      <latitude>47.4664306640625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="シャトー＝ゴンティエ" eng="Château-Gontier-sur-Mayenne" de="Château-Gontier-sur-Mayenne" fr="Château-Gontier-sur-Mayenne" es="Château-Gontier-sur-Mayenne" it="Château-Gontier-sur-Mayenne" nl="Château-Gontier-sur-Mayenne">
+      <province jpn="ペイ・ド・ラ・ロワール" eng="Pays de la Loire" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Paesi della Loira" nl="Pays de la Loire" />
+      <longitude>-0.741435</longitude>
+      <latitude>47.799255</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ショレ" eng="Cholet" de="Cholet" fr="Cholet" es="Cholet" it="Cholet" nl="Cholet">
+      <province jpn="ペイ・ド・ラ・ロワール" eng="Pays de la Loire" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Paesi della Loira" nl="Pays de la Loire" />
+      <longitude>-0.845016</longitude>
+      <latitude>47.062494</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ラバル" eng="Laval" de="Laval" fr="Laval" es="Laval" it="Laval" nl="Laval">
+      <province jpn="ペイ・ド・ラ・ロワール" eng="Pays de la Loire" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Paesi della Loira" nl="Pays de la Loire" />
+      <longitude>-0.7635498046875</longitude>
+      <latitude>48.065185546875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ラ・フレーシュ" eng="La Flèche" de="La Flèche" fr="La Flèche" es="La Flèche" it="La Flèche" nl="La Flèche">
+      <province jpn="ペイ・ド・ラ・ロワール" eng="Pays de la Loire" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Paesi della Loira" nl="Pays de la Loire" />
+      <longitude>-0.051314</longitude>
+      <latitude>47.687107</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ロシュ＝シュル＝ヨン" eng="La Roche-sur-Yon" de="La Roche-sur-Yon" fr="La Roche-sur-Yon" es="La Roche-sur-Yon" it="La Roche-sur-Yon" nl="La Roche-sur-Yon">
+      <province jpn="ペイ・ド・ラ・ロワール" eng="Pays de la Loire" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Paesi della Loira" nl="Pays de la Loire" />
+      <longitude>-1.417236328125</longitude>
+      <latitude>46.6644287109375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ル・マン" eng="Le Mans" de="Le Mans" fr="Le Mans" es="Le Mans" it="Le Mans" nl="Le Mans">
+      <province jpn="ペイ・ド・ラ・ロワール" eng="Pays de la Loire" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Paesi della Loira" nl="Pays de la Loire" />
+      <longitude>0.186767578125</longitude>
+      <latitude>47.999267578125</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="サン＝ナゼール" eng="Saint-Nazaire" de="Saint-Nazaire" fr="Saint-Nazaire" es="Saint-Nazaire" it="Saint-Nazaire" nl="Saint-Nazaire">
+      <province jpn="ペイ・ド・ラ・ロワール" eng="Pays de la Loire" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Paesi della Loira" nl="Pays de la Loire" />
+      <longitude>-2.208251953125</longitude>
+      <latitude>47.274169921875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="サン＝フィルベール＝ド＝グラン＝リュー" eng="Saint-Philbert-de-Grand-Lieu" de="Saint-Philbert-de-Grand-Lieu" fr="Saint-Philbert-de-Grand-Lieu" es="Saint-Philbert-de-Grand-Lieu" it="Saint-Philbert-de-Grand-Lieu" nl="Saint-Philbert-de-Grand-Lieu">
+      <province jpn="ペイ・ド・ラ・ロワール" eng="Pays de la Loire" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Paesi della Loira" nl="Pays de la Loire" />
+      <longitude>-1.645955</longitude>
+      <latitude>47.024054</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="マルセイユ" eng="Marseille" de="Marseille" fr="Marseille" es="Marsella" it="Marsiglia" nl="Marseille">
-      <province jpn="プロヴァンス・アルプ・コート・ダジュール" eng="Provence-Alpes-Côte d'Azur" de="Provence-Alpes-Côte d'Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
+      <province jpn="プロヴァンス＝アルプ＝コート・ダジュール" eng="Provence-Alps-French Riviera" de="Provence-Alpes-Côte d’Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
       <longitude>5.372314453125</longitude>
       <latitude>43.2916259765625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ニース" eng="Nice" de="Nizza" fr="Nice" es="Niza" it="Nizza" nl="Nice">
-      <province jpn="プロヴァンス・アルプ・コート・ダジュール" eng="Provence-Alpes-Côte d'Azur" de="Provence-Alpes-Côte d'Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
-      <longitude>7.2674560546875</longitude>
-      <latitude>43.6981201171875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="アルル" eng="Arles" de="Arles" fr="Arles" es="Arlés" it="Arles" nl="Arles">
-      <province jpn="プロヴァンス・アルプ・コート・ダジュール" eng="Provence-Alpes-Côte d'Azur" de="Provence-Alpes-Côte d'Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
-      <longitude>4.6197509765625</longitude>
-      <latitude>43.670654296875</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="エクサン・プロバンス" eng="Aix-en-Provence" de="Aix-en-Provence" fr="Aix-en-Provence" es="Aix-en-Provence" it="Aix-en-Provence" nl="Aix-en-Provence">
-      <province jpn="プロヴァンス・アルプ・コート・ダジュール" eng="Provence-Alpes-Côte d'Azur" de="Provence-Alpes-Côte d'Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
+      <province jpn="プロヴァンス＝アルプ＝コート・ダジュール" eng="Provence-Alps-French Riviera" de="Provence-Alpes-Côte d’Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
       <longitude>5.4437255859375</longitude>
       <latitude>43.5223388671875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="トゥーロン" eng="Toulon" de="Toulon" fr="Toulon" es="Tolón" it="Tolone" nl="Toulon">
-      <province jpn="プロヴァンス・アルプ・コート・ダジュール" eng="Provence-Alpes-Côte d'Azur" de="Provence-Alpes-Côte d'Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
-      <longitude>5.921630859375</longitude>
-      <latitude>43.1268310546875</latitude>
+    <city jpn="アルル" eng="Arles" de="Arles" fr="Arles" es="Arlés" it="Arles" nl="Arles">
+      <province jpn="プロヴァンス＝アルプ＝コート・ダジュール" eng="Provence-Alps-French Riviera" de="Provence-Alpes-Côte d’Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
+      <longitude>4.6197509765625</longitude>
+      <latitude>43.670654296875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アヴィニョン" eng="Avignon" de="Avignon" fr="Avignon" es="Aviñón" it="Avignone" nl="Avignon">
-      <province jpn="プロヴァンス・アルプ・コート・ダジュール" eng="Provence-Alpes-Côte d'Azur" de="Provence-Alpes-Côte d'Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
+      <province jpn="プロヴァンス＝アルプ＝コート・ダジュール" eng="Provence-Alps-French Riviera" de="Provence-Alpes-Côte d’Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
       <longitude>4.8065185546875</longitude>
       <latitude>43.9508056640625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="カンヌ" eng="Cannes" de="Cannes" fr="Cannes" es="Cannes" it="Cannes" nl="Cannes">
+      <province jpn="プロヴァンス＝アルプ＝コート・ダジュール" eng="Provence-Alps-French Riviera" de="Provence-Alpes-Côte d’Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
+      <longitude>6.940265</longitude>
+      <latitude>43.520303</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="ディーニュ" eng="Digne-les-Bains" de="Digne-les-Bains" fr="Digne-les-Bains" es="Digne-les-Bains" it="Digne-les-Bains" nl="Digne-les-Bains">
-      <province jpn="プロヴァンス・アルプ・コート・ダジュール" eng="Provence-Alpes-Côte d'Azur" de="Provence-Alpes-Côte d'Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
+      <province jpn="プロヴァンス＝アルプ＝コート・ダジュール" eng="Provence-Alps-French Riviera" de="Provence-Alpes-Côte d’Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
       <longitude>6.229248046875</longitude>
       <latitude>44.0936279296875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ガップ" eng="Gap" de="Gap" fr="Gap" es="Gap" it="Gap" nl="Gap">
-      <province jpn="プロヴァンス・アルプ・コート・ダジュール" eng="Provence-Alpes-Côte d'Azur" de="Provence-Alpes-Côte d'Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
-      <longitude>6.0699462890625</longitude>
-      <latitude>44.5550537109375</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="ドラギニャン" eng="Draguignan" de="Draguignan" fr="Draguignan" es="Draguignan" it="Draguignan" nl="Draguignan">
-      <province jpn="プロヴァンス・アルプ・コート・ダジュール" eng="Provence-Alpes-Côte d'Azur" de="Provence-Alpes-Côte d'Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
+      <province jpn="プロヴァンス＝アルプ＝コート・ダジュール" eng="Provence-Alps-French Riviera" de="Provence-Alpes-Côte d’Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
       <longitude>6.4654541015625</longitude>
       <latitude>43.5333251953125</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="リヨン" eng="Lyon" de="Lyon" fr="Lyon" es="Lyon" it="Lione" nl="Lyon">
-      <province jpn="ローヌ・アルプ" eng="Rhône-Alpes" de="Rhône-Alpes" fr="Rhône-Alpes" es="Ródano-Alpes" it="Rodano-Alpi" nl="Rhône-Alpes" />
-      <longitude>4.8284912109375</longitude>
-      <latitude>45.7525634765625</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ブールカン＝ブレス" eng="Bourg-en-Bresse" de="Bourg-en-Bresse" fr="Bourg-en-Bresse" es="Bourg-en-Bresse" it="Bourg-en-Bresse" nl="Bourg-en-Bresse">
-      <province jpn="ローヌ・アルプ" eng="Rhône-Alpes" de="Rhône-Alpes" fr="Rhône-Alpes" es="Ródano-Alpes" it="Rodano-Alpi" nl="Rhône-Alpes" />
-      <longitude>5.2239990234375</longitude>
-      <latitude>46.2030029296875</latitude>
+    <city jpn="ガップ" eng="Gap" de="Gap" fr="Gap" es="Gap" it="Gap" nl="Gap">
+      <province jpn="プロヴァンス＝アルプ＝コート・ダジュール" eng="Provence-Alps-French Riviera" de="Provence-Alpes-Côte d’Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
+      <longitude>6.0699462890625</longitude>
+      <latitude>44.5550537109375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="バランス" eng="Valence" de="Valence" fr="Valence" es="Valence" it="Valenza" nl="Valence">
-      <province jpn="ローヌ・アルプ" eng="Rhône-Alpes" de="Rhône-Alpes" fr="Rhône-Alpes" es="Ródano-Alpes" it="Rodano-Alpi" nl="Rhône-Alpes" />
-      <longitude>4.8834228515625</longitude>
-      <latitude>44.9285888671875</latitude>
+    <city jpn="ニース" eng="Nice" de="Nizza" fr="Nice" es="Niza" it="Nizza" nl="Nice">
+      <province jpn="プロヴァンス＝アルプ＝コート・ダジュール" eng="Provence-Alps-French Riviera" de="Provence-Alpes-Côte d’Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
+      <longitude>7.138497</longitude>
+      <latitude>43.637827</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="グルノーブル" eng="Grenoble" de="Grenoble" fr="Grenoble" es="Grenoble" it="Grenoble" nl="Grenoble">
-      <province jpn="ローヌ・アルプ" eng="Rhône-Alpes" de="Rhône-Alpes" fr="Rhône-Alpes" es="Ródano-Alpes" it="Rodano-Alpi" nl="Rhône-Alpes" />
-      <longitude>5.7183837890625</longitude>
-      <latitude>45.1812744140625</latitude>
+    <city jpn="トゥーロン" eng="Toulon" de="Toulon" fr="Toulon" es="Tolón" it="Tolone" nl="Toulon">
+      <province jpn="プロヴァンス＝アルプ＝コート・ダジュール" eng="Provence-Alps-French Riviera" de="Provence-Alpes-Côte d’Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
+      <longitude>5.921630859375</longitude>
+      <latitude>43.1268310546875</latitude>
       <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="サンテティエンヌ" eng="Saint-Etienne" de="Saint-Étienne" fr="Saint-Étienne" es="Saint-Étienne" it="Saint-Étienne" nl="Saint-Étienne">
-      <province jpn="ローヌ・アルプ" eng="Rhône-Alpes" de="Rhône-Alpes" fr="Rhône-Alpes" es="Ródano-Alpes" it="Rodano-Alpi" nl="Rhône-Alpes" />
-      <longitude>4.383544921875</longitude>
-      <latitude>45.4339599609375</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="シャンベリー" eng="Chambéry" de="Chambéry" fr="Chambéry" es="Chambéry" it="Chambéry" nl="Chambéry">
-      <province jpn="ローヌ・アルプ" eng="Rhône-Alpes" de="Rhône-Alpes" fr="Rhône-Alpes" es="Ródano-Alpes" it="Rodano-Alpi" nl="Rhône-Alpes" />
-      <longitude>5.9161376953125</longitude>
-      <latitude>45.5657958984375</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="アヌシー" eng="Annecy" de="Annecy" fr="Annecy" es="Annecy" it="Annecy" nl="Annecy">
-      <province jpn="ローヌ・アルプ" eng="Rhône-Alpes" de="Rhône-Alpes" fr="Rhône-Alpes" es="Ródano-Alpes" it="Rodano-Alpi" nl="Rhône-Alpes" />
-      <longitude>6.119384765625</longitude>
-      <latitude>45.8953857421875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ロアンヌ" eng="Roanne" de="Roanne" fr="Roanne" es="Roanne" it="Roanne" nl="Roanne">
-      <province jpn="ローヌ・アルプ" eng="Rhône-Alpes" de="Rhône-Alpes" fr="Rhône-Alpes" es="Ródano-Alpes" it="Rodano-Alpi" nl="Rhône-Alpes" />
-      <longitude>4.06494140625</longitude>
-      <latitude>46.03271484375</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="フランス" eng="Basse-Terre" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk">
-      <province jpn="グアドループ" eng="Guadeloupe" de="Guadeloupe" fr="Guadeloupe" es="Guadalupe" it="Guadalupa" nl="Guadeloupe" />
-      <longitude>-61.7156982421875</longitude>
-      <latitude>15.99609375</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="フランス" eng="Pointe-a-Pitre" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk">
-      <province jpn="グアドループ" eng="Guadeloupe" de="Guadeloupe" fr="Guadeloupe" es="Guadalupe" it="Guadalupa" nl="Guadeloupe" />
-      <longitude>-61.5289306640625</longitude>
-      <latitude>16.2322998046875</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="フランス" eng="Fort-de-France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk">
-      <province jpn="マルチニーク" eng="Martinique" de="Martinique" fr="Martinique" es="Martinica" it="Martinica" nl="Martinique" />
-      <longitude>-61.0784912109375</longitude>
-      <latitude>14.5953369140625</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="カイエンヌ" eng="Cayenne" de="Cayenne" fr="Cayenne" es="Cayenne" it="Cayenne" nl="Cayenne">
-      <province jpn="フランス領ギアナ" eng="French Guiana" de="Französisch-Guayana" fr="Guyane Française" es="Guayana Francesa" it="Guayana Francese" nl="Frans-Guyana" />
-      <longitude>-52.327880859375</longitude>
-      <latitude>4.932861328125</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="サン＝ドニ" eng="Saint-Denis" de="Saint-Denis" fr="Saint-Denis" es="Saint-Denis" it="Saint-Denis" nl="Saint-Denis">
-      <province jpn="レユニオン" eng="Réunion" de="Réunion" fr="Réunion" es="La Reunión" it="La Réunion" nl="Réunion" />
-      <longitude>55.447998046875</longitude>
-      <latitude>-20.8740234375</latitude>
-      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
@@ -16691,7 +17118,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヒュー・タウン" eng="Hugh Town" de="Hugh Town" fr="Hugh Town" es="Hugh Town" it="Hugh Town" nl="Hugh Town">
+    <city jpn="ヒュー・タウン" eng="Hugh Town" de="Hugh Town" fr="Hugh Town" es="Hugh Town" it="Hugh Town" nl="Hugh Town">
       <province jpn="イングランド サウス・ウェスト" eng="England: South West" de="England: South West" fr="Angleterre: Sud-Ouest" es="Inglaterra: Sudoeste" it="Inghilterra: Sud Ovest" nl="Engeland: South West" />
       <longitude>-6.297667</longitude>
       <latitude>49.920359</latitude>
@@ -16894,7 +17321,7 @@
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="オーバン" eng="An t-Òban" de="An t-Òban" fr="An t-Òban" es="An t-Òban" it="An t-Òban" nl="An t-Òban">
+    <city jpn="オーバン" eng="An t-Òban" de="An t-Òban" fr="An t-Òban" es="An t-Òban" it="An t-Òban" nl="An t-Òban">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
       <longitude>-5.4656982421875</longitude>
       <latitude>56.4093017578125</latitude>
@@ -16915,7 +17342,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ボウモア" eng="Bowmore" de="Bowmore" fr="Bowmore" es="Bowmore" it="Bowmore" nl="Bowmore">
+    <city jpn="ボウモア" eng="Bowmore" de="Bowmore" fr="Bowmore" es="Bowmore" it="Bowmore" nl="Bowmore">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
       <longitude>-6.291901</longitude>
       <latitude>55.749397</latitude>
@@ -16929,14 +17356,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ダンフリース" eng="Dumfries" de="Dumfries" fr="Dumfries" es="Dumfries" it="Dumfries" nl="Dumfries">
+    <city jpn="ダンフリース" eng="Dumfries" de="Dumfries" fr="Dumfries" es="Dumfries" it="Dumfries" nl="Dumfries">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
       <longitude>-3.614501953125</longitude>
       <latitude>55.0634765625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ダンディー" eng="Dundee" de="Dundee" fr="Dundee" es="Dundee" it="Dundee" nl="Dundee">
+    <city jpn="ダンディー" eng="Dundee" de="Dundee" fr="Dundee" es="Dundee" it="Dundee" nl="Dundee">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
       <longitude>-2.96630859375</longitude>
       <latitude>56.458740234375</latitude>
@@ -16957,7 +17384,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="フォート・ウィリアム" eng="Fort William" de="Fort William" fr="Fort William" es="Fort William" it="Fort William" nl="Fort William">
+    <city jpn="フォート・ウィリアム" eng="Fort William" de="Fort William" fr="Fort William" es="Fort William" it="Fort William" nl="Fort William">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
       <longitude>-5.132632</longitude>
       <latitude>56.813007</latitude>
@@ -16992,7 +17419,7 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="カーコーディ" eng="Kirkcaldy" de="Kirkcaldy" fr="Kirkcaldy" es="Kirkcaldy" it="Kirkcaldy" nl="Kirkcaldy">
+    <city jpn="カーコーディ" eng="Kirkcaldy" de="Kirkcaldy" fr="Kirkcaldy" es="Kirkcaldy" it="Kirkcaldy" nl="Kirkcaldy">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
       <longitude>-3.132209</longitude>
       <latitude>56.124082</latitude>
@@ -17006,14 +17433,14 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="レアグ" eng="Lairg" de="Lairg" fr="Lairg" es="Lairg" it="Lairg" nl="Lairg">
+    <city jpn="レアグ" eng="Lairg" de="Lairg" fr="Lairg" es="Lairg" it="Lairg" nl="Lairg">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
       <longitude>-4.412536</longitude>
       <latitude>58.027976</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ラムラッシュ" eng="Lamlash" de="Lamlash" fr="Lamlash" es="Lamlash" it="Lamlash" nl="Lamlash">
+    <city jpn="ラムラッシュ" eng="Lamlash" de="Lamlash" fr="Lamlash" es="Lamlash" it="Lamlash" nl="Lamlash">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
       <longitude>-5.2349853515625</longitude>
       <latitude>55.56884765625</latitude>
@@ -17048,7 +17475,7 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ウィック" eng="Wick" de="Wick" fr="Wick" es="Wick" it="Wick" nl="Wick">
+    <city jpn="ウィック" eng="Wick" de="Wick" fr="Wick" es="Wick" it="Wick" nl="Wick">
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
       <longitude>-3.103424</longitude>
       <latitude>58.422041</latitude>
@@ -17062,7 +17489,7 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="フィッシュガード" eng="Abergwaun" de="Abergwaun" fr="Abergwaun" es="Abergwaun" it="Abergwaun" nl="Abergwaun">
+    <city jpn="フィッシュガード" eng="Abergwaun" de="Abergwaun" fr="Abergwaun" es="Abergwaun" it="Abergwaun" nl="Abergwaun">
       <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
       <longitude>-4.9822998046875</longitude>
       <latitude>51.9927978515625</latitude>
@@ -17097,7 +17524,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ホリーヘッド" eng="Caergybi" de="Caergybi" fr="Caergybi" es="Caergybi" it="Caergybi" nl="Caergybi">
+    <city jpn="ホリーヘッド" eng="Caergybi" de="Caergybi" fr="Caergybi" es="Caergybi" it="Caergybi" nl="Caergybi">
       <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
       <longitude>-4.6307373046875</longitude>
       <latitude>53.3056640625</latitude>
@@ -17174,7 +17601,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="イギリス" eng="Douglas" de="Douglas" fr="Douglas" es="Douglas" it="Douglas" nl="Douglas">
+    <city jpn="イギリス" eng="Douglas" de="Douglas" fr="Douglas" es="Douglas" it="Douglas" nl="Douglas">
       <province jpn="マン島" eng="Isle of Man" de="Isle of Man" fr="Ile de Man" es="Isla de Man" it="Isola di Man" nl="Man" />
       <longitude>-4.482421875</longitude>
       <latitude>54.16259765625</latitude>
@@ -17216,14 +17643,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-  <city jpn="ジブラルタル" eng="Gibraltar" de="Gibraltar" fr="Gibraltar" es="Gibraltar" it="Gibilterra" nl="Gibraltar">
+    <city jpn="ジブラルタル" eng="Gibraltar" de="Gibraltar" fr="Gibraltar" es="Gibraltar" it="Gibilterra" nl="Gibraltar">
       <province jpn="ジブラルタル" eng="Gibraltar" de="Gibraltar" fr="Gibraltar" es="Gibraltar" it="Gibilterra" nl="Gibraltar" />
       <longitude>-5.345272</longitude>
       <latitude>36.121167</latitude>
-      <zoom1>6</zoom1>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	</country>
+  </country>
   <country>
     <name jpn="カリブ・オランダ" eng="Caribbean Netherlands" de="Karibische Niederlande" fr="Pays-Bas caribéens" es="Caribe Neerlandés" it="Paesi Bassi caraibici" nl="Caribisch Nederland" />
     <city jpn="クラレンダイク" eng="Kralendijk" de="Kralendijk" fr="Kralendijk" es="Kralendijk" it="Kralendijk" nl="Kralendijk">
@@ -18365,7 +18792,7 @@
       <province jpn="ジブラルタル" eng="Gibraltar" de="Gibraltar" fr="Gibraltar" es="Gibraltar" it="Gibilterra" nl="Gibraltar" />
       <longitude>-5.345272</longitude>
       <latitude>36.121167</latitude>
-      <zoom1>7</zoom1>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
@@ -19020,6 +19447,201 @@
       <longitude>69.2633056640625</longitude>
       <latitude>41.2646484375</latitude>
       <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="アラブ首長国連邦" eng="United Arab Emirates" de="Vereinigte Arabische Emirate" fr="Emirats arabes unis" es="Emiratos Árabes Unidos" it="Emirati Arabi Uniti" nl="Verenigde Arabische Emiraten" />
+    <city jpn="アブダビ" eng="Abu Dhabi" de="Abu Dhabi" fr="Abu Dhabi" es="Abu Dabi" it="Abu Dhabi" nl="Abu Dhabi">
+      <province jpn="アブダビ" eng="Abu Dhabi" de="Abu Dhabi" fr="Abu Dhabi" es="Abu Dabi" it="Abu Dhabi" nl="Abu Dhabi" />
+      <longitude>54.3658447265625</longitude>
+      <latitude>24.466552734375</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ドバイ" eng="Dubai" de="Dubai" fr="Dubaï" es="Dubái" it="Dubai" nl="Dubai">
+      <province jpn="ドバイ" eng="Dubai" de="Dubai" fr="Dubaï" es="Dubái" it="Dubai" nl="Dubai" />
+      <longitude>55.2777099609375</longitude>
+      <latitude>25.2520751953125</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="インド" eng="India" de="Indien" fr="Inde" es="India" it="India" nl="India" />
+    <city jpn="ニューデリー" eng="New Delhi" de="Neu-Delhi" fr="New Delhi" es="Nueva Delhi" it="Nuova Delhi" nl="New Delhi">
+      <province jpn="デリー" eng="Delhi" de="Delhi" fr="Delhi" es="Delhi" it="Delhi" nl="Delhi" />
+      <longitude>77.1954345703125</longitude>
+      <latitude>28.597412109375</latitude>
+      <zoom1>9</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ムンバイ" eng="Mumbai" de="Mumbai" fr="Mumbai" es="Mumbai" it="Mumbai" nl="Mumbai">
+      <province jpn="マハーラーシュトラ州" eng="Maharashtra" de="Maharashtra" fr="Maharashtra" es="Maharashtra" it="Maharashtra" nl="Maharashtra" />
+      <longitude>72.8228759765625</longitude>
+      <latitude>18.973388671875</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="エジプト" eng="Egypt" de="Ägypten" fr="Egypte" es="Egipto" it="Egitto" nl="Egypte" />
+    <city jpn="カイロ" eng="Cairo" de="Kairo" fr="Le Caire" es="El Cairo" it="Il Cairo" nl="Caïro">
+      <province jpn="カイロ" eng="Al Qahirah" de="Kairo" fr="Le Caire" es="El Cairo" it="Il Cairo" nl="Caïro" />
+      <longitude>31.2451171875</longitude>
+      <latitude>30.047607421875</latitude>
+      <zoom1>9</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ルクソール" eng="Luxor" de="Luxor" fr="Louxor" es="Luxor" it="Luxor" nl="Luxor">
+      <province jpn="ルクソール" eng="Luxor" de="Al Uqsur" fr="Al Uqsur" es="Luxor" it="Al Uqsur" nl="Al Uqsur" />
+      <longitude>32.6458740234375</longitude>
+      <latitude>25.6805419921875</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="オマーン" eng="Oman" de="Oman" fr="Oman" es="Omán" it="Oman" nl="Oman" />
+    <city jpn="マスカット" eng="Muscat" de="Maskat" fr="Mascate" es="Mascate" it="Mascate" nl="Masqat">
+      <province jpn="マスカット州" eng="Muscat" de="Maskat" fr="Mascate" es="Mascate" it="Mascate" nl="Masqat" />
+      <longitude>58.590087890625</longitude>
+      <latitude>23.609619140625</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="カタール" eng="Qatar" de="Katar" fr="Qatar" es="Qatar" it="Qatar" nl="Qatar" />
+    <city jpn="ドーハ" eng="Doha" de="Doha" fr="Doha" es="Doha" it="Doha" nl="Doha">
+      <province jpn="ドーハ" eng="Doha" de="Doha" fr="Doha" es="Doha" it="Doha" nl="Doha" />
+      <longitude>51.5313720703125</longitude>
+      <latitude>25.2850341796875</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="クウェート" eng="Kuwait" de="Kuwait" fr="Koweït" es="Kuwait" it="Kuwait" nl="Koeweit" />
+    <city jpn="クウェート" eng="Kuwait City" de="Kuwait-Stadt" fr="Koweït" es="Kuwait" it="Kuwait City" nl="Koeweit">
+      <province jpn="アースィマ県" eng="Al-Asimah" de="al-Asima" fr="Al Asimah" es="Gobernación Capital" it="Governatorato della Capitale" nl="Al-Asimah" />
+      <longitude>47.977294921875</longitude>
+      <latitude>29.366455078125</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="サウジアラビア" eng="Saudi Arabia" de="Saudi-Arabien" fr="Arabie saoudite" es="Arabia Saudí" it="Arabia Saudita" nl="Saoedi-Arabië" />
+    <city jpn="リヤド" eng="Riyadh" de="Riad" fr="Riyad" es="Riad" it="Riyad" nl="Riyad">
+      <province jpn="リヤド州" eng="Ar Riyad" de="Riad" fr="Ar Riyâd" es="Ar Riyad" it="Al Riyad" nl="Ar Riyad" />
+      <longitude>46.768798828125</longitude>
+      <latitude>24.6368408203125</latitude>
+      <zoom1>9</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="メッカ" eng="Mecca" de="Mekka" fr="La Mecque" es="La Meca" it="La Mecca" nl="Mekka">
+      <province jpn="メッカ州" eng="Makkah" de="Mekka" fr="La Mecque" es="Hiyaz" it="Hijàz" nl="Mekka" />
+      <longitude>39.825439453125</longitude>
+      <latitude>21.42333984375</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ジッダ" eng="Jeddah" de="Dschidda" fr="Jiddah" es="Yeddah" it="Gidda" nl="Djedda">
+      <province jpn="メッカ州" eng="Makkah" de="Mekka" fr="La Mecque" es="Hiyaz" it="Hijàz" nl="Mekka" />
+      <longitude>39.2156982421875</longitude>
+      <latitude>21.5167236328125</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="シリア" eng="Syria" de="Syrien" fr="Syrie" es="Siria" it="Siria" nl="Syrië" />
+    <city jpn="ダマスカス" eng="Damascus" de="Damaskus" fr="Damas" es="Damasco" it="Damasco" nl="Damascus">
+      <province jpn="ダマスカス" eng="Rif Dimashq" de="Damaskus" fr="Rif Dimashq" es="Damasco" it="Damasco" nl="Damascus" />
+      <longitude>36.298828125</longitude>
+      <latitude>33.497314453125</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="バーレーン" eng="Bahrain" de="Bahrain" fr="Bahreïn" es="Bahréin" it="Bahrain" nl="Bahrein" />
+    <city jpn="マナマ" eng="Manama" de="Manama" fr="Manama" es="Manama" it="Manama" nl="Manama">
+      <province jpn="首都県" eng="Capital Governorate" de="Hauptstadtgouvernement" fr="Gouvernorat de la capitale" es="Gobernación Capital" it="Governatorato della Capitale" nl="Hoofdstad" />
+      <longitude>50.5810546875</longitude>
+      <latitude>26.2353515625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="イラン" eng="Iran" de="Iran" fr="Iran" es="Irán" it="Iran" nl="Iran" />
+    <city jpn="テヘラン" eng="Tehran" de="Teheran" fr="Téhéran" es="Teherán" it="Teheran" nl="Teheran">
+      <province jpn="テヘラン" eng="Tehran" de="Teheran" fr="Téhéran" es="Teherán" it="Teheran" nl="Teheran" />
+      <longitude>51.4324951171875</longitude>
+      <latitude>35.66162109375</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="イラク" eng="Iraq" de="Irak" fr="Irak" es="Iraq" it="Iraq" nl="Irak" />
+    <city jpn="バグダッド" eng="Baghdad" de="Bagdad" fr="Bagdad" es="Bagdad" it="Baghdad" nl="Bagdad">
+      <province jpn="バグダード県" eng="Baghdad" de="Bagdad" fr="Bagdad" es="Bagdad" it="Baghdad" nl="Bagdad" />
+      <longitude>44.4122314453125</longitude>
+      <latitude>33.3489990234375</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="イスラエル" eng="Israel" de="Israel" fr="Israël" es="Israel" it="Israele" nl="Israël" />
+    <city jpn="エルサレム" eng="Jerusalem" de="Jerusalem" fr="Jérusalem" es="Jerusalén" it="Gerusalemme" nl="Jeruzalem">
+      <province jpn="エルサレム地区" eng="Jerusalem District" de="Bezirk Jerusalem" fr="District de Jérusalem" es="Distrito de Jerusalén" it="Distretto di Gerusalemme" nl="Jeruzalem" />
+      <longitude>35.211181640625</longitude>
+      <latitude>31.761474609375</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="モルドバ" eng="Moldova" de="Moldawien" fr="Moldavie" es="Moldavia" it="Moldavia" nl="Moldavië" />
+    <city jpn="キシニョフ" eng="Chisinau" de="Chisinau" fr="Chisinau" es="Chisinau" it="Chisinau" nl="Chisinau">
+      <province jpn="キシニョフ" eng="Chisinau" de="Chisinau" fr="Chisinau" es="Chisinau" it="Chisinau" nl="Chisinau" />
+      <longitude>28.828125</longitude>
+      <latitude>46.99951171875</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="ウクライナ" eng="Ukraine" de="Ukraine" fr="Ukraine" es="Ucrania" it="Ucraina" nl="Oekraïne" />
+    <city jpn="キエフ" eng="Kyiv" de="Kiew" fr="Kiev" es="Kiev" it="Kiev" nl="Kiev">
+      <province jpn="キエフ州" eng="Kiev Oblast" de="Oblast Kiew" fr="Oblast de Kiev" es="Óblast de Kiev" it="Oblast di Kiev" nl="Kiev" />
+      <longitude>30.4486083984375</longitude>
+      <latitude>50.3997802734375</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="モロッコ" eng="Morocco" de="Marokko" fr="Maroc" es="Marruecos" it="Marocco" nl="Marokko" />
+    <city jpn="ラバト" eng="Rabat" de="Rabat" fr="Rabat" es="Rabat" it="Rabat" nl="Rabat">
+      <province jpn="ラバト＝サレ＝ケニトラ地方" eng="Rabat-Salé-Kénitra" de="Rabat-Salé-Kénitra" fr="Rabat-Salé-Kénitra" es="Rabat-Salé-Kénitra" it="Rabat-Salé-Kénitra" nl="Rabat-Salé-Kénitra" />
+      <longitude>-6.8499755859375</longitude>
+      <latitude>34.0301513671875</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+  </country>
+  <country>
+    <name jpn="キューバ" eng="Cuba" de="Kuba" fr="Cuba" es="Cuba" it="Cuba" nl="Cuba" />
+    <city jpn="ハバナ" eng="Havana" de="Havanna" fr="La Havane" es="La Habana" it="L'Avana" nl="Havana">
+      <province jpn="ハバナ" eng="Havana" de="Havanna" fr="La Havane" es="La Habana" it="L'Avana" nl="Havana" />
+      <longitude>-82.3480224609375</longitude>
+      <latitude>23.148193359375</latitude>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
@@ -20213,7 +20835,7 @@
       <name jpn="ヘルシンキ" eng="Helsinki" de="Helsinki" fr="Helsinki" es="Helsinki" it="Helsinki" nl="Helsinki" />
     </city>
     <city>
-      <province jpn="イール・ド・フランス" eng="Île-de-France" de="Île-de-France" fr="Ile-de-France" es="Isla de Francia" it="Île-de-France" nl="Île-de-France" />
+      <province jpn="イル＝ド＝フランス" eng="Île-de-France" de="Île-de-France" fr="Île-de-France" es="Isla de Francia" it="Île-de-France" nl="Île-de-France" />
       <longitude>2.3455810546875</longitude>
       <latitude>48.8507080078125</latitude>
       <zoom1>9</zoom1>
@@ -20222,7 +20844,7 @@
       <name jpn="パリ" eng="Paris" de="Paris" fr="Paris" es="París" it="Parigi" nl="Parijs" />
     </city>
     <city>
-      <province jpn="アキテーヌ" eng="Aquitaine" de="Aquitanien" fr="Aquitaine" es="Aquitania" it="Aquitania" nl="Aquitanië" />
+      <province jpn="ヌーヴェル＝アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
       <longitude>-0.582275390625</longitude>
       <latitude>44.835205078125</latitude>
       <zoom1>5</zoom1>
@@ -20231,7 +20853,7 @@
       <name jpn="ボルドー" eng="Bordeaux" de="Bordeaux" fr="Bordeaux" es="Burdeos" it="Bordeaux" nl="Bordeaux" />
     </city>
     <city>
-      <province jpn="ミディ・ピレネー" eng="Midi-Pyrénées" de="Midi-Pyrénées" fr="Midi-Pyrénées" es="Mediodía-Pirineos" it="Midi-Pirenei" nl="Midi-Pyreneeën" />
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
       <longitude>1.4337158203125</longitude>
       <latitude>43.5992431640625</latitude>
       <zoom1>4</zoom1>
@@ -20240,7 +20862,7 @@
       <name jpn="トゥールーズ" eng="Toulouse" de="Toulouse" fr="Toulouse" es="Toulouse" it="Tolosa" nl="Toulouse" />
     </city>
     <city>
-      <province jpn="ペイ・ド・ラ・ロワール" eng="Western Loire Valley" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Loira" nl="Pays de la Loire" />
+      <province jpn="ペイ・ド・ラ・ロワール" eng="Pays de la Loire" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Paesi della Loira" nl="Pays de la Loire" />
       <longitude>-1.549072265625</longitude>
       <latitude>47.2137451171875</latitude>
       <zoom1>5</zoom1>
@@ -20249,7 +20871,7 @@
       <name jpn="ナント" eng="Nantes" de="Nantes" fr="Nantes" es="Nantes" it="Nantes" nl="Nantes" />
     </city>
     <city>
-      <province jpn="プロヴァンス・アルプ・コート・ダジュール" eng="Provence-Alpes-Côte d'Azur" de="Provence-Alpes-Côte d'Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
+      <province jpn="プロヴァンス＝アルプ＝コート・ダジュール" eng="Provence-Alps-French Riviera" de="Provence-Alpes-Côte d’Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
       <longitude>5.372314453125</longitude>
       <latitude>43.2916259765625</latitude>
       <zoom1>1</zoom1>
@@ -20258,9 +20880,9 @@
       <name jpn="マルセイユ" eng="Marseille" de="Marseille" fr="Marseille" es="Marsella" it="Marsiglia" nl="Marseille" />
     </city>
     <city>
-      <province jpn="プロヴァンス・アルプ・コート・ダジュール" eng="Provence-Alpes-Côte d'Azur" de="Provence-Alpes-Côte d'Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
-      <longitude>7.2674560546875</longitude>
-      <latitude>43.6981201171875</latitude>
+      <province jpn="プロヴァンス＝アルプ＝コート・ダジュール" eng="Provence-Alps-French Riviera" de="Provence-Alpes-Côte d’Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
+      <longitude>7.138497</longitude>
+      <latitude>43.637827</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
       <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
@@ -20887,7 +21509,7 @@
       <country jpn="イギリス" eng="United Kingdom" de="Großbritannien" fr="Royaume-Uni" es="Reino Unido" it="Regno Unito" nl="Verenigd Koninkrijk" />
       <name jpn="ベルファスト" eng="Belfast" de="Belfast" fr="Belfast" es="Belfast" it="Belfast" nl="Belfast" />
     </city>
-	<city>
+    <city>
       <province jpn="ジブラルタル" eng="Gibraltar" de="Gibraltar" fr="Gibraltar" es="Gibraltar" it="Gibilterra" nl="Gibraltar" />
       <longitude>-5.345272</longitude>
       <latitude>36.121167</latitude>
@@ -21553,7 +22175,7 @@
       <country jpn="グルジア" eng="Georgia" de="Georgien" fr="Géorgie" es="Georgia" it="Georgia" nl="Georgië" />
       <name jpn="トビリシ" eng="Tbilisi" de="Tiflis" fr="Tbilissi" es="Tbilisi" it="Tbilisi" nl="Tbilisi" />
     </city>
-	<city>
+    <city>
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>21.175918</longitude>
       <latitude>42.678714</latitude>
