@@ -37,6 +37,10 @@ func GetWeather(longitude float64, latitude float64, _time int64) *Weather {
 		panic(err)
 	}
 
+	if _, ok := jsonData["Key"]; !ok {
+		return BlankData()
+	}
+
 	locationKey := jsonData["Key"].(string)
 	weather.GetCurrentWeather(locationKey)
 	weather.Get5DayWeather(locationKey)
@@ -189,6 +193,62 @@ func (w *Weather) Get10DayWeather(locationKey string) {
 		w.Week[i].TempCelsiusMax = ftoC(w.Week[i].TempFahrenheitMax)
 		w.Week[i].WeatherIcon = int(jsonData["DailyForecasts"].([]any)[day+_i].(map[string]any)["Day"].(map[string]any)["Icon"].(float64))
 		_i++
+	}
+}
+
+func BlankData() *Weather {
+	var week []Week
+	for i := 0; i < 8; i++ {
+		week = append(week, Week{
+			TempFahrenheitMin: -128,
+			TempFahrenheitMax: -128,
+			TempCelsiusMin:    -128,
+			TempCelsiusMax:    -128,
+			WeatherIcon:       0,
+		})
+	}
+
+	return &Weather{
+		LocalTime: "",
+		Current: Current{
+			TempFahrenheit: -128,
+			TempCelsius:    -128,
+			WindDirection:  "N",
+			WindImperial:   0,
+			WindMetric:     0,
+			WeatherIcon:    0,
+		},
+		Today: Today{
+			TempFahrenheitMin: -128,
+			TempFahrenheitMax: -128,
+			TempCelsiusMin:    -128,
+			TempCelsiusMax:    -128,
+			WeatherIcon:       0,
+		},
+		Tomorrow: Tomorrow{
+			TempFahrenheitMin: -128,
+			TempFahrenheitMax: -128,
+			TempCelsiusMin:    -128,
+			TempCelsiusMax:    -128,
+			WeatherIcon:       0,
+		},
+		Week: week,
+		Wind: Wind{
+			WindDirection:         "N",
+			WindImperial:          0,
+			WindMetric:            0,
+			WindDirectionTomorrow: "N",
+			WindImperialTomorrow:  0,
+			WindMetricTomorrow:    0,
+		},
+		Precipitation: []int{255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255},
+		UVIndex:       0,
+		Pollen:        0,
+		HourlyIcon:    []int{0, 0, 0, 0, 0, 0, 0, 0},
+		Globe: Globe{
+			Offset: 0,
+			Time:   int(time.Now().Unix()),
+		},
 	}
 }
 
