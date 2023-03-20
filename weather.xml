@@ -15939,7 +15939,8 @@
       <latitude>42.261285</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
-    <city jpn="ガンデーザ" eng="Gandesa" de="Gandesa" fr="Gandesa" es="Gandesa" it="Gandesa" nl="Gandesa">
+    </city>
+	<city jpn="ガンデーザ" eng="Gandesa" de="Gandesa" fr="Gandesa" es="Gandesa" it="Gandesa" nl="Gandesa">
       <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
       <longitude>0.437001</longitude>
       <latitude>41.052686</latitude>
