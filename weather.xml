@@ -2295,13 +2295,6 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="マレー滝" eng="Malay Falls" de="Malay Falls" fr="Malay Falls" es="Malay Falls" it="Malay Falls" nl="Malay Falls">
-      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
-      <longitude>-62.479248046875</longitude>
-      <latitude>44.97802734375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="シドニー" eng="Sydney" de="Sydney" fr="Sydney" es="Sydney" it="Sydney" nl="Sydney">
       <province jpn="ニューファンドランド州" eng="Newfoundland" de="Neufundland" fr="Terre-Neuve" es="Terranova" it="Terranova" nl="Newfoundland" />
       <longitude>-60.1776123046875</longitude>
