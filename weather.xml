@@ -15125,7 +15125,7 @@
       <province jpn="アラゴン" eng="Aragon" de="Aragonien" fr="Aragon" es="Aragón" it="Aragona" nl="Aragón" />
       <longitude>0.0345845</longitude>
       <latitude>41.431839</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="モンタルバン" eng="Montalbán" de="Montalbán" fr="Montalbán" es="Montalbán" it="Montalbán" nl="Montalbán">
@@ -15849,6 +15849,13 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="アルテサ・デ・セグレ" eng="Artesa de Segre" de="Artesa de Segre" fr="Artesa de Segre" es="Artesa de Segre" it="Artesa de Segre" nl="Artesa de Segre">
+      <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
+      <longitude>1.043701171875</longitude>
+      <latitude>41.8963623046875</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
 	<city jpn="バダロナ" eng="Badalona" de="Badalona" fr="Badalona" es="Badalona" it="Badalona" nl="Badalona">
       <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
       <longitude>2.283917</longitude>
@@ -15898,11 +15905,18 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="カンブリス" eng="Cambrils" de="Cambrils" fr="Cambrils" es="Cambrils" it="Cambrils" nl="Cambrils">
+      <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
+      <longitude>0.933194</longitude>
+      <latitude>41.009554</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
 	<city jpn="カステイダフェルス" eng="Castelldefels" de="Castelldefels" fr="Castelldefels" es="Castelldefels" it="Castelldefels" nl="Castelldefels">
       <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
       <longitude>1.990887</longitude>
       <latitude>41.273939</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="サルベラ" eng="Cervera" de="Cervera" fr="Cervera" es="Cervera" it="Cervera" nl="Cervera">
@@ -16035,7 +16049,7 @@
       <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
       <longitude>1.156382</longitude>
       <latitude>41.382753</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="モーラデブラ" eng="Móra d'Ebre" de="Móra d'Ebre" fr="Móra d'Ebre" es="Móra d'Ebre" it="Móra d'Ebre" nl="Móra d'Ebre">
@@ -16091,6 +16105,13 @@
       <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
       <longitude>2.104348</longitude>
       <latitude>41.558167</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="サロウ" eng="Salou" de="Salou" fr="Salou" es="Salou" it="Salou" nl="Salou">
+      <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
+      <longitude>1.060965</longitude>
+      <latitude>41.063585</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -16196,27 +16217,69 @@
       <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.362548828125</longitude>
       <latitude>39.4683837890625</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アリカンテ" eng="Alacant" de="Alacant" fr="Alacant" es="Alacant" it="Alacant" nl="Alacant">
       <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.4833984375</longitude>
       <latitude>38.34228515625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="カステリョン・デ・ラ・プラナ" eng="Castelló de la Plana" de="Castelló de la Plana" fr="Castelló de la Plana" es="Castelló de la Plana" it="Castelló de la Plana" nl="Castelló de la Plana">
       <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.032958984375</longitude>
       <latitude>39.979248046875</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="アラス・デ・ロス・オルモス" eng="Aras de los Olmos" de="Aras de los Olmos" fr="Aras de los Olmos" es="Aras de los Olmos" it="Aras de los Olmos" nl="Aras de los Olmos">
+	<city jpn="アデムス" eng="Ademuz" de="Ademuz" fr="Ademuz" es="Ademuz" it="Ademuz" nl="Ademuz">
       <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
-      <longitude>-1.131591796875</longitude>
-      <latitude>39.92431640625</latitude>
+      <longitude>-1.286983</longitude>
+      <latitude>40.061755</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アルボカセル" eng="Albocàsser" de="Albocàsser" fr="Albocàsser" es="Albocàsser" it="Albocàsser" nl="Albocàsser">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.002438</longitude>
+      <latitude>40.348904</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アルコイ" eng="Alcoi" de="Alcoi" fr="Alcoi" es="Alcoi" it="Alcoi" nl="Alcoi">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.455649</longitude>
+      <latitude>38.627360</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アルコセブレ" eng="Alcossebre" de="Alcossebre" fr="Alcossebre" es="Alcossebre" it="Alcossebre" nl="Alcossebre">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>0.272497</longitude>
+      <latitude>40.232704</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アルジーラ" eng="Alzira" de="Alzira" fr="Alzira" es="Alzira" it="Alzira" nl="Alzira">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.527185</longitude>
+      <latitude>39.163015</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アヨラ" eng="Ayora" de="Ayora" fr="Ayora" es="Ayora" it="Ayora" nl="Ayora">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-1.057734</longitude>
+      <latitude>39.059351</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ベニカシム" eng="Benicàssim" de="Benicàssim" fr="Benicàssim" es="Benicàssim" it="Benicàssim" nl="Benicàssim">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>0.160291</longitude>
+      <latitude>40.127377</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -16227,6 +16290,48 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="ボリアナ" eng="Borriana" de="Borriana" fr="Borriana" es="Borriana" it="Borriana" nl="Borriana">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.097219</longitude>
+      <latitude>39.870616</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="カルップ" eng="Calp" de="Calp" fr="Calp" es="Calp" it="Calp" nl="Calp">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>0.094629</longitude>
+      <latitude>38.675693</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="チェルバ" eng="Chelva" de="Chelva" fr="Chelva" es="Chelva" it="Chelva" nl="Chelva">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-1.008657</longitude>
+      <latitude>39.745105</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="チバ" eng="Chiva" de="Chiva" fr="Chiva" es="Chiva" it="Chiva" nl="Chiva">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.807671</longitude>
+      <latitude>39.490583</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="コセンタイナ" eng="Cocentaina" de="Cocentaina" fr="Cocentaina" es="Cocentaina" it="Cocentaina" nl="Cocentaina">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.357734</longitude>
+      <latitude>38.767190</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="クリェラ" eng="Cullera" de="Cullera" fr="Cullera" es="Cullera" it="Cullera" nl="Cullera">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.244873</longitude>
+      <latitude>39.160446</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="デニア" eng="Dénia" de="Dénia" fr="Dénia" es="Dénia" it="Dénia" nl="Dénia">
       <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>0.1043701171875</longitude>
@@ -16234,17 +16339,59 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="エルチェ" eng="Elx" de="Elx" fr="Elx" es="Elche" it="Elche" nl="Elx">
+	<city jpn="エルダ" eng="Elda" de="Elda" fr="Elda" es="Elda" it="Elda" nl="Elda">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.805930</longitude>
+      <latitude>38.502960</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="エルチェ" eng="Elx" de="Elx" fr="Elx" es="Elx" it="Elx" nl="Elx">
       <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.7086181640625</longitude>
       <latitude>38.265380859375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="エンゲラ" eng="Enguera" de="Enguera" fr="Enguera" es="Enguera" it="Enguera" nl="Enguera">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.740520</longitude>
+      <latitude>38.973740</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="ガンディア" eng="Gandia" de="Gandia" fr="Gandie" es="Gandia" it="Gandia" nl="Gandia">
       <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.17578125</longitude>
       <latitude>38.968505859375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ヘリカ" eng="Jérica" de="Jérica" fr="Jérica" es="Jérica" it="Jérica" nl="Jérica">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.602097</longitude>
+      <latitude>39.919150</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ラルコラ" eng="L'Alcora" de="L'Alcora" fr="L'Alcora" es="L'Alcora" it="L'Alcora" nl="L'Alcora">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.271516</longitude>
+      <latitude>40.075939</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ラ・ビラ・ホヨーサ" eng="La Vila Joiosa" de="La Vila Joiosa" fr="La Vila Joiosa" es="La Vila Joiosa" it="La Vila Joiosa" nl="La Vila Joiosa">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.321101</longitude>
+      <latitude>38.469460</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="イーリア" eng="Llíria" de="Llíria" fr="Llíria" es="Llíria" it="Llíria" nl="Llíria">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.661549</longitude>
+      <latitude>39.632987</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -16262,11 +16409,25 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="オリウエラ" eng="Orihuela" de="Orihuela" fr="Orihuela" es="Orihuela" it="Orihuela" nl="Orihuela">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.988946</longitude>
+      <latitude>38.087300</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="ペニスコラ" eng="Peníscola" de="Peníscola" fr="Peníscola" es="Peñíscola" it="Peníscola" nl="Peníscola">
       <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>0.3900146484375</longitude>
       <latitude>40.36376953125</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="プソル" eng="Puçol" de="Puçol" fr="Puçol" es="Puçol" it="Puçol" nl="Puçol">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.293998</longitude>
+      <latitude>39.557490</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="レケナ" eng="Requena" de="Requena" fr="Requena" es="Requena" it="Requena" nl="Requena">
@@ -16276,7 +16437,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="サグント" eng="Sagunto" de="Sagunto" fr="Sagunto" es="Sagunto" it="Sagunto" nl="Sagunto">
+    <city jpn="サグント" eng="Sagunt" de="Sagunt" fr="Sagunt" es="Sagunt" it="Sagunt" nl="Sagunt">
       <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.274658203125</longitude>
       <latitude>39.6771240234375</latitude>
@@ -16287,14 +16448,28 @@
       <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.560302734375</longitude>
       <latitude>38.1939697265625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="トレビエハ" eng="Torrevieja" de="Torrevieja" fr="Torrevieja" es="Torrevieja" it="Torrevieja" nl="Torrevieja">
+	<city jpn="セゴルベ" eng="Segorbe" de="Segorbe" fr="Segorbe" es="Segorbe" it="Segorbe" nl="Segorbe">
       <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
-      <longitude>-0.6756591796875</longitude>
-      <latitude>37.979736328125</latitude>
-      <zoom1>1</zoom1>
+      <longitude>-0.523371</longitude>
+      <latitude>39.801375</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="スエカ" eng="Sueca" de="Sueca" fr="Sueca" es="Sueca" it="Sueca" nl="Sueca">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.305318</longitude>
+      <latitude>39.285078</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="トレント" eng="Torrent" de="Torrent" fr="Torrent" es="Torrent" it="Torrent" nl="Torrent">
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.653209</longitude>
+      <latitude>39.353858</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ビリェナ" eng="Villena" de="Villena" fr="Villena" es="Villena" it="Villena" nl="Villena">
@@ -16315,13 +16490,6 @@
       <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.5218505859375</longitude>
       <latitude>38.9849853515625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="Xèrica" eng="Xèrica" de="Jérica" fr="Jérica" es="Jérica" it="Jérica" nl="Jérica">
-      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
-      <longitude>-0.5657958984375</longitude>
-      <latitude>39.9078369140625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
