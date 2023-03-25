@@ -77,7 +77,7 @@ func (f *Forecast) GetTemperatureFlag() uint8 {
 
 func GetSupportedLanguages(countryCode uint8) []uint8 {
 	if countryCode == 1 {
-		return []uint8{0}
+		return []uint8{0, 1, 2, 3, 4, 5, 6}
 	} else if 8 <= countryCode && countryCode <= 52 {
 		return []uint8{1, 3, 4}
 	} else if 64 <= countryCode && countryCode <= 110 {
