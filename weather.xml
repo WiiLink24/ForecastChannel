@@ -12602,6 +12602,13 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="ギュータースロー" eng="Gütersloh" de="Gütersloh" fr="Gütersloh" es="Gütersloh" it="Gütersloh" nl="Gütersloh">
+      <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
+      <longitude>8.371349</longitude>
+      <latitude>51.882146</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
 	<city jpn="ハーゲン" eng="Hagen" de="Hagen" fr="Hagen" es="Hagen" it="Hagen" nl="Hagen">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>7.570867</longitude>
@@ -12622,14 +12629,7 @@
       <latitude>50.9381103515625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
-    </city>
-	<city jpn="ギュータースロー" eng="Gütersloh" de="Gütersloh" fr="Gütersloh" es="Gütersloh" it="Gütersloh" nl="Gütersloh">
-      <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
-      <longitude>8.371349</longitude>
-      <latitude>51.882146</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
+    </city
 	<city jpn="レーヴァークーゼン" eng="Leverkusen" de="Leverkusen" fr="Leverkusen" es="Leverkusen" it="Leverkusen" nl="Leverkusen">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>7.026084</longitude>
@@ -13006,13 +13006,6 @@
       <longitude>10.503803</longitude>
       <latitude>51.205492</latitude>
       <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="ミュールハウゼン" eng="Mühlhausen" de="Mühlhausen" fr="Mühlhausen" es="Mühlhausen" it="Mühlhausen" nl="Mühlhausen">
-      <province jpn="テューリンゲン州" eng="Thuringia" de="Thüringen" fr="Thuringe" es="Turingia" it="Turingia" nl="Thüringen" />
-      <longitude>10.503803</longitude>
-      <latitude>51.205492</latitude>
-      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="ノルトハウゼン" eng="Nordhausen" de="Nordhausen" fr="Nordhausen" es="Nordhausen" it="Nordhausen" nl="Nordhausen">
