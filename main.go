@@ -34,6 +34,8 @@ type Forecast struct {
 	currentCountryCode  uint8
 	currentCountryList  *NationalList
 	rawLocations        Locations
+	cityNames           []City
+	internationalCities []InternationalCity
 }
 
 var weatherMap = map[string]*accuweather.Weather{}
@@ -107,84 +109,91 @@ func main() {
 		national := national
 		go func() {
 			defer wg.Done()
+
+			wg.Add(len(GetSupportedLanguages(countryCode)))
 			for _, languageCode := range GetSupportedLanguages(countryCode) {
-				forecast := Forecast{}
-				forecast.currentCountryList = &national
-				forecast.currentCountryCode = countryCode
-				forecast.currentLanguageCode = languageCode
-				forecast.PopulateLocations(weatherList.International.Cities)
+				languageCode := languageCode
+				go func() {
+					defer wg.Done()
+					forecast := Forecast{}
+					forecast.currentCountryList = &national
+					forecast.currentCountryCode = countryCode
+					forecast.currentLanguageCode = languageCode
+					forecast.PopulateLocations(weatherList.International.Cities)
 
-				buffer := new(bytes.Buffer)
-				forecast.MakeHeader()
-				forecast.MakeLocationTable(weatherList.International.Cities)
-				forecast.MakeLocationText(weatherList.International.Cities)
-				forecast.MakeLongForecastTable()
-				forecast.MakeShortForecastTable(weatherList.International.Cities)
-				forecast.MakeLaundryTable()
-				forecast.MakeLaundryText()
-				forecast.MakeWeatherConditionsTable()
-				forecast.MakeWeatherConditionText()
-				forecast.MakeUVTable()
-				forecast.MakeUVText()
-				forecast.MakePollenTable()
-				forecast.MakePollenText()
-				forecast.WriteAll(buffer)
+					buffer := new(bytes.Buffer)
+					forecast.MakeHeader()
+					forecast.MakeLocationTable()
+					forecast.MakeLocationText()
+					forecast.MakeLongForecastTable()
+					forecast.MakeShortForecastTable(weatherList.International.Cities)
+					forecast.MakeLaundryTable()
+					forecast.MakeLaundryText()
+					forecast.MakeWeatherConditionsTable()
+					forecast.MakeWeatherConditionText()
+					forecast.MakeUVTable()
+					forecast.MakeUVText()
+					forecast.MakePollenTable()
+					forecast.MakePollenText()
+					forecast.WriteAll(buffer)
 
-				forecast.Header.Filesize = uint32(buffer.Len())
-				buffer.Reset()
-				forecast.WriteAll(buffer)
+					forecast.Header.Filesize = uint32(buffer.Len())
+					buffer.Reset()
+					forecast.WriteAll(buffer)
 
-				crcTable := crc32.MakeTable(crc32.IEEE)
-				checksum := crc32.Checksum(buffer.Bytes()[12:], crcTable)
-				forecast.Header.CRC32 = checksum
+					crcTable := crc32.MakeTable(crc32.IEEE)
+					checksum := crc32.Checksum(buffer.Bytes()[12:], crcTable)
+					forecast.Header.CRC32 = checksum
 
-				buffer.Reset()
-				forecast.WriteAll(buffer)
+					buffer.Reset()
+					forecast.WriteAll(buffer)
 
-				// Prepare to make for Wii U
-				// TODO: Patch IOS to force proper UTC
-				wiiUBuffer := new(bytes.Buffer)
-				forecast.Header.OpenTimestamp = 0
-				forecast.Header.CloseTimestamp = 0xFFFFFFFF
-				forecast.WriteAll(wiiUBuffer)
+					// Prepare to make for Wii U
+					// TODO: Patch IOS to force proper UTC
+					wiiUBuffer := new(bytes.Buffer)
+					forecast.Header.OpenTimestamp = 0
+					forecast.Header.CloseTimestamp = 0xFFFFFFFF
+					forecast.WriteAll(wiiUBuffer)
 
-				crcTable = crc32.MakeTable(crc32.IEEE)
-				checksum = crc32.Checksum(wiiUBuffer.Bytes()[12:], crcTable)
-				forecast.Header.CRC32 = checksum
+					crcTable = crc32.MakeTable(crc32.IEEE)
+					checksum = crc32.Checksum(wiiUBuffer.Bytes()[12:], crcTable)
+					forecast.Header.CRC32 = checksum
 
-				wiiUBuffer.Reset()
-				forecast.WriteAll(wiiUBuffer)
+					wiiUBuffer.Reset()
+					forecast.WriteAll(wiiUBuffer)
 
-				// Make short.bin
-				wii, wiiU := forecast.MakeShortBin(weatherList.International.Cities)
+					// Make short.bin
+					wii, wiiU := forecast.MakeShortBin(weatherList.International.Cities)
 
-				// Make the folder if it doesn't already exist
-				err := os.Mkdir(fmt.Sprintf("./files/%d/%s", languageCode, ZFill(countryCode, 3)), 0755)
-				if !os.IsExist(err) {
-					// If the folder exists we can just continue
+					// Make the folder if it doesn't already exist
+					err := os.Mkdir(fmt.Sprintf("./files/%d/%s", languageCode, ZFill(countryCode, 3)), 0755)
+					if !os.IsExist(err) {
+						// If the folder exists we can just continue
+						checkError(err)
+					}
+
+					compressed, err := lz10.Compress(buffer.Bytes())
 					checkError(err)
-				}
 
-				compressed, err := lz10.Compress(buffer.Bytes())
-				checkError(err)
+					compressedU, err := lz10.Compress(wiiUBuffer.Bytes())
+					checkError(err)
 
-				compressedU, err := lz10.Compress(wiiUBuffer.Bytes())
-				checkError(err)
+					err = os.WriteFile(fmt.Sprintf("./files/%d/%s/forecast.bin", languageCode, ZFill(countryCode, 3)), SignFile(compressed), 0666)
+					checkError(err)
 
-				err = os.WriteFile(fmt.Sprintf("./files/%d/%s/forecast.bin", languageCode, ZFill(countryCode, 3)), SignFile(compressed), 0666)
-				checkError(err)
+					err = os.WriteFile(fmt.Sprintf("./files/%d/%s/short.bin", languageCode, ZFill(countryCode, 3)), SignFile(wii), 0666)
+					checkError(err)
 
-				err = os.WriteFile(fmt.Sprintf("./files/%d/%s/short.bin", languageCode, ZFill(countryCode, 3)), SignFile(wii), 0666)
-				checkError(err)
+					err = os.WriteFile(fmt.Sprintf("./files/%d/%s/forecast.alt", languageCode, ZFill(countryCode, 3)), SignFile(compressedU), 0666)
+					checkError(err)
 
-				err = os.WriteFile(fmt.Sprintf("./files/%d/%s/forecast.alt", languageCode, ZFill(countryCode, 3)), SignFile(compressedU), 0666)
-				checkError(err)
-
-				err = os.WriteFile(fmt.Sprintf("./files/%d/%s/short.alt", languageCode, ZFill(countryCode, 3)), SignFile(wiiU), 0666)
-				checkError(err)
+					err = os.WriteFile(fmt.Sprintf("./files/%d/%s/short.alt", languageCode, ZFill(countryCode, 3)), SignFile(wiiU), 0666)
+					checkError(err)
+				}()
 			}
 		}()
 	}
+
 	wg.Wait()
 	fmt.Println(time.Since(start))
 }
