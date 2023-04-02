@@ -1854,32 +1854,74 @@
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="サドベリー" eng="Greater Sudbury" de="Greater Sudbury" fr="Grand Sudbury" es="Gran Sudbury" it="Greater Sudbury" nl="Greater Sudbury">
+    <city jpn="トロント" eng="Toronto" de="Toronto" fr="Toronto" es="Toronto" it="Toronto" nl="Toronto">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
-      <longitude>-81.0791015625</longitude>
-      <latitude>46.5325927734375</latitude>
-      <zoom1>1</zoom1>
+      <longitude>-79.4146728515625</longitude>
+      <latitude>43.6981201171875</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アタワピスカト" eng="Attawapiskat" de="Attawapiskat" fr="Attawapiskat" es="Attawapiskat" it="Attawapiskat" nl="Attawapiskat">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-82.307546</longitude>
+      <latitude>53.047528</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="バリー" eng="Barrie" de="Barrie" fr="Barrie" es="Barrie" it="Barrie" nl="Barrie">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-79.750245</longitude>
+      <latitude>44.394654</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ドライデン" eng="Dryden" de="Dryden" fr="Dryden" es="Dryden" it="Dryden" nl="Dryden">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-92.598989</longitude>
+      <latitude>49.655444</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="フォート・セバーン" eng="Fort Severn" de="Fort Severn" fr="Fort Severn" es="Fort Severn" it="Fort Severn" nl="Fort Severn">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-87.751965</longitude>
+      <latitude>56.245136</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="グリーンストーン" eng="Greenstone" de="Greenstone" fr="Greenstone" es="Greenstone" it="Greenstone" nl="Greenstone">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-87.414994</longitude>
+      <latitude>49.717898</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ハミルトン" eng="Hamilton" de="Hamilton" fr="Hamilton" es="Hamilton" it="Hamilton" nl="Hamilton">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-79.947509765625</longitude>
       <latitude>43.231201171875</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ハースト" eng="Hearst" de="Hearst" fr="Hearst" es="Hearst" it="Hearst" nl="Hearst">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-83.991452</longitude>
+      <latitude>49.685826</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ケノラ" eng="Kenora" de="Kenora" fr="Kenora" es="Kenora" it="Kenora" nl="Kenora">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-94.4329833984375</longitude>
       <latitude>49.81201171875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="" eng="Kingston" de="Kingston" fr="Kingston" es="Kingston" it="Kingston" nl="Kingston">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-76.475830078125</longitude>
       <latitude>44.2254638671875</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="キッチナー" eng="Kitchener" de="Kitchener" fr="Kitchener" es="Kitchener" it="Kitchener" nl="Kitchener">
@@ -1896,25 +1938,81 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="ミシサガ" eng="Mississauga" de="Mississauga" fr="Mississauga" es="Mississauga" it="Mississauga" nl="Mississauga">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-79.680538</longitude>
+      <latitude>43.421858</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ムースニー" eng="Moosonee" de="Moosonee" fr="Moosonee" es="Moosonee" it="Moosonee" nl="Moosonee">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-80.448561</longitude>
+      <latitude>51.231037</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ニピゴン" eng="Nipigon" de="Nipigon" fr="Nipigon" es="Nipigon" it="Nipigon" nl="Nipigon">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-88.147175</longitude>
+      <latitude>48.975155</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="オシャワ" eng="Oshawa" de="Oshawa" fr="Oshawa" es="Oshawa" it="Oshawa" nl="Oshawa">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-78.848876953125</longitude>
       <latitude>43.8958740234375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="オーウェンサウンド" eng="Owen Sound" de="Owen Sound" fr="Owen Sound" es="Owen Sound" it="Owen Sound" nl="Owen Sound">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-80.958516</longitude>
+      <latitude>44.565935</latitude>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="パリー・サウンド" eng="Parry Sound" de="Parry Sound" fr="Parry Sound" es="Parry Sound" it="Parry Sound" nl="Parry Sound">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-80.0299072265625</longitude>
       <latitude>45.3460693359375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ピーアナック" eng="Peawanuck" de="Peawanuck" fr="Peawanuck" es="Peawanuck" it="Peawanuck" nl="Peawanuck">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-85.310250</longitude>
+      <latitude>54.925920</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ピーターボロ" eng="Peterborough" de="Peterborough" fr="Peterborough" es="Peterborough" it="Peterborough" nl="Peterborough">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-78.285253</longitude>
+      <latitude>44.397625</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="スーセント マリー" eng="Sault Ste. Marie" de="Sault Ste. Marie" fr="Sault Ste. Marie" es="Sault Ste. Marie" it="Sault Ste. Marie" nl="Sault Ste. Marie">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-84.3310546875</longitude>
       <latitude>46.51611328125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="スー・ルックアウト" eng="Sioux Lookout" de="Sioux Lookout" fr="Sioux Lookout" es="Sioux Lookout" it="Sioux Lookout" nl="Sioux Lookout">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-81.0791015625</longitude>
+      <latitude>46.5325927734375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="スムース・ロック・フォールズ" eng="Smooth Rock Falls" de="Smooth Rock Falls" fr="Smooth Rock Falls" es="Smooth Rock Falls" it="Smooth Rock Falls" nl="Smooth Rock Falls">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-91.803393</longitude>
+      <latitude>50.123796</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="セント・キャサリンズ" eng="St. Catharines" de="St. Catharines" fr="Saint Catharines" es="St. Catharines" it="St. Catharines" nl="Sint Catharines">
@@ -1922,6 +2020,20 @@
       <longitude>-79.244384765625</longitude>
       <latitude>43.165283203125</latitude>
       <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="サドベリー" eng="Sudbury" de="Sudbury" fr="Sudbury" es="Sudbury" it="Sudbury" nl="Sudbury">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-81.0791015625</longitude>
+      <latitude>46.5325927734375</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ティミスカミングショアーズ" eng="Temiskaming Shores" de="Temiskaming Shores" fr="Temiskaming Shores" es="Temiskaming Shores" it="Temiskaming Shores" nl="Temiskaming Shores">
+      <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
+      <longitude>-79.838619</longitude>
+      <latitude>47.743595</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="サンダー・ベイ" eng="Thunder Bay" de="Thunder Bay" fr="Thunder Bay" es="Thunder Bay" it="Thunder Bay" nl="Thunder Bay">
@@ -1935,21 +2047,21 @@
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-81.331787109375</longitude>
       <latitude>48.4661865234375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ウィンザー" eng="Windsor" de="Windsor" fr="Windsor" es="Windsor" it="Windsor" nl="Windsor">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-83.0126953125</longitude>
       <latitude>42.29736328125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="トロント" eng="Toronto" de="Toronto" fr="Toronto" es="Toronto" it="Toronto" nl="Toronto">
+	<city jpn="ワナミン・レイク" eng="Wunnumin Lake" de="Wunnumin Lake" fr="Wunnumin Lake" es="Wunnumin Lake" it="Wunnumin Lake" nl="Wunnumin Lake">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
-      <longitude>-79.4146728515625</longitude>
-      <latitude>43.6981201171875</latitude>
-      <zoom1>3</zoom1>
+      <longitude>-89.363676</longitude>
+      <latitude>52.865999</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="エドモントン" eng="Edmonton" de="Edmonton" fr="Edmonton" es="Edmonton" it="Edmonton" nl="Edmonton">
@@ -1959,13 +2071,6 @@
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="バンフ" eng="Banff" de="Banff" fr="Banff" es="Banff" it="Banff" nl="Banff">
-      <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
-      <longitude>-115.565185546875</longitude>
-      <latitude>51.163330078125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="カルガリー" eng="Calgary" de="Calgary" fr="Calgary" es="Calgary" it="Calgary" nl="Calgary">
       <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
       <longitude>-114.08203125</longitude>
@@ -1973,67 +2078,109 @@
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="バンフ" eng="Banff" de="Banff" fr="Banff" es="Banff" it="Banff" nl="Banff">
+      <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
+      <longitude>-115.565185546875</longitude>
+      <latitude>51.163330078125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ブルックス" eng="Brooks" de="Brooks" fr="Brooks" es="Brooks" it="Brooks" nl="Brooks">
+      <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
+      <longitude>-111.895275</longitude>
+      <latitude>50.501801</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="カムローズ" eng="Camrose" de="Camrose" fr="Camrose" es="Camrose" it="Camrose" nl="Camrose">
+      <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
+      <longitude>-112.751884</longitude>
+      <latitude>52.965150</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="フォート・マクマレー" eng="Fort McMurray" de="Fort McMurray" fr="Fort McMurray" es="Fort McMurray" it="Fort McMurray" nl="Fort McMurray">
+      <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
+      <longitude>-111.3848876953125</longitude>
+      <latitude>56.7333984375</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="グランドプレーリー" eng="Grande Prairie" de="Grande Prairie" fr="Grande Prairie" es="Grande Prairie" it="Grande Prairie" nl="Grande Prairie">
       <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
       <longitude>-118.8006591796875</longitude>
       <latitude>55.162353515625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="碧玉" eng="Jasper" de="Jasper" fr="Jasper" es="Jasper" it="Jasper" nl="Jasper">
       <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
       <longitude>-118.1744384765625</longitude>
       <latitude>52.88818359375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="レスブリッジ" eng="Lethbridge" de="Lethbridge" fr="Lethbridge" es="Lethbridge" it="Lethbridge" nl="Lethbridge">
       <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
       <longitude>-112.8131103515625</longitude>
       <latitude>49.6966552734375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ロイドミンスター" eng="Lloydminster" de="Lloydminster" fr="Lloydminster" es="Lloydminster" it="Lloydminster" nl="Lloydminster">
       <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
       <longitude>-110.0006103515625</longitude>
       <latitude>53.2781982421875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="メディシン・ハット" eng="Medicine Hat" de="Medicine Hat" fr="Medicine Hat" es="Medicine Hat" it="Medicine Hat" nl="Medicine Hat">
       <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
       <longitude>-110.665283203125</longitude>
       <latitude>50.0482177734375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="レッドディアー" eng="Red Deer" de="Red Deer" fr="Red Deer" es="Red Deer" it="Red Deer" nl="Red Deer">
       <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
       <longitude>-113.8018798828125</longitude>
       <latitude>52.261962890625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="フォート・マクマレー" eng="Fort McMurray" de="Fort McMurray" fr="Fort McMurray" es="Fort McMurray" it="Fort McMurray" nl="Fort McMurray">
+	<city jpn="ワバスカ・デスマレー" eng="Wabasca-Desmarais" de="Wabasca-Desmarais" fr="Wabasca-Desmarais" es="Wabasca-Desmarais" it="Wabasca-Desmarais" nl="Wabasca-Desmarais">
       <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
-      <longitude>-111.3848876953125</longitude>
-      <latitude>56.7333984375</latitude>
-      <zoom1>5</zoom1>
+      <longitude>-113.759268</longitude>
+      <latitude>55.967627</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ビクトリア" eng="Victoria" de="Victoria" fr="Victoria" es="Victoria" it="Victoria" nl="Victoria">
       <province jpn="ブリティッシュ・コロンビア州" eng="British Columbia" de="Britisch-Kolumbien" fr="Colombie-Britannique" es="Columbia Británica" it="Columbia Britannica" nl="Brits-Columbia" />
       <longitude>-123.365478515625</longitude>
       <latitude>48.427734375</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="バンクーバー" eng="Vancouver" de="Vancouver" fr="Vancouver" es="Vancouver" it="Vancouver" nl="Vancouver">
+      <province jpn="ブリティッシュ・コロンビア州" eng="British Columbia" de="Britisch-Kolumbien" fr="Colombie-Britannique" es="Columbia Británica" it="Columbia Britannica" nl="Brits-Columbia" />
+      <longitude>-123.1182861328125</longitude>
+      <latitude>49.2462158203125</latitude>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="キャンベルリバー" eng="Campbell River" de="Campbell River" fr="Campbell River" es="Campbell River" it="Campbell River" nl="Campbell River">
       <province jpn="ブリティッシュ・コロンビア州" eng="British Columbia" de="Britisch-Kolumbien" fr="Colombie-Britannique" es="Columbia Británica" it="Columbia Britannica" nl="Brits-Columbia" />
       <longitude>-125.244140625</longitude>
       <latitude>50.0152587890625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="病気の湖" eng="Dease Lake" de="Dease Lake" fr="Dease Lake" es="Dease Lake" it="Dease Lake" nl="Dease Lake">
+      <province jpn="ブリティッシュ・コロンビア州" eng="British Columbia" de="Britisch-Kolumbien" fr="Colombie-Britannique" es="Columbia Británica" it="Columbia Britannica" nl="Brits-Columbia" />
+      <longitude>-130.0177001953125</longitude>
+      <latitude>58.4307861328125</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="フォート・ネルソン" eng="Fort Nelson" de="Fort Nelson" fr="Fort Nelson" es="Fort Nelson" it="Fort Nelson" nl="Fort Nelson">
@@ -2047,63 +2194,49 @@
       <province jpn="ブリティッシュ・コロンビア州" eng="British Columbia" de="Britisch-Kolumbien" fr="Colombie-Britannique" es="Columbia Británica" it="Columbia Britannica" nl="Brits-Columbia" />
       <longitude>-120.3167724609375</longitude>
       <latitude>50.6634521484375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ケロウナ" eng="Kelowna" de="Kelowna" fr="Kelowna" es="Kelowna" it="Kelowna" nl="Kelowna">
       <province jpn="ブリティッシュ・コロンビア州" eng="British Columbia" de="Britisch-Kolumbien" fr="Colombie-Britannique" es="Columbia Británica" it="Columbia Britannica" nl="Brits-Columbia" />
       <longitude>-119.4818115234375</longitude>
       <latitude>49.8779296875</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ナナイモ" eng="Nanaimo" de="Nanaimo" fr="Nanaimo" es="Nanaimo" it="Nanaimo" nl="Nanaimo">
       <province jpn="ブリティッシュ・コロンビア州" eng="British Columbia" de="Britisch-Kolumbien" fr="Colombie-Britannique" es="Columbia Británica" it="Columbia Britannica" nl="Brits-Columbia" />
       <longitude>-123.9312744140625</longitude>
       <latitude>49.163818359375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="プリンス・ジョージ" eng="Prince George" de="Prince George" fr="Prince George" es="Prince George" it="Prince George" nl="Prince George">
       <province jpn="ブリティッシュ・コロンビア州" eng="British Columbia" de="Britisch-Kolumbien" fr="Colombie-Britannique" es="Columbia Británica" it="Columbia Britannica" nl="Brits-Columbia" />
       <longitude>-122.750244140625</longitude>
       <latitude>53.9154052734375</latitude>
-      <zoom1>6</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="プリンス・ルパート" eng="Prince Rupert" de="Prince Rupert" fr="Prince Rupert" es="Prince Rupert" it="Prince Rupert" nl="Prince Rupert">
       <province jpn="ブリティッシュ・コロンビア州" eng="British Columbia" de="Britisch-Kolumbien" fr="Colombie-Britannique" es="Columbia Británica" it="Columbia Britannica" nl="Brits-Columbia" />
       <longitude>-130.31982421875</longitude>
       <latitude>54.3109130859375</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="鍛冶屋" eng="Smithers" de="Smithers" fr="Smithers" es="Smithers" it="Smithers" nl="Smithers">
       <province jpn="ブリティッシュ・コロンビア州" eng="British Columbia" de="Britisch-Kolumbien" fr="Colombie-Britannique" es="Columbia Británica" it="Columbia Britannica" nl="Brits-Columbia" />
       <longitude>-127.1722412109375</longitude>
       <latitude>54.77783203125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="バンクーバー" eng="Vancouver" de="Vancouver" fr="Vancouver" es="Vancouver" it="Vancouver" nl="Vancouver">
-      <province jpn="ブリティッシュ・コロンビア州" eng="British Columbia" de="Britisch-Kolumbien" fr="Colombie-Britannique" es="Columbia Británica" it="Columbia Britannica" nl="Brits-Columbia" />
-      <longitude>-123.1182861328125</longitude>
-      <latitude>49.2462158203125</latitude>
-      <zoom1>6</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ウィスラー" eng="Whistler" de="Whistler" fr="Whistler" es="Whistler" it="Whistler" nl="Whistler">
       <province jpn="ブリティッシュ・コロンビア州" eng="British Columbia" de="Britisch-Kolumbien" fr="Colombie-Britannique" es="Columbia Británica" it="Columbia Britannica" nl="Brits-Columbia" />
       <longitude>-122.9644775390625</longitude>
       <latitude>50.1141357421875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="病気の湖" eng="Dease Lake" de="Dease Lake" fr="Dease Lake" es="Dease Lake" it="Dease Lake" nl="Dease Lake">
-      <province jpn="ブリティッシュ・コロンビア州" eng="British Columbia" de="Britisch-Kolumbien" fr="Colombie-Britannique" es="Columbia Británica" it="Columbia Britannica" nl="Brits-Columbia" />
-      <longitude>-130.0177001953125</longitude>
-      <latitude>58.4307861328125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ウィニペグ" eng="Winnipeg" de="Winnipeg" fr="Winnipeg" es="Winnipeg" it="Winnipeg" nl="Winnipeg">
@@ -2113,11 +2246,18 @@
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="バサースト" eng="Bathurst" de="Bathurst" fr="Bathurst" es="Bathurst" it="Bathurst" nl="Bathurst">
+      <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" />
+      <longitude>-65.797119140625</longitude>
+      <latitude>47.5982666015625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="ブランドン" eng="Brandon" de="Brandon" fr="Brandon" es="Brandon" it="Brandon" nl="Brandon">
       <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" />
       <longitude>-99.9481201171875</longitude>
       <latitude>49.844970703125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="チャーチル" eng="Churchill" de="Churchill" fr="Churchill" es="Churchill" it="Churchill" nl="Churchill">
@@ -2131,21 +2271,28 @@
       <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" />
       <longitude>-100.0469970703125</longitude>
       <latitude>51.1468505859375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="フリンフロン" eng="Flin Flon" de="Flin Flon" fr="Flin Flon" es="Flin Flon" it="Flin Flon" nl="Flin Flon">
       <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" />
       <longitude>-101.8597412109375</longitude>
       <latitude>54.766845703125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="シャマタワ" eng="Shamattawa" de="Shamattawa" fr="Shamattawa" es="Shamattawa" it="Shamattawa" nl="Shamattawa">
+      <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" />
+      <longitude>-97.855224609375</longitude>
+      <latitude>55.7391357421875</latitude>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ザ・パース" eng="The Pas" de="The Pas" fr="Le Pas" es="The Pas" it="The Pas" nl="The Pas">
       <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" />
       <longitude>-101.25</longitude>
       <latitude>53.822021484375</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="トンプソン" eng="Thompson" de="Thompson" fr="Thompson" es="Thompson" it="Thompson" nl="Thompson">
@@ -2155,6 +2302,13 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="ウィンクラー" eng="Winkler" de="Winkler" fr="Winkler" es="Winkler" it="Winkler" nl="Winkler">
+      <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" />
+      <longitude>-98.009047</longitude>
+      <latitude>49.122119</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="フレデリクトン" eng="Fredericton" de="Fredericton" fr="Frédéricton" es="Fredericton" it="Fredericton" nl="Fredericton">
       <province jpn="ニュー・ブランズウィック州" eng="New Brunswick" de="Neubraunschweig" fr="Nouveau-Brunswick" es="Nuevo Brunswick" it="Nuovo Brunswick" nl="Nieuw-Brunswijk" />
       <longitude>-66.6650390625</longitude>
@@ -2162,375 +2316,102 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="バサースト" eng="Bathurst" de="Bathurst" fr="Bathurst" es="Bathurst" it="Bathurst" nl="Bathurst">
-      <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" />
-      <longitude>-65.797119140625</longitude>
-      <latitude>47.5982666015625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="エドマンズトン" eng="Edmundston" de="Edmundston" fr="Edmundston" es="Edmundston" it="Edmundston" nl="Edmundston">
-      <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" />
-      <longitude>-68.26904296875</longitude>
-      <latitude>47.3895263671875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="みらみち" eng="Miramichi" de="Miramichi" fr="Miramichi" es="Miramichi" it="Miramichi" nl="Miramichi">
-      <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" />
-      <longitude>-65.4620361328125</longitude>
-      <latitude>46.99951171875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="モンクトン" eng="Moncton" de="Moncton" fr="Moncton" es="Moncton" it="Moncton" nl="Moncton">
       <province jpn="ニュー・ブランズウィック州" eng="New Brunswick" de="Neubraunschweig" fr="Nouveau-Brunswick" es="Nuevo Brunswick" it="Nuovo Brunswick" nl="Nieuw-Brunswijk" />
       <longitude>-64.79736328125</longitude>
       <latitude>46.1151123046875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="エドマンズトン" eng="Edmundston" de="Edmundston" fr="Edmundston" es="Edmundston" it="Edmundston" nl="Edmundston">
+      <province jpn="ニュー・ブランズウィック州" eng="New Brunswick" de="Neubraunschweig" fr="Nouveau-Brunswick" es="Nuevo Brunswick" it="Nuovo Brunswick" nl="Nieuw-Brunswijk" />
+      <longitude>-68.26904296875</longitude>
+      <latitude>47.3895263671875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>	
+    </city>
+	<city jpn="みらみち" eng="Miramichi" de="Miramichi" fr="Miramichi" es="Miramichi" it="Miramichi" nl="Miramichi">
+      <province jpn="ニュー・ブランズウィック州" eng="New Brunswick" de="Neubraunschweig" fr="Nouveau-Brunswick" es="Nuevo Brunswick" it="Nuovo Brunswick" nl="Nieuw-Brunswijk" />x
+      <longitude>-65.4620361328125</longitude>
+      <latitude>46.99951171875</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="セント・ジョン" eng="Saint John" de="Saint John" fr="Saint-John" es="Saint John" it="Saint John" nl="Saint John">
       <province jpn="ニュー・ブランズウィック州" eng="New Brunswick" de="Neubraunschweig" fr="Nouveau-Brunswick" es="Nuevo Brunswick" it="Nuovo Brunswick" nl="Nieuw-Brunswijk" />
       <longitude>-66.0333251953125</longitude>
       <latitude>45.2581787109375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="セントジョンズ" eng="St. John's" de="St. John's" fr="St. John's" es="St. John's" it="St. John's" nl="St. John's">
-      <province jpn="ニューファンドランド州" eng="Newfoundland" de="Neufundland" fr="Terre-Neuve" es="Terranova" it="Terranova" nl="Newfoundland" />
+      <province jpn="ニューファンドランド州" eng="Newfoundland and Labrador" de="Neufundland und Labrador" fr="Terre-Neuve-et-Labrador" es="Terranova y Labrador" it="Terranova e Labrador" nl="Newfoundland en Labrador" />
       <longitude>-52.7288818359375</longitude>
       <latitude>47.5653076171875</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アルゼンチン" eng="Argentia" de="Argentia" fr="Argentia" es="Argentia" it="Argentia" nl="Argentia">
-      <province jpn="ニューファンドランド州" eng="Newfoundland" de="Neufundland" fr="Terre-Neuve" es="Terranova" it="Terranova" nl="Newfoundland" />
+      <province jpn="ニューファンドランド州" eng="Newfoundland and Labrador" de="Neufundland und Labrador" fr="Terre-Neuve-et-Labrador" es="Terranova y Labrador" it="Terranova e Labrador" nl="Newfoundland en Labrador" />
       <longitude>-53.9813232421875</longitude>
       <latitude>47.296142578125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="チャンネルポートオバスク地方" eng="Channel-Port aux Basques" de="Channel-Port aux Basques" fr="Channel-Port aux Basques" es="Channel-Port aux Basques" it="Channel-Port aux Basques" nl="Channel-Port aux Basques">
-      <province jpn="ニューファンドランド州" eng="Newfoundland" de="Neufundland" fr="Terre-Neuve" es="Terranova" it="Terranova" nl="Newfoundland" />
+      <province jpn="ニューファンドランド州" eng="Newfoundland and Labrador" de="Neufundland und Labrador" fr="Terre-Neuve-et-Labrador" es="Terranova y Labrador" it="Terranova e Labrador" nl="Newfoundland en Labrador" />
       <longitude>-59.1448974609375</longitude>
       <latitude>47.5653076171875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="チャーチル滝" eng="Churchill Falls" de="Churchill Falls" fr="Churchill Falls" es="Churchill Falls" it="Churchill Falls" nl="Churchill Falls">
-      <province jpn="ニューファンドランド州" eng="Newfoundland" de="Neufundland" fr="Terre-Neuve" es="Terranova" it="Terranova" nl="Newfoundland" />
+      <province jpn="ニューファンドランド州" eng="Newfoundland and Labrador" de="Neufundland und Labrador" fr="Terre-Neuve-et-Labrador" es="Terranova y Labrador" it="Terranova e Labrador" nl="Newfoundland en Labrador" />
       <longitude>-64.0118408203125</longitude>
       <latitude>53.54736328125</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="コーナーブルック" eng="Corner Brook" de="Corner Brook" fr="Corner Brook" es="Corner Brook" it="Corner Brook" nl="Corner Brook">
-      <province jpn="ニューファンドランド州" eng="Newfoundland" de="Neufundland" fr="Terre-Neuve" es="Terranova" it="Terranova" nl="Newfoundland" />
+      <province jpn="ニューファンドランド州" eng="Newfoundland and Labrador" de="Neufundland und Labrador" fr="Terre-Neuve-et-Labrador" es="Terranova y Labrador" it="Terranova e Labrador" nl="Newfoundland en Labrador" />
       <longitude>-57.9473876953125</longitude>
       <latitude>48.966064453125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ガンダー" eng="Gander" de="Gander" fr="Gander" es="Gander" it="Gander" nl="Gander">
-      <province jpn="ニューファンドランド州" eng="Newfoundland" de="Neufundland" fr="Terre-Neuve" es="Terranova" it="Terranova" nl="Newfoundland" />
+      <province jpn="ニューファンドランド州" eng="Newfoundland and Labrador" de="Neufundland und Labrador" fr="Terre-Neuve-et-Labrador" es="Terranova y Labrador" it="Terranova e Labrador" nl="Newfoundland en Labrador" />
       <longitude>-54.5855712890625</longitude>
       <latitude>48.966064453125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="グランド・フォールズ＝ウィンザー" eng="Grand Falls-Windsor" de="Grand Falls-Windsor" fr="Grand Falls-Windsor" es="Grand Falls-Windsor" it="Grand Falls-Windsor" nl="Grand Falls-Windsor">
+      <province jpn="ニューファンドランド州" eng="Newfoundland and Labrador" de="Neufundland und Labrador" fr="Terre-Neuve-et-Labrador" es="Terranova y Labrador" it="Terranova e Labrador" nl="Newfoundland en Labrador" />
+      <longitude>-55.694919</longitude>
+      <latitude>48.892071</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="グース・ベイ" eng="Happy Valley-Goose Bay" de="Happy Valley-Goose Bay" fr="Happy Valley-Goose Bay" es="Happy Valley-Goose Bay" it="Happy Valley-Goose Bay" nl="Happy Valley-Goose Bay">
-      <province jpn="ニューファンドランド州" eng="Newfoundland" de="Neufundland" fr="Terre-Neuve" es="Terranova" it="Terranova" nl="Newfoundland" />
+      <province jpn="ニューファンドランド州" eng="Newfoundland and Labrador" de="Neufundland und Labrador" fr="Terre-Neuve-et-Labrador" es="Terranova y Labrador" it="Terranova e Labrador" nl="Newfoundland en Labrador" />
       <longitude>-60.3314208984375</longitude>
       <latitude>53.316650390625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ラブラドール市" eng="Labrador City" de="Labrador City" fr="Labrador City" es="Labrador City" it="Labrador City" nl="Labrador City">
-      <province jpn="ニューファンドランド州" eng="Newfoundland" de="Neufundland" fr="Terre-Neuve" es="Terranova" it="Terranova" nl="Newfoundland" />
+      <province jpn="ニューファンドランド州" eng="Newfoundland and Labrador" de="Neufundland und Labrador" fr="Terre-Neuve-et-Labrador" es="Terranova y Labrador" it="Terranova e Labrador" nl="Newfoundland en Labrador" />
       <longitude>-66.9122314453125</longitude>
       <latitude>52.9486083984375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ない" eng="Nain" de="Nain" fr="Nain" es="Nain" it="Nain" nl="Nain">
-      <province jpn="ニューファンドランド州" eng="Newfoundland" de="Neufundland" fr="Terre-Neuve" es="Terranova" it="Terranova" nl="Newfoundland" />
+      <province jpn="ニューファンドランド州" eng="Newfoundland and Labrador" de="Neufundland und Labrador" fr="Terre-Neuve-et-Labrador" es="Terranova y Labrador" it="Terranova e Labrador" nl="Newfoundland en Labrador" />
       <longitude>-61.69921875</longitude>
       <latitude>56.4971923828125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ハリファクス" eng="Halifax" de="Halifax" fr="Halifax" es="Halifax" it="Halifax" nl="Halifax">
-      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
-      <longitude>-63.4954833984375</longitude>
-      <latitude>44.8956298828125</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="アマースト" eng="Amherst" de="Amherst" fr="Amherst" es="Amherst" it="Amherst" nl="Amherst">
-      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
-      <longitude>-64.1986083984375</longitude>
-      <latitude>45.8294677734375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ディグビー" eng="Digby" de="Digby" fr="Digby" es="Digby" it="Digby" nl="Digby">
-      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
-      <longitude>-65.76416015625</longitude>
-      <latitude>44.615478515625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ルネンバーグ" eng="Lunenburg" de="Lunenburg" fr="Lunenburg" es="Lunenburg" it="Lunenburg" nl="Lunenburg">
-      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
-      <longitude>-65.76416015625</longitude>
-      <latitude>44.615478515625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="マレー滝" eng="Malay Falls" de="Malay Falls" fr="Malay Falls" es="Malay Falls" it="Malay Falls" nl="Malay Falls">
-      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
-      <longitude>-62.479248046875</longitude>
-      <latitude>44.97802734375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="シドニー" eng="Sydney" de="Sydney" fr="Sydney" es="Sydney" it="Sydney" nl="Sydney">
-      <province jpn="ニューファンドランド州" eng="Newfoundland" de="Neufundland" fr="Terre-Neuve" es="Terranova" it="Terranova" nl="Newfoundland" />
-      <longitude>-60.1776123046875</longitude>
-      <latitude>46.1480712890625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="トロ" eng="Truro" de="Truro" fr="Truro" es="Truro" it="Truro" nl="Truro">
-      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
-      <longitude>-63.2647705078125</longitude>
-      <latitude>45.362548828125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ヤーマス" eng="Yarmouth" de="Yarmouth" fr="Yarmouth" es="Yarmouth" it="Yarmouth" nl="Yarmouth">
-      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
-      <longitude>-66.1102294921875</longitude>
-      <latitude>43.8299560546875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="シャーロットタウン" eng="Charlottetown" de="Charlottetown" fr="Charlottetown" es="Charlottetown" it="Charlottetown" nl="Charlottetown">
-      <province jpn="プリンス・エドワード・アイランド州" eng="Prince Edward Island" de="Prinz-Edward-Insel" fr="Ile-du-Prince-Edouard" es="Isla del Príncipe Eduardo" it="Isola del Principe Edoardo" nl="Prins Edwardeiland" />
-      <longitude>-63.1329345703125</longitude>
-      <latitude>46.2359619140625</latitude>
-      <zoom1>7</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="イーストポイント" eng="East Point" de="East Point" fr="East Point" es="East Point" it="East Point" nl="East Point">
-      <province jpn="プリンス・エドワード・アイランド州" eng="Prince Edward Island" de="Prinz-Edward-Insel" fr="Ile-du-Prince-Edouard" es="Isla del Príncipe Eduardo" it="Isola del Principe Edoardo" nl="Prins Edwardeiland" />
-      <longitude>-61.995849609375</longitude>
-      <latitude>46.4447021484375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="メープルプレーンズ" eng="Maple Plains" de="Maple Plains" fr="Maple Plains" es="Maple Plains" it="Maple Plains" nl="Maple Plains">
-      <province jpn="プリンス・エドワード・アイランド州" eng="Prince Edward Island" de="Prinz-Edward-Insel" fr="Ile-du-Prince-Edouard" es="Isla del Príncipe Eduardo" it="Isola del Principe Edoardo" nl="Prins Edwardeiland" />
-      <longitude>-63.5614013671875</longitude>
-      <latitude>46.2799072265625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ノースケープ" eng="North Cape" de="North Cape" fr="North Cape" es="North Cape" it="North Cape" nl="North Cape">
-      <province jpn="プリンス・エドワード・アイランド州" eng="Prince Edward Island" de="Prinz-Edward-Insel" fr="Ile-du-Prince-Edouard" es="Isla del Príncipe Eduardo" it="Isola del Principe Edoardo" nl="Prins Edwardeiland" />
-      <longitude>-63.995361328125</longitude>
-      <latitude>47.0654296875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="サマーサイド" eng="Summerside" de="Summerside" fr="Summerside" es="Summerside" it="Summerside" nl="Summerside">
-      <province jpn="プリンス・エドワード・アイランド州" eng="Prince Edward Island" de="Prinz-Edward-Insel" fr="Ile-du-Prince-Edouard" es="Isla del Príncipe Eduardo" it="Isola del Principe Edoardo" nl="Prins Edwardeiland" />
-      <longitude>-63.78662109375</longitude>
-      <latitude>46.395263671875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ケベック・シティー" eng="Quebec" de="Québec" fr="Ville de Québec" es="Quebec" it="Québec" nl="Quebec">
-      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
-      <longitude>-71.2078857421875</longitude>
-      <latitude>46.8017578125</latitude>
-      <zoom1>9</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="チボウガマウ" eng="Chibougamau" de="Chibougamau" fr="Chibougamau" es="Chibougamau" it="Chibougamau" nl="Chibougamau">
-      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
-      <longitude>-74.3609619140625</longitude>
-      <latitude>49.9163818359375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ガスペ" eng="Gaspé" de="Gaspé" fr="Gaspé" es="Gaspé" it="Gaspé" nl="Gaspé">
-      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
-      <longitude>-64.478759765625</longitude>
-      <latitude>48.8287353515625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="クージュアク" eng="Kuujjuaq" de="Kuujjuaq" fr="Kuujjuaq" es="Kuujjuaq" it="Kuujjuaq" nl="Kuujjuaq">
-      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
-      <longitude>-68.3953857421875</longitude>
-      <latitude>58.095703125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="クジュジュアラピック" eng="Kuujjuarapik" de="Kuujjuarapik" fr="Kuujjuarapik" es="Kuujjuarapik" it="Kuujjuarapik" nl="Kuujjuarapik">
-      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
-      <longitude>-77.7447509765625</longitude>
-      <latitude>55.283203125</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="モントリオール" eng="Montréal" de="Montreal" fr="Montréal" es="Montreal" it="Montréal" nl="Montreal">
-      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
-      <longitude>-73.6468505859375</longitude>
-      <latitude>45.516357421875</latitude>
-      <zoom1>6</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="サルート" eng="Salluit" de="Salluit" fr="Salluit" es="Salluit" it="Salluit" nl="Salluit">
-      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
-      <longitude>-75.6298828125</longitude>
-      <latitude>62.1990966796875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="セプティル" eng="Sept-Îles" de="Sept-Îles" fr="Sept-Îles" es="Sept-Îles" it="Sept-Îles" nl="Sept-Îles">
-      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
-      <longitude>-66.37939453125</longitude>
-      <latitude>50.196533203125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="シャーブルック" eng="Sherbrooke" de="Sherbrooke" fr="Sherbrooke" es="Sherbrooke" it="Sherbrooke" nl="Sherbrooke">
-      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
-      <longitude>-71.89453125</longitude>
-      <latitude>45.3955078125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="トロワリビエール" eng="Trois-Rivières" de="Trois-Rivières" fr="Trois-Rivières" es="Trois-Rivières" it="Trois-Rivières" nl="Trois-Rivières">
-      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
-      <longitude>-72.5482177734375</longitude>
-      <latitude>46.3458251953125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="サグネ" eng="Saguenay" de="Saguenay" fr="Saguenay" es="Saguenay" it="Saguenay" nl="Saguenay">
-      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
-      <longitude>-71.0650634765625</longitude>
-      <latitude>48.416748046875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="レジャイナ" eng="Regina" de="Regina" fr="Regina" es="Regina" it="Regina" nl="Regina">
-      <province jpn="サスカチュワン州" eng="Saskatchewan" de="Saskatchewan" fr="Saskatchewan" es="Saskatchewan" it="Saskatchewan" nl="Saskatchewan" />
-      <longitude>-104.6173095703125</longitude>
-      <latitude>50.44921875</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ロイドミンスター" eng="Lloydminster" de="Lloydminster" fr="Lloydminster" es="Lloydminster" it="Lloydminster" nl="Lloydminster">
-      <province jpn="サスカチュワン州" eng="Saskatchewan" de="Saskatchewan" fr="Saskatchewan" es="Saskatchewan" it="Saskatchewan" nl="Saskatchewan" />
-      <longitude>-110.0006103515625</longitude>
-      <latitude>53.2781982421875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ノースバトルフォード" eng="North Battleford" de="North Battleford" fr="North Battleford" es="North Battleford" it="North Battleford" nl="North Battleford">
-      <province jpn="サスカチュワン州" eng="Saskatchewan" de="Saskatchewan" fr="Saskatchewan" es="Saskatchewan" it="Saskatchewan" nl="Saskatchewan" />
-      <longitude>-108.28125</longitude>
-      <latitude>52.7783203125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="サスカトゥーン" eng="Saskatoon" de="Saskatoon" fr="Saskatoon" es="Saskatoon" it="Saskatoon" nl="Saskatoon">
-      <province jpn="サスカチュワン州" eng="Saskatchewan" de="Saskatchewan" fr="Saskatchewan" es="Saskatchewan" it="Saskatchewan" nl="Saskatchewan" />
-      <longitude>-106.63330078125</longitude>
-      <latitude>52.1136474609375</latitude>
-      <zoom1>6</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="スイフトカレント" eng="Swift Current" de="Swift Current" fr="Swift Current" es="Swift Current" it="Swift Current" nl="Swift Current">
-      <province jpn="サスカチュワン州" eng="Saskatchewan" de="Saskatchewan" fr="Saskatchewan" es="Saskatchewan" it="Saskatchewan" nl="Saskatchewan" />
-      <longitude>-107.7978515625</longitude>
-      <latitude>50.2789306640625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ヨークトン" eng="Yorkton" de="Yorkton" fr="Yorkton" es="Yorkton" it="Yorkton" nl="Yorkton">
-      <province jpn="サスカチュワン州" eng="Saskatchewan" de="Saskatchewan" fr="Saskatchewan" es="Saskatchewan" it="Saskatchewan" nl="Saskatchewan" />
-      <longitude>-102.4639892578125</longitude>
-      <latitude>51.2127685546875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="アルバート王子" eng="Prince Albert" de="Prince Albert" fr="Prince Albert" es="Prince Albert" it="Prince Albert" nl="Prince Albert">
-      <province jpn="サスカチュワン州" eng="Saskatchewan" de="Saskatchewan" fr="Saskatchewan" es="Saskatchewan" it="Saskatchewan" nl="Saskatchewan" />
-      <longitude>-105.765380859375</longitude>
-      <latitude>53.19580078125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="白馬" eng="Whitehorse" de="Whitehorse" fr="Whitehorse" es="Whitehorse" it="Whitehorse" nl="Whitehorse">
-      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
-      <longitude>-135.0494384765625</longitude>
-      <latitude>60.7159423828125</latitude>
-      <zoom1>7</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="バーウォッシュランディング" eng="Burwash Landing" de="Burwash Landing" fr="Burwash Landing" es="Burwash Landing" it="Burwash Landing" nl="Burwash Landing">
-      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
-      <longitude>-138.9935302734375</longitude>
-      <latitude>61.3531494140625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ドーソン" eng="Dawson" de="Dawson" fr="Dawson City" es="Dawson City" it="Dawson City" nl="Dawson City">
-      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
-      <longitude>-139.4329833984375</longitude>
-      <latitude>64.061279296875</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ヘインズジャンクション" eng="Haines Junction" de="Haines Junction" fr="Haines Junction" es="Haines Junction" it="Haines Junction" nl="Haines Junction">
-      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
-      <longitude>-137.5103759765625</longitude>
-      <latitude>60.7489013671875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="マヨ" eng="Mayo" de="Mayo" fr="Mayo" es="Mayo" it="Mayo" nl="Mayo">
-      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
-      <longitude>-135.8953857421875</longitude>
-      <latitude>63.5888671875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="オールドクロウ" eng="Old Crow" de="Old Crow" fr="Old Crow" es="Old Crow" it="Old Crow" nl="Old Crow">
-      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
-      <longitude>-139.833984375</longitude>
-      <latitude>67.56591796875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="テスリン" eng="Teslin" de="Teslin" fr="Teslin" es="Teslin" it="Teslin" nl="Teslin">
-      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
-      <longitude>-132.7203369140625</longitude>
-      <latitude>60.1611328125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ワトソン湖" eng="Watson Lake" de="Watson Lake" fr="Watson Lake" es="Watson Lake" it="Watson Lake" nl="Watson Lake">
-      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
-      <longitude>-128.704833984375</longitude>
-      <latitude>60.062255859375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="イエローナイフ" eng="Yellowknife" de="Yellowknife" fr="Yellowknife" es="Yellowknife" it="Yellowknife" nl="Yellowknife">
@@ -2544,21 +2425,21 @@
       <province jpn="ノースウェスト準州" eng="Northwest Territories" de="Nordwest-Territorien" fr="Territoires du Nord-Ouest" es="Territorios del Noroeste" it="Territori del Nord-Ovest" nl="Northwest Territories" />
       <longitude>-121.3494873046875</longitude>
       <latitude>61.8585205078125</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="フォートスミス" eng="Fort Smith" de="Fort Smith" fr="Fort Smith" es="Fort Smith" it="Fort Smith" nl="Fort Smith">
       <province jpn="ノースウェスト準州" eng="Northwest Territories" de="Nordwest-Territorien" fr="Territoires du Nord-Ouest" es="Territorios del Noroeste" it="Territori del Nord-Ovest" nl="Northwest Territories" />
       <longitude>-111.884765625</longitude>
       <latitude>59.996337890625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ヘイ川" eng="Hay River" de="Hay River" fr="Hay River" es="Hay River" it="Hay River" nl="Hay River">
       <province jpn="ノースウェスト準州" eng="Northwest Territories" de="Nordwest-Territorien" fr="Territoires du Nord-Ouest" es="Territorios del Noroeste" it="Territori del Nord-Ovest" nl="Northwest Territories" />
       <longitude>-115.7958984375</longitude>
       <latitude>60.8148193359375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="イヌビク" eng="Inuvik" de="Inuvik" fr="Inuvik" es="Inuvik" it="Inuvik" nl="Inuvik">
@@ -2572,105 +2453,434 @@
       <province jpn="ノースウェスト準州" eng="Northwest Territories" de="Nordwest-Territorien" fr="Territoires du Nord-Ouest" es="Territorios del Noroeste" it="Territori del Nord-Ovest" nl="Northwest Territories" />
       <longitude>-126.8316650390625</longitude>
       <latitude>65.28076171875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="サックスハーバー" eng="Sachs Harbour" de="Sachs Harbour" fr="Sachs Harbour" es="Sachs Harbour" it="Sachs Harbour" nl="Sachs Harbour">
       <province jpn="ノースウェスト準州" eng="Northwest Territories" de="Nordwest-Territorien" fr="Territoires du Nord-Ouest" es="Territorios del Noroeste" it="Territori del Nord-Ovest" nl="Northwest Territories" />
       <longitude>-125.244140625</longitude>
       <latitude>71.982421875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="トゥクトヤクトゥク" eng="Tuktoyaktuk" de="Tuktoyaktuk" fr="Tuktoyaktuk" es="Tuktoyaktuk" it="Tuktoyaktuk" nl="Tuktoyaktuk">
       <province jpn="ノースウェスト準州" eng="Northwest Territories" de="Nordwest-Territorien" fr="Territoires du Nord-Ouest" es="Territorios del Noroeste" it="Territori del Nord-Ovest" nl="Northwest Territories" />
       <longitude>-133.033447265625</longitude>
       <latitude>69.4500732421875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ハリファクス" eng="Halifax" de="Halifax" fr="Halifax" es="Halifax" it="Halifax" nl="Halifax">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-63.4954833984375</longitude>
+      <latitude>44.8956298828125</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="アマースト" eng="Amherst" de="Amherst" fr="Amherst" es="Amherst" it="Amherst" nl="Amherst">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-64.1986083984375</longitude>
+      <latitude>45.8294677734375</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アンティゴニッシュ" eng="Antigonish" de="Antigonish" fr="Antigonish" es="Antigonish" it="Antigonish" nl="Antigonish">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-62.012939</longitude>
+      <latitude>45.596200</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="カレドニア" eng="Caledonia" de="Caledonia" fr="Caledonia" es="Caledonia" it="Caledonia" nl="Caledonia">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-65.111275</longitude>
+      <latitude>44.360034</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ディグビー" eng="Digby" de="Digby" fr="Digby" es="Digby" it="Digby" nl="Digby">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-65.76416015625</longitude>
+      <latitude>44.615478515625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="インヴァネス" eng="Inverness" de="Inverness" fr="Inverness" es="Inverness" it="Inverness" nl="Inverness">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-61.295469</longitude>
+      <latitude>46.250517</latitude>
+      <zoom1>1	</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ルネンバーグ" eng="Lunenburg" de="Lunenburg" fr="Lunenburg" es="Lunenburg" it="Lunenburg" nl="Lunenburg">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-64.311982</longitude>
+      <latitude>44.362089</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="マレー滝" eng="Malay Falls" de="Malay Falls" fr="Malay Falls" es="Malay Falls" it="Malay Falls" nl="Malay Falls">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-62.479248046875</longitude>
+      <latitude>44.97802734375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ニューグラスゴー" eng="New Glasgow" de="New Glasgow" fr="New Glasgow" es="New Glasgow" it="New Glasgow" nl="New Glasgow">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-62.636482</longitude>
+      <latitude>45.548990</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="パーズボロ" eng="Parrsboro" de="Parrsboro" fr="Parrsboro" es="Parrsboro" it="Parrsboro" nl="Parrsboro">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-64.335580</longitude>
+      <latitude>45.380998</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ポート・ホークスベリ" eng="Port Hawkesbury" de="Port Hawkesbury" fr="Port Hawkesbury" es="Port Hawkesbury" it="Port Hawkesbury" nl="Port Hawkesbury">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-61.329769</longitude>
+      <latitude>45.605909</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="パグウォッシュ" eng="Pugwash" de="Pugwash" fr="Pugwash" es="Pugwash" it="Pugwash" nl="Pugwash">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-63.544608</longitude>
+      <latitude>45.864675</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="スプリングヒル" eng="Springhill" de="Springhill" fr="Springhill" es="Springhill" it="Springhill" nl="Springhill">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-63.969570</longitude>
+      <latitude>45.587641</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="シドニー" eng="Sydney" de="Sydney" fr="Sydney" es="Sydney" it="Sydney" nl="Sydney">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-60.1776123046875</longitude>
+      <latitude>46.1480712890625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="タタマガッチ" eng="Tatamagouche" de="Tatamagouche" fr="Tatamagouche" es="Tatamagouche" it="Tatamagouche" nl="Tatamagouche">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-63.216038</longitude>
+      <latitude>45.757080</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="トロ" eng="Truro" de="Truro" fr="Truro" es="Truro" it="Truro" nl="Truro">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-63.2647705078125</longitude>
+      <latitude>45.362548828125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ヤーマス" eng="Yarmouth" de="Yarmouth" fr="Yarmouth" es="Yarmouth" it="Yarmouth" nl="Yarmouth">
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-66.1102294921875</longitude>
+      <latitude>43.8299560546875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="イカルイト" eng="Iqaluit" de="Iqaluit" fr="Iqaluit" es="Iqaluit" it="Iqaluit" nl="Iqaluit">
-      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Territoire du Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
+      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
       <longitude>-68.5107421875</longitude>
       <latitude>63.7481689453125</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アルビアット" eng="Arviat" de="Arviat" fr="Arviat" es="Arviat" it="Arviat" nl="Arviat">
-      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Territoire du Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
+      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
       <longitude>-94.053955078125</longitude>
       <latitude>61.10595703125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ケンブリッジベイ" eng="Cambridge Bay" de="Cambridge Bay" fr="Cambridge Bay" es="Cambridge Bay" it="Cambridge Bay" nl="Cambridge Bay">
-      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Territoire du Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
+      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
       <longitude>-105.05126953125</longitude>
       <latitude>69.1094970703125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="キンゲイト" eng="Kinngait" de="Kinngait" fr="Kinngait" es="Kinngait" it="Kinngait" nl="Kinngait">
-      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Territoire du Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
-      <longitude>-76.5362548828125</longitude>
-      <latitude>64.2315673828125</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="グライズ・フィヨルド" eng="Grise Fiord" de="Grise Fiord" fr="Grise Fiord" es="Grise Fiord" it="Grise Fiord" nl="Grise Fiord">
-      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Territoire du Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
+      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
       <longitude>-82.891845703125</longitude>
       <latitude>76.4154052734375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="サニラジャク" eng="Sanirajak" de="Sanirajak" fr="Sanirajak" es="Sanirajak" it="Sanirajak" nl="Sanirajak">
-      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Territoire du Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
-      <longitude>-81.23291015625</longitude>
-      <latitude>68.7908935546875</latitude>
-      <zoom1>0</zoom1>
+    <city jpn="キンゲイト" eng="Kinngait" de="Kinngait" fr="Kinngait" es="Kinngait" it="Kinngait" nl="Kinngait">
+      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
+      <longitude>-76.5362548828125</longitude>
+      <latitude>64.2315673828125</latitude>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="クグルクトゥク" eng="Kugluktuk" de="Kugluktuk" fr="Kugluktuk" es="Kugluktuk" it="Kugluktuk" nl="Kugluktuk">
-      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Territoire du Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
+      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
       <longitude>-115.0927734375</longitude>
       <latitude>67.8240966796875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="パンナータング" eng="Pangnirtung" de="Pangnirtung" fr="Pangnirtung" es="Pangnirtung" it="Pangnirtung" nl="Pangnirtung">
-      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Territoire du Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
+      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
       <longitude>-65.709228515625</longitude>
       <latitude>66.1431884765625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="池の入口" eng="Pond Inlet" de="Pond Inlet" fr="Pond Inlet" es="Pond Inlet" it="Pond Inlet" nl="Pond Inlet">
-      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Territoire du Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
+      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
       <longitude>-77.958984375</longitude>
       <latitude>72.696533203125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ランキン・インレット" eng="Rankin Inlet" de="Rankin Inlet" fr="Rankin Inlet" es="Rankin Inlet" it="Rankin Inlet" nl="Rankin Inlet">
-      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Territoire du Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
+      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
       <longitude>-92.0819091796875</longitude>
       <latitude>62.8143310546875</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="サニキラック" eng="Sanikiluaq" de="Sanikiluaq" fr="Sanikiluaq" es="Sanikiluaq" it="Sanikiluaq" nl="Sanikiluaq">
-      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Territoire du Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
+      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
       <longitude>-79.2279052734375</longitude>
       <latitude>56.5301513671875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="サニラジャク" eng="Sanirajak" de="Sanirajak" fr="Sanirajak" es="Sanirajak" it="Sanirajak" nl="Sanirajak">
+      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
+      <longitude>-81.23291015625</longitude>
+      <latitude>68.7908935546875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="シャーロットタウン" eng="Charlottetown" de="Charlottetown" fr="Charlottetown" es="Charlottetown" it="Charlottetown" nl="Charlottetown">
+      <province jpn="プリンス・エドワード・アイランド州" eng="Prince Edward Island" de="Prinz-Edward-Insel" fr="Ile-du-Prince-Edouard" es="Isla del Príncipe Eduardo" it="Isola del Principe Edoardo" nl="Prins Edwardeiland" />
+      <longitude>-63.1329345703125</longitude>
+      <latitude>46.2359619140625</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="イーストポイント" eng="East Point" de="East Point" fr="East Point" es="East Point" it="East Point" nl="East Point">
+      <province jpn="プリンス・エドワード・アイランド州" eng="Prince Edward Island" de="Prinz-Edward-Insel" fr="Ile-du-Prince-Edouard" es="Isla del Príncipe Eduardo" it="Isola del Principe Edoardo" nl="Prins Edwardeiland" />
+      <longitude>-61.995849609375</longitude>
+      <latitude>46.4447021484375</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="メープルプレーンズ" eng="Maple Plains" de="Maple Plains" fr="Maple Plains" es="Maple Plains" it="Maple Plains" nl="Maple Plains">
+      <province jpn="プリンス・エドワード・アイランド州" eng="Prince Edward Island" de="Prinz-Edward-Insel" fr="Ile-du-Prince-Edouard" es="Isla del Príncipe Eduardo" it="Isola del Principe Edoardo" nl="Prins Edwardeiland" />
+      <longitude>-63.5614013671875</longitude>
+      <latitude>46.2799072265625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ノースケープ" eng="North Cape" de="North Cape" fr="North Cape" es="North Cape" it="North Cape" nl="North Cape">
+      <province jpn="プリンス・エドワード・アイランド州" eng="Prince Edward Island" de="Prinz-Edward-Insel" fr="Ile-du-Prince-Edouard" es="Isla del Príncipe Eduardo" it="Isola del Principe Edoardo" nl="Prins Edwardeiland" />
+      <longitude>-63.995361328125</longitude>
+      <latitude>47.0654296875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="サマーサイド" eng="Summerside" de="Summerside" fr="Summerside" es="Summerside" it="Summerside" nl="Summerside">
+      <province jpn="プリンス・エドワード・アイランド州" eng="Prince Edward Island" de="Prinz-Edward-Insel" fr="Ile-du-Prince-Edouard" es="Isla del Príncipe Eduardo" it="Isola del Principe Edoardo" nl="Prins Edwardeiland" />
+      <longitude>-63.78662109375</longitude>
+      <latitude>46.395263671875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ケベック・シティー" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Quebec">
+      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
+      <longitude>-71.2078857421875</longitude>
+      <latitude>46.8017578125</latitude>
+      <zoom1>9</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="モントリオール" eng="Montréal" de="Montreal" fr="Montréal" es="Montreal" it="Montréal" nl="Montreal">
+      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
+      <longitude>-73.6468505859375</longitude>
+      <latitude>45.516357421875</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="チボウガマウ" eng="Chibougamau" de="Chibougamau" fr="Chibougamau" es="Chibougamau" it="Chibougamau" nl="Chibougamau">
+      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
+      <longitude>-74.3609619140625</longitude>
+      <latitude>49.9163818359375</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ガスペ" eng="Gaspé" de="Gaspé" fr="Gaspé" es="Gaspé" it="Gaspé" nl="Gaspé">
+      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
+      <longitude>-64.478759765625</longitude>
+      <latitude>48.8287353515625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="クージュアク" eng="Kuujjuaq" de="Kuujjuaq" fr="Kuujjuaq" es="Kuujjuaq" it="Kuujjuaq" nl="Kuujjuaq">
+      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
+      <longitude>-68.3953857421875</longitude>
+      <latitude>58.095703125</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="クジュジュアラピック" eng="Kuujjuarapik" de="Kuujjuarapik" fr="Kuujjuarapik" es="Kuujjuarapik" it="Kuujjuarapik" nl="Kuujjuarapik">
+      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
+      <longitude>-77.7447509765625</longitude>
+      <latitude>55.283203125</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="サルート" eng="Salluit" de="Salluit" fr="Salluit" es="Salluit" it="Salluit" nl="Salluit">
+      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
+      <longitude>-75.6298828125</longitude>
+      <latitude>62.1990966796875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="セプティル" eng="Sept-Îles" de="Sept-Îles" fr="Sept-Îles" es="Sept-Îles" it="Sept-Îles" nl="Sept-Îles">
+      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
+      <longitude>-66.37939453125</longitude>
+      <latitude>50.196533203125</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="シャーブルック" eng="Sherbrooke" de="Sherbrooke" fr="Sherbrooke" es="Sherbrooke" it="Sherbrooke" nl="Sherbrooke">
+      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
+      <longitude>-71.89453125</longitude>
+      <latitude>45.3955078125</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="トロワリビエール" eng="Trois-Rivières" de="Trois-Rivières" fr="Trois-Rivières" es="Trois-Rivières" it="Trois-Rivières" nl="Trois-Rivières">
+      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
+      <longitude>-72.5482177734375</longitude>
+      <latitude>46.3458251953125</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="サグネ" eng="Saguenay" de="Saguenay" fr="Saguenay" es="Saguenay" it="Saguenay" nl="Saguenay">
+      <province jpn="ケベック州" eng="Quebec" de="Québec" fr="Québec" es="Quebec" it="Québec" nl="Québec" />
+      <longitude>-71.0650634765625</longitude>
+      <latitude>48.416748046875</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="レジャイナ" eng="Regina" de="Regina" fr="Regina" es="Regina" it="Regina" nl="Regina">
+      <province jpn="サスカチュワン州" eng="Saskatchewan" de="Saskatchewan" fr="Saskatchewan" es="Saskatchewan" it="Saskatchewan" nl="Saskatchewan" />
+      <longitude>-104.6173095703125</longitude>
+      <latitude>50.44921875</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="サスカトゥーン" eng="Saskatoon" de="Saskatoon" fr="Saskatoon" es="Saskatoon" it="Saskatoon" nl="Saskatoon">
+      <province jpn="サスカチュワン州" eng="Saskatchewan" de="Saskatchewan" fr="Saskatchewan" es="Saskatchewan" it="Saskatchewan" nl="Saskatchewan" />
+      <longitude>-106.63330078125</longitude>
+      <latitude>52.1136474609375</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ノースバトルフォード" eng="North Battleford" de="North Battleford" fr="North Battleford" es="North Battleford" it="North Battleford" nl="North Battleford">
+      <province jpn="サスカチュワン州" eng="Saskatchewan" de="Saskatchewan" fr="Saskatchewan" es="Saskatchewan" it="Saskatchewan" nl="Saskatchewan" />
+      <longitude>-108.28125</longitude>
+      <latitude>52.7783203125</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="スイフトカレント" eng="Swift Current" de="Swift Current" fr="Swift Current" es="Swift Current" it="Swift Current" nl="Swift Current">
+      <province jpn="サスカチュワン州" eng="Saskatchewan" de="Saskatchewan" fr="Saskatchewan" es="Saskatchewan" it="Saskatchewan" nl="Saskatchewan" />
+      <longitude>-107.7978515625</longitude>
+      <latitude>50.2789306640625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ヨークトン" eng="Yorkton" de="Yorkton" fr="Yorkton" es="Yorkton" it="Yorkton" nl="Yorkton">
+      <province jpn="サスカチュワン州" eng="Saskatchewan" de="Saskatchewan" fr="Saskatchewan" es="Saskatchewan" it="Saskatchewan" nl="Saskatchewan" />
+      <longitude>-102.4639892578125</longitude>
+      <latitude>51.2127685546875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="アルバート王子" eng="Prince Albert" de="Prince Albert" fr="Prince Albert" es="Prince Albert" it="Prince Albert" nl="Prince Albert">
+      <province jpn="サスカチュワン州" eng="Saskatchewan" de="Saskatchewan" fr="Saskatchewan" es="Saskatchewan" it="Saskatchewan" nl="Saskatchewan" />
+      <longitude>-105.765380859375</longitude>
+      <latitude>53.19580078125</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="白馬" eng="Whitehorse" de="Whitehorse" fr="Whitehorse" es="Whitehorse" it="Whitehorse" nl="Whitehorse">
+      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
+      <longitude>-135.0494384765625</longitude>
+      <latitude>60.7159423828125</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="バーウォッシュランディング" eng="Burwash Landing" de="Burwash Landing" fr="Burwash Landing" es="Burwash Landing" it="Burwash Landing" nl="Burwash Landing">
+      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
+      <longitude>-138.9935302734375</longitude>
+      <latitude>61.3531494140625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ドーソン" eng="Dawson" de="Dawson" fr="Dawson City" es="Dawson City" it="Dawson City" nl="Dawson City">
+      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
+      <longitude>-139.4329833984375</longitude>
+      <latitude>64.061279296875</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ヘインズジャンクション" eng="Haines Junction" de="Haines Junction" fr="Haines Junction" es="Haines Junction" it="Haines Junction" nl="Haines Junction">
+      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
+      <longitude>-137.5103759765625</longitude>
+      <latitude>60.7489013671875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="マヨ" eng="Mayo" de="Mayo" fr="Mayo" es="Mayo" it="Mayo" nl="Mayo">
+      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
+      <longitude>-135.8953857421875</longitude>
+      <latitude>63.5888671875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="オールドクロウ" eng="Old Crow" de="Old Crow" fr="Old Crow" es="Old Crow" it="Old Crow" nl="Old Crow">
+      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
+      <longitude>-139.833984375</longitude>
+      <latitude>67.56591796875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="テスリン" eng="Teslin" de="Teslin" fr="Teslin" es="Teslin" it="Teslin" nl="Teslin">
+      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
+      <longitude>-132.7203369140625</longitude>
+      <latitude>60.1611328125</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ワトソン湖" eng="Watson Lake" de="Watson Lake" fr="Watson Lake" es="Watson Lake" it="Watson Lake" nl="Watson Lake">
+      <province jpn="ユーコン準州" eng="Yukon" de="Yukon-Territorium" fr="Territoire du Yukon" es="Yukón" it="Yukon" nl="Yukon" />
+      <longitude>-128.704833984375</longitude>
+      <latitude>60.062255859375</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
   <country>
     <name jpn="ケイマン諸島" eng="Cayman Islands" de="Kaimaninseln" fr="Iles Caïmans" es="Islas Caimán" it="Isole Cayman" nl="Kaaimaneilanden" />
     <city jpn="ジョージ・タウン" eng="George Town" de="George Town" fr="George Town" es="George Town" it="George Town" nl="George Town">
-      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Territoire du Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
+      <province jpn="グランドケイマン" eng="Grand Cayman" de="Grand Cayman" fr="Grand Cayman" es="Gran Caimán" it="Grand Cayman" nl="Grand Cayman" />
       <longitude>-81.3812255859375</longitude>
       <latitude>19.2974853515625</latitude>
       <zoom1>1</zoom1>
@@ -11874,21 +12084,21 @@
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="アーレン" eng="Aalen" de="Aalen" fr="Aalen" es="Aalen" it="Aalen" nl="Aalen">
+    <city jpn="アーレン" eng="Aalen" de="Aalen" fr="Aalen" es="Aalen" it="Aalen" nl="Aalen">
       <province jpn="バーデン・ビュルテンベルク州" eng="Baden-Württemberg" de="Baden-Württemberg" fr="Bade-Wurtemberg" es="Baden-Wurtemberg" it="Baden-Württemberg" nl="Baden-Württemberg" />
       <longitude>10.149728</longitude>
       <latitude>48.830687</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="エスリンゲン・アム・ネッカー" eng="Esslingen am Neckar" de="Esslingen am Neckar" fr="Esslingen am Neckar" es="Esslingen am Neckar" it="Esslingen am Neckar" nl="Esslingen am Neckar">
+    <city jpn="エスリンゲン・アム・ネッカー" eng="Esslingen am Neckar" de="Esslingen am Neckar" fr="Esslingen am Neckar" es="Esslingen am Neckar" it="Esslingen am Neckar" nl="Esslingen am Neckar">
       <province jpn="バーデン・ビュルテンベルク州" eng="Baden-Württemberg" de="Baden-Württemberg" fr="Bade-Wurtemberg" es="Baden-Wurtemberg" it="Baden-Württemberg" nl="Baden-Württemberg" />
       <longitude>9.311774</longitude>
       <latitude>48.686709</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="フライブルク・イム・ブライスガウ" eng="Freiburg im Breisgau" de="Freiburg im Breisgau" fr="Fribourg-en-Brisgau" es="Friburgo de Brisgovia" it="Friburgo in Brisgovia" nl="Freiburg im Breisgau">
+    <city jpn="フライブルク・イム・ブライスガウ" eng="Freiburg im Breisgau" de="Freiburg im Breisgau" fr="Fribourg-en-Brisgau" es="Friburgo de Brisgovia" it="Friburgo in Brisgovia" nl="Freiburg im Breisgau">
       <province jpn="バーデン・ビュルテンベルク州" eng="Baden-Württemberg" de="Baden-Württemberg" fr="Bade-Wurtemberg" es="Baden-Wurtemberg" it="Baden-Württemberg" nl="Baden-Württemberg" />
       <longitude>7.710458</longitude>
       <latitude>47.978936</latitude>
@@ -11902,14 +12112,14 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	    <city jpn="ハイデンハイム・アン・デア・ブレンツ" eng="Heidenheim an der Brenz" de="Heidenheim an der Brenz" fr="Heidenheim an der Brenz" es="Heidenheim an der Brenz" it="Heidenheim an der Brenz" nl="Heidenheim an der Brenz">
+    <city jpn="ハイデンハイム・アン・デア・ブレンツ" eng="Heidenheim an der Brenz" de="Heidenheim an der Brenz" fr="Heidenheim an der Brenz" es="Heidenheim an der Brenz" it="Heidenheim an der Brenz" nl="Heidenheim an der Brenz">
       <province jpn="バーデン・ビュルテンベルク州" eng="Baden-Württemberg" de="Baden-Württemberg" fr="Bade-Wurtemberg" es="Baden-Wurtemberg" it="Baden-Württemberg" nl="Baden-Württemberg" />
       <longitude>10.152623</longitude>
       <latitude>48.659498</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	    <city jpn="ハイルブロン" eng="Heilbronn" de="Heilbronn" fr="Heilbronn" es="Heilbronn" it="Heilbronn" nl="Heilbronn">
+    <city jpn="ハイルブロン" eng="Heilbronn" de="Heilbronn" fr="Heilbronn" es="Heilbronn" it="Heilbronn" nl="Heilbronn">
       <province jpn="バーデン・ビュルテンベルク州" eng="Baden-Württemberg" de="Baden-Württemberg" fr="Bade-Wurtemberg" es="Baden-Wurtemberg" it="Baden-Württemberg" nl="Baden-Württemberg" />
       <longitude>9.2120361328125</longitude>
       <latitude>49.1363525390625</latitude>
@@ -11923,14 +12133,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="コンスタンツ" eng="Konstanz" de="Konstanz" fr="Constance" es="Constanza" it="Costanza" nl="Konstanz">
+    <city jpn="コンスタンツ" eng="Konstanz" de="Konstanz" fr="Constance" es="Constanza" it="Costanza" nl="Konstanz">
       <province jpn="バーデン・ビュルテンベルク州" eng="Baden-Württemberg" de="Baden-Württemberg" fr="Bade-Wurtemberg" es="Baden-Wurtemberg" it="Baden-Württemberg" nl="Baden-Württemberg" />
       <longitude>9.166094</longitude>
       <latitude>47.690076</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="レラハ" eng="Lörrach" de="Lörrach" fr="Lörrach" es="Lörrach" it="Lörrach" nl="Lörrach">
+    <city jpn="レラハ" eng="Lörrach" de="Lörrach" fr="Lörrach" es="Lörrach" it="Lörrach" nl="Lörrach">
       <province jpn="バーデン・ビュルテンベルク州" eng="Baden-Württemberg" de="Baden-Württemberg" fr="Bade-Wurtemberg" es="Baden-Wurtemberg" it="Baden-Württemberg" nl="Baden-Württemberg" />
       <longitude>7.665974</longitude>
       <latitude>47.594824</latitude>
@@ -11944,14 +12154,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ロイトリンゲン" eng="Reutlingen" de="Reutlingen" fr="Reutlingen" es="Reutlingen" it="Reutlingen" nl="Reutlingen">
+    <city jpn="ロイトリンゲン" eng="Reutlingen" de="Reutlingen" fr="Reutlingen" es="Reutlingen" it="Reutlingen" nl="Reutlingen">
       <province jpn="バーデン・ビュルテンベルク州" eng="Baden-Württemberg" de="Baden-Württemberg" fr="Bade-Wurtemberg" es="Baden-Wurtemberg" it="Baden-Württemberg" nl="Baden-Württemberg" />
       <longitude>9.109654</longitude>
       <latitude>48.432891</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="シュヴェービッシュ・ハル" eng="Schwäbisch Hall" de="Schwäbisch Hall" fr="Schwäbisch Hall" es="Schwäbisch Hall" it="Schwäbisch Hall" nl="Schwäbisch Hall">
+    <city jpn="シュヴェービッシュ・ハル" eng="Schwäbisch Hall" de="Schwäbisch Hall" fr="Schwäbisch Hall" es="Schwäbisch Hall" it="Schwäbisch Hall" nl="Schwäbisch Hall">
       <province jpn="バーデン・ビュルテンベルク州" eng="Baden-Württemberg" de="Baden-Württemberg" fr="Bade-Wurtemberg" es="Baden-Wurtemberg" it="Baden-Württemberg" nl="Baden-Württemberg" />
       <longitude>9.788033</longitude>
       <latitude>49.111438</latitude>
@@ -11972,7 +12182,7 @@
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="アンベルク" eng="Amberg" de="Amberg" fr="Amberg" es="Amberg" it="Amberg" nl="Amberg">
+    <city jpn="アンベルク" eng="Amberg" de="Amberg" fr="Amberg" es="Amberg" it="Amberg" nl="Amberg">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>12.000951</longitude>
       <latitude>49.456398</latitude>
@@ -11986,14 +12196,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="バート・ノイシュタット・アン・デア・ザーレ" eng="Bad Neustadt an der Saale" de="Bad Neustadt an der Saale" fr="Bad Neustadt an der Saale" es="Bad Neustadt an der Saale" it="Bad Neustadt an der Saale" nl="Bad Neustadt an der Saale">
+    <city jpn="バート・ノイシュタット・アン・デア・ザーレ" eng="Bad Neustadt an der Saale" de="Bad Neustadt an der Saale" fr="Bad Neustadt an der Saale" es="Bad Neustadt an der Saale" it="Bad Neustadt an der Saale" nl="Bad Neustadt an der Saale">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>10.155226</longitude>
-      <latitude>50.262230</latitude>
+      <latitude>50.26223</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="バート・シュタッフェルシュタイン" eng="Bad Staffelstein" de="Bad Staffelstein" fr="Bad Staffelstein" es="Bad Staffelstein" it="Bad Staffelstein" nl="Bad Staffelstein">
+    <city jpn="バート・シュタッフェルシュタイン" eng="Bad Staffelstein" de="Bad Staffelstein" fr="Bad Staffelstein" es="Bad Staffelstein" it="Bad Staffelstein" nl="Bad Staffelstein">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>10.955232</longitude>
       <latitude>50.213475</latitude>
@@ -12014,28 +12224,28 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ベルヒテスガーデン" eng="Berchtesgaden" de="Berchtesgaden" fr="Berchtesgaden" es="Berchtesgaden" it="Berchtesgaden" nl="Berchtesgaden">
+    <city jpn="ベルヒテスガーデン" eng="Berchtesgaden" de="Berchtesgaden" fr="Berchtesgaden" es="Berchtesgaden" it="Berchtesgaden" nl="Berchtesgaden">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>12.948319</longitude>
       <latitude>47.602734</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ブルクハウゼン" eng="Burghausen" de="Burghausen" fr="Burghausen" es="Burghausen" it="Burghausen" nl="Burghausen">
+    <city jpn="ブルクハウゼン" eng="Burghausen" de="Burghausen" fr="Burghausen" es="Burghausen" it="Burghausen" nl="Burghausen">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
-      <longitude>12.850530</longitude>
+      <longitude>12.85053</longitude>
       <latitude>48.202453</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ダッハウ" eng="Dachau" de="Dachau" fr="Dachau" es="Dachau" it="Dachau" nl="Dachau">
+    <city jpn="ダッハウ" eng="Dachau" de="Dachau" fr="Dachau" es="Dachau" it="Dachau" nl="Dachau">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>11.366802</longitude>
       <latitude>48.328321</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="デッゲンドルフ" eng="Deggendorf" de="Deggendorf" fr="Deggendorf" es="Deggendorf" it="Deggendorf" nl="Deggendorf">
+    <city jpn="デッゲンドルフ" eng="Deggendorf" de="Deggendorf" fr="Deggendorf" es="Deggendorf" it="Deggendorf" nl="Deggendorf">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>13.006514</longitude>
       <latitude>48.840899</latitude>
@@ -12049,17 +12259,17 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="エムスキルヒェン" eng="Emskirchen" de="Emskirchen" fr="Emskirchen" es="Emskirchen" it="Emskirchen" nl="Emskirchen">
+    <city jpn="エムスキルヒェン" eng="Emskirchen" de="Emskirchen" fr="Emskirchen" es="Emskirchen" it="Emskirchen" nl="Emskirchen">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>10.616591</longitude>
       <latitude>49.547273</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ホーフ" eng="Hof" de="Hof" fr="Hof" es="Hof" it="Hof" nl="Hof">
+    <city jpn="ホーフ" eng="Hof" de="Hof" fr="Hof" es="Hof" it="Hof" nl="Hof">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
-      <longitude>11.00751</longitude>
-      <latitude>49.621768</latitude>
+      <longitude>11.895568</longitude>
+      <latitude>50.279606</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -12084,7 +12294,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="グンツェンハウゼン" eng="Gunzenhausen" de="Gunzenhausen" fr="Gunzenhausen" es="Gunzenhausen" it="Gunzenhausen" nl="Gunzenhausen">
+    <city jpn="グンツェンハウゼン" eng="Gunzenhausen" de="Gunzenhausen" fr="Gunzenhausen" es="Gunzenhausen" it="Gunzenhausen" nl="Gunzenhausen">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>10.759691</longitude>
       <latitude>49.103176</latitude>
@@ -12098,28 +12308,28 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ランツフート" eng="Landshut" de="Landshut" fr="Landshut" es="Landshut" it="Landshut" nl="Landshut">
+    <city jpn="ランツフート" eng="Landshut" de="Landshut" fr="Landshut" es="Landshut" it="Landshut" nl="Landshut">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>12.206093</longitude>
       <latitude>48.539921</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ノイブルク・アン・デア・ドナウ" eng="Neuburg an der Donau" de="Neuburg an der Donau" fr="Neuburg an der Donau" es="Neuburg an der Donau" it="Neuburg an der Donau" nl="Neuburg an der Donau">
+    <city jpn="ノイブルク・アン・デア・ドナウ" eng="Neuburg an der Donau" de="Neuburg an der Donau" fr="Neuburg an der Donau" es="Neuburg an der Donau" it="Neuburg an der Donau" nl="Neuburg an der Donau">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>10.999373</longitude>
       <latitude>48.678478</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ノイマルクト" eng="Neumarkt in der Oberpfalz" de="Neumarkt in der Oberpfalz" fr="Neumarkt in der Oberpfalz" es="Neumarkt in der Oberpfalz" it="Neumarkt in der Oberpfalz" nl="Neumarkt in der Oberpfalz">
+    <city jpn="ノイマルクト" eng="Neumarkt in der Oberpfalz" de="Neumarkt in der Oberpfalz" fr="Neumarkt in der Oberpfalz" es="Neumarkt in der Oberpfalz" it="Neumarkt in der Oberpfalz" nl="Neumarkt in der Oberpfalz">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>11.533336</longitude>
       <latitude>49.263836</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ネルトリンゲン" eng="Nördlingen" de="Nördlingen" fr="Nördlingen" es="Nördlingen" it="Nördlingen" nl="Nördlingen">
+    <city jpn="ネルトリンゲン" eng="Nördlingen" de="Nördlingen" fr="Nördlingen" es="Nördlingen" it="Nördlingen" nl="Nördlingen">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>10.458196</longitude>
       <latitude>48.824672</latitude>
@@ -12140,7 +12350,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="プファッフェンホーフェン・アン・デア・イルム" eng="Pfaffenhofen an der Ilm" de="Pfaffenhofen an der Ilm" fr="Pfaffenhofen an der Ilm" es="Pfaffenhofen an der Ilm" it="Pfaffenhofen an der Ilm" nl="Pfaffenhofen an der Ilm">
+    <city jpn="プファッフェンホーフェン・アン・デア・イルム" eng="Pfaffenhofen an der Ilm" de="Pfaffenhofen an der Ilm" fr="Pfaffenhofen an der Ilm" es="Pfaffenhofen an der Ilm" it="Pfaffenhofen an der Ilm" nl="Pfaffenhofen an der Ilm">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>11.494557</longitude>
       <latitude>48.625791</latitude>
@@ -12154,7 +12364,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ローテンブルク・オプ・デア・タウバー" eng="Rothenburg ob der Tauber" de="Rothenburg ob der Tauber" fr="Rothenburg ob der Tauber" es="Rothenburg ob der Tauber" it="Rothenburg ob der Tauber" nl="Rothenburg ob der Tauber">
+    <city jpn="ローテンブルク・オプ・デア・タウバー" eng="Rothenburg ob der Tauber" de="Rothenburg ob der Tauber" fr="Rothenburg ob der Tauber" es="Rothenburg ob der Tauber" it="Rothenburg ob der Tauber" nl="Rothenburg ob der Tauber">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>12.137406</longitude>
       <latitude>47.787463</latitude>
@@ -12175,7 +12385,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴァイデン・イン・デア・オーバープファルツ" eng="Weiden in der Oberpfalz" de="Weiden in der Oberpfalz" fr="Weiden in der Oberpfalz" es="Weiden in der Oberpfalz" it="Weiden in der Oberpfalz" nl="Weiden in der Oberpfalz">
+    <city jpn="ヴァイデン・イン・デア・オーバープファルツ" eng="Weiden in der Oberpfalz" de="Weiden in der Oberpfalz" fr="Weiden in der Oberpfalz" es="Weiden in der Oberpfalz" it="Weiden in der Oberpfalz" nl="Weiden in der Oberpfalz">
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>12.177568</longitude>
       <latitude>49.699737</latitude>
@@ -12211,48 +12421,48 @@
       <zoom2>3</zoom2>
     </city>
     <city jpn="フランクフルト (オーダー)" eng="Frankfurt (Oder)" de="Frankfurt (Oder)" fr="Francfort-sur-l'Oder" es="Fráncfort del Óder" it="Francoforte sull'Oder" nl="Frankfurt (Oder)">
-      <province jpn="ブランデンブルク州" eng="Brandenburg" de="Brandenburg" fr="Brandebourg" es="Brand	eburgo" it="Brandeburgo" nl="Brandenburg" />
+      <province jpn="ブランデンブルク州" eng="Brandenburg" de="Brandenburg" fr="Brandebourg" es="Brand eburgo" it="Brandeburgo" nl="Brandenburg" />
       <longitude>14.534912109375</longitude>
       <latitude>52.3333740234375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ノイルピーン" eng="Neuruppin" de="Neuruppin" fr="Neuruppin" es="Neuruppin" it="Neuruppin" nl="Neuruppin">
+    <city jpn="ノイルピーン" eng="Neuruppin" de="Neuruppin" fr="Neuruppin" es="Neuruppin" it="Neuruppin" nl="Neuruppin">
       <province jpn="ブランデンブルク州" eng="Brandenburg" de="Brandenburg" fr="Brandebourg" es="Brandeburgo" it="Brandeburgo" nl="Brandenburg" />
       <longitude>12.643103</longitude>
       <latitude>52.974904</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="オラニエンブルク" eng="Oranienburg" de="Oranienburg" fr="Oranienburg" es="Oranienburg" it="Oranienburg" nl="Oranienburg">
+    <city jpn="オラニエンブルク" eng="Oranienburg" de="Oranienburg" fr="Oranienburg" es="Oranienburg" it="Oranienburg" nl="Oranienburg">
       <province jpn="ブランデンブルク州" eng="Brandenburg" de="Brandenburg" fr="Brandebourg" es="Brandeburgo" it="Brandeburgo" nl="Brandenburg" />
       <longitude>13.179334</longitude>
       <latitude>52.882421</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="プレンツラウ" eng="Prenzlau" de="Prenzlau" fr="Prenzlau" es="Prenzlau" it="Prenzlau" nl="Prenzlau">
+    <city jpn="プレンツラウ" eng="Prenzlau" de="Prenzlau" fr="Prenzlau" es="Prenzlau" it="Prenzlau" nl="Prenzlau">
       <province jpn="ブランデンブルク州" eng="Brandenburg" de="Brandenburg" fr="Brandebourg" es="Brandeburgo" it="Brandeburgo" nl="Brandenburg" />
       <longitude>13.179334</longitude>
       <latitude>52.882421</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="シェーネフェルト" eng="Schönefeld" de="Schönefeld" fr="Schönefeld" es="Schönefeld" it="Schönefeld" nl="Schönefeld">
+    <city jpn="シェーネフェルト" eng="Schönefeld" de="Schönefeld" fr="Schönefeld" es="Schönefeld" it="Schönefeld" nl="Schönefeld">
       <province jpn="ブランデンブルク州" eng="Brandenburg" de="Brandenburg" fr="Brandebourg" es="Brandeburgo" it="Brandeburgo" nl="Brandenburg" />
       <longitude>13.540805</longitude>
       <latitude>52.313996</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="シュヴェット" eng="Schwedt" de="Schwedt" fr="Schwedt" es="Schwedt" it="Schwedt" nl="Schwedt">
+    <city jpn="シュヴェット" eng="Schwedt" de="Schwedt" fr="Schwedt" es="Schwedt" it="Schwedt" nl="Schwedt">
       <province jpn="ブランデンブルク州" eng="Brandenburg" de="Brandenburg" fr="Brandebourg" es="Brandeburgo" it="Brandeburgo" nl="Brandenburg" />
       <longitude>14.219766</longitude>
       <latitude>53.048192</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴィッテンベルゲ" eng="Wittenberge" de="Wittenberge" fr="Wittenberge" es="Wittenberge" it="Wittenberge" nl="Wittenberge">
+    <city jpn="ヴィッテンベルゲ" eng="Wittenberge" de="Wittenberge" fr="Wittenberge" es="Wittenberge" it="Wittenberge" nl="Wittenberge">
       <province jpn="ブランデンブルク州" eng="Brandenburg" de="Brandenburg" fr="Brandebourg" es="Brandeburgo" it="Brandeburgo" nl="Brandenburg" />
       <longitude>11.729568</longitude>
       <latitude>52.990533</latitude>
@@ -12266,21 +12476,21 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="フランクフルト・アム・マイン" eng="Frankfurt am Main" de="Frankfurt am Main" fr="Francfort-sur-le-Main" es="Fráncfort del Meno" it="Francoforte sul Meno" nl="Frankfurt am Main">
+    <city jpn="フランクフルト・アム・マイン" eng="Frankfurt am Main" de="Frankfurt am Main" fr="Francfort-sur-le-Main" es="Fráncfort del Meno" it="Francoforte sul Meno" nl="Frankfurt am Main">
       <province jpn="ヘッセン州" eng="Hesse" de="Hessen" fr="Hesse" es="Hesse" it="Assia" nl="Hessen" />
       <longitude>8.6737060546875</longitude>
       <latitude>50.1031494140625</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="アルスフェルト" eng="Alsfeld" de="Alsfeld" fr="Alsfeld" es="Alsfeld" it="Alsfeld" nl="Alsfeld">
+    <city jpn="アルスフェルト" eng="Alsfeld" de="Alsfeld" fr="Alsfeld" es="Alsfeld" it="Alsfeld" nl="Alsfeld">
       <province jpn="ヘッセン州" eng="Hesse" de="Hessen" fr="Hesse" es="Hesse" it="Assia" nl="Hessen" />
       <longitude>9.341318</longitude>
       <latitude>50.740469</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="アルスフェルト" eng="Bad Hersfeld" de="Bad Hersfeld" fr="Bad Hersfeld" es="Bad Hersfeld" it="Bad Hersfeld" nl="Bad Hersfeld">
+    <city jpn="アルスフェルト" eng="Bad Hersfeld" de="Bad Hersfeld" fr="Bad Hersfeld" es="Bad Hersfeld" it="Bad Hersfeld" nl="Bad Hersfeld">
       <province jpn="ヘッセン州" eng="Hesse" de="Hessen" fr="Hesse" es="Hesse" it="Assia" nl="Hessen" />
       <longitude>9.615386</longitude>
       <latitude>50.861295</latitude>
@@ -12301,14 +12511,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="マールブルク" eng="Marburg" de="Marburg" fr="Marbourg" es="Marburgo" it="Marburgo" nl="Marburg">
+    <city jpn="マールブルク" eng="Marburg" de="Marburg" fr="Marbourg" es="Marburgo" it="Marburgo" nl="Marburg">
       <province jpn="ヘッセン州" eng="Hesse" de="Hessen" fr="Hesse" es="Hesse" it="Assia" nl="Hessen" />
       <longitude>8.821176</longitude>
       <latitude>50.792482</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴィースバーデン" eng="Wiesbaden" de="Wiesbaden" fr="Wiesbaden" es="Wiesbaden" it="Wiesbaden" nl="Wiesbaden">
+    <city jpn="ヴィースバーデン" eng="Wiesbaden" de="Wiesbaden" fr="Wiesbaden" es="Wiesbaden" it="Wiesbaden" nl="Wiesbaden">
       <province jpn="ヘッセン州" eng="Hesse" de="Hessen" fr="Hesse" es="Hesse" it="Assia" nl="Hessen" />
       <longitude>8.141069</longitude>
       <latitude>50.177161</latitude>
@@ -12329,7 +12539,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="グライフスヴァルト" eng="Greifswald" de="Greifswald" fr="Greifswald" es="Greifswald" it="Greifswald" nl="Greifswald">
+    <city jpn="グライフスヴァルト" eng="Greifswald" de="Greifswald" fr="Greifswald" es="Greifswald" it="Greifswald" nl="Greifswald">
       <province jpn="メクレンブルク・フォアポンメルン州" eng="Mecklenburg-Western Pomerania" de="Mecklenburg-Vorpommern" fr="Mecklembourg-Poméranie occidentale" es="Mecklemburgo-Pomerania Occidental" it="Meclemburgo-Pomerania Occidentale" nl="Mecklenburg-Voor-Pommeren" />
       <longitude>13.459723</longitude>
       <latitude>54.082138</latitude>
@@ -12343,7 +12553,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="パルヒム" eng="Parchim" de="Parchim" fr="Parchim" es="Parchim" it="Parchim" nl="Parchim">
+    <city jpn="パルヒム" eng="Parchim" de="Parchim" fr="Parchim" es="Parchim" it="Parchim" nl="Parchim">
       <province jpn="メクレンブルク・フォアポンメルン州" eng="Mecklenburg-Western Pomerania" de="Mecklenburg-Vorpommern" fr="Mecklembourg-Poméranie occidentale" es="Mecklemburgo-Pomerania Occidental" it="Meclemburgo-Pomerania Occidentale" nl="Mecklenburg-Voor-Pommeren" />
       <longitude>11.840117</longitude>
       <latitude>53.403287</latitude>
@@ -12364,14 +12574,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴァーレン" eng="Waren an der Müritz" de="Waren an der Müritz" fr="Waren" es="Waren" it="Waren" nl="Waren an der Müritz">
+    <city jpn="ヴァーレン" eng="Waren an der Müritz" de="Waren an der Müritz" fr="Waren" es="Waren" it="Waren" nl="Waren an der Müritz">
       <province jpn="メクレンブルク・フォアポンメルン州" eng="Mecklenburg-Western Pomerania" de="Mecklenburg-Vorpommern" fr="Mecklembourg-Poméranie occidentale" es="Mecklemburgo-Pomerania Occidental" it="Meclemburgo-Pomerania Occidentale" nl="Mecklenburg-Voor-Pommeren" />
       <longitude>12.691128</longitude>
       <latitude>53.512048</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴィスマール" eng="Wismar" de="Wismar" fr="Wismar" es="Wismar" it="Wismar" nl="Wismar">
+    <city jpn="ヴィスマール" eng="Wismar" de="Wismar" fr="Wismar" es="Wismar" it="Wismar" nl="Wismar">
       <province jpn="メクレンブルク・フォアポンメルン州" eng="Mecklenburg-Western Pomerania" de="Mecklenburg-Vorpommern" fr="Mecklembourg-Poméranie occidentale" es="Mecklemburgo-Pomerania Occidental" it="Meclemburgo-Pomerania Occidentale" nl="Mecklenburg-Voor-Pommeren" />
       <longitude>11.498233</longitude>
       <latitude>53.888605</latitude>
@@ -12392,39 +12602,39 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ブレーマーハーフェン" eng="Bremerhaven" de="Bremerhaven" fr="Bremerhaven" es="Bremerhaven" it="Bremerhaven" nl="Bremerhaven">
+    <city jpn="ブレーマーハーフェン" eng="Bremerhaven" de="Bremerhaven" fr="Bremerhaven" es="Bremerhaven" it="Bremerhaven" nl="Bremerhaven">
       <province jpn="ニーダーザクセン州" eng="Lower Saxony" de="Niedersachsen" fr="Basse-Saxe" es="Baja Sajonia" it="Bassa Sassonia" nl="Nedersaksen" />
       <longitude>8.528043</longitude>
       <latitude>53.602738</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ブーフホルツ" eng="Buchholz in der Nordheide" de="Buchholz in der Nordheide" fr="Buchholz in der Nordheide" es="Buchholz in der Nordheide" it="Buchholz in der Nordheide" nl="Buchholz in der Nordheide">
+    <city jpn="ブーフホルツ" eng="Buchholz in der Nordheide" de="Buchholz in der Nordheide" fr="Buchholz in der Nordheide" es="Buchholz in der Nordheide" it="Buchholz in der Nordheide" nl="Buchholz in der Nordheide">
       <province jpn="ニーダーザクセン州" eng="Lower Saxony" de="Niedersachsen" fr="Basse-Saxe" es="Baja Sajonia" it="Bassa Sassonia" nl="Nedersaksen" />
       <longitude>9.827577</longitude>
       <latitude>53.282723</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ツェレ" eng="Celle" de="Celle" fr="Celle" es="Celle" it="Celle" nl="Celle">
+    <city jpn="ツェレ" eng="Celle" de="Celle" fr="Celle" es="Celle" it="Celle" nl="Celle">
       <province jpn="ニーダーザクセン州" eng="Lower Saxony" de="Niedersachsen" fr="Basse-Saxe" es="Baja Sajonia" it="Bassa Sassonia" nl="Nedersaksen" />
       <longitude>10.163615</longitude>
       <latitude>52.717309</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="クロッペンブルク" eng="Cloppenburg" de="Cloppenburg" fr="Cloppenburg" es="Cloppenburg" it="Cloppenburg" nl="Cloppenburg">
+    <city jpn="クロッペンブルク" eng="Cloppenburg" de="Cloppenburg" fr="Cloppenburg" es="Cloppenburg" it="Cloppenburg" nl="Cloppenburg">
       <province jpn="ニーダーザクセン州" eng="Lower Saxony" de="Niedersachsen" fr="Basse-Saxe" es="Baja Sajonia" it="Bassa Sassonia" nl="Nedersaksen" />
       <longitude>8.009427</longitude>
-      <latitude>7.969100</latitude>
+      <latitude>7.9691</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="エムデン" eng="Emden" de="Emden" fr="Emden" es="Emden" it="Emden" nl="Emden">
+    <city jpn="エムデン" eng="Emden" de="Emden" fr="Emden" es="Emden" it="Emden" nl="Emden">
       <province jpn="ニーダーザクセン州" eng="Lower Saxony" de="Niedersachsen" fr="Basse-Saxe" es="Baja Sajonia" it="Bassa Sassonia" nl="Nedersaksen" />
       <longitude>7.261228</longitude>
       <latitude>53.303626</latitude>
-      <zoom1>1</zoom1>	
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ゲッティンゲン" eng="Göttingen" de="Göttingen" fr="Göttingen" es="Gotinga" it="Gottinga" nl="Göttingen">
@@ -12434,28 +12644,28 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヒルデスハイム" eng="Hildesheim" de="Hildesheim" fr="Hildesheim" es="Hildesheim" it="Hildesheim" nl="Hildesheim">
+    <city jpn="ヒルデスハイム" eng="Hildesheim" de="Hildesheim" fr="Hildesheim" es="Hildesheim" it="Hildesheim" nl="Hildesheim">
       <province jpn="ニーダーザクセン州" eng="Lower Saxony" de="Niedersachsen" fr="Basse-Saxe" es="Baja Sajonia" it="Bassa Sassonia" nl="Nedersaksen" />
       <longitude>9.941253</longitude>
       <latitude>52.120209</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="リューネブルク" eng="Lüneburg" de="Lüneburg" fr="Lunebourg" es="Luneburgo" it="Luneburgo" nl="Lüneburg">
+    <city jpn="リューネブルク" eng="Lüneburg" de="Lüneburg" fr="Lunebourg" es="Luneburgo" it="Luneburgo" nl="Lüneburg">
       <province jpn="ニーダーザクセン州" eng="Lower Saxony" de="Niedersachsen" fr="Basse-Saxe" es="Baja Sajonia" it="Bassa Sassonia" nl="Nedersaksen" />
       <longitude>10.504353</longitude>
       <latitude>53.238389</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ニーンブルク" eng="Nienburg" de="Nienburg" fr="Nienburg" es="Nienburg" it="Nienburg" nl="Nienburg">
+    <city jpn="ニーンブルク" eng="Nienburg" de="Nienburg" fr="Nienburg" es="Nienburg" it="Nienburg" nl="Nienburg">
       <province jpn="ニーダーザクセン州" eng="Lower Saxony" de="Niedersachsen" fr="Basse-Saxe" es="Baja Sajonia" it="Bassa Sassonia" nl="Nedersaksen" />
       <longitude>9.200597</longitude>
       <latitude>52.620348</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ノルデン" eng="Norden" de="Norden" fr="Norden" es="Norden" it="Norden" nl="Norden">
+    <city jpn="ノルデン" eng="Norden" de="Norden" fr="Norden" es="Norden" it="Norden" nl="Norden">
       <province jpn="ニーダーザクセン州" eng="Lower Saxony" de="Niedersachsen" fr="Basse-Saxe" es="Baja Sajonia" it="Bassa Sassonia" nl="Nedersaksen" />
       <longitude>7.116786</longitude>
       <latitude>53.598182</latitude>
@@ -12483,7 +12693,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="フェヒタ" eng="Vechta" de="Vechta" fr="Vechta" es="Vechta" it="Vechta" nl="Vechta">
+    <city jpn="フェヒタ" eng="Vechta" de="Vechta" fr="Vechta" es="Vechta" it="Vechta" nl="Vechta">
       <province jpn="ニーダーザクセン州" eng="Lower Saxony" de="Niedersachsen" fr="Basse-Saxe" es="Baja Sajonia" it="Bassa Sassonia" nl="Nedersaksen" />
       <longitude>8.313657</longitude>
       <latitude>52.685255</latitude>
@@ -12497,7 +12707,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴォルフスブルク" eng="Wolfsburg" de="Wolfsburg" fr="Wolfsbourg" es="Wolfsburgo" it="Wolfsburg" nl="Wolfsburg">
+    <city jpn="ヴォルフスブルク" eng="Wolfsburg" de="Wolfsburg" fr="Wolfsbourg" es="Wolfsburgo" it="Wolfsburg" nl="Wolfsburg">
       <province jpn="ニーダーザクセン州" eng="Lower Saxony" de="Niedersachsen" fr="Basse-Saxe" es="Baja Sajonia" it="Bassa Sassonia" nl="Nedersaksen" />
       <longitude>8.1024169921875</longitude>
       <latitude>53.514404296875</latitude>
@@ -12518,9 +12728,9 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ベルギッシュ・グラートバッハ" eng="Bergisch Gladbach" de="Bergisch Gladbach" fr="Bergisch Gladbach" es="Bergisch Gladbach" it="Bergisch Gladbach" nl="Bergisch Gladbach">
+    <city jpn="ベルギッシュ・グラートバッハ" eng="Bergisch Gladbach" de="Bergisch Gladbach" fr="Bergisch Gladbach" es="Bergisch Gladbach" it="Bergisch Gladbach" nl="Bergisch Gladbach">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
-      <longitude>7.289920</longitude>
+      <longitude>7.28992</longitude>
       <latitude>50.990025</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
@@ -12539,14 +12749,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ブリーロン" eng="Brilon" de="Brilon" fr="Brilon" es="Brilon" it="Brilon" nl="Brilon">
+    <city jpn="ブリーロン" eng="Brilon" de="Brilon" fr="Brilon" es="Brilon" it="Brilon" nl="Brilon">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>8.645034</longitude>
       <latitude>51.399004</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="デトモルト" eng="Detmold" de="Detmold" fr="Detmold" es="Detmold" it="Detmold" nl="Detmold">
+    <city jpn="デトモルト" eng="Detmold" de="Detmold" fr="Detmold" es="Detmold" it="Detmold" nl="Detmold">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>8.919752</longitude>
       <latitude>51.932985</latitude>
@@ -12560,14 +12770,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="デュースブルク" eng="Duisburg" de="Duisburg" fr="Duisburg" es="Duisburg" it="Duisburg" nl="Duisburg">
+    <city jpn="デュースブルク" eng="Duisburg" de="Duisburg" fr="Duisburg" es="Duisburg" it="Duisburg" nl="Duisburg">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>6.660382</longitude>
       <latitude>51.418836</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="デューレン" eng="Düren" de="Düren" fr="Düren" es="Düren" it="Düren" nl="Düren">
+    <city jpn="デューレン" eng="Düren" de="Düren" fr="Düren" es="Düren" it="Düren" nl="Düren">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>6.510027</longitude>
       <latitude>50.793786</latitude>
@@ -12581,42 +12791,42 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="オイスキルヒェン" eng="Euskirchen" de="Euskirchen" fr="Euskirchen" es="Euskirchen" it="Euskirchen" nl="Euskirchen">
+    <city jpn="オイスキルヒェン" eng="Euskirchen" de="Euskirchen" fr="Euskirchen" es="Euskirchen" it="Euskirchen" nl="Euskirchen">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>6.710018</longitude>
-      <latitude>50.635430</latitude>
+      <latitude>50.63543</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ゲルゼンキルヒェン" eng="Gelsenkirchen" de="Gelsenkirchen" fr="Gelsenkirchen" es="Gelsenkirchen" it="Gelsenkirchen" nl="Gelsenkirchen">
+    <city jpn="ゲルゼンキルヒェン" eng="Gelsenkirchen" de="Gelsenkirchen" fr="Gelsenkirchen" es="Gelsenkirchen" it="Gelsenkirchen" nl="Gelsenkirchen">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
-      <longitude>7.059710</longitude>
+      <longitude>7.05971</longitude>
       <latitude>51.563394</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="グローナウ" eng="Gronau" de="Gronau" fr="Gronau" es="Gronau" it="Gronau" nl="Gronau">
+    <city jpn="グローナウ" eng="Gronau" de="Gronau" fr="Gronau" es="Gronau" it="Gronau" nl="Gronau">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>7.011746</longitude>
       <latitude>52.215592</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ギュータースロー" eng="Gütersloh" de="Gütersloh" fr="Gütersloh" es="Gütersloh" it="Gütersloh" nl="Gütersloh">
+    <city jpn="ギュータースロー" eng="Gütersloh" de="Gütersloh" fr="Gütersloh" es="Gütersloh" it="Gütersloh" nl="Gütersloh">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>8.371349</longitude>
       <latitude>51.882146</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ハーゲン" eng="Hagen" de="Hagen" fr="Hagen" es="Hagen" it="Hagen" nl="Hagen">
+    <city jpn="ハーゲン" eng="Hagen" de="Hagen" fr="Hagen" es="Hagen" it="Hagen" nl="Hagen">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>7.570867</longitude>
       <latitude>51.367742</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ハム" eng="Hamm" de="Hamm" fr="Hamm" es="Hamm" it="Hamm" nl="Hamm">
+    <city jpn="ハム" eng="Hamm" de="Hamm" fr="Hamm" es="Hamm" it="Hamm" nl="Hamm">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>7.854134</longitude>
       <latitude>51.671155</latitude>
@@ -12630,14 +12840,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="レーヴァークーゼン" eng="Leverkusen" de="Leverkusen" fr="Leverkusen" es="Leverkusen" it="Leverkusen" nl="Leverkusen">
+    <city jpn="レーヴァークーゼン" eng="Leverkusen" de="Leverkusen" fr="Leverkusen" es="Leverkusen" it="Leverkusen" nl="Leverkusen">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>7.026084</longitude>
       <latitude>51.047827</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="リップシュタット" eng="Lippstadt" de="Lippstadt" fr="Lippstadt" es="Lippstadt" it="Lippstadt" nl="Lippstadt">
+    <city jpn="リップシュタット" eng="Lippstadt" de="Lippstadt" fr="Lippstadt" es="Lippstadt" it="Lippstadt" nl="Lippstadt">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>8.336058</longitude>
       <latitude>51.646702</latitude>
@@ -12658,7 +12868,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="パーダーボルン" eng="Paderborn" de="Paderborn" fr="Paderborn" es="Paderborn" it="Paderborn" nl="Paderborn">
+    <city jpn="パーダーボルン" eng="Paderborn" de="Paderborn" fr="Paderborn" es="Paderborn" it="Paderborn" nl="Paderborn">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>8.772172</longitude>
       <latitude>51.706814</latitude>
@@ -12679,14 +12889,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ゾーリンゲン" eng="Solingen" de="Solingen" fr="Solingen" es="Solingen" it="Solingen" nl="Solingen">
+    <city jpn="ゾーリンゲン" eng="Solingen" de="Solingen" fr="Solingen" es="Solingen" it="Solingen" nl="Solingen">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>7.074788</longitude>
       <latitude>51.148268</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴッパータール" eng="Wuppertal" de="Wuppertal" fr="Wuppertal" es="Wuppertal" it="Wuppertal" nl="Wuppertal">
+    <city jpn="ヴッパータール" eng="Wuppertal" de="Wuppertal" fr="Wuppertal" es="Wuppertal" it="Wuppertal" nl="Wuppertal">
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>7.343005</longitude>
       <latitude>51.254422</latitude>
@@ -12700,21 +12910,21 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="バート・クロイツナハ" eng="Bad Kreuznach" de="Bad Kreuznach" fr="Bad Kreuznach" es="Bad Kreuznach" it="Bad Kreuznach" nl="Bad Kreuznach">
+    <city jpn="バート・クロイツナハ" eng="Bad Kreuznach" de="Bad Kreuznach" fr="Bad Kreuznach" es="Bad Kreuznach" it="Bad Kreuznach" nl="Bad Kreuznach">
       <province jpn="ラインラント・ファルツ州" eng="Rhineland-Palatinate" de="Rheinland-Pfalz" fr="Rhénanie-Palatinat" es="Renania-Palatinado" it="Renania-Palatinato" nl="Rijnland-Palts" />
       <longitude>7.834584</longitude>
       <latitude>49.825117</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="コッヘム" eng="Cochem" de="Cochem" fr="Cochem" es="Cochem" it="Cochem" nl="Cochem">
+    <city jpn="コッヘム" eng="Cochem" de="Cochem" fr="Cochem" es="Cochem" it="Cochem" nl="Cochem">
       <province jpn="ラインラント・ファルツ州" eng="Rhineland-Palatinate" de="Rheinland-Pfalz" fr="Rhénanie-Palatinat" es="Renania-Palatinado" it="Renania-Palatinato" nl="Rijnland-Palts" />
       <longitude>7.131413</longitude>
       <latitude>50.129248</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ルートヴィヒスハーフェン・アム・ライン" eng="Ludwigshafen am Rhein" de="Ludwigshafen am Rhein" fr="Port-Louis-sur-le-Rhin" es="Puerto de Luis del Rin" it="Porto di Ludovico sul Reno" nl="Ludwigshafen am Rhein">
+    <city jpn="ルートヴィヒスハーフェン・アム・ライン" eng="Ludwigshafen am Rhein" de="Ludwigshafen am Rhein" fr="Port-Louis-sur-le-Rhin" es="Puerto de Luis del Rin" it="Porto di Ludovico sul Reno" nl="Ludwigshafen am Rhein">
       <province jpn="ラインラント・ファルツ州" eng="Rhineland-Palatinate" de="Rheinland-Pfalz" fr="Rhénanie-Palatinat" es="Renania-Palatinado" it="Renania-Palatinato" nl="Rijnland-Palts" />
       <longitude>8.261689</longitude>
       <latitude>49.573508</latitude>
@@ -12735,7 +12945,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	 <city jpn="ノイシュタット・アン・デア・ヴァインシュトラーセ" eng="Neustadt an der Weinstraße" de="Neustadt an der Weinstraße" fr="Neustadt an der Weinstraße" es="Neustadt an der Weinstraße" it="Neustadt an der Weinstraße" nl="Neustadt an der Weinstraße">
+    <city jpn="ノイシュタット・アン・デア・ヴァインシュトラーセ" eng="Neustadt an der Weinstraße" de="Neustadt an der Weinstraße" fr="Neustadt an der Weinstraße" es="Neustadt an der Weinstraße" it="Neustadt an der Weinstraße" nl="Neustadt an der Weinstraße">
       <province jpn="ラインラント・ファルツ州" eng="Rhineland-Palatinate" de="Rheinland-Pfalz" fr="Rhénanie-Palatinat" es="Renania-Palatinado" it="Renania-Palatinato" nl="Rijnland-Palts" />
       <longitude>8.034527</longitude>
       <latitude>49.301822</latitude>
@@ -12749,7 +12959,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="シュパイアー" eng="Speyer" de="Speyer" fr="Speyer" es="Speyer" it="Speyer" nl="Speyer">
+    <city jpn="シュパイアー" eng="Speyer" de="Speyer" fr="Speyer" es="Speyer" it="Speyer" nl="Speyer">
       <province jpn="ラインラント・ファルツ州" eng="Rhineland-Palatinate" de="Rheinland-Pfalz" fr="Rhénanie-Palatinat" es="Renania-Palatinado" it="Renania-Palatinato" nl="Rijnland-Palts" />
       <longitude>8.440936</longitude>
       <latitude>49.285946</latitude>
@@ -12763,16 +12973,16 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="メルツィヒ" eng="Merzig" de="Merzig" fr="Merzig" es="Merzig" it="Merzig" nl="Merzig">
+    <city jpn="メルツィヒ" eng="Merzig" de="Merzig" fr="Merzig" es="Merzig" it="Merzig" nl="Merzig">
       <province jpn="ザールラント州" eng="Saarland" de="Saarland" fr="Sarre" es="Sarre" it="Saarland" nl="Saarland" />
       <longitude>6.632919</longitude>
       <latitude>49.437032</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ノインキルヒェン" eng="Neunkirchen" de="Neunkirchen" fr="Neunkirchen" es="Neunkirchen" it="Neunkirchen" nl="Neunkirchen">
+    <city jpn="ノインキルヒェン" eng="Neunkirchen" de="Neunkirchen" fr="Neunkirchen" es="Neunkirchen" it="Neunkirchen" nl="Neunkirchen">
       <province jpn="ザールラント州" eng="Saarland" de="Saarland" fr="Sarre" es="Sarre" it="Saarland" nl="Saarland" />
-      <longitude>7.249170</longitude>
+      <longitude>7.24917</longitude>
       <latitude>49.351818</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
@@ -12784,14 +12994,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="アンベルク・ブッフホルツ" eng="Annaberg-Buchholz" de="Annaberg-Buchholz" fr="Annaberg-Buchholz" es="Annaberg-Buchholz" it="Annaberg-Buchholz" nl="Annaberg-Buchholz">
+    <city jpn="アンベルク・ブッフホルツ" eng="Annaberg-Buchholz" de="Annaberg-Buchholz" fr="Annaberg-Buchholz" es="Annaberg-Buchholz" it="Annaberg-Buchholz" nl="Annaberg-Buchholz">
       <province jpn="ザクセン州" eng="Saxony" de="Sachsen" fr="Saxe" es="Sajonia" it="Sassonia" nl="Saksen" />
       <longitude>13.045778</longitude>
       <latitude>50.563513</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="バウツェン" eng="Bautzen" de="Bautzen" fr="Bautzen" es="Bautzen" it="Bautzen" nl="Bautzen">
+    <city jpn="バウツェン" eng="Bautzen" de="Bautzen" fr="Bautzen" es="Bautzen" it="Bautzen" nl="Bautzen">
       <province jpn="ザクセン州" eng="Saxony" de="Sachsen" fr="Saxe" es="Sajonia" it="Sassonia" nl="Saksen" />
       <longitude>14.453576</longitude>
       <latitude>51.175916</latitude>
@@ -12805,14 +13015,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="フライベルク" eng="Freiberg" de="Freiberg" fr="Freiberg" es="Freiberg" it="Freiberg" nl="Freiberg">
+    <city jpn="フライベルク" eng="Freiberg" de="Freiberg" fr="Freiberg" es="Freiberg" it="Freiberg" nl="Freiberg">
       <province jpn="ザクセン州" eng="Saxony" de="Sachsen" fr="Saxe" es="Sajonia" it="Sassonia" nl="Saksen" />
       <longitude>13.410774</longitude>
       <latitude>50.905075</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ホイエルスヴェルダ" eng="Hoyerswerda" de="Hoyerswerda" fr="Hoyerswerda" es="Hoyerswerda" it="Hoyerswerda" nl="Hoyerswerda">
+    <city jpn="ホイエルスヴェルダ" eng="Hoyerswerda" de="Hoyerswerda" fr="Hoyerswerda" es="Hoyerswerda" it="Hoyerswerda" nl="Hoyerswerda">
       <province jpn="ザクセン州" eng="Saxony" de="Sachsen" fr="Saxe" es="Sajonia" it="Sassonia" nl="Saksen" />
       <longitude>14.281047</longitude>
       <latitude>51.425627</latitude>
@@ -12826,28 +13036,28 @@
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ピルナ" eng="Pirna" de="Pirna" fr="Pirna" es="Pirna" it="Pirna" nl="Pirna">
+    <city jpn="ピルナ" eng="Pirna" de="Pirna" fr="Pirna" es="Pirna" it="Pirna" nl="Pirna">
+      <province jpn="ザクセン州" eng="Saxony" de="Sachsen" fr="Saxe" es="Sajonia" it="Sassonia" nl="Saksen" />
+      <longitude>13.948448</longitude>
+      <latitude>50.937923</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="プラウエン" eng="Plauen" de="Plauen" fr="Plauen" es="Plauen" it="Plauen" nl="Plauen">
       <province jpn="ザクセン州" eng="Saxony" de="Sachsen" fr="Saxe" es="Sajonia" it="Sassonia" nl="Saksen" />
       <longitude>12.163769</longitude>
       <latitude>50.489793</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="プラウエン" eng="Plauen" de="Plauen" fr="Plauen" es="Plauen" it="Plauen" nl="Plauen">
-      <province jpn="ザクセン州" eng="Saxony" de="Sachsen" fr="Saxe" es="Sajonia" it="Sassonia" nl="Saksen" />
-      <longitude>12.163769</longitude>
-      <latitude>50.489793</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="リーザ" eng="Riesa" de="Riesa" fr="Riesa" es="Riesa" it="Riesa" nl="Riesa">
+    <city jpn="リーザ" eng="Riesa" de="Riesa" fr="Riesa" es="Riesa" it="Riesa" nl="Riesa">
       <province jpn="ザクセン州" eng="Saxony" de="Sachsen" fr="Saxe" es="Sajonia" it="Sassonia" nl="Saksen" />
       <longitude>13.239494</longitude>
       <latitude>51.303352</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ツヴィッカウ" eng="Zwickau" de="Zwickau" fr="Zwickau" es="Zwickau" it="Zwickau" nl="Zwickau">
+    <city jpn="ツヴィッカウ" eng="Zwickau" de="Zwickau" fr="Zwickau" es="Zwickau" it="Zwickau" nl="Zwickau">
       <province jpn="ザクセン州" eng="Saxony" de="Sachsen" fr="Saxe" es="Sajonia" it="Sassonia" nl="Saksen" />
       <longitude>12.401253</longitude>
       <latitude>50.669946</latitude>
@@ -12861,14 +13071,14 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ベルンブルク" eng="Bernburg" de="Bernburg" fr="Bernbourg" es="Bernburgo" it="Bernburgo" nl="Bernburg">
+    <city jpn="ベルンブルク" eng="Bernburg" de="Bernburg" fr="Bernbourg" es="Bernburgo" it="Bernburgo" nl="Bernburg">
       <province jpn="ザクセン・アンハルト州" eng="Saxony-Anhalt" de="Sachsen-Anhalt" fr="Saxe-Anhalt" es="Sajonia-Anhalt" it="Sassonia-Anhalt" nl="Saksen-Anhalt" />
       <longitude>11.667997</longitude>
       <latitude>51.794102</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ビッターフェルト・ヴォルフェン" eng="Bitterfeld-Wolfen" de="Bitterfeld-Wolfen" fr="Bitterfeld-Wolfen" es="Bitterfeld-Wolfen" it="Bitterfeld-Wolfen" nl="Bitterfeld-Wolfen">
+    <city jpn="ビッターフェルト・ヴォルフェン" eng="Bitterfeld-Wolfen" de="Bitterfeld-Wolfen" fr="Bitterfeld-Wolfen" es="Bitterfeld-Wolfen" it="Bitterfeld-Wolfen" nl="Bitterfeld-Wolfen">
       <province jpn="ザクセン・アンハルト州" eng="Saxony-Anhalt" de="Sachsen-Anhalt" fr="Saxe-Anhalt" es="Sajonia-Anhalt" it="Sassonia-Anhalt" nl="Saksen-Anhalt" />
       <longitude>12.262925</longitude>
       <latitude>51.677408</latitude>
@@ -12896,21 +13106,21 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="シュテンダール" eng="Stendal" de="Stendal" fr="Stendal" es="Stendal" it="Stendal" nl="Stendal">
+    <city jpn="シュテンダール" eng="Stendal" de="Stendal" fr="Stendal" es="Stendal" it="Stendal" nl="Stendal">
       <province jpn="ザクセン・アンハルト州" eng="Saxony-Anhalt" de="Sachsen-Anhalt" fr="Saxe-Anhalt" es="Sajonia-Anhalt" it="Sassonia-Anhalt" nl="Saksen-Anhalt" />
       <longitude>11.843554</longitude>
       <latitude>52.658967</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴァイセンフェルス" eng="Weißenfels" de="Weißenfels" fr="Weißenfels" es="Weißenfels" it="Weißenfels" nl="Weißenfels">
+    <city jpn="ヴァイセンフェルス" eng="Weißenfels" de="Weißenfels" fr="Weißenfels" es="Weißenfels" it="Weißenfels" nl="Weißenfels">
       <province jpn="ザクセン・アンハルト州" eng="Saxony-Anhalt" de="Sachsen-Anhalt" fr="Saxe-Anhalt" es="Sajonia-Anhalt" it="Sassonia-Anhalt" nl="Saksen-Anhalt" />
       <longitude>11.975487</longitude>
       <latitude>51.17773</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴィッテンベルク" eng="Wittenberg" de="Wittenberg" fr="Wittenberg" es="Wittenberg" it="Wittenberg" nl="Wittenberg">
+    <city jpn="ヴィッテンベルク" eng="Wittenberg" de="Wittenberg" fr="Wittenberg" es="Wittenberg" it="Wittenberg" nl="Wittenberg">
       <province jpn="ザクセン・アンハルト州" eng="Saxony-Anhalt" de="Sachsen-Anhalt" fr="Saxe-Anhalt" es="Sajonia-Anhalt" it="Sassonia-Anhalt" nl="Saksen-Anhalt" />
       <longitude>11.041259765625</longitude>
       <latitude>51.8829345703125</latitude>
@@ -12924,7 +13134,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="エッカーンフェルデ" eng="Eckernförde" de="Eckernförde" fr="Eckernförde" es="Eckernförde" it="Eckernförde" nl="Eckernförde">
+    <city jpn="エッカーンフェルデ" eng="Eckernförde" de="Eckernförde" fr="Eckernförde" es="Eckernförde" it="Eckernförde" nl="Eckernförde">
       <province jpn="シュレスビヒ・ホルシュタイン州" eng="Schleswig-Holstein" de="Schleswig-Holstein" fr="Schleswig-Holstein" es="Schleswig-Holstein" it="Schleswig-Holstein" nl="Sleeswijk-Holstein" />
       <longitude>9.855829</longitude>
       <latitude>54.466105</latitude>
@@ -12945,7 +13155,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="フースム" eng="Husum" de="Husum" fr="Husum" es="Husum" it="Husum" nl="Husum">
+    <city jpn="フースム" eng="Husum" de="Husum" fr="Husum" es="Husum" it="Husum" nl="Husum">
       <province jpn="シュレスビヒ・ホルシュタイン州" eng="Schleswig-Holstein" de="Schleswig-Holstein" fr="Schleswig-Holstein" es="Schleswig-Holstein" it="Schleswig-Holstein" nl="Sleeswijk-Holstein" />
       <longitude>9.049855</longitude>
       <latitude>54.522121</latitude>
@@ -12959,23 +13169,23 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ノイミュンスター" eng="Neumünster" de="Neumünster" fr="Neumünster" es="Neumünster" it="Neumünster" nl="Neumünster">
+    <city jpn="ノイミュンスター" eng="Neumünster" de="Neumünster" fr="Neumünster" es="Neumünster" it="Neumünster" nl="Neumünster">
       <province jpn="シュレスビヒ・ホルシュタイン州" eng="Schleswig-Holstein" de="Schleswig-Holstein" fr="Schleswig-Holstein" es="Schleswig-Holstein" it="Schleswig-Holstein" nl="Sleeswijk-Holstein" />
       <longitude>9.912371</longitude>
       <latitude>54.030982</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="レンズブルク" eng="Rendsburg" de="Rendsburg" fr="Rendsburg" es="Rendsburg" it="Rendsburg" nl="Rendsburg">
+    <city jpn="レンズブルク" eng="Rendsburg" de="Rendsburg" fr="Rendsburg" es="Rendsburg" it="Rendsburg" nl="Rendsburg">
       <province jpn="シュレスビヒ・ホルシュタイン州" eng="Schleswig-Holstein" de="Schleswig-Holstein" fr="Schleswig-Holstein" es="Schleswig-Holstein" it="Schleswig-Holstein" nl="Sleeswijk-Holstein" />
       <longitude>9.646288</longitude>
       <latitude>54.287688</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ヴィーク・アウフ・フェール" eng="Wyk auf Föhr" de="Wyk auf Föhr" fr="Wyk auf Föhr" es="Wyk auf Föhr" it="Wyk auf Föhr" nl="Wyk auf Föhr">
+    <city jpn="ヴィーク・アウフ・フェール" eng="Wyk auf Föhr" de="Wyk auf Föhr" fr="Wyk auf Föhr" es="Wyk auf Föhr" it="Wyk auf Föhr" nl="Wyk auf Föhr">
       <province jpn="シュレスビヒ・ホルシュタイン州" eng="Schleswig-Holstein" de="Schleswig-Holstein" fr="Schleswig-Holstein" es="Schleswig-Holstein" it="Schleswig-Holstein" nl="Sleeswijk-Holstein" />
-      <longitude>8.399070</longitude>
+      <longitude>8.39907</longitude>
       <latitude>54.716447</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
@@ -13001,23 +13211,23 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ミュールハウゼン" eng="Mühlhausen" de="Mühlhausen" fr="Mühlhausen" es="Mühlhausen" it="Mühlhausen" nl="Mühlhausen">
+    <city jpn="ミュールハウゼン" eng="Mühlhausen" de="Mühlhausen" fr="Mühlhausen" es="Mühlhausen" it="Mühlhausen" nl="Mühlhausen">
       <province jpn="テューリンゲン州" eng="Thuringia" de="Thüringen" fr="Thuringe" es="Turingia" it="Turingia" nl="Thüringen" />
       <longitude>10.503803</longitude>
       <latitude>51.205492</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ノルトハウゼン" eng="Nordhausen" de="Nordhausen" fr="Nordhausen" es="Nordhausen" it="Nordhausen" nl="Nordhausen">
+    <city jpn="ノルトハウゼン" eng="Nordhausen" de="Nordhausen" fr="Nordhausen" es="Nordhausen" it="Nordhausen" nl="Nordhausen">
       <province jpn="テューリンゲン州" eng="Thuringia" de="Thüringen" fr="Thuringe" es="Turingia" it="Turingia" nl="Thüringen" />
       <longitude>10.838729</longitude>
       <latitude>51.485352</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ザールフェルト" eng="Saalfeld" de="Saalfeld" fr="Saalfeld" es="Saalfeld" it="Saalfeld" nl="Saalfeld">
+    <city jpn="ザールフェルト" eng="Saalfeld" de="Saalfeld" fr="Saalfeld" es="Saalfeld" it="Saalfeld" nl="Saalfeld">
       <province jpn="テューリンゲン州" eng="Thuringia" de="Thüringen" fr="Thuringe" es="Turingia" it="Turingia" nl="Thüringen" />
-      <longitude>11.363490</longitude>
+      <longitude>11.36349</longitude>
       <latitude>50.635323</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
@@ -16920,7 +17130,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="バレンシア" eng="Valencia" de="Valencia" fr="Valence" es="València" it="Valencia" nl="Valencia">
+    <city jpn="バレンシア" eng="València" de="Valencia" fr="Valence" es="València" it="Valencia" nl="Valencia">
       <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.362548828125</longitude>
       <latitude>39.4683837890625</latitude>
@@ -20807,13 +21017,6 @@
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="大連" eng="Dalian" de="Dalian" fr="Dalian" es="Dalian" it="Dalian" nl="Dalian">
-      <province jpn="遼寧省" eng="Liaoning" de="Liaoning" fr="Liaoning" es="Liaoning" it="Liaoning" nl="Liaoning" />
-      <longitude>121.3330078125</longitude>
-      <latitude>38.748779296875</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="桂林" eng="Guilin" de="Guilin" fr="Guilin" es="Guilin" it="Guilin" nl="Guilin">
       <province jpn="広西チワン族自治区" eng="Guangxi-Zhuangzu" de="Guangxi" fr="Guangxi" es="Guangxi" it="Guangxi" nl="Guangxi" />
       <longitude>110.1983642578125</longitude>
@@ -21409,7 +21612,7 @@
       <name jpn="イエローナイフ" eng="Yellowknife" de="Yellowknife" fr="Yellowknife" es="Yellowknife" it="Yellowknife" nl="Yellowknife" />
     </city>
     <city>
-      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Territoire du Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
+      <province jpn="ヌナブト準州" eng="Nunavut" de="Nunavut" fr="Nunavut" es="Nunavut" it="Nunavut" nl="Nunavut" />
       <longitude>-68.5107421875</longitude>
       <latitude>63.7481689453125</latitude>
       <zoom1>7</zoom1>
