@@ -1861,35 +1861,35 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="アタワピスカト" eng="Attawapiskat" de="Attawapiskat" fr="Attawapiskat" es="Attawapiskat" it="Attawapiskat" nl="Attawapiskat">
+    <city jpn="アタワピスカト" eng="Attawapiskat" de="Attawapiskat" fr="Attawapiskat" es="Attawapiskat" it="Attawapiskat" nl="Attawapiskat">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-82.307546</longitude>
       <latitude>53.047528</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="バリー" eng="Barrie" de="Barrie" fr="Barrie" es="Barrie" it="Barrie" nl="Barrie">
+    <city jpn="バリー" eng="Barrie" de="Barrie" fr="Barrie" es="Barrie" it="Barrie" nl="Barrie">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-79.750245</longitude>
       <latitude>44.394654</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ドライデン" eng="Dryden" de="Dryden" fr="Dryden" es="Dryden" it="Dryden" nl="Dryden">
+    <city jpn="ドライデン" eng="Dryden" de="Dryden" fr="Dryden" es="Dryden" it="Dryden" nl="Dryden">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-92.598989</longitude>
       <latitude>49.655444</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="フォート・セバーン" eng="Fort Severn" de="Fort Severn" fr="Fort Severn" es="Fort Severn" it="Fort Severn" nl="Fort Severn">
+    <city jpn="フォート・セバーン" eng="Fort Severn" de="Fort Severn" fr="Fort Severn" es="Fort Severn" it="Fort Severn" nl="Fort Severn">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-87.751965</longitude>
       <latitude>56.245136</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="グリーンストーン" eng="Greenstone" de="Greenstone" fr="Greenstone" es="Greenstone" it="Greenstone" nl="Greenstone">
+    <city jpn="グリーンストーン" eng="Greenstone" de="Greenstone" fr="Greenstone" es="Greenstone" it="Greenstone" nl="Greenstone">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-87.414994</longitude>
       <latitude>49.717898</latitude>
@@ -1903,7 +1903,7 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ハースト" eng="Hearst" de="Hearst" fr="Hearst" es="Hearst" it="Hearst" nl="Hearst">
+    <city jpn="ハースト" eng="Hearst" de="Hearst" fr="Hearst" es="Hearst" it="Hearst" nl="Hearst">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-83.991452</longitude>
       <latitude>49.685826</latitude>
@@ -1938,21 +1938,21 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ミシサガ" eng="Mississauga" de="Mississauga" fr="Mississauga" es="Mississauga" it="Mississauga" nl="Mississauga">
+    <city jpn="ミシサガ" eng="Mississauga" de="Mississauga" fr="Mississauga" es="Mississauga" it="Mississauga" nl="Mississauga">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-79.680538</longitude>
       <latitude>43.421858</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ムースニー" eng="Moosonee" de="Moosonee" fr="Moosonee" es="Moosonee" it="Moosonee" nl="Moosonee">
+    <city jpn="ムースニー" eng="Moosonee" de="Moosonee" fr="Moosonee" es="Moosonee" it="Moosonee" nl="Moosonee">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-80.448561</longitude>
       <latitude>51.231037</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ニピゴン" eng="Nipigon" de="Nipigon" fr="Nipigon" es="Nipigon" it="Nipigon" nl="Nipigon">
+    <city jpn="ニピゴン" eng="Nipigon" de="Nipigon" fr="Nipigon" es="Nipigon" it="Nipigon" nl="Nipigon">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-88.147175</longitude>
       <latitude>48.975155</latitude>
@@ -1966,7 +1966,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="オーウェンサウンド" eng="Owen Sound" de="Owen Sound" fr="Owen Sound" es="Owen Sound" it="Owen Sound" nl="Owen Sound">
+    <city jpn="オーウェンサウンド" eng="Owen Sound" de="Owen Sound" fr="Owen Sound" es="Owen Sound" it="Owen Sound" nl="Owen Sound">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-80.958516</longitude>
       <latitude>44.565935</latitude>
@@ -1980,14 +1980,14 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ピーアナック" eng="Peawanuck" de="Peawanuck" fr="Peawanuck" es="Peawanuck" it="Peawanuck" nl="Peawanuck">
+    <city jpn="ピーアナック" eng="Peawanuck" de="Peawanuck" fr="Peawanuck" es="Peawanuck" it="Peawanuck" nl="Peawanuck">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
-      <longitude>-85.310250</longitude>
-      <latitude>54.925920</latitude>
+      <longitude>-85.31025</longitude>
+      <latitude>54.92592</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ピーターボロ" eng="Peterborough" de="Peterborough" fr="Peterborough" es="Peterborough" it="Peterborough" nl="Peterborough">
+    <city jpn="ピーターボロ" eng="Peterborough" de="Peterborough" fr="Peterborough" es="Peterborough" it="Peterborough" nl="Peterborough">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-78.285253</longitude>
       <latitude>44.397625</latitude>
@@ -2001,14 +2001,14 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="スー・ルックアウト" eng="Sioux Lookout" de="Sioux Lookout" fr="Sioux Lookout" es="Sioux Lookout" it="Sioux Lookout" nl="Sioux Lookout">
+    <city jpn="スー・ルックアウト" eng="Sioux Lookout" de="Sioux Lookout" fr="Sioux Lookout" es="Sioux Lookout" it="Sioux Lookout" nl="Sioux Lookout">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-81.0791015625</longitude>
       <latitude>46.5325927734375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="スムース・ロック・フォールズ" eng="Smooth Rock Falls" de="Smooth Rock Falls" fr="Smooth Rock Falls" es="Smooth Rock Falls" it="Smooth Rock Falls" nl="Smooth Rock Falls">
+    <city jpn="スムース・ロック・フォールズ" eng="Smooth Rock Falls" de="Smooth Rock Falls" fr="Smooth Rock Falls" es="Smooth Rock Falls" it="Smooth Rock Falls" nl="Smooth Rock Falls">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-91.803393</longitude>
       <latitude>50.123796</latitude>
@@ -2022,14 +2022,14 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="サドベリー" eng="Sudbury" de="Sudbury" fr="Sudbury" es="Sudbury" it="Sudbury" nl="Sudbury">
+    <city jpn="サドベリー" eng="Sudbury" de="Sudbury" fr="Sudbury" es="Sudbury" it="Sudbury" nl="Sudbury">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-81.0791015625</longitude>
       <latitude>46.5325927734375</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ティミスカミングショアーズ" eng="Temiskaming Shores" de="Temiskaming Shores" fr="Temiskaming Shores" es="Temiskaming Shores" it="Temiskaming Shores" nl="Temiskaming Shores">
+    <city jpn="ティミスカミングショアーズ" eng="Temiskaming Shores" de="Temiskaming Shores" fr="Temiskaming Shores" es="Temiskaming Shores" it="Temiskaming Shores" nl="Temiskaming Shores">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-79.838619</longitude>
       <latitude>47.743595</latitude>
@@ -2057,7 +2057,7 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ワナミン・レイク" eng="Wunnumin Lake" de="Wunnumin Lake" fr="Wunnumin Lake" es="Wunnumin Lake" it="Wunnumin Lake" nl="Wunnumin Lake">
+    <city jpn="ワナミン・レイク" eng="Wunnumin Lake" de="Wunnumin Lake" fr="Wunnumin Lake" es="Wunnumin Lake" it="Wunnumin Lake" nl="Wunnumin Lake">
       <province jpn="オンタリオ州" eng="Ontario" de="Ontario" fr="Ontario" es="Ontario" it="Ontario" nl="Ontario" />
       <longitude>-89.363676</longitude>
       <latitude>52.865999</latitude>
@@ -2085,21 +2085,21 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ブルックス" eng="Brooks" de="Brooks" fr="Brooks" es="Brooks" it="Brooks" nl="Brooks">
+    <city jpn="ブルックス" eng="Brooks" de="Brooks" fr="Brooks" es="Brooks" it="Brooks" nl="Brooks">
       <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
       <longitude>-111.895275</longitude>
       <latitude>50.501801</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="カムローズ" eng="Camrose" de="Camrose" fr="Camrose" es="Camrose" it="Camrose" nl="Camrose">
+    <city jpn="カムローズ" eng="Camrose" de="Camrose" fr="Camrose" es="Camrose" it="Camrose" nl="Camrose">
       <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
       <longitude>-112.751884</longitude>
-      <latitude>52.965150</latitude>
+      <latitude>52.96515</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="フォート・マクマレー" eng="Fort McMurray" de="Fort McMurray" fr="Fort McMurray" es="Fort McMurray" it="Fort McMurray" nl="Fort McMurray">
+    <city jpn="フォート・マクマレー" eng="Fort McMurray" de="Fort McMurray" fr="Fort McMurray" es="Fort McMurray" it="Fort McMurray" nl="Fort McMurray">
       <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
       <longitude>-111.3848876953125</longitude>
       <latitude>56.7333984375</latitude>
@@ -2148,7 +2148,7 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ワバスカ・デスマレー" eng="Wabasca-Desmarais" de="Wabasca-Desmarais" fr="Wabasca-Desmarais" es="Wabasca-Desmarais" it="Wabasca-Desmarais" nl="Wabasca-Desmarais">
+    <city jpn="ワバスカ・デスマレー" eng="Wabasca-Desmarais" de="Wabasca-Desmarais" fr="Wabasca-Desmarais" es="Wabasca-Desmarais" it="Wabasca-Desmarais" nl="Wabasca-Desmarais">
       <province jpn="アルバータ州" eng="Alberta" de="Alberta" fr="Alberta" es="Alberta" it="Alberta" nl="Alberta" />
       <longitude>-113.759268</longitude>
       <latitude>55.967627</latitude>
@@ -2281,7 +2281,7 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="シャマタワ" eng="Shamattawa" de="Shamattawa" fr="Shamattawa" es="Shamattawa" it="Shamattawa" nl="Shamattawa">
+    <city jpn="シャマタワ" eng="Shamattawa" de="Shamattawa" fr="Shamattawa" es="Shamattawa" it="Shamattawa" nl="Shamattawa">
       <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" />
       <longitude>-97.855224609375</longitude>
       <latitude>55.7391357421875</latitude>
@@ -2302,7 +2302,7 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ウィンクラー" eng="Winkler" de="Winkler" fr="Winkler" es="Winkler" it="Winkler" nl="Winkler">
+    <city jpn="ウィンクラー" eng="Winkler" de="Winkler" fr="Winkler" es="Winkler" it="Winkler" nl="Winkler">
       <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" />
       <longitude>-98.009047</longitude>
       <latitude>49.122119</latitude>
@@ -2323,20 +2323,20 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="エドマンズトン" eng="Edmundston" de="Edmundston" fr="Edmundston" es="Edmundston" it="Edmundston" nl="Edmundston">
+    <city jpn="エドマンズトン" eng="Edmundston" de="Edmundston" fr="Edmundston" es="Edmundston" it="Edmundston" nl="Edmundston">
       <province jpn="ニュー・ブランズウィック州" eng="New Brunswick" de="Neubraunschweig" fr="Nouveau-Brunswick" es="Nuevo Brunswick" it="Nuovo Brunswick" nl="Nieuw-Brunswijk" />
       <longitude>-68.26904296875</longitude>
       <latitude>47.3895263671875</latitude>
       <zoom1>2</zoom1>
-      <zoom2>3</zoom2>	
+      <zoom2>3</zoom2>
     </city>
-	<city jpn="みらみち" eng="Miramichi" de="Miramichi" fr="Miramichi" es="Miramichi" it="Miramichi" nl="Miramichi">
-      <province jpn="ニュー・ブランズウィック州" eng="New Brunswick" de="Neubraunschweig" fr="Nouveau-Brunswick" es="Nuevo Brunswick" it="Nuovo Brunswick" nl="Nieuw-Brunswijk" />x
+    <city jpn="みらみち" eng="Miramichi" de="Miramichi" fr="Miramichi" es="Miramichi" it="Miramichi" nl="Miramichi">
+      <province jpn="ニュー・ブランズウィック州" eng="New Brunswick" de="Neubraunschweig" fr="Nouveau-Brunswick" es="Nuevo Brunswick" it="Nuovo Brunswick" nl="Nieuw-Brunswijk" />
       <longitude>-65.4620361328125</longitude>
       <latitude>46.99951171875</latitude>
       <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
+      <zoom2>3</zoom2>x
+      </city>
     <city jpn="セント・ジョン" eng="Saint John" de="Saint John" fr="Saint-John" es="Saint John" it="Saint John" nl="Saint John">
       <province jpn="ニュー・ブランズウィック州" eng="New Brunswick" de="Neubraunschweig" fr="Nouveau-Brunswick" es="Nuevo Brunswick" it="Nuovo Brunswick" nl="Nieuw-Brunswijk" />
       <longitude>-66.0333251953125</longitude>
@@ -2386,7 +2386,7 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="グランド・フォールズ＝ウィンザー" eng="Grand Falls-Windsor" de="Grand Falls-Windsor" fr="Grand Falls-Windsor" es="Grand Falls-Windsor" it="Grand Falls-Windsor" nl="Grand Falls-Windsor">
+    <city jpn="グランド・フォールズ＝ウィンザー" eng="Grand Falls-Windsor" de="Grand Falls-Windsor" fr="Grand Falls-Windsor" es="Grand Falls-Windsor" it="Grand Falls-Windsor" nl="Grand Falls-Windsor">
       <province jpn="ニューファンドランド州" eng="Newfoundland and Labrador" de="Neufundland und Labrador" fr="Terre-Neuve-et-Labrador" es="Terranova y Labrador" it="Terranova e Labrador" nl="Newfoundland en Labrador" />
       <longitude>-55.694919</longitude>
       <latitude>48.892071</latitude>
@@ -2484,14 +2484,14 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="アンティゴニッシュ" eng="Antigonish" de="Antigonish" fr="Antigonish" es="Antigonish" it="Antigonish" nl="Antigonish">
+    <city jpn="アンティゴニッシュ" eng="Antigonish" de="Antigonish" fr="Antigonish" es="Antigonish" it="Antigonish" nl="Antigonish">
       <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
       <longitude>-62.012939</longitude>
-      <latitude>45.596200</latitude>
+      <latitude>45.5962</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="カレドニア" eng="Caledonia" de="Caledonia" fr="Caledonia" es="Caledonia" it="Caledonia" nl="Caledonia">
+    <city jpn="カレドニア" eng="Caledonia" de="Caledonia" fr="Caledonia" es="Caledonia" it="Caledonia" nl="Caledonia">
       <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
       <longitude>-65.111275</longitude>
       <latitude>44.360034</latitude>
@@ -2505,11 +2505,11 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="インヴァネス" eng="Inverness" de="Inverness" fr="Inverness" es="Inverness" it="Inverness" nl="Inverness">
+    <city jpn="インヴァネス" eng="Inverness" de="Inverness" fr="Inverness" es="Inverness" it="Inverness" nl="Inverness">
       <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
       <longitude>-61.295469</longitude>
       <latitude>46.250517</latitude>
-      <zoom1>1	</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ルネンバーグ" eng="Lunenburg" de="Lunenburg" fr="Lunenburg" es="Lunenburg" it="Lunenburg" nl="Lunenburg">
@@ -2526,37 +2526,37 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ニューグラスゴー" eng="New Glasgow" de="New Glasgow" fr="New Glasgow" es="New Glasgow" it="New Glasgow" nl="New Glasgow">
+    <city jpn="ニューグラスゴー" eng="New Glasgow" de="New Glasgow" fr="New Glasgow" es="New Glasgow" it="New Glasgow" nl="New Glasgow">
       <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
       <longitude>-62.636482</longitude>
-      <latitude>45.548990</latitude>
+      <latitude>45.54899</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="パーズボロ" eng="Parrsboro" de="Parrsboro" fr="Parrsboro" es="Parrsboro" it="Parrsboro" nl="Parrsboro">
+    <city jpn="パーズボロ" eng="Parrsboro" de="Parrsboro" fr="Parrsboro" es="Parrsboro" it="Parrsboro" nl="Parrsboro">
       <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
-      <longitude>-64.335580</longitude>
+      <longitude>-64.33558</longitude>
       <latitude>45.380998</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ポート・ホークスベリ" eng="Port Hawkesbury" de="Port Hawkesbury" fr="Port Hawkesbury" es="Port Hawkesbury" it="Port Hawkesbury" nl="Port Hawkesbury">
+    <city jpn="ポート・ホークスベリ" eng="Port Hawkesbury" de="Port Hawkesbury" fr="Port Hawkesbury" es="Port Hawkesbury" it="Port Hawkesbury" nl="Port Hawkesbury">
       <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
       <longitude>-61.329769</longitude>
       <latitude>45.605909</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="パグウォッシュ" eng="Pugwash" de="Pugwash" fr="Pugwash" es="Pugwash" it="Pugwash" nl="Pugwash">
+    <city jpn="パグウォッシュ" eng="Pugwash" de="Pugwash" fr="Pugwash" es="Pugwash" it="Pugwash" nl="Pugwash">
       <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
       <longitude>-63.544608</longitude>
       <latitude>45.864675</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="スプリングヒル" eng="Springhill" de="Springhill" fr="Springhill" es="Springhill" it="Springhill" nl="Springhill">
+    <city jpn="スプリングヒル" eng="Springhill" de="Springhill" fr="Springhill" es="Springhill" it="Springhill" nl="Springhill">
       <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
-      <longitude>-63.969570</longitude>
+      <longitude>-63.96957</longitude>
       <latitude>45.587641</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
@@ -2568,10 +2568,10 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="タタマガッチ" eng="Tatamagouche" de="Tatamagouche" fr="Tatamagouche" es="Tatamagouche" it="Tatamagouche" nl="Tatamagouche">
+    <city jpn="タタマガッチ" eng="Tatamagouche" de="Tatamagouche" fr="Tatamagouche" es="Tatamagouche" it="Tatamagouche" nl="Tatamagouche">
       <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
       <longitude>-63.216038</longitude>
-      <latitude>45.757080</latitude>
+      <latitude>45.75708</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -5922,12 +5922,96 @@
     </city>
   </country>
   <country>
-    <name jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti d'America" nl="Verenigde Staten" />
-    <city jpn="ワシントンD.C." eng="Washington D.C." de="Washington, D.C." fr="Washington" es="Washington D. C." it="Washington" nl="Washington D.C.">
-      <province jpn="コロンビア特別区" eng="District of Columbia" de="District of Columbia" fr="District Fédéral de Washington D.C." es="Distrito de Columbia" it="Distretto di Columbia" nl="District of Columbia" />
+    <name jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
+    <city jpn="ワシントン" eng="Washington" de="Washington" fr="Washington" es="Washington" it="Washington" nl="Washington">
+      <province jpn="コロンビア特別区" eng="District of Columbia" de="District of Columbia" fr="District de Columbia" es="Distrito de Columbia" it="Distretto di Columbia" nl="District of Columbia" />
       <longitude>-77.0361328125</longitude>
       <latitude>38.8916015625</latitude>
       <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="モントゴメリー" eng="Montgomery" de="Montgomery" fr="Montgomery" es="Montgomery" it="Montgomery" nl="Montgomery">
+      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
+      <longitude>-86.297607421875</longitude>
+      <latitude>32.36572265625</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ハンツビル" eng="Huntsville" de="Huntsville" fr="Huntsville" es="Huntsville" it="Huntsville" nl="Huntsville">
+      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
+      <longitude>-86.583251953125</longitude>
+      <latitude>34.727783203125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アセンズ" eng="Athens" de="Athens" fr="Athens" es="Athens" it="Athens" nl="Athens">
+      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
+      <longitude>-86.960568</longitude>
+      <latitude>34.777770</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="オーバーン" eng="Auburn" de="Auburn" fr="Auburn" es="Auburn" it="Auburn" nl="Auburn">
+      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
+      <longitude>-85.4791259765625</longitude>
+      <latitude>32.607421875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="バーミンガム" eng="Birmingham" de="Birmingham" fr="Birmingham" es="Birmingham" it="Birmingham" nl="Birmingham">
+      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
+      <longitude>-86.7974853515625</longitude>
+      <latitude>33.519287109375</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ディケーター" eng="Decatur" de="Decatur" fr="Decatur" es="Decatur" it="Decatur" nl="Decatur">
+      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
+      <longitude>-86.978759765625</longitude>
+      <latitude>34.6014404296875</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ドーサン" eng="Dothan" de="Dothan" fr="Dothan" es="Dothan" it="Dothan" nl="Dothan">
+      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
+      <longitude>-85.3857421875</longitude>
+      <latitude>31.2176513671875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="フローレンス" eng="Florence" de="Florence" fr="Florence" es="Florence" it="Florence" nl="Florence">
+      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
+      <longitude>-87.679332</longitude>
+      <latitude>34.775876</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ギャズデン" eng="Gadsden" de="Gadsden" fr="Gadsden" es="Gadsden" it="Gadsden" nl="Gadsden">
+      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
+      <longitude>-86.0064697265625</longitude>
+      <latitude>34.013671875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="フーバー" eng="Hoover" de="Hoover" fr="Hoover" es="Hoover" it="Hoover" nl="Hoover">
+      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
+      <longitude>-86.8084716796875</longitude>
+      <latitude>33.4039306640625</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="モビール" eng="Mobile" de="Mobile" fr="Mobile" es="Mobile" it="Mobile" nl="Mobile">
+      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
+      <longitude>-88.0389404296875</longitude>
+      <latitude>30.6903076171875</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="タスカルーサ" eng="Tuscaloosa" de="Tuscaloosa" fr="Tuscaloosa" es="Tuscaloosa" it="Tuscaloosa" nl="Tuscaloosa">
+      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
+      <longitude>-87.5665283203125</longitude>
+      <latitude>33.2061767578125</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ジュノー" eng="Juneau" de="Juneau" fr="Juneau" es="Juneau" it="Juneau" nl="Juneau">
@@ -5951,130 +6035,32 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="モントゴメリー" eng="Montgomery" de="Montgomery" fr="Montgomery" es="Montgomery" it="Montgomery" nl="Montgomery">
-      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
-      <longitude>-86.297607421875</longitude>
-      <latitude>32.36572265625</latitude>
-      <zoom1>1</zoom1>
+	<city jpn="ケチカン" eng="Ketchikan" de="Ketchikan" fr="Ketchikan" es="Ketchikan" it="Ketchikan" nl="Ketchikan">
+      <province jpn="アラスカ州" eng="Alaska" de="Alaska" fr="Alaska" es="Alaska" it="Alaska" nl="Alaska" />
+      <longitude>-131.638425</longitude>
+      <latitude>55.298649</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="オーバーン" eng="Auburn" de="Auburn" fr="Auburn" es="Auburn" it="Auburn" nl="Auburn">
-      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
-      <longitude>-85.4791259765625</longitude>
-      <latitude>32.607421875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ディケーター" eng="Decatur" de="Decatur" fr="Decatur" es="Decatur" it="Decatur" nl="Decatur">
-      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
-      <longitude>-86.978759765625</longitude>
-      <latitude>34.6014404296875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ドーサン" eng="Dothan" de="Dothan" fr="Dothan" es="Dothan" it="Dothan" nl="Dothan">
-      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
-      <longitude>-85.3857421875</longitude>
-      <latitude>31.2176513671875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ギャズデン" eng="Gadsden" de="Gadsden" fr="Gadsden" es="Gadsden" it="Gadsden" nl="Gadsden">
-      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
-      <longitude>-86.0064697265625</longitude>
-      <latitude>34.013671875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="フーバー" eng="Hoover" de="Hoover" fr="Hoover" es="Hoover" it="Hoover" nl="Hoover">
-      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
-      <longitude>-86.8084716796875</longitude>
-      <latitude>33.4039306640625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ハンツビル" eng="Huntsville" de="Huntsville" fr="Huntsville" es="Huntsville" it="Huntsville" nl="Huntsville">
-      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
-      <longitude>-86.583251953125</longitude>
-      <latitude>34.727783203125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="モビール" eng="Mobile" de="Mobile" fr="Mobile" es="Mobile" it="Mobile" nl="Mobile">
-      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
-      <longitude>-88.0389404296875</longitude>
-      <latitude>30.6903076171875</latitude>
+	<city jpn="コディアック" eng="Kodiak" de="Kodiak" fr="Kodiak" es="Kodiak" it="Kodiak" nl="Kodiak">
+      <province jpn="アラスカ州" eng="Alaska" de="Alaska" fr="Alaska" es="Alaska" it="Alaska" nl="Alaska" />
+      <longitude>-152.413079</longitude>
+      <latitude>57.787134</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="タスカルーサ" eng="Tuscaloosa" de="Tuscaloosa" fr="Tuscaloosa" es="Tuscaloosa" it="Tuscaloosa" nl="Tuscaloosa">
-      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
-      <longitude>-87.5665283203125</longitude>
-      <latitude>33.2061767578125</latitude>
-      <zoom1>0</zoom1>
+	<city jpn="キキクタグルク" eng="Qikiqtagruk" de="Qikiqtagruk" fr="Qikiqtagruk" es="Qikiqtagruk" it="Qikiqtagruk" nl="Qikiqtagruk">
+      <province jpn="アラスカ州" eng="Alaska" de="Alaska" fr="Alaska" es="Alaska" it="Alaska" nl="Alaska" />
+      <longitude>-162.428004</longitude>
+      <latitude>66.782876</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="バーミンガム" eng="Birmingham" de="Birmingham" fr="Birmingham" es="Birmingham" it="Birmingham" nl="Birmingham">
-      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
-      <longitude>-86.7974853515625</longitude>
-      <latitude>33.519287109375</latitude>
+	<city jpn="ウトキアグヴィク" eng="Utqiagvik" de="Utqiagvik" fr="Utqiagvik" es="Utqiagvik" it="Utqiagvik" nl="Utqiagvik">
+      <province jpn="アラスカ州" eng="Alaska" de="Alaska" fr="Alaska" es="Alaska" it="Alaska" nl="Alaska" />
+      <longitude>-156.777589</longitude>
+      <latitude>71.259845</latitude>
       <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="リトルロック" eng="Little Rock" de="Little Rock" fr="Little Rock" es="Little Rock" it="Little Rock" nl="Little Rock">
-      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
-      <longitude>-92.28515625</longitude>
-      <latitude>34.7442626953125</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="コンウェー" eng="Conway" de="Conway" fr="Conway" es="Conway" it="Conway" nl="Conway">
-      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
-      <longitude>-92.43896484375</longitude>
-      <latitude>35.0848388671875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="フォート・スミス" eng="Fort Smith" de="Fort Smith" fr="Fort Smith" es="Fort Smith" it="Fort Smith" nl="Fort Smith">
-      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
-      <longitude>-94.39453125</longitude>
-      <latitude>35.3814697265625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ホット・スプリングス" eng="Hot Springs" de="Hot Springs" fr="Hot Springs" es="Hot Springs" it="Hot Springs" nl="Hot Springs">
-      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
-      <longitude>-93.05419921875</longitude>
-      <latitude>34.5025634765625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ジョーンズボロ" eng="Jonesboro" de="Jonesboro" fr="Jonesboro" es="Jonesboro" it="Jonesboro" nl="Jonesboro">
-      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
-      <longitude>-90.703125</longitude>
-      <latitude>35.83740234375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="パイン・ブラッフ" eng="Pine Bluff" de="Pine Bluff" fr="Pine Bluff" es="Pine Bluff" it="Pine Bluff" nl="Pine Bluff">
-      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
-      <longitude>-91.99951171875</longitude>
-      <latitude>34.2279052734375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="スプリングデール" eng="Springdale" de="Springdale" fr="Springdale" es="Springdale" it="Springdale" nl="Springdale">
-      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
-      <longitude>-94.1253662109375</longitude>
-      <latitude>36.1834716796875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="テクサーカナ" eng="Texarkana" de="Texarkana" fr="Texarkana" es="Texarkana" it="Texarkana" nl="Texarkana">
-      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
-      <longitude>-94.0374755859375</longitude>
-      <latitude>33.4368896484375</latitude>
-      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="フェニックス" eng="Phoenix" de="Phoenix" fr="Phoenix" es="Phoenix" it="Phoenix" nl="Phoenix">
@@ -6091,24 +6077,45 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="キングマン" eng="Kingman" de="Kingman" fr="Kingman" es="Kingman" it="Kingman" nl="Kingman">
+      <province jpn="アリゾナ州" eng="Arizona" de="Arizona" fr="Arizona" es="Arizona" it="Arizona" nl="Arizona" />
+      <longitude>-114.029487</longitude>
+      <latitude>35.162982</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="レイクハバスシティ" eng="Lake Havasu City" de="Lake Havasu City" fr="Lake Havasu City" es="Lake Havasu City" it="Lake Havasu City" nl="Lake Havasu City">
       <province jpn="アリゾナ州" eng="Arizona" de="Arizona" fr="Arizona" es="Arizona" it="Arizona" nl="Arizona" />
       <longitude>-114.3182373046875</longitude>
       <latitude>34.4805908203125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ノガレス" eng="Nogales" de="Nogales" fr="Nogales" es="Nogales" it="Nogales" nl="Nogales">
+      <province jpn="アリゾナ州" eng="Arizona" de="Arizona" fr="Arizona" es="Arizona" it="Arizona" nl="Arizona" />
+      <longitude>-110.943842</longitude>
+      <latitude>31.361498</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ページ" eng="Page" de="Page" fr="Page" es="Page" it="Page" nl="Page">
       <province jpn="アリゾナ州" eng="Arizona" de="Arizona" fr="Arizona" es="Arizona" it="Arizona" nl="Arizona" />
       <longitude>-111.4727783203125</longitude>
       <latitude>36.9085693359375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="プレスコット" eng="Prescott" de="Prescott" fr="Prescott" es="Prescott" it="Prescott" nl="Prescott">
       <province jpn="アリゾナ州" eng="Arizona" de="Arizona" fr="Arizona" es="Arizona" it="Arizona" nl="Arizona" />
       <longitude>-112.467041015625</longitude>
       <latitude>34.5355224609375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="セドナ" eng="Sedona" de="Sedona" fr="Sedona" es="Sedona" it="Sedona" nl="Sedona">
+      <province jpn="アリゾナ州" eng="Arizona" de="Arizona" fr="Arizona" es="Arizona" it="Arizona" nl="Arizona" />
+      <longitude>-111.699954</longitude>
+      <latitude>34.869846</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -6126,11 +6133,109 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="リトルロック" eng="Little Rock" de="Little Rock" fr="Little Rock" es="Little Rock" it="Little Rock" nl="Little Rock">
+      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
+      <longitude>-92.28515625</longitude>
+      <latitude>34.7442626953125</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="コンウェー" eng="Conway" de="Conway" fr="Conway" es="Conway" it="Conway" nl="Conway">
+      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
+      <longitude>-92.43896484375</longitude>
+      <latitude>35.0848388671875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="エル・ドラード" eng="El Dorado" de="El Dorado" fr="El Dorado" es="El Dorado" it="El Dorado" nl="El Dorado">
+      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
+      <longitude>-92.640180</longitude>
+      <latitude>33.174571</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="フェイエットビル" eng="Fayetteville" de="Fayetteville" fr="Fayetteville" es="Fayetteville" it="Fayetteville" nl="Fayetteville">
+      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
+      <longitude>-94.163414</longitude>
+      <latitude>36.029678</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="フォート・スミス" eng="Fort Smith" de="Fort Smith" fr="Fort Smith" es="Fort Smith" it="Fort Smith" nl="Fort Smith">
+      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
+      <longitude>-94.39453125</longitude>
+      <latitude>35.3814697265625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ホット・スプリングス" eng="Hot Springs" de="Hot Springs" fr="Hot Springs" es="Hot Springs" it="Hot Springs" nl="Hot Springs">
+      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
+      <longitude>-93.05419921875</longitude>
+      <latitude>34.5025634765625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ジョーンズボロ" eng="Jonesboro" de="Jonesboro" fr="Jonesboro" es="Jonesboro" it="Jonesboro" nl="Jonesboro">
+      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
+      <longitude>-90.703125</longitude>
+      <latitude>35.83740234375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="マグノリア" eng="Magnolia" de="Magnolia" fr="Magnolia" es="Magnolia" it="Magnolia" nl="Magnolia">
+      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
+      <longitude>-93.204539</longitude>
+      <latitude>33.252727</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="モンティセロ" eng="Monticello" de="Monticello" fr="Monticello" es="Monticello" it="Monticello" nl="Monticello">
+      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
+      <longitude>-91.735673</longitude>
+      <latitude>33.610897</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="パイン・ブラッフ" eng="Pine Bluff" de="Pine Bluff" fr="Pine Bluff" es="Pine Bluff" it="Pine Bluff" nl="Pine Bluff">
+      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
+      <longitude>-91.99951171875</longitude>
+      <latitude>34.2279052734375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ラッセルビル" eng="Russellville" de="Russellville" fr="Russellville" es="Russellville" it="Russellville" nl="Russellville">
+      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
+      <longitude>-93.375806</longitude>
+      <latitude>35.328262</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="スプリングデール" eng="Springdale" de="Springdale" fr="Springdale" es="Springdale" it="Springdale" nl="Springdale">
+      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
+      <longitude>-94.1253662109375</longitude>
+      <latitude>36.1834716796875</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="テクサーカナ" eng="Texarkana" de="Texarkana" fr="Texarkana" es="Texarkana" it="Texarkana" nl="Texarkana">
+      <province jpn="アーカンソー州" eng="Arkansas" de="Arkansas" fr="Arkansas" es="Arkansas" it="Arkansas" nl="Arkansas" />
+      <longitude>-94.0374755859375</longitude>
+      <latitude>33.4368896484375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="サクラメント" eng="Sacramento" de="Sacramento" fr="Sacramento" es="Sacramento" it="Sacramento" nl="Sacramento">
       <province jpn="カリフォルニア州" eng="California" de="Kalifornien" fr="Californie" es="California" it="California" nl="Californië" />
       <longitude>-121.4923095703125</longitude>
       <latitude>38.5784912109375</latitude>
       <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ロサンゼルス" eng="Los Angeles" de="Los Angeles" fr="Los Angeles" es="Los Ángeles" it="Los Angeles" nl="Los Angeles">
+      <province jpn="カリフォルニア州" eng="California" de="Kalifornien" fr="Californie" es="California" it="California" nl="Californië" />
+      <longitude>-118.2403564453125</longitude>
+      <latitude>34.0521240234375</latitude>
+      <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アナハイム" eng="Anaheim" de="Anaheim" fr="Anaheim" es="Anaheim" it="Anaheim" nl="Anaheim">
@@ -6194,13 +6299,6 @@
       <longitude>-117.9931640625</longitude>
       <latitude>33.6566162109375</latitude>
       <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ロサンゼルス" eng="Los Angeles" de="Los Angeles" fr="Los Angeles" es="Los Ángeles" it="Los Angeles" nl="Los Angeles">
-      <province jpn="カリフォルニア州" eng="California" de="Kalifornien" fr="Californie" es="California" it="California" nl="Californië" />
-      <longitude>-118.2403564453125</longitude>
-      <latitude>34.0521240234375</latitude>
-      <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="モデスト" eng="Modesto" de="Modesto" fr="Modesto" es="Modesto" it="Modesto" nl="Modesto">
@@ -6371,11 +6469,32 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="ブレッケンリッジ" eng="Breckenridge" de="Breckenridge" fr="Breckenridge" es="Breckenridge" it="Breckenridge" nl="Breckenridge">
+      <province jpn="コロラド州" eng="Colorado" de="Colorado" fr="Colorado" es="Colorado" it="Colorado" nl="Colorado" />
+      <longitude>-106.150569</longitude>
+      <latitude>39.479407</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="キャッスルロック" eng="Castle Rock" de="Castle Rock" fr="Castle Rock" es="Castle Rock" it="Castle Rock" nl="Castle Rock">
+      <province jpn="コロラド州" eng="Colorado" de="Colorado" fr="Colorado" es="Colorado" it="Colorado" nl="Colorado" />
+      <longitude>-104.838756</longitude>
+      <latitude>39.338081</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="コロラド・スプリングズ" eng="Colorado Springs" de="Colorado Springs" fr="Colorado Springs" es="Colorado Springs" it="Colorado Springs" nl="Colorado Springs">
       <province jpn="コロラド州" eng="Colorado" de="Colorado" fr="Colorado" es="Colorado" it="Colorado" nl="Colorado" />
       <longitude>-104.820556640625</longitude>
       <latitude>38.8311767578125</latitude>
       <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="デュランゴ" eng="Durango" de="Durango" fr="Durango" es="Durango" it="Durango" nl="Durango">
+      <province jpn="コロラド州" eng="Colorado" de="Colorado" fr="Colorado" es="Colorado" it="Colorado" nl="Colorado" />
+      <longitude>-107.886733</longitude>
+      <latitude>37.242202</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="フォート・コリンズ" eng="Fort Collins" de="Fort Collins" fr="Fort Collins" es="Fort Collins" it="Fort Collins" nl="Fort Collins">
@@ -6390,6 +6509,20 @@
       <longitude>-108.544921875</longitude>
       <latitude>39.0618896484375</latitude>
       <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ラマー" eng="Lamar" de="Lamar" fr="Lamar" es="Lamar" it="Lamar" nl="Lamar">
+      <province jpn="コロラド州" eng="Colorado" de="Colorado" fr="Colorado" es="Colorado" it="Colorado" nl="Colorado" />
+      <longitude>-102.586094</longitude>
+      <latitude>38.035935</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="モンローズ" eng="Montrose" de="Montrose" fr="Montrose" es="Montrose" it="Montrose" nl="Montrose">
+      <province jpn="コロラド州" eng="Colorado" de="Colorado" fr="Colorado" es="Colorado" it="Colorado" nl="Colorado" />
+      <longitude>-107.872133</longitude>
+      <latitude>38.427171</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="プエブロ" eng="Pueblo" de="Pueblo" fr="Pueblo" es="Pueblo" it="Pueblo" nl="Pueblo">
@@ -6417,6 +6550,13 @@
       <province jpn="コネティカット州" eng="Connecticut" de="Connecticut" fr="Connecticut" es="Connecticut" it="Connecticut" nl="Connecticut" />
       <longitude>-72.94921875</longitude>
       <latitude>41.671142578125</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ブルックリン" eng="Brooklyn" de="Brooklyn" fr="Brooklyn" es="Brooklyn" it="Brooklyn" nl="Brooklyn">
+      <province jpn="コネティカット州" eng="Connecticut" de="Connecticut" fr="Connecticut" es="Connecticut" it="Connecticut" nl="Connecticut" />
+      <longitude>-71.950984</longitude>
+      <latitude>41.779632</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -6466,7 +6606,7 @@
       <province jpn="デラウェア州" eng="Delaware" de="Delaware" fr="Delaware" es="Delaware" it="Delaware" nl="Delaware" />
       <longitude>-75.52001953125</longitude>
       <latitude>39.1552734375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ウィルミントン" eng="Wilmington" de="Wilmington" fr="Wilmington" es="Wilmington" it="Wilmington" nl="Wilmington">
@@ -6476,11 +6616,39 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="ジョージタウン" eng="Georgetown" de="Georgetown" fr="Georgetown" es="Georgetown" it="Georgetown" nl="Georgetown">
+      <province jpn="デラウェア州" eng="Delaware" de="Delaware" fr="Delaware" es="Delaware" it="Delaware" nl="Delaware" />
+      <longitude>-75.399445</longitude>
+      <latitude>38.665067</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ミルフォード" eng="Milford" de="Milford" fr="Milford" es="Milford" it="Milford" nl="Milford">
+      <province jpn="デラウェア州" eng="Delaware" de="Delaware" fr="Delaware" es="Delaware" it="Delaware" nl="Delaware" />
+      <longitude>-75.424506</longitude>
+      <latitude>38.897710</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="タラハシー" eng="Tallahassee" de="Tallahassee" fr="Tallahassee" es="Tallahassee" it="Tallahassee" nl="Tallahassee">
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-84.276123046875</longitude>
       <latitude>30.4376220703125</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ジャクソンビル" eng="Jacksonville" de="Jacksonville" fr="Jacksonville" es="Jacksonville" it="Jacksonville" nl="Jacksonville">
+      <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
+      <longitude>-81.650390625</longitude>
+      <latitude>30.3277587890625</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="マイアミ" eng="Miami" de="Miami" fr="Miami" es="Miami" it="Miami" nl="Miami">
+      <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
+      <longitude>-80.189208984375</longitude>
+      <latitude>25.7684326171875</latitude>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アルタモンテ・スプリングス" eng="Altamonte Springs" de="Altamonte Springs" fr="Altamonte Springs" es="Altamonte Springs" it="Altamonte Springs" nl="Altamonte Springs">
@@ -6494,7 +6662,7 @@
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-80.079345703125</longitude>
       <latitude>26.356201171875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ブレーデントン" eng="Bradenton" de="Bradenton" fr="Bradenton" es="Bradenton" it="Bradenton" nl="Bradenton">
@@ -6508,7 +6676,7 @@
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-81.947021484375</longitude>
       <latitude>26.5594482421875</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ココアビーチ" eng="Cocoa Beach" de="Cocoa Beach" fr="Cocoa Beach" es="Cocoa Beach" it="Cocoa Beach" nl="Cocoa Beach">
@@ -6522,7 +6690,7 @@
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-81.0186767578125</longitude>
       <latitude>29.2071533203125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="フォート・ローダデール" eng="Fort Lauderdale" de="Fort Lauderdale" fr="Fort Lauderdale" es="Fort Lauderdale" it="Fort Lauderdale" nl="Fort Lauderdale">
@@ -6550,28 +6718,21 @@
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-80.474853515625</longitude>
       <latitude>25.46630859375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ジャクソンビル" eng="Jacksonville" de="Jacksonville" fr="Jacksonville" es="Jacksonville" it="Jacksonville" nl="Jacksonville">
-      <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
-      <longitude>-81.650390625</longitude>
-      <latitude>30.3277587890625</latitude>
-      <zoom1>6</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="キー・ウェスト" eng="Key West" de="Key West" fr="Key West" es="Cayo Hueso" it="Key West" nl="Key West">
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-81.7822265625</longitude>
       <latitude>24.554443359375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="キシミー" eng="Kissimmee" de="Kissimmee" fr="Kissimmee" es="Kissimmee" it="Kissimmee" nl="Kissimmee">
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-81.4031982421875</longitude>
       <latitude>28.289794921875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="レイクランド" eng="Lakeland" de="Lakeland" fr="Lakeland" es="Lakeland" it="Lakeland" nl="Lakeland">
@@ -6585,14 +6746,7 @@
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-80.606689453125</longitude>
       <latitude>28.0810546875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="マイアミ" eng="Miami" de="Miami" fr="Miami" es="Miami" it="Miami" nl="Miami">
-      <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
-      <longitude>-80.189208984375</longitude>
-      <latitude>25.7684326171875</latitude>
-      <zoom1>7</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="マイアミ・ビーチ" eng="Miami Beach" de="Miami Beach" fr="Miami Beach" es="Miami Beach" it="Miami Beach" nl="Miami Beach">
@@ -6606,14 +6760,14 @@
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-81.793212890625</longitude>
       <latitude>26.136474609375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="オカラ" eng="Ocala" de="Ocala" fr="Ocala" es="Ocala" it="Ocala" nl="Ocala">
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-82.1392822265625</longitude>
       <latitude>29.1851806640625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="オーランド" eng="Orlando" de="Orlando" fr="Orlando" es="Orlando" it="Orlando" nl="Orlando">
@@ -6627,14 +6781,14 @@
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-85.6549072265625</longitude>
       <latitude>30.157470703125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ペンサコラ" eng="Pensacola" de="Pensacola" fr="Pensacola" es="Pensacola" it="Pensacola" nl="Pensacola">
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-87.2149658203125</longitude>
       <latitude>30.4156494140625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ポート・シャーロット" eng="Port Charlotte" de="Port Charlotte" fr="Port Charlotte" es="Port Charlotte" it="Port Charlotte" nl="Port Charlotte">
@@ -6655,14 +6809,14 @@
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-82.6776123046875</longitude>
       <latitude>27.7679443359375</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="サラソータ" eng="Sarasota" de="Sarasota" fr="Sarasota" es="Sarasota" it="Sarasota" nl="Sarasota">
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-82.529296875</longitude>
       <latitude>27.333984375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="タンパ" eng="Tampa" de="Tampa" fr="Tampa" es="Tampa" it="Tampa" nl="Tampa">
@@ -6676,21 +6830,21 @@
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-80.804443359375</longitude>
       <latitude>28.6083984375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ベロ・ビーチ" eng="Vero Beach" de="Vero Beach" fr="Vero Beach" es="Vero Beach" it="Vero Beach" nl="Vero Beach">
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-80.3924560546875</longitude>
       <latitude>27.6361083984375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ウェスト・パーム・ビーチ" eng="West Palm Beach" de="West Palm Beach" fr="West Palm Beach" es="West Palm Beach" it="West Palm Beach" nl="West Palm Beach">
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-80.0518798828125</longitude>
       <latitude>26.7132568359375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アトランタ" eng="Atlanta" de="Atlanta" fr="Atlanta" es="Atlanta" it="Atlanta" nl="Atlanta">
@@ -6711,21 +6865,21 @@
       <province jpn="ジョージア州" eng="Georgia" de="Georgia" fr="Géorgie" es="Georgia" it="Georgia" nl="Georgia" />
       <longitude>-83.375244140625</longitude>
       <latitude>33.958740234375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="オーガスタ" eng="Augusta" de="Augusta" fr="Augusta" es="Augusta" it="Augusta" nl="Augusta">
       <province jpn="ジョージア州" eng="Georgia" de="Georgia" fr="Géorgie" es="Georgia" it="Georgia" nl="Georgia" />
       <longitude>-81.9744873046875</longitude>
       <latitude>33.4698486328125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ブランズウィック" eng="Brunswick" de="Brunswick" fr="Brunswick" es="Brunswick" it="Brunswick" nl="Brunswick">
       <province jpn="ジョージア州" eng="Georgia" de="Georgia" fr="Géorgie" es="Georgia" it="Georgia" nl="Georgia" />
       <longitude>-81.4910888671875</longitude>
       <latitude>31.146240234375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="コロンバス" eng="Columbus" de="Columbus" fr="Columbus" es="Columbus" it="Columbus" nl="Columbus">
@@ -6739,35 +6893,35 @@
       <province jpn="ジョージア州" eng="Georgia" de="Georgia" fr="Géorgie" es="Georgia" it="Georgia" nl="Georgia" />
       <longitude>-84.96826171875</longitude>
       <latitude>34.7662353515625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ゲインズビル" eng="Gainesville" de="Gainesville" fr="Gainesville" es="Gainesville" it="Gainesville" nl="Gainesville">
       <province jpn="ジョージア州" eng="Georgia" de="Georgia" fr="Géorgie" es="Georgia" it="Georgia" nl="Georgia" />
       <longitude>-83.8201904296875</longitude>
       <latitude>34.2938232421875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="メーコン" eng="Macon" de="Macon" fr="Macon" es="Macon" it="Macon" nl="Macon">
       <province jpn="ジョージア州" eng="Georgia" de="Georgia" fr="Géorgie" es="Georgia" it="Georgia" nl="Georgia" />
       <longitude>-83.6279296875</longitude>
       <latitude>32.838134765625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ローム" eng="Rome" de="Rome" fr="Rome" es="Rome" it="Rome" nl="Rome">
       <province jpn="ジョージア州" eng="Georgia" de="Georgia" fr="Géorgie" es="Georgia" it="Georgia" nl="Georgia" />
       <longitude>-85.1605224609375</longitude>
       <latitude>34.25537109375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ロズウェル" eng="Roswell" de="Roswell" fr="Roswell" es="Roswell" it="Roswell" nl="Roswell">
       <province jpn="ジョージア州" eng="Georgia" de="Georgia" fr="Géorgie" es="Georgia" it="Georgia" nl="Georgia" />
       <longitude>-84.3585205078125</longitude>
       <latitude>34.0191650390625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="サンディ・スプリングズ" eng="Sandy Springs" de="Sandy Springs" fr="Sandy Springs" es="Sandy Springs" it="Sandy Springs" nl="Sandy Springs">
@@ -6788,14 +6942,28 @@
       <province jpn="ジョージア州" eng="Georgia" de="Georgia" fr="Géorgie" es="Georgia" it="Georgia" nl="Georgia" />
       <longitude>-81.7822265625</longitude>
       <latitude>32.4481201171875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ティフトン" eng="Tifton" de="Tifton" fr="Tifton" es="Tifton" it="Tifton" nl="Tifton">
+      <province jpn="ジョージア州" eng="Georgia" de="Georgia" fr="Géorgie" es="Georgia" it="Georgia" nl="Georgia" />
+      <longitude>-83.465066</longitude>
+      <latitude>31.460131</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="トマスビル" eng="Thomasville" de="Thomasville" fr="Thomasville" es="Thomasville" it="Thomasville" nl="Thomasville">
       <province jpn="ジョージア州" eng="Georgia" de="Georgia" fr="Géorgie" es="Georgia" it="Georgia" nl="Georgia" />
       <longitude>-83.9739990234375</longitude>
       <latitude>30.8331298828125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="バルドスタ" eng="Valdosta" de="Valdosta" fr="Valdosta" es="Valdosta" it="Valdosta" nl="Valdosta">
+      <province jpn="ジョージア州" eng="Georgia" de="Georgia" fr="Géorgie" es="Georgia" it="Georgia" nl="Georgia" />
+      <longitude>-83.201464</longitude>
+      <latitude>30.817435</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ワーナーロビンズ" eng="Warner Robins" de="Warner Robins" fr="Warner Robins" es="Warner Robins" it="Warner Robins" nl="Warner Robins">
@@ -6809,84 +6977,77 @@
       <province jpn="ジョージア州" eng="Georgia" de="Georgia" fr="Géorgie" es="Georgia" it="Georgia" nl="Georgia" />
       <longitude>-82.353515625</longitude>
       <latitude>31.212158203125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ホノルル" eng="Honolulu" de="Honolulu" fr="Honolulu" es="Honolulu" it="Honolulu" nl="Honolulu">
-      <province jpn="ハワイ州" eng="Hawaii" de="Hawaii" fr="Hawaï" es="Hawai" it="Hawaii" nl="Hawaï" />
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
       <longitude>-157.8570556640625</longitude>
       <latitude>21.302490234375</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ヒロ" eng="Hilo" de="Hilo" fr="Hilo" es="Hilo" it="Hilo" nl="Hilo">
-      <province jpn="ハワイ州" eng="Hawaii" de="Hawaii" fr="Hawaï" es="Hawai" it="Hawaii" nl="Hawaï" />
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
       <longitude>-155.0885009765625</longitude>
       <latitude>19.7259521484375</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="カフルイ" eng="Kahului" de="Kahului" fr="Kahului" es="Kahului" it="Kahului" nl="Kahului">
-      <province jpn="ハワイ州" eng="Hawaii" de="Hawaii" fr="Hawaï" es="Hawai" it="Hawaii" nl="Hawaï" />
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
       <longitude>-156.46728515625</longitude>
       <latitude>20.8905029296875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="リフエ" eng="Lihue" de="Līhuʻe" fr="Lihue" es="Lihue" it="Lihue" nl="Lihue">
-      <province jpn="ハワイ州" eng="Hawaii" de="Hawaii" fr="Hawaï" es="Hawai" it="Hawaii" nl="Hawaï" />
-      <longitude>-159.36767578125</longitude>
-      <latitude>21.9781494140625</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="モロカイ島" eng="Moloka'i" de="Moloka‘i" fr="Moloka‘i" es="Moloka‘i" it="Moloka‘i" nl="Moloka'i">
-      <province jpn="ハワイ州" eng="Hawaii" de="Hawaii" fr="Hawaï" es="Hawai" it="Hawaii" nl="Hawaï" />
-      <longitude>-157.0989990234375</longitude>
-      <latitude>21.148681640625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="デモイン" eng="Des Moines" de="Des Moines" fr="Des Moines" es="Des Moines" it="Des Moines" nl="Des Moines">
-      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
-      <longitude>-93.603515625</longitude>
-      <latitude>41.5997314453125</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="シーダー・ラピッズ" eng="Cedar Rapids" de="Cedar Rapids" fr="Cedar Rapids" es="Cedar Rapids" it="Cedar Rapids" nl="Cedar Rapids">
-      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
-      <longitude>-91.6424560546875</longitude>
-      <latitude>42.0062255859375</latitude>
+	<city jpn="カイルア・コナ" eng="Kailua-Kona" de="Kailua-Kona" fr="Kailua-Kona" es="Kailua-Kona" it="Kailua-Kona" nl="Kailua-Kona">
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <longitude>-155.980917</longitude>
+      <latitude>19.625268</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ダベンポート" eng="Davenport" de="Davenport" fr="Davenport" es="Davenport" it="Davenport" nl="Davenport">
-      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
-      <longitude>-90.5767822265625</longitude>
-      <latitude>41.5228271484375</latitude>
+	<city jpn="ラナイ島" eng="Lana'i" de="Lana'i" fr="Lana'i" es="Lana'i" it="Lana'i" nl="Lana'i">
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <longitude>-156.952808</longitude>
+      <latitude>20.833485</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="アイオワ・シティ" eng="Iowa City" de="Iowa City" fr="Iowa City" es="Iowa City" it="Iowa City" nl="Iowa City">
-      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
-      <longitude>-91.527099609375</longitude>
-      <latitude>41.66015625</latitude>
+    <city jpn="リフエ" eng="Lihu'e" de="Lihu'e" fr="Lihu'e" es="Lihu'e" it="Lihu'e" nl="Lihu'e">
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <longitude>-159.36767578125</longitude>
+      <latitude>21.9781494140625</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ミリラニ" eng="Mililani" de="Mililani" fr="Mililani" es="Mililani" it="Mililani" nl="Mililani">
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <longitude>-158.032539</longitude>
+      <latitude>21.474249</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="スー・シティ" eng="Sioux City" de="Sioux City" fr="Sioux City" es="Sioux City" it="Sioux City" nl="Sioux City">
-      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
-      <longitude>-96.3995361328125</longitude>
-      <latitude>42.4951171875</latitude>
-      <zoom1>3</zoom1>
+    <city jpn="モロカイ島" eng="Moloka'i" de="Moloka'i" fr="Moloka'i" es="Moloka'i" it="Moloka'i" nl="Moloka'i">
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <longitude>-157.0989990234375</longitude>
+      <latitude>21.148681640625</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ウォータールー" eng="Waterloo" de="Waterloo" fr="Waterloo" es="Waterloo" it="Waterloo" nl="Waterloo">
-      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
-      <longitude>-92.340087890625</longitude>
-      <latitude>42.4896240234375</latitude>
-      <zoom1>0</zoom1>
+	<city jpn="プーウァイ" eng="Pu'uwai" de="Pu'uwai" fr="Pu'uwai" es="Pu'uwai" it="Pu'uwai" nl="Pu'uwai">
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <longitude>-160.197739</longitude>
+      <latitude>21.888143</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ワイメア" eng="Waimea" de="Waimea" fr="Waimea" es="Waimea" it="Waimea" nl="Waimea">
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <longitude>-155.748015</longitude>
+      <latitude>20.077952</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ボイシ" eng="Boise" de="Boise" fr="Boise" es="Boise" it="Boise" nl="Boise">
@@ -6903,11 +7064,25 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="アイダホフォールズ" eng="Idaho Falls" de="Idaho Falls" fr="Idaho Falls" es="Idaho Falls" it="Idaho Falls" nl="Idaho Falls">
+      <province jpn="アイダホ州" eng="Idaho" de="Idaho" fr="Idaho" es="Idaho" it="Idaho" nl="Idaho" />
+      <longitude>-111.893013</longitude>
+      <latitude>43.496075</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ナンパ" eng="Nampa" de="Nampa" fr="Nampa" es="Nampa" it="Nampa" nl="Nampa">
+      <province jpn="アイダホ州" eng="Idaho" de="Idaho" fr="Idaho" es="Idaho" it="Idaho" nl="Idaho" />
+      <longitude>-116.678435</longitude>
+      <latitude>43.400049</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="ポカテッロ" eng="Pocatello" de="Pocatello" fr="Pocatello" es="Pocatello" it="Pocatello" nl="Pocatello">
       <province jpn="アイダホ州" eng="Idaho" de="Idaho" fr="Idaho" es="Idaho" it="Idaho" nl="Idaho" />
       <longitude>-112.4395751953125</longitude>
       <latitude>42.86865234375</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ツイン・フォールズ" eng="Twin Falls" de="Twin Falls" fr="Twin Falls" es="Twin Falls" it="Twin Falls" nl="Twin Falls">
@@ -6921,7 +7096,14 @@
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
       <longitude>-89.6429443359375</longitude>
       <latitude>39.7979736328125</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="シカゴ" eng="Chicago" de="Chicago" fr="Chicago" es="Chicago" it="Chicago" nl="Chicago">
+      <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
+      <longitude>-87.64892578125</longitude>
+      <latitude>41.846923828125</latitude>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="オーロラ" eng="Aurora" de="Aurora" fr="Aurora" es="Aurora" it="Aurora" nl="Aurora">
@@ -6942,42 +7124,35 @@
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
       <longitude>-88.9892578125</longitude>
       <latitude>40.4791259765625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="カーボンデール" eng="Carbondale" de="Carbondale" fr="Carbondale" es="Carbondale" it="Carbondale" nl="Carbondale">
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
       <longitude>-89.2144775390625</longitude>
       <latitude>37.72705078125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="シャンペーン" eng="Champaign" de="Champaign" fr="Champaign" es="Champaign" it="Champaign" nl="Champaign">
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
       <longitude>-88.2421875</longitude>
       <latitude>40.111083984375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="チャールストン" eng="Charleston" de="Charleston" fr="Charleston" es="Charleston" it="Charleston" nl="Charleston">
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
       <longitude>-88.1707763671875</longitude>
       <latitude>39.495849609375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="シカゴ" eng="Chicago" de="Chicago" fr="Chicago" es="Chicago" it="Chicago" nl="Chicago">
-      <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
-      <longitude>-87.64892578125</longitude>
-      <latitude>41.846923828125</latitude>
-      <zoom1>7</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ダンビル" eng="Danville" de="Danville" fr="Danville" es="Danville" it="Danville" nl="Danville">
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
       <longitude>-87.626953125</longitude>
       <latitude>40.1220703125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ディケーター" eng="Decatur" de="Decatur" fr="Decatur" es="Decatur" it="Decatur" nl="Decatur">
@@ -6998,42 +7173,42 @@
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
       <longitude>-87.857666015625</longitude>
       <latitude>41.1163330078125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="モリーン" eng="Moline" de="Moline" fr="Moline" es="Moline" it="Moline" nl="Moline">
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
       <longitude>-90.5108642578125</longitude>
       <latitude>41.50634765625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="マウント・バーノン" eng="Mount Vernon" de="Mount Vernon" fr="Mount Vernon" es="Mount Vermon" it="Mount Vernon" nl="Mount Vernon">
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
       <longitude>-88.9013671875</longitude>
       <latitude>38.3148193359375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="オタワ" eng="Ottawa" de="Ottawa" fr="Ottawa" es="Ottawa" it="Ottawa" nl="Ottawa">
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
       <longitude>-88.8409423828125</longitude>
       <latitude>41.341552734375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ピオリア" eng="Peoria" de="Peoria" fr="Peoria" es="Peoria" it="Peoria" nl="Peoria">
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
       <longitude>-89.5880126953125</longitude>
       <latitude>40.693359375</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="クインシー" eng="Quincy" de="Quincy" fr="Quincy" es="Quincy" it="Quincy" nl="Quincy">
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
       <longitude>-91.40625</longitude>
       <latitude>39.935302734375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ロックフォード" eng="Rockford" de="Rockford" fr="Rockford" es="Rockford" it="Rockford" nl="Rockford">
@@ -7061,7 +7236,7 @@
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
       <longitude>-87.8411865234375</longitude>
       <latitude>42.36328125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="インディアナポリス" eng="Indianapolis" de="Indianapolis" fr="Indianapolis" es="Indianápolis" it="Indianapolis" nl="Indianapolis">
@@ -7089,14 +7264,14 @@
       <province jpn="インディアナ州" eng="Indiana" de="Indiana" fr="Indiana" es="Indiana" it="Indiana" nl="Indiana" />
       <longitude>-85.9185791015625</longitude>
       <latitude>39.19921875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="エルクハート" eng="Elkhart" de="Elkhart" fr="Elkhart" es="Elkhart" it="Elkhart" nl="Elkhart">
       <province jpn="インディアナ州" eng="Indiana" de="Indiana" fr="Indiana" es="Indiana" it="Indiana" nl="Indiana" />
       <longitude>-85.9735107421875</longitude>
       <latitude>41.6766357421875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="エバンズビル" eng="Evansville" de="Evansville" fr="Evansville" es="Evansville" it="Evansville" nl="Evansville">
@@ -7117,28 +7292,28 @@
       <province jpn="インディアナ州" eng="Indiana" de="Indiana" fr="Indiana" es="Indiana" it="Indiana" nl="Indiana" />
       <longitude>-87.34130859375</longitude>
       <latitude>41.5887451171875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ココモ" eng="Kokomo" de="Kokomo" fr="Kokomo" es="Kokomo" it="Kokomo" nl="Kokomo">
       <province jpn="インディアナ州" eng="Indiana" de="Indiana" fr="Indiana" es="Indiana" it="Indiana" nl="Indiana" />
       <longitude>-86.1328125</longitude>
       <latitude>40.484619140625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ラフェイエット" eng="Lafayette" de="Lafayette" fr="Lafayette" es="Lafayette" it="Lafayette" nl="Lafayette">
       <province jpn="インディアナ州" eng="Indiana" de="Indiana" fr="Indiana" es="Indiana" it="Indiana" nl="Indiana" />
       <longitude>-86.8743896484375</longitude>
       <latitude>40.4132080078125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="マンシー" eng="Muncie" de="Muncie" fr="Muncie" es="Muncie" it="Muncie" nl="Muncie">
       <province jpn="インディアナ州" eng="Indiana" de="Indiana" fr="Indiana" es="Indiana" it="Indiana" nl="Indiana" />
       <longitude>-85.3857421875</longitude>
       <latitude>40.18798828125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="サウス・ベンド" eng="South Bend" de="South Bend" fr="South Bend" es="South Bend" it="South Bend" nl="South Bend">
@@ -7152,7 +7327,77 @@
       <province jpn="インディアナ州" eng="Indiana" de="Indiana" fr="Indiana" es="Indiana" it="Indiana" nl="Indiana" />
       <longitude>-87.4127197265625</longitude>
       <latitude>39.462890625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="デモイン" eng="Des Moines" de="Des Moines" fr="Des Moines" es="Des Moines" it="Des Moines" nl="Des Moines">
+      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
+      <longitude>-93.603515625</longitude>
+      <latitude>41.5997314453125</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="シーダー・ラピッズ" eng="Cedar Rapids" de="Cedar Rapids" fr="Cedar Rapids" es="Cedar Rapids" it="Cedar Rapids" nl="Cedar Rapids">
+      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
+      <longitude>-91.6424560546875</longitude>
+      <latitude>42.0062255859375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ダベンポート" eng="Davenport" de="Davenport" fr="Davenport" es="Davenport" it="Davenport" nl="Davenport">
+      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
+      <longitude>-90.5767822265625</longitude>
+      <latitude>41.5228271484375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ダビューク" eng="Dubuque" de="Dubuque" fr="Dubuque" es="Dubuque" it="Dubuque" nl="Dubuque">
+      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
+      <longitude>-90.791695</longitude>
+      <latitude>42.492143</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="フォート・ドッジ" eng="Fort Dodge" de="Fort Dodge" fr="Fort Dodge" es="Fort Dodge" it="Fort Dodge" nl="Fort Dodge">
+      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
+      <longitude>-94.203127</longitude>
+      <latitude>42.495797</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="アイオワ・シティ" eng="Iowa City" de="Iowa City" fr="Iowa City" es="Iowa City" it="Iowa City" nl="Iowa City">
+      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
+      <longitude>-91.527099609375</longitude>
+      <latitude>41.66015625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="マーシャルタウン" eng="Marshalltown" de="Marshalltown" fr="Marshalltown" es="Marshalltown" it="Marshalltown" nl="Marshalltown">
+      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
+      <longitude>-92.921899</longitude>
+      <latitude>42.025130</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="オタムワ" eng="Ottumwa" de="Ottumwa" fr="Ottumwa" es="Ottumwa" it="Ottumwa" nl="Ottumwa">
+      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
+      <longitude>-92.438957</longitude>
+      <latitude>41.007784</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="スー・シティ" eng="Sioux City" de="Sioux City" fr="Sioux City" es="Sioux City" it="Sioux City" nl="Sioux City">
+      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
+      <longitude>-96.3995361328125</longitude>
+      <latitude>42.4951171875</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ウォータールー" eng="Waterloo" de="Waterloo" fr="Waterloo" es="Waterloo" it="Waterloo" nl="Waterloo">
+      <province jpn="アイオワ州" eng="Iowa" de="Iowa" fr="Iowa" es="Iowa" it="Iowa" nl="Iowa" />
+      <longitude>-92.340087890625</longitude>
+      <latitude>42.4896240234375</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="トピーカ" eng="Topeka" de="Topeka" fr="Topeka" es="Topeka" it="Topeka" nl="Topeka">
@@ -7162,18 +7407,46 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="ウィチタ" eng="Wichita" de="Wichita" fr="Wichita" es="Wichita" it="Wichita" nl="Wichita">
+      <province jpn="カンザス州" eng="Kansas" de="Kansas" fr="Kansas" es="Kansas" it="Kansas" nl="Kansas" />
+      <longitude>-97.3333740234375</longitude>
+      <latitude>37.6885986328125</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="ダッジ・シティ" eng="Dodge City" de="Dodge City" fr="Dodge City" es="Dodge City" it="Dodge City" nl="Dodge City">
       <province jpn="カンザス州" eng="Kansas" de="Kansas" fr="Kansas" es="Kansas" it="Kansas" nl="Kansas" />
       <longitude>-100.0140380859375</longitude>
       <latitude>37.7490234375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="エンポリア" eng="Emporia" de="Emporia" fr="Emporia" es="Emporia" it="Emporia" nl="Emporia">
+      <province jpn="カンザス州" eng="Kansas" de="Kansas" fr="Kansas" es="Kansas" it="Kansas" nl="Kansas" />
+      <longitude>-96.151871</longitude>
+      <latitude>38.384479</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ガーデン・シティ" eng="Garden City" de="Garden City" fr="Garden City" es="Garden City" it="Garden City" nl="Garden City">
+      <province jpn="カンザス州" eng="Kansas" de="Kansas" fr="Kansas" es="Kansas" it="Kansas" nl="Kansas" />
+      <longitude>-100.933967</longitude>
+      <latitude>37.958992</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ヘイズ" eng="Hays" de="Hays" fr="Hays" es="Hays" it="Hays" nl="Hays">
+      <province jpn="カンザス州" eng="Kansas" de="Kansas" fr="Kansas" es="Kansas" it="Kansas" nl="Kansas" />
+      <longitude>-99.393313</longitude>
+      <latitude>38.884046</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ハッチンソン" eng="Hutchinson" de="Hutchinson" fr="Hutchinson" es="Hutchinson" it="Hutchinson" nl="Hutchinson">
       <province jpn="カンザス州" eng="Kansas" de="Kansas" fr="Kansas" es="Kansas" it="Kansas" nl="Kansas" />
       <longitude>-97.9266357421875</longitude>
       <latitude>38.056640625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="カンザスシティ" eng="Kansas City" de="Kansas City" fr="Kansas City" es="Kansas City" it="Kansas City" nl="Kansas City">
@@ -7187,56 +7460,28 @@
       <province jpn="カンザス州" eng="Kansas" de="Kansas" fr="Kansas" es="Kansas" it="Kansas" nl="Kansas" />
       <longitude>-96.56982421875</longitude>
       <latitude>39.1827392578125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="オレイサ" eng="Olathe" de="Olathe" fr="Olathe" es="Olathe" it="Olathe" nl="Olathe">
       <province jpn="カンザス州" eng="Kansas" de="Kansas" fr="Kansas" es="Kansas" it="Kansas" nl="Kansas" />
       <longitude>-94.8175048828125</longitude>
       <latitude>38.880615234375</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="サライナ" eng="Salina" de="Salina" fr="Salina" es="Salina" it="Salina" nl="Salina">
       <province jpn="カンザス州" eng="Kansas" de="Kansas" fr="Kansas" es="Kansas" it="Kansas" nl="Kansas" />
       <longitude>-97.6080322265625</longitude>
       <latitude>38.836669921875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ウィチタ" eng="Wichita" de="Wichita" fr="Wichita" es="Wichita" it="Wichita" nl="Wichita">
-      <province jpn="カンザス州" eng="Kansas" de="Kansas" fr="Kansas" es="Kansas" it="Kansas" nl="Kansas" />
-      <longitude>-97.3333740234375</longitude>
-      <latitude>37.6885986328125</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="フランクフォート" eng="Frankfort" de="Frankfort" fr="Frankfort" es="Fráncfort" it="Frankfort" nl="Frankfurt">
       <province jpn="ケンタッキー州" eng="Kentucky" de="Kentucky" fr="Kentucky" es="Kentucky" it="Kentucky" nl="Kentucky" />
       <longitude>-84.869384765625</longitude>
       <latitude>38.199462890625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ボーリング・グリーン" eng="Bowling Green" de="Bowling Green" fr="Bowling Green" es="Bowling Green" it="Bowling Green" nl="Bowling Green">
-      <province jpn="ケンタッキー州" eng="Kentucky" de="Kentucky" fr="Kentucky" es="Kentucky" it="Kentucky" nl="Kentucky" />
-      <longitude>-86.4404296875</longitude>
-      <latitude>36.9854736328125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="エリザベスタウン" eng="Elizabethtown" de="Elizabethtown" fr="Elizabethtown" es="Elizabethtown" it="Elizabethtown" nl="Elizabethtown">
-      <province jpn="ケンタッキー州" eng="Kentucky" de="Kentucky" fr="Kentucky" es="Kentucky" it="Kentucky" nl="Kentucky" />
-      <longitude>-85.858154296875</longitude>
-      <latitude>37.6885986328125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="レキシントン" eng="Lexington" de="Lexington" fr="Lexington" es="Lexington" it="Lexington" nl="Lexington">
-      <province jpn="ケンタッキー州" eng="Kentucky" de="Kentucky" fr="Kentucky" es="Kentucky" it="Kentucky" nl="Kentucky" />
-      <longitude>-84.473876953125</longitude>
-      <latitude>37.9852294921875</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ルイビル" eng="Louisville" de="Louisville" fr="Louisville" es="Louisville" it="Louisville" nl="Louisville">
@@ -7246,25 +7491,67 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="ボーリング・グリーン" eng="Bowling Green" de="Bowling Green" fr="Bowling Green" es="Bowling Green" it="Bowling Green" nl="Bowling Green">
+      <province jpn="ケンタッキー州" eng="Kentucky" de="Kentucky" fr="Kentucky" es="Kentucky" it="Kentucky" nl="Kentucky" />
+      <longitude>-86.4404296875</longitude>
+      <latitude>36.9854736328125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="エリザベスタウン" eng="Elizabethtown" de="Elizabethtown" fr="Elizabethtown" es="Elizabethtown" it="Elizabethtown" nl="Elizabethtown">
+      <province jpn="ケンタッキー州" eng="Kentucky" de="Kentucky" fr="Kentucky" es="Kentucky" it="Kentucky" nl="Kentucky" />
+      <longitude>-85.858154296875</longitude>
+      <latitude>37.6885986328125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="グラスゴー" eng="Glasgow" de="Glasgow" fr="Glasgow" es="Glasgow" it="Glasgow" nl="Glasgow">
+      <province jpn="ケンタッキー州" eng="Kentucky" de="Kentucky" fr="Kentucky" es="Kentucky" it="Kentucky" nl="Kentucky" />
+      <longitude>-85.881037</longitude>
+      <latitude>36.987723</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="レキシントン" eng="Lexington" de="Lexington" fr="Lexington" es="Lexington" it="Lexington" nl="Lexington">
+      <province jpn="ケンタッキー州" eng="Kentucky" de="Kentucky" fr="Kentucky" es="Kentucky" it="Kentucky" nl="Kentucky" />
+      <longitude>-84.473876953125</longitude>
+      <latitude>37.9852294921875</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="マディソンビル" eng="Madisonville" de="Madisonville" fr="Madisonville" es="Madisonville" it="Madisonville" nl="Madisonville">
+      <province jpn="ケンタッキー州" eng="Kentucky" de="Kentucky" fr="Kentucky" es="Kentucky" it="Kentucky" nl="Kentucky" />
+      <longitude>-87.495394</longitude>
+      <latitude>37.299316</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="オーエンズボロ" eng="Owensboro" de="Owensboro" fr="Owensboro" es="Owensboro" it="Owensboro" nl="Owensboro">
       <province jpn="ケンタッキー州" eng="Kentucky" de="Kentucky" fr="Kentucky" es="Kentucky" it="Kentucky" nl="Kentucky" />
       <longitude>-87.110595703125</longitude>
       <latitude>37.77099609375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="パドゥーカ" eng="Paducah" de="Paducah" fr="Paducah" es="Paducah" it="Paducah" nl="Paducah">
       <province jpn="ケンタッキー州" eng="Kentucky" de="Kentucky" fr="Kentucky" es="Kentucky" it="Kentucky" nl="Kentucky" />
       <longitude>-88.5992431640625</longitude>
       <latitude>37.078857421875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="パイクビル" eng="Pikeville" de="Pikeville" fr="Pikeville" es="Pikeville" it="Pikeville" nl="Pikeville">
+      <province jpn="ケンタッキー州" eng="Kentucky" de="Kentucky" fr="Kentucky" es="Kentucky" it="Kentucky" nl="Kentucky" />
+      <longitude>-82.521945</longitude>
+      <latitude>37.442615</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="リッチモンド" eng="Richmond" de="Richmond" fr="Richmond" es="Richmond" it="Richmond" nl="Richmond">
       <province jpn="ケンタッキー州" eng="Kentucky" de="Kentucky" fr="Kentucky" es="Kentucky" it="Kentucky" nl="Kentucky" />
       <longitude>-84.2926025390625</longitude>
       <latitude>37.7435302734375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="バトン・ルージュ" eng="Baton Rouge" de="Baton Rouge" fr="Bâton-Rouge" es="Baton Rouge" it="Baton Rouge" nl="Baton Rouge">
@@ -7274,39 +7561,53 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="ニューオーリンズ" eng="New Orleans" de="New Orleans" fr="La Nouvelle-Orléans" es="Nueva Orleans" it="New Orleans" nl="New Orleans">
+      <province jpn="ルイジアナ州" eng="Louisiana" de="Louisiana" fr="Louisiane" es="Luisiana" it="Louisiana" nl="Louisiana" />
+      <longitude>-90.0714111328125</longitude>
+      <latitude>29.9542236328125</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="アレクサンドリア" eng="Alexandria" de="Alexandria" fr="Alexandria" es="Alexandria" it="Alexandria" nl="Alexandria">
       <province jpn="ルイジアナ州" eng="Louisiana" de="Louisiana" fr="Louisiane" es="Luisiana" it="Louisiana" nl="Louisiana" />
       <longitude>-92.4444580078125</longitude>
       <latitude>31.31103515625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ホーマ" eng="Houma" de="Houma" fr="Houma" es="Houma" it="Houma" nl="Houma">
       <province jpn="ルイジアナ州" eng="Louisiana" de="Louisiana" fr="Louisiane" es="Luisiana" it="Louisiana" nl="Louisiana" />
       <longitude>-90.714111328125</longitude>
       <latitude>29.5916748046875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ラフェイエット" eng="Lafayette" de="Lafayette" fr="Lafayette" es="Lafayette" it="Lafayette" nl="Lafayette">
       <province jpn="ルイジアナ州" eng="Louisiana" de="Louisiana" fr="Louisiane" es="Luisiana" it="Louisiana" nl="Louisiana" />
       <longitude>-92.0159912109375</longitude>
       <latitude>30.223388671875</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="レイク・チャールズ" eng="Lake Charles" de="Lake Charles" fr="Lake Charles" es="Lake Charles" it="Lake Charles" nl="Lake Charles">
       <province jpn="ルイジアナ州" eng="Louisiana" de="Louisiana" fr="Louisiane" es="Luisiana" it="Louisiana" nl="Louisiana" />
       <longitude>-93.2135009765625</longitude>
       <latitude>30.223388671875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="モンロー" eng="Monroe" de="Monroe" fr="Monroe" es="Monroe" it="Monroe" nl="Monroe">
       <province jpn="ルイジアナ州" eng="Louisiana" de="Louisiana" fr="Louisiane" es="Luisiana" it="Louisiana" nl="Louisiana" />
       <longitude>-92.1148681640625</longitude>
       <latitude>32.508544921875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ナッキトッシュ" eng="Natchitoches" de="Natchitoches" fr="Natchitoches" es="Natchitoches" it="Natchitoches" nl="Natchitoches">
+      <province jpn="ルイジアナ州" eng="Louisiana" de="Louisiana" fr="Louisiane" es="Luisiana" it="Louisiana" nl="Louisiana" />
+      <longitude>-93.097609</longitude>
+      <latitude>31.715198</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ニューアイビーリア" eng="New Iberia" de="New Iberia" fr="La Nouvelle-Ibérie" es="Nueva Iberia" it="New Iberia" nl="New Iberia">
@@ -7316,11 +7617,11 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ニューオーリンズ" eng="New Orleans" de="New Orleans" fr="La Nouvelle-Orléans" es="Nueva Orleans" it="New Orleans" nl="New Orleans">
+	<city jpn="ラストン" eng="Ruston" de="Ruston" fr="Ruston" es="Ruston" it="Ruston" nl="Ruston">
       <province jpn="ルイジアナ州" eng="Louisiana" de="Louisiana" fr="Louisiane" es="Luisiana" it="Louisiana" nl="Louisiana" />
-      <longitude>-90.0714111328125</longitude>
-      <latitude>29.9542236328125</latitude>
-      <zoom1>6</zoom1>
+      <longitude>-92.700195</longitude>
+      <latitude>32.512857</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="シュリーブポート" eng="Shreveport" de="Shreveport" fr="Shreveport" es="Shreveport" it="Shreveport" nl="Shreveport">
@@ -7342,13 +7643,6 @@
       <longitude>-71.2847900390625</longitude>
       <latitude>41.9403076171875</latitude>
       <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ケンブリッジ" eng="Cambridge" de="Cambridge" fr="Cambridge" es="Cambridge" it="Cambridge" nl="Cambridge">
-      <province jpn="マサチューセッツ州" eng="Massachusetts" de="Massachusetts" fr="Massachusetts" es="Massachusetts" it="Massachusetts" nl="Massachusetts" />
-      <longitude>-71.103515625</longitude>
-      <latitude>42.374267578125</latitude>
-      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="フォール・リバー" eng="Fall River" de="Fall River" fr="Fall River" es="Fall River" it="Fall River" nl="Fall River">
@@ -7421,11 +7715,46 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="オーガスタ" eng="Augusta" de="Augusta" fr="Augusta" es="Augusta" it="Augusta" nl="Augusta">
+      <province jpn="メーン州" eng="Maine" de="Maine" fr="Maine" es="Maine" it="Maine" nl="Maine" />
+      <longitude>-69.7796630859375</longitude>
+      <latitude>44.307861328125</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ポートランド" eng="Portland" de="Portland" fr="Portland" es="Portland" it="Portland" nl="Portland">
+      <province jpn="メーン州" eng="Maine" de="Maine" fr="Maine" es="Maine" it="Maine" nl="Maine" />
+      <longitude>-70.2520751953125</longitude>
+      <latitude>43.65966796875</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="バンゴー" eng="Bangor" de="Bangor" fr="Bangor" es="Bangor" it="Bangor" nl="Bangor">
+      <province jpn="メーン州" eng="Maine" de="Maine" fr="Maine" es="Maine" it="Maine" nl="Maine" />
+      <longitude>-68.7744140625</longitude>
+      <latitude>44.7967529296875</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ブランズウィック" eng="Brunswick" de="Brunswick" fr="Brunswick" es="Brunswick" it="Brunswick" nl="Brunswick">
+      <province jpn="メーン州" eng="Maine" de="Maine" fr="Maine" es="Maine" it="Maine" nl="Maine" />
+      <longitude>-69.9609375</longitude>
+      <latitude>43.912353515625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ルイストン" eng="Lewiston" de="Lewiston" fr="Lewiston" es="Lewiston" it="Lewiston" nl="Lewiston">
+      <province jpn="メーン州" eng="Maine" de="Maine" fr="Maine" es="Maine" it="Maine" nl="Maine" />
+      <longitude>-70.213623046875</longitude>
+      <latitude>44.09912109375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="アナポリス" eng="Annapolis" de="Annapolis" fr="Annapolis" es="Annapolis" it="Annapolis" nl="Annapolis">
       <province jpn="メリーランド州" eng="Maryland" de="Maryland" fr="Maryland" es="Maryland" it="Maryland" nl="Maryland" />
       <longitude>-76.4923095703125</longitude>
       <latitude>38.9739990234375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ボルチモア" eng="Baltimore" de="Baltimore" fr="Baltimore" es="Baltimore" it="Baltimora" nl="Baltimore">
@@ -7446,70 +7775,35 @@
       <province jpn="メリーランド州" eng="Maryland" de="Maryland" fr="Maryland" es="Maryland" it="Maryland" nl="Maryland" />
       <longitude>-76.83837890625</longitude>
       <latitude>39.2376708984375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="カンバーランド" eng="Cumberland" de="Cumberland" fr="Cumberland" es="Cumberland" it="Cumberland" nl="Cumberland">
       <province jpn="メリーランド州" eng="Maryland" de="Maryland" fr="Maryland" es="Maryland" it="Maryland" nl="Maryland" />
       <longitude>-78.760986328125</longitude>
       <latitude>39.649658203125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ヘイガーズタウン" eng="Hagerstown" de="Hagerstown" fr="Hagerstown" es="Hagerstown" it="Hagerstown" nl="Hagerstown">
       <province jpn="メリーランド州" eng="Maryland" de="Maryland" fr="Maryland" es="Maryland" it="Maryland" nl="Maryland" />
       <longitude>-77.71728515625</longitude>
       <latitude>39.638671875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="レキシントン・パーク" eng="Lexington Park" de="Lexington Park" fr="Lexington Park" es="Lexington Park" it="Lexington Park" nl="Lexington Park">
       <province jpn="メリーランド州" eng="Maryland" de="Maryland" fr="Maryland" es="Maryland" it="Maryland" nl="Maryland" />
       <longitude>-76.453857421875</longitude>
       <latitude>38.265380859375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ソールズベリー" eng="Salisbury" de="Salisbury" fr="Salisbury" es="Salisbury" it="Salisbury" nl="Salisbury">
       <province jpn="メリーランド州" eng="Maryland" de="Maryland" fr="Maryland" es="Maryland" it="Maryland" nl="Maryland" />
       <longitude>-75.596923828125</longitude>
       <latitude>38.3587646484375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="オーガスタ" eng="Augusta" de="Augusta" fr="Augusta" es="Augusta" it="Augusta" nl="Augusta">
-      <province jpn="メーン州" eng="Maine" de="Maine" fr="Maine" es="Maine" it="Maine" nl="Maine" />
-      <longitude>-69.7796630859375</longitude>
-      <latitude>44.307861328125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="バンゴー" eng="Bangor" de="Bangor" fr="Bangor" es="Bangor" it="Bangor" nl="Bangor">
-      <province jpn="メーン州" eng="Maine" de="Maine" fr="Maine" es="Maine" it="Maine" nl="Maine" />
-      <longitude>-68.7744140625</longitude>
-      <latitude>44.7967529296875</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ブランズウィック" eng="Brunswick" de="Brunswick" fr="Brunswick" es="Brunswick" it="Brunswick" nl="Brunswick">
-      <province jpn="メーン州" eng="Maine" de="Maine" fr="Maine" es="Maine" it="Maine" nl="Maine" />
-      <longitude>-69.9609375</longitude>
-      <latitude>43.912353515625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ルイストン" eng="Lewiston" de="Lewiston" fr="Lewiston" es="Lewiston" it="Lewiston" nl="Lewiston">
-      <province jpn="メーン州" eng="Maine" de="Maine" fr="Maine" es="Maine" it="Maine" nl="Maine" />
-      <longitude>-70.213623046875</longitude>
-      <latitude>44.09912109375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ポートランド" eng="Portland" de="Portland" fr="Portland" es="Portland" it="Portland" nl="Portland">
-      <province jpn="メーン州" eng="Maine" de="Maine" fr="Maine" es="Maine" it="Maine" nl="Maine" />
-      <longitude>-70.2520751953125</longitude>
-      <latitude>43.65966796875</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ランシング" eng="Lansing" de="Lansing" fr="Lansing" es="Lansing" it="Lansing" nl="Lansing">
@@ -7517,6 +7811,13 @@
       <longitude>-84.55078125</longitude>
       <latitude>42.7313232421875</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="デトロイト" eng="Detroit" de="Detroit" fr="Détroit" es="Detroit" it="Detroit" nl="Detroit">
+      <province jpn="ミシガン州" eng="Michigan" de="Michigan" fr="Michigan" es="Michigan" it="Michigan" nl="Michigan" />
+      <longitude>-83.045654296875</longitude>
+      <latitude>42.330322265625</latitude>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="エードリアン" eng="Adrian" de="Adrian" fr="Adrian" es="Adrian" it="Adrian" nl="Adrian">
@@ -7537,20 +7838,27 @@
       <province jpn="ミシガン州" eng="Michigan" de="Michigan" fr="Michigan" es="Michigan" it="Michigan" nl="Michigan" />
       <longitude>-86.451416015625</longitude>
       <latitude>42.1160888671875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="デトロイト" eng="Detroit" de="Detroit" fr="Détroit" es="Detroit" it="Detroit" nl="Detroit">
+	<city jpn="シダー・スプリングス" eng="Cedar Springs" de="Cedar Springs" fr="Cedar Springs" es="Cedar Springs" it="Cedar Springs" nl="Cedar Springs">
       <province jpn="ミシガン州" eng="Michigan" de="Michigan" fr="Michigan" es="Michigan" it="Michigan" nl="Michigan" />
-      <longitude>-83.045654296875</longitude>
-      <latitude>42.330322265625</latitude>
-      <zoom1>6</zoom1>
+      <longitude>-85.663530</longitude>
+      <latitude>42.941373</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="フリント" eng="Flint" de="Flint" fr="Flint" es="Flint" it="Flint" nl="Flint">
       <province jpn="ミシガン州" eng="Michigan" de="Michigan" fr="Michigan" es="Michigan" it="Michigan" nl="Michigan" />
       <longitude>-83.682861328125</longitude>
       <latitude>43.011474609375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ゲーロード" eng="Gaylord" de="Gaylord" fr="Gaylord" es="Gaylord" it="Gaylord" nl="Gaylord">
+      <province jpn="ミシガン州" eng="Michigan" de="Michigan" fr="Michigan" es="Michigan" it="Michigan" nl="Michigan" />
+      <longitude>-84.675389</longitude>
+      <latitude>44.989377</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -7568,18 +7876,32 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="ホートン" eng="Houghton" de="Houghton" fr="Houghton" es="Houghton" it="Houghton" nl="Houghton">
+      <province jpn="ミシガン州" eng="Michigan" de="Michigan" fr="Michigan" es="Michigan" it="Michigan" nl="Michigan" />
+      <longitude>-88.556440</longitude>
+      <latitude>47.220165</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="ジャクソン" eng="Jackson" de="Jackson" fr="Jackson" es="Jackson" it="Jackson" nl="Jackson">
       <province jpn="ミシガン州" eng="Michigan" de="Michigan" fr="Michigan" es="Michigan" it="Michigan" nl="Michigan" />
       <longitude>-84.39697265625</longitude>
       <latitude>42.242431640625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="カラマズー" eng="Kalamazoo" de="Kalamazoo" fr="Kalamazoo" es="Kalamazoo" it="Kalamazoo" nl="Kalamazoo">
       <province jpn="ミシガン州" eng="Michigan" de="Michigan" fr="Michigan" es="Michigan" it="Michigan" nl="Michigan" />
       <longitude>-85.58349609375</longitude>
       <latitude>42.286376953125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	 <city jpn="マッキノー・シティ" eng="Mackinaw City" de="Mackinaw City" fr="Mackinaw City" es="Mackinaw City" it="Mackinaw City" nl="Mackinaw City">
+      <province jpn="ミシガン州" eng="Michigan" de="Michigan" fr="Michigan" es="Michigan" it="Michigan" nl="Michigan" />
+      <longitude>-84.738317</longitude>
+      <latitude>45.782118</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="マーケット" eng="Marquette" de="Marquette" fr="Marquette" es="Marquette" it="Marquette" nl="Marquette">
@@ -7600,13 +7922,20 @@
       <province jpn="ミシガン州" eng="Michigan" de="Michigan" fr="Michigan" es="Michigan" it="Michigan" nl="Michigan" />
       <longitude>-84.7650146484375</longitude>
       <latitude>43.59375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="マスキーゴン" eng="Muskegon" de="Muskegon" fr="Muskegon" es="Muskegon" it="Muskegon" nl="Muskegon">
       <province jpn="ミシガン州" eng="Michigan" de="Michigan" fr="Michigan" es="Michigan" it="Michigan" nl="Michigan" />
       <longitude>-86.2481689453125</longitude>
       <latitude>43.231201171875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ペトスキー" eng="Petoskey" de="Petoskey" fr="Petoskey" es="Petoskey" it="Petoskey" nl="Petoskey">
+      <province jpn="ミシガン州" eng="Michigan" de="Michigan" fr="Michigan" es="Michigan" it="Michigan" nl="Michigan" />
+      <longitude>-84.984913</longitude>
+      <latitude>45.370186</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -7614,7 +7943,7 @@
       <province jpn="ミシガン州" eng="Michigan" de="Michigan" fr="Michigan" es="Michigan" it="Michigan" nl="Michigan" />
       <longitude>-83.946533203125</longitude>
       <latitude>43.41796875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="スターリングハイツ" eng="Sterling Heights" de="Sterling Heights" fr="Sterling Heights" es="Sterling Heights" it="Sterling Heights" nl="Sterling Heights">
@@ -7628,7 +7957,14 @@
       <province jpn="ミシガン州" eng="Michigan" de="Michigan" fr="Michigan" es="Michigan" it="Michigan" nl="Michigan" />
       <longitude>-85.616455078125</longitude>
       <latitude>44.75830078125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ウェスト・ブランチ" eng="West Branch" de="West Branch" fr="West Branch" es="West Branch" it="West Branch" nl="West Branch">
+      <province jpn="ミシガン州" eng="Michigan" de="Michigan" fr="Michigan" es="Michigan" it="Michigan" nl="Michigan" />
+      <longitude>-84.244815</longitude>
+      <latitude>44.261086</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="セント・ポール" eng="Saint Paul" de="Saint Paul" fr="Saint Paul" es="Saint Paul" it="Saint Paul" nl="Saint Paul">
@@ -7636,6 +7972,13 @@
       <longitude>-93.0926513671875</longitude>
       <latitude>44.9395751953125</latitude>
       <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ミネアポリス" eng="Minneapolis" de="Minneapolis" fr="Minneapolis" es="Minneapolis" it="Minneapolis" nl="Minneapolis">
+      <province jpn="ミネソタ州" eng="Minnesota" de="Minnesota" fr="Minnesota" es="Minnesota" it="Minnesota" nl="Minnesota" />
+      <longitude>-93.262939453125</longitude>
+      <latitude>44.97802734375</latitude>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ブレーナード" eng="Brainerd" de="Brainerd" fr="Brainerd" es="Brainerd" it="Brainerd" nl="Brainerd">
@@ -7659,13 +8002,6 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ミネアポリス" eng="Minneapolis" de="Minneapolis" fr="Minneapolis" es="Minneapolis" it="Minneapolis" nl="Minneapolis">
-      <province jpn="ミネソタ州" eng="Minnesota" de="Minnesota" fr="Minnesota" es="Minnesota" it="Minnesota" nl="Minnesota" />
-      <longitude>-93.262939453125</longitude>
-      <latitude>44.97802734375</latitude>
-      <zoom1>7</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="ロチェスター" eng="Rochester" de="Rochester" fr="Rochester" es="Rochester" it="Rochester" nl="Rochester">
       <province jpn="ミネソタ州" eng="Minnesota" de="Minnesota" fr="Minnesota" es="Minnesota" it="Minnesota" nl="Minnesota" />
       <longitude>-92.4664306640625</longitude>
@@ -7678,83 +8014,6 @@
       <longitude>-94.1583251953125</longitude>
       <latitude>45.560302734375</latitude>
       <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ジェファソン・シティ" eng="Jefferson City" de="Jefferson City" fr="Jefferson City" es="Jefferson City" it="Jefferson City" nl="Jefferson City">
-      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
-      <longitude>-92.1697998046875</longitude>
-      <latitude>38.572998046875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ケープ・ジラードー" eng="Cape Girardeau" de="Cape Girardeau" fr="Cap-Girardeau" es="Cabo Girardeau" it="Cape Girardeau" nl="Cape Girardeau">
-      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
-      <longitude>-89.5166015625</longitude>
-      <latitude>37.3040771484375</latitude>
-      <zoom1>2</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="コロンビア" eng="Columbia" de="Columbia" fr="Columbia" es="Columbia" it="Columbia" nl="Columbia">
-      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
-      <longitude>-92.3291015625</longitude>
-      <latitude>38.946533203125</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="フローリッサント" eng="Florissant" de="Florissant" fr="Florissant" es="Florissant" it="Florissant" nl="Florissant">
-      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
-      <longitude>-90.318603515625</longitude>
-      <latitude>38.7872314453125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="インディペンデンス" eng="Independence" de="Independence" fr="Independence" es="Independence" it="Independence" nl="Independence">
-      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
-      <longitude>-94.4110107421875</longitude>
-      <latitude>39.08935546875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ジョプリン" eng="Joplin" de="Joplin" fr="Joplin" es="Joplin" it="Joplin" nl="Joplin">
-      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
-      <longitude>-94.5098876953125</longitude>
-      <latitude>37.078857421875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="カンザスシティ" eng="Kansas City" de="Kansas City" fr="Kansas City" es="Kansas City" it="Kansas City" nl="Kansas City">
-      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
-      <longitude>-94.5758056640625</longitude>
-      <latitude>39.0948486328125</latitude>
-      <zoom1>6</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="リーズ・サミット" eng="Lees Summit" de="Lee's Summit" fr="Lee's Summit" es="Lee's Summit" it="Lee's Summit" nl="Lee's Summit">
-      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
-      <longitude>-94.3780517578125</longitude>
-      <latitude>38.9080810546875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="セント・ジョゼフ" eng="Saint Joseph" de="Saint Joseph" fr="Saint Joseph" es="St. Joseph" it="Saint Joseph" nl="Sint Joseph">
-      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
-      <longitude>-94.844970703125</longitude>
-      <latitude>39.7650146484375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="セントルイス" eng="St. Louis" de="St. Louis" fr="Saint-Louis" es="San Luis" it="St. Louis" nl="Saint Louis">
-      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
-      <longitude>-90.19775390625</longitude>
-      <latitude>38.6224365234375</latitude>
-      <zoom1>7</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="スプリングフィールド" eng="Springfield" de="Springfield" fr="Springfield" es="Springfield" it="Springfield" nl="Springfield">
-      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
-      <longitude>-93.2958984375</longitude>
-      <latitude>37.210693359375</latitude>
-      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ジャクソン" eng="Jackson" de="Jackson" fr="Jackson" es="Jackson" it="Jackson" nl="Jackson">
@@ -7799,6 +8058,83 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="ジェファソン・シティ" eng="Jefferson City" de="Jefferson City" fr="Jefferson City" es="Jefferson City" it="Jefferson City" nl="Jefferson City">
+      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
+      <longitude>-92.1697998046875</longitude>
+      <latitude>38.572998046875</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="カンザスシティ" eng="Kansas City" de="Kansas City" fr="Kansas City" es="Kansas City" it="Kansas City" nl="Kansas City">
+      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
+      <longitude>-94.5758056640625</longitude>
+      <latitude>39.0948486328125</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ケープ・ジラードー" eng="Cape Girardeau" de="Cape Girardeau" fr="Cap-Girardeau" es="Cabo Girardeau" it="Cape Girardeau" nl="Cape Girardeau">
+      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
+      <longitude>-89.5166015625</longitude>
+      <latitude>37.3040771484375</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="コロンビア" eng="Columbia" de="Columbia" fr="Columbia" es="Columbia" it="Columbia" nl="Columbia">
+      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
+      <longitude>-92.3291015625</longitude>
+      <latitude>38.946533203125</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="フローリッサント" eng="Florissant" de="Florissant" fr="Florissant" es="Florissant" it="Florissant" nl="Florissant">
+      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
+      <longitude>-90.318603515625</longitude>
+      <latitude>38.7872314453125</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="インディペンデンス" eng="Independence" de="Independence" fr="Independence" es="Independence" it="Independence" nl="Independence">
+      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
+      <longitude>-94.4110107421875</longitude>
+      <latitude>39.08935546875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ジョプリン" eng="Joplin" de="Joplin" fr="Joplin" es="Joplin" it="Joplin" nl="Joplin">
+      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
+      <longitude>-94.5098876953125</longitude>
+      <latitude>37.078857421875</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="リーズ・サミット" eng="Lees Summit" de="Lee's Summit" fr="Lee's Summit" es="Lee's Summit" it="Lee's Summit" nl="Lee's Summit">
+      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
+      <longitude>-94.3780517578125</longitude>
+      <latitude>38.9080810546875</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="セント・ジョゼフ" eng="Saint Joseph" de="Saint Joseph" fr="Saint Joseph" es="St. Joseph" it="Saint Joseph" nl="Sint Joseph">
+      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
+      <longitude>-94.844970703125</longitude>
+      <latitude>39.7650146484375</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="スプリングフィールド" eng="Springfield" de="Springfield" fr="Springfield" es="Springfield" it="Springfield" nl="Springfield">
+      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
+      <longitude>-93.2958984375</longitude>
+      <latitude>37.210693359375</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="セントルイス" eng="St. Louis" de="St. Louis" fr="Saint-Louis" es="San Luis" it="St. Louis" nl="Saint Louis">
+      <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
+      <longitude>-90.19775390625</longitude>
+      <latitude>38.6224365234375</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="ヘレナ" eng="Helena" de="Helena" fr="Helena" es="Helena" it="Helena" nl="Helena">
       <province jpn="モンタナ州" eng="Montana" de="Montana" fr="Montana" es="Montana" it="Montana" nl="Montana" />
       <longitude>-112.0330810546875</longitude>
@@ -7834,123 +8170,18 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ローリー" eng="Raleigh" de="Raleigh" fr="Raleigh" es="Raleigh" it="Raleigh" nl="Raleigh">
-      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
-      <longitude>-78.6346435546875</longitude>
-      <latitude>35.771484375</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="アシュビル" eng="Asheville" de="Asheville" fr="Asheville" es="Asheville" it="Asheville" nl="Asheville">
-      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
-      <longitude>-82.55126953125</longitude>
-      <latitude>35.595703125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="チャペルヒル" eng="Chapel Hill" de="Chapel Hill" fr="Chapel Hill" es="Chapel Hill" it="Chapel Hill" nl="Chapel Hill">
-      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
-      <longitude>-79.0521240234375</longitude>
-      <latitude>35.9088134765625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="シャーロット" eng="Charlotte" de="Charlotte" fr="Charlotte" es="Charlotte" it="Charlotte" nl="Charlotte">
-      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
-      <longitude>-80.8428955078125</longitude>
-      <latitude>35.22216796875</latitude>
-      <zoom1>6</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="コンコード" eng="Concord" de="Concord" fr="Concord" es="Concord" it="Concord" nl="Concord">
-      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
-      <longitude>-80.5792236328125</longitude>
-      <latitude>35.4034423828125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ダラム" eng="Durham" de="Durham" fr="Durham" es="Durham" it="Durham" nl="Durham">
-      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
-      <longitude>-78.8983154296875</longitude>
-      <latitude>35.9912109375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ファイエットビル" eng="Fayetteville" de="Fayetteville" fr="Fayetteville" es="Fayetteville" it="Fayetteville" nl="Fayetteville">
-      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
-      <longitude>-78.8763427734375</longitude>
-      <latitude>35.0518798828125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="グリーンビル" eng="Greenville" de="Greenville" fr="Greenville" es="Greenville" it="Greenville" nl="Greenville">
-      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
-      <longitude>-77.36572265625</longitude>
-      <latitude>35.6121826171875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ヒッコリー" eng="Hickory" de="Hickory" fr="Hickory" es="Hickory" it="Hickory" nl="Hickory">
-      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
-      <longitude>-81.3372802734375</longitude>
-      <latitude>35.7330322265625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ジャクソンビル" eng="Jacksonville" de="Jacksonville" fr="Jacksonville" es="Jacksonville" it="Jacksonville" nl="Jacksonville">
-      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
-      <longitude>-77.4261474609375</longitude>
-      <latitude>34.749755859375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ロッキー・マウント" eng="Rocky Mount" de="Rocky Mount" fr="Rocky Mount" es="Rocky Mount" it="Rocky Mount" nl="Rocky Mount">
-      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
-      <longitude>-77.7886962890625</longitude>
-      <latitude>35.936279296875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ウィルミントン" eng="Wilmington" de="Wilmington" fr="Wilmington" es="Wilmington" it="Wilmington" nl="Wilmington">
-      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
-      <longitude>-77.9425048828125</longitude>
-      <latitude>34.222412109375</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ウィンストン・セーラム" eng="Winston-Salem" de="Winston-Salem" fr="Winston-Salem" es="Winston-Salem" it="Winston-Salem" nl="Winston-Salem">
-      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
-      <longitude>-80.244140625</longitude>
-      <latitude>36.0955810546875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ビズマーク" eng="Bismarck" de="Bismarck" fr="Bismarck" es="Bismarck" it="Bismarck" nl="Bismarck">
-      <province jpn="ノースダコタ州" eng="North Dakota" de="Norddakota" fr="Dakota du Nord" es="Dakota del Norte" it="Dakota del Nord" nl="Noord-Dakota" />
-      <longitude>-100.7830810546875</longitude>
-      <latitude>46.8072509765625</latitude>
-      <zoom1>6</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ファーゴ" eng="Fargo" de="Fargo" fr="Fargo" es="Fargo" it="Fargo" nl="Fargo">
-      <province jpn="ノースダコタ州" eng="North Dakota" de="Norddakota" fr="Dakota du Nord" es="Dakota del Norte" it="Dakota del Nord" nl="Noord-Dakota" />
-      <longitude>-96.7840576171875</longitude>
-      <latitude>46.8731689453125</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="グランド・フォークス" eng="Grand Forks" de="Grand Forks" fr="Grand Forks" es="Grand Forks" it="Grand Forks" nl="Grand Forks">
-      <province jpn="ノースダコタ州" eng="North Dakota" de="Norddakota" fr="Dakota du Nord" es="Dakota del Norte" it="Dakota del Nord" nl="Noord-Dakota" />
-      <longitude>-97.03125</longitude>
-      <latitude>47.92236328125</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="リンカーン" eng="Lincoln" de="Lincoln" fr="Lincoln" es="Lincoln" it="Lincoln" nl="Lincoln">
       <province jpn="ネブラスカ州" eng="Nebraska" de="Nebraska" fr="Nebraska" es="Nebraska" it="Nebraska" nl="Nebraska" />
       <longitude>-96.6632080078125</longitude>
       <latitude>40.7977294921875</latitude>
       <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="オマハ" eng="Omaha" de="Omaha" fr="Omaha" es="Omaha" it="Omaha" nl="Omaha">
+      <province jpn="ネブラスカ州" eng="Nebraska" de="Nebraska" fr="Nebraska" es="Nebraska" it="Nebraska" nl="Nebraska" />
+      <longitude>-95.9326171875</longitude>
+      <latitude>41.253662109375</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="グランド・アイランド" eng="Grand Island" de="Grand Island" fr="Grand Island" es="Grand Island" it="Grand Island" nl="Grand Island">
@@ -7967,11 +8198,39 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="オマハ" eng="Omaha" de="Omaha" fr="Omaha" es="Omaha" it="Omaha" nl="Omaha">
-      <province jpn="ネブラスカ州" eng="Nebraska" de="Nebraska" fr="Nebraska" es="Nebraska" it="Nebraska" nl="Nebraska" />
-      <longitude>-95.9326171875</longitude>
-      <latitude>41.253662109375</latitude>
-      <zoom1>1</zoom1>
+    <city jpn="カーソン・シティ" eng="Carson City" de="Carson City" fr="Carson City" es="Carson City" it="Carson City" nl="Carson City">
+      <province jpn="ネバダ州" eng="Nevada" de="Nevada" fr="Nevada" es="Nevada" it="Nevada" nl="Nevada" />
+      <longitude>-119.761962890625</longitude>
+      <latitude>39.1607666015625</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ラスベガス" eng="Las Vegas" de="Las Vegas" fr="Las Vegas" es="Las Vegas" it="Las Vegas" nl="Las Vegas">
+      <province jpn="ネバダ州" eng="Nevada" de="Nevada" fr="Nevada" es="Nevada" it="Nevada" nl="Nevada" />
+      <longitude>-115.1312255859375</longitude>
+      <latitude>36.1724853515625</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ヘンダーソン" eng="Henderson" de="Henderson" fr="Henderson" es="Henderson" it="Henderson" nl="Henderson">
+      <province jpn="ネバダ州" eng="Nevada" de="Nevada" fr="Nevada" es="Nevada" it="Nevada" nl="Nevada" />
+      <longitude>-114.9774169921875</longitude>
+      <latitude>36.03515625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ラフリン" eng="Laughlin" de="Laughlin" fr="Laughlin" es="Laughlin" it="Laughlin" nl="Laughlin">
+      <province jpn="ネバダ州" eng="Nevada" de="Nevada" fr="Nevada" es="Nevada" it="Nevada" nl="Nevada" />
+      <longitude>-114.5709228515625</longitude>
+      <latitude>35.167236328125</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="リノ" eng="Reno" de="Reno" fr="Reno" es="Reno" it="Reno" nl="Reno">
+      <province jpn="ネバダ州" eng="Nevada" de="Nevada" fr="Nevada" es="Nevada" it="Nevada" nl="Nevada" />
+      <longitude>-119.8114013671875</longitude>
+      <latitude>39.52880859375</latitude>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="コンコード" eng="Concord" de="Concord" fr="Concord" es="Concord" it="Concord" nl="Concord">
@@ -8009,6 +8268,13 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="ニューアーク" eng="Newark" de="Newark" fr="Newark" es="Newark" it="Newark" nl="Newark">
+      <province jpn="ニュージャージー州" eng="New Jersey" de="New Jersey" fr="New Jersey" es="Nueva Jersey" it="New Jersey" nl="New Jersey" />
+      <longitude>-74.168701171875</longitude>
+      <latitude>40.7318115234375</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="アトランティック・シティ" eng="Atlantic City" de="Atlantic City" fr="Atlantic City" es="Atlantic City" it="Atlantic City" nl="Atlantic City">
       <province jpn="ニュージャージー州" eng="New Jersey" de="New Jersey" fr="New Jersey" es="Nueva Jersey" it="New Jersey" nl="New Jersey" />
       <longitude>-74.42138671875</longitude>
@@ -8037,13 +8303,6 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ニューアーク" eng="Newark" de="Newark" fr="Newark" es="Newark" it="Newark" nl="Newark">
-      <province jpn="ニュージャージー州" eng="New Jersey" de="New Jersey" fr="New Jersey" es="Nueva Jersey" it="New Jersey" nl="New Jersey" />
-      <longitude>-74.168701171875</longitude>
-      <latitude>40.7318115234375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="パターソン" eng="Paterson" de="Paterson" fr="Paterson" es="Paterson" it="Paterson" nl="Paterson">
       <province jpn="ニュージャージー州" eng="New Jersey" de="New Jersey" fr="New Jersey" es="Nueva Jersey" it="New Jersey" nl="New Jersey" />
       <longitude>-74.168701171875</longitude>
@@ -8063,6 +8322,13 @@
       <longitude>-75.025634765625</longitude>
       <latitude>39.48486328125</latitude>
       <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ロズウェル" eng="Roswell" de="Roswell" fr="Roswell" es="Roswell" it="Roswell" nl="Roswell">
+      <province jpn="ニューメキシコ州" eng="New Mexico" de="New Mexico" fr="Nouveau-Mexique" es="Nuevo México" it="Nuovo Messico" nl="New Mexico" />
+      <longitude>-104.5184326171875</longitude>
+      <latitude>33.3929443359375</latitude>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="サンタフェ" eng="Santa Fe" de="Santa Fe" fr="Santa Fe" es="Santa Fe" it="Santa Fe" nl="Santa Fe">
@@ -8086,53 +8352,18 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ロズウェル" eng="Roswell" de="Roswell" fr="Roswell" es="Roswell" it="Roswell" nl="Roswell">
-      <province jpn="ニューメキシコ州" eng="New Mexico" de="New Mexico" fr="Nouveau-Mexique" es="Nuevo México" it="Nuovo Messico" nl="New Mexico" />
-      <longitude>-104.5184326171875</longitude>
-      <latitude>33.3929443359375</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="カーソン・シティ" eng="Carson City" de="Carson City" fr="Carson City" es="Carson City" it="Carson City" nl="Carson City">
-      <province jpn="ネバダ州" eng="Nevada" de="Nevada" fr="Nevada" es="Nevada" it="Nevada" nl="Nevada" />
-      <longitude>-119.761962890625</longitude>
-      <latitude>39.1607666015625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ヘンダーソン" eng="Henderson" de="Henderson" fr="Henderson" es="Henderson" it="Henderson" nl="Henderson">
-      <province jpn="ネバダ州" eng="Nevada" de="Nevada" fr="Nevada" es="Nevada" it="Nevada" nl="Nevada" />
-      <longitude>-114.9774169921875</longitude>
-      <latitude>36.03515625</latitude>
-      <zoom1>2</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ラスベガス" eng="Las Vegas" de="Las Vegas" fr="Las Vegas" es="Las Vegas" it="Las Vegas" nl="Las Vegas">
-      <province jpn="ネバダ州" eng="Nevada" de="Nevada" fr="Nevada" es="Nevada" it="Nevada" nl="Nevada" />
-      <longitude>-115.1312255859375</longitude>
-      <latitude>36.1724853515625</latitude>
-      <zoom1>6</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ラフリン" eng="Laughlin" de="Laughlin" fr="Laughlin" es="Laughlin" it="Laughlin" nl="Laughlin">
-      <province jpn="ネバダ州" eng="Nevada" de="Nevada" fr="Nevada" es="Nevada" it="Nevada" nl="Nevada" />
-      <longitude>-114.5709228515625</longitude>
-      <latitude>35.167236328125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="リノ" eng="Reno" de="Reno" fr="Reno" es="Reno" it="Reno" nl="Reno">
-      <province jpn="ネバダ州" eng="Nevada" de="Nevada" fr="Nevada" es="Nevada" it="Nevada" nl="Nevada" />
-      <longitude>-119.8114013671875</longitude>
-      <latitude>39.52880859375</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="オールバニー" eng="Albany" de="Albany" fr="Albany" es="Albany" it="Albany" nl="Albany">
       <province jpn="ニューヨーク州" eng="New York" de="New York" fr="New York" es="Nueva York" it="New York" nl="New York" />
       <longitude>-73.751220703125</longitude>
       <latitude>42.64892578125</latitude>
       <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ニューヨーク" eng="New York" de="New York City" fr="New York" es="Nueva York" it="New York" nl="New York City">
+      <province jpn="ニューヨーク州" eng="New York" de="New York" fr="New York" es="Nueva York" it="New York" nl="New York" />
+      <longitude>-74.00390625</longitude>
+      <latitude>40.7098388671875</latitude>
+      <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ビンガムトン" eng="Binghamton" de="Binghamton" fr="Binghamton" es="Binghamton" it="Binghamton" nl="Binghamton">
@@ -8182,13 +8413,6 @@
       <longitude>-74.42138671875</longitude>
       <latitude>41.4404296875</latitude>
       <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ニューヨーク" eng="New York" de="New York City" fr="New York" es="Nueva York" it="New York" nl="New York City">
-      <province jpn="ニューヨーク州" eng="New York" de="New York" fr="New York" es="Nueva York" it="New York" nl="New York" />
-      <longitude>-74.00390625</longitude>
-      <latitude>40.7098388671875</latitude>
-      <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ナイアガラ・フォールズ" eng="Niagara Falls" de="Niagara Falls" fr="Niagara Falls" es="Cataratas del Niágara" it="Niagara Falls" nl="Niagara Falls">
@@ -8294,6 +8518,118 @@
       <longitude>-73.89404296875</longitude>
       <latitude>40.9295654296875</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ローリー" eng="Raleigh" de="Raleigh" fr="Raleigh" es="Raleigh" it="Raleigh" nl="Raleigh">
+      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
+      <longitude>-78.6346435546875</longitude>
+      <latitude>35.771484375</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="シャーロット" eng="Charlotte" de="Charlotte" fr="Charlotte" es="Charlotte" it="Charlotte" nl="Charlotte">
+      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
+      <longitude>-80.8428955078125</longitude>
+      <latitude>35.22216796875</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="アシュビル" eng="Asheville" de="Asheville" fr="Asheville" es="Asheville" it="Asheville" nl="Asheville">
+      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
+      <longitude>-82.55126953125</longitude>
+      <latitude>35.595703125</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="チャペルヒル" eng="Chapel Hill" de="Chapel Hill" fr="Chapel Hill" es="Chapel Hill" it="Chapel Hill" nl="Chapel Hill">
+      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
+      <longitude>-79.0521240234375</longitude>
+      <latitude>35.9088134765625</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="コンコード" eng="Concord" de="Concord" fr="Concord" es="Concord" it="Concord" nl="Concord">
+      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
+      <longitude>-80.5792236328125</longitude>
+      <latitude>35.4034423828125</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ダラム" eng="Durham" de="Durham" fr="Durham" es="Durham" it="Durham" nl="Durham">
+      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
+      <longitude>-78.8983154296875</longitude>
+      <latitude>35.9912109375</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ファイエットビル" eng="Fayetteville" de="Fayetteville" fr="Fayetteville" es="Fayetteville" it="Fayetteville" nl="Fayetteville">
+      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
+      <longitude>-78.8763427734375</longitude>
+      <latitude>35.0518798828125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="グリーンビル" eng="Greenville" de="Greenville" fr="Greenville" es="Greenville" it="Greenville" nl="Greenville">
+      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
+      <longitude>-77.36572265625</longitude>
+      <latitude>35.6121826171875</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ヒッコリー" eng="Hickory" de="Hickory" fr="Hickory" es="Hickory" it="Hickory" nl="Hickory">
+      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
+      <longitude>-81.3372802734375</longitude>
+      <latitude>35.7330322265625</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ジャクソンビル" eng="Jacksonville" de="Jacksonville" fr="Jacksonville" es="Jacksonville" it="Jacksonville" nl="Jacksonville">
+      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
+      <longitude>-77.4261474609375</longitude>
+      <latitude>34.749755859375</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ロッキー・マウント" eng="Rocky Mount" de="Rocky Mount" fr="Rocky Mount" es="Rocky Mount" it="Rocky Mount" nl="Rocky Mount">
+      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
+      <longitude>-77.7886962890625</longitude>
+      <latitude>35.936279296875</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ウィルミントン" eng="Wilmington" de="Wilmington" fr="Wilmington" es="Wilmington" it="Wilmington" nl="Wilmington">
+      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
+      <longitude>-77.9425048828125</longitude>
+      <latitude>34.222412109375</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ウィンストン・セーラム" eng="Winston-Salem" de="Winston-Salem" fr="Winston-Salem" es="Winston-Salem" it="Winston-Salem" nl="Winston-Salem">
+      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
+      <longitude>-80.244140625</longitude>
+      <latitude>36.0955810546875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ビズマーク" eng="Bismarck" de="Bismarck" fr="Bismarck" es="Bismarck" it="Bismarck" nl="Bismarck">
+      <province jpn="ノースダコタ州" eng="North Dakota" de="Norddakota" fr="Dakota du Nord" es="Dakota del Norte" it="Dakota del Nord" nl="Noord-Dakota" />
+      <longitude>-100.7830810546875</longitude>
+      <latitude>46.8072509765625</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ファーゴ" eng="Fargo" de="Fargo" fr="Fargo" es="Fargo" it="Fargo" nl="Fargo">
+      <province jpn="ノースダコタ州" eng="North Dakota" de="Norddakota" fr="Dakota du Nord" es="Dakota del Norte" it="Dakota del Nord" nl="Noord-Dakota" />
+      <longitude>-96.7840576171875</longitude>
+      <latitude>46.8731689453125</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="グランド・フォークス" eng="Grand Forks" de="Grand Forks" fr="Grand Forks" es="Grand Forks" it="Grand Forks" nl="Grand Forks">
+      <province jpn="ノースダコタ州" eng="North Dakota" de="Norddakota" fr="Dakota du Nord" es="Dakota del Norte" it="Dakota del Nord" nl="Noord-Dakota" />
+      <longitude>-97.03125</longitude>
+      <latitude>47.92236328125</latitude>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="コロンバス" eng="Columbus" de="Columbus" fr="Columbus" es="Columbus" it="Columbus" nl="Columbus">
@@ -8478,6 +8814,13 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="ポートランド" eng="Portland" de="Portland" fr="Portland" es="Portland" it="Portland" nl="Portland">
+      <province jpn="オレゴン州" eng="Oregon" de="Oregon" fr="Oregon" es="Oregón" it="Oregon" nl="Oregon" />
+      <longitude>-122.67333984375</longitude>
+      <latitude>45.5218505859375</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="ベンド" eng="Bend" de="Bend" fr="Bend" es="Bend" it="Bend" nl="Bend">
       <province jpn="オレゴン州" eng="Oregon" de="Oregon" fr="Oregon" es="Oregón" it="Oregon" nl="Oregon" />
       <longitude>-121.31103515625</longitude>
@@ -8506,18 +8849,18 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ポートランド" eng="Portland" de="Portland" fr="Portland" es="Portland" it="Portland" nl="Portland">
-      <province jpn="オレゴン州" eng="Oregon" de="Oregon" fr="Oregon" es="Oregón" it="Oregon" nl="Oregon" />
-      <longitude>-122.67333984375</longitude>
-      <latitude>45.5218505859375</latitude>
-      <zoom1>6</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="ハリスバーグ" eng="Harrisburg" de="Harrisburg" fr="Harrisburg" es="Harrisburg" it="Harrisburg" nl="Harrisburg">
       <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
       <longitude>-76.88232421875</longitude>
       <latitude>40.2703857421875</latitude>
       <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="フィラデルフィア" eng="Philadelphia" de="Philadelphia" fr="Philadelphie" es="Filadelfia" it="Filadelfia" nl="Philadelphia">
+      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
+      <longitude>-75.1629638671875</longitude>
+      <latitude>39.9517822265625</latitude>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アレンタウン" eng="Allentown" de="Allentown" fr="Allentown" es="Allentown" it="Allentown" nl="Allentown">
@@ -8574,13 +8917,6 @@
       <longitude>-80.343017578125</longitude>
       <latitude>41.0009765625</latitude>
       <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="フィラデルフィア" eng="Philadelphia" de="Philadelphia" fr="Philadelphie" es="Filadelfia" it="Filadelfia" nl="Philadelphia">
-      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
-      <longitude>-75.1629638671875</longitude>
-      <latitude>39.9517822265625</latitude>
-      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ピッツバーグ" eng="Pittsburgh" de="Pittsburgh" fr="Pittsburgh" es="Pittsburgh" it="Pittsburgh" nl="Pittsburgh">
@@ -8723,18 +9059,18 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ラピッド・シティ" eng="Rapid City" de="Rapid City" fr="Rapid City" es="Rapid City" it="Rapid City" nl="Rapid City">
-      <province jpn="サウスダコタ州" eng="South Dakota" de="Süddakota" fr="Dakota du Sud" es="Dakota del Sur" it="Dakota del Sud" nl="Zuid-Dakota" />
-      <longitude>-103.2275390625</longitude>
-      <latitude>44.0771484375</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="スー・フォールズ" eng="Sioux Falls" de="Sioux Falls" fr="Sioux Falls" es="Sioux Falls" it="Sioux Falls" nl="Sioux Falls">
       <province jpn="サウスダコタ州" eng="South Dakota" de="Süddakota" fr="Dakota du Sud" es="Dakota del Sur" it="Dakota del Sud" nl="Zuid-Dakota" />
       <longitude>-96.6961669921875</longitude>
       <latitude>43.5498046875</latitude>
       <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ラピッド・シティ" eng="Rapid City" de="Rapid City" fr="Rapid City" es="Rapid City" it="Rapid City" nl="Rapid City">
+      <province jpn="サウスダコタ州" eng="South Dakota" de="Süddakota" fr="Dakota du Sud" es="Dakota del Sur" it="Dakota del Sud" nl="Zuid-Dakota" />
+      <longitude>-103.2275390625</longitude>
+      <latitude>44.0771484375</latitude>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ナッシュビル" eng="Nashville" de="Nashville" fr="Nashville" es="Nashville" it="Nashville" nl="Nashville">
@@ -8828,6 +9164,13 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="ヒューストン" eng="Houston" de="Houston" fr="Houston" es="Houston" it="Houston" nl="Houston">
+      <province jpn="テキサス州" eng="Texas" de="Texas" fr="Texas" es="Texas" it="Texas" nl="Texas" />
+      <longitude>-95.361328125</longitude>
+      <latitude>29.761962890625</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="アビリーン" eng="Abilene" de="Abilene" fr="Abilene" es="Abilene" it="Abilene" nl="Abilene">
       <province jpn="テキサス州" eng="Texas" de="Texas" fr="Texas" es="Texas" it="Texas" nl="Texas" />
       <longitude>-99.7283935546875</longitude>
@@ -8903,13 +9246,6 @@
       <longitude>-97.31689453125</longitude>
       <latitude>32.7227783203125</latitude>
       <zoom1>2</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ヒューストン" eng="Houston" de="Houston" fr="Houston" es="Houston" it="Houston" nl="Houston">
-      <province jpn="テキサス州" eng="Texas" de="Texas" fr="Texas" es="Texas" it="Texas" nl="Texas" />
-      <longitude>-95.361328125</longitude>
-      <latitude>29.761962890625</latitude>
-      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="キリーン" eng="Killeen" de="Killeen" fr="Killeen" es="Killeen" it="Killeen" nl="Killeen">
@@ -9080,11 +9416,46 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="モントピリア" eng="Montpelier" de="Montpelier" fr="Montpelier" es="Montpelier" it="Montpelier" nl="Montpelier">
+      <province jpn="バーモント州" eng="Vermont" de="Vermont" fr="Vermont" es="Vermont" it="Vermont" nl="Vermont" />
+      <longitude>-72.57568359375</longitude>
+      <latitude>44.2584228515625</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="バーリントン" eng="Burlington" de="Burlington" fr="Burlington" es="Burlington" it="Burlington" nl="Burlington">
+      <province jpn="バーモント州" eng="Vermont" de="Vermont" fr="Vermont" es="Vermont" it="Vermont" nl="Vermont" />
+      <longitude>-73.2073974609375</longitude>
+      <latitude>44.47265625</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ベニントン" eng="Bennington" de="Bennington" fr="Bennington" es="Bennington" it="Bennington" nl="Bennington">
+      <province jpn="バーモント州" eng="Vermont" de="Vermont" fr="Vermont" es="Vermont" it="Vermont" nl="Vermont" />
+      <longitude>-73.1964111328125</longitude>
+      <latitude>42.8741455078125</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ラトランド" eng="Rutland" de="Rutland" fr="Rutland" es="Rutland" it="Rutland" nl="Rutland">
+      <province jpn="バーモント州" eng="Vermont" de="Vermont" fr="Vermont" es="Vermont" it="Vermont" nl="Vermont" />
+      <longitude>-72.97119140625</longitude>
+      <latitude>43.6102294921875</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="リッチモンド" eng="Richmond" de="Richmond" fr="Richmond" es="Richmond" it="Richmond" nl="Richmond">
       <province jpn="バージニア州" eng="Virginia" de="Virginia" fr="Virginie" es="Virginia" it="Virginia" nl="Virginia" />
       <longitude>-77.4591064453125</longitude>
       <latitude>37.55126953125</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="バージニア・ビーチ" eng="Virginia Beach" de="Virginia Beach" fr="Virginia Beach" es="Virginia Beach" it="Virginia Beach" nl="Virginia Beach">
+      <province jpn="バージニア州" eng="Virginia" de="Virginia" fr="Virginie" es="Virginia" it="Virginia" nl="Virginia" />
+      <longitude>-75.9759521484375</longitude>
+      <latitude>36.84814453125</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アレクサンドリア" eng="Alexandria" de="Alexandria" fr="Alexandria" es="Alexandria" it="Alexandria" nl="Alexandria">
@@ -9129,46 +9500,18 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="バージニア・ビーチ" eng="Virginia Beach" de="Virginia Beach" fr="Virginia Beach" es="Virginia Beach" it="Virginia Beach" nl="Virginia Beach">
-      <province jpn="バージニア州" eng="Virginia" de="Virginia" fr="Virginie" es="Virginia" it="Virginia" nl="Virginia" />
-      <longitude>-75.9759521484375</longitude>
-      <latitude>36.84814453125</latitude>
-      <zoom1>2</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="モントピリア" eng="Montpelier" de="Montpelier" fr="Montpelier" es="Montpelier" it="Montpelier" nl="Montpelier">
-      <province jpn="バーモント州" eng="Vermont" de="Vermont" fr="Vermont" es="Vermont" it="Vermont" nl="Vermont" />
-      <longitude>-72.57568359375</longitude>
-      <latitude>44.2584228515625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ベニントン" eng="Bennington" de="Bennington" fr="Bennington" es="Bennington" it="Bennington" nl="Bennington">
-      <province jpn="バーモント州" eng="Vermont" de="Vermont" fr="Vermont" es="Vermont" it="Vermont" nl="Vermont" />
-      <longitude>-73.1964111328125</longitude>
-      <latitude>42.8741455078125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="バーリントン" eng="Burlington" de="Burlington" fr="Burlington" es="Burlington" it="Burlington" nl="Burlington">
-      <province jpn="バーモント州" eng="Vermont" de="Vermont" fr="Vermont" es="Vermont" it="Vermont" nl="Vermont" />
-      <longitude>-73.2073974609375</longitude>
-      <latitude>44.47265625</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ラトランド" eng="Rutland" de="Rutland" fr="Rutland" es="Rutland" it="Rutland" nl="Rutland">
-      <province jpn="バーモント州" eng="Vermont" de="Vermont" fr="Vermont" es="Vermont" it="Vermont" nl="Vermont" />
-      <longitude>-72.97119140625</longitude>
-      <latitude>43.6102294921875</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="オリンピア" eng="Olympia" de="Olympia" fr="Olympia" es="Olympia" it="Olympia" nl="Olympia">
       <province jpn="ワシントン州" eng="Washington" de="Washington" fr="Washington" es="Washington" it="Washington" nl="Washington" />
       <longitude>-122.8985595703125</longitude>
       <latitude>47.0379638671875</latitude>
       <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="シアトル" eng="Seattle" de="Seattle" fr="Seattle" es="Seattle" it="Seattle" nl="Seattle">
+      <province jpn="ワシントン州" eng="Washington" de="Washington" fr="Washington" es="Washington" it="Washington" nl="Washington" />
+      <longitude>-122.3272705078125</longitude>
+      <latitude>47.603759765625</latitude>
+      <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ベリンハム" eng="Bellingham" de="Bellingham" fr="Bellingham" es="Bellingham" it="Bellingham" nl="Bellingham">
@@ -9197,13 +9540,6 @@
       <longitude>-123.4259033203125</longitude>
       <latitude>48.1146240234375</latitude>
       <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="シアトル" eng="Seattle" de="Seattle" fr="Seattle" es="Seattle" it="Seattle" nl="Seattle">
-      <province jpn="ワシントン州" eng="Washington" de="Washington" fr="Washington" es="Washington" it="Washington" nl="Washington" />
-      <longitude>-122.3272705078125</longitude>
-      <latitude>47.603759765625</latitude>
-      <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="タコマ" eng="Tacoma" de="Tacoma" fr="Tacoma" es="Tacoma" it="Tacoma" nl="Tacoma">
@@ -9238,69 +9574,6 @@
       <province jpn="ワシントン州" eng="Washington" de="Washington" fr="Washington" es="Washington" it="Washington" nl="Washington" />
       <longitude>-122.135009765625</longitude>
       <latitude>47.647705078125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="マディソン" eng="Madison" de="Madison" fr="Madison" es="Madison" it="Madison" nl="Madison">
-      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
-      <longitude>-89.395751953125</longitude>
-      <latitude>43.0718994140625</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="アップルトン" eng="Appleton" de="Appleton" fr="Appleton" es="Appleton" it="Appleton" nl="Appleton">
-      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
-      <longitude>-88.4124755859375</longitude>
-      <latitude>44.2584228515625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="オー・クレア" eng="Eau Claire" de="Eau Claire" fr="Eau Claire" es="Eau Claire" it="Eau Claire" nl="Eau Claire">
-      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
-      <longitude>-91.494140625</longitude>
-      <latitude>44.8077392578125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="フォン・デュ・ラク" eng="Fond du Lac" de="Fond du Lac" fr="Fond du Lac" es="Fond du Lac" it="Fond du Lac" nl="Fond du Lac">
-      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
-      <longitude>-88.4454345703125</longitude>
-      <latitude>43.76953125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="グリーン・ベイ" eng="Green Bay" de="Green Bay" fr="Green Bay" es="Green Bay" it="Green Bay" nl="Green Bay">
-      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
-      <longitude>-88.0169677734375</longitude>
-      <latitude>44.5166015625</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ラ・クロス" eng="La Crosse" de="La Crosse" fr="La Crosse" es="La Crosse" it="La Crosse" nl="La Crosse">
-      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
-      <longitude>-91.2359619140625</longitude>
-      <latitude>43.7969970703125</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ミルウォーキー" eng="Milwaukee" de="Milwaukee" fr="Milwaukee" es="Milwaukee" it="Milwaukee" nl="Milwaukee">
-      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
-      <longitude>-87.901611328125</longitude>
-      <latitude>43.033447265625</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ラシーン" eng="Racine" de="Racine" fr="Racine" es="Racine" it="Racine" nl="Racine">
-      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
-      <longitude>-87.78076171875</longitude>
-      <latitude>42.725830078125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="シボイガン" eng="Sheboygan" de="Sheboygan" fr="Sheboygan" es="Sheboygan" it="Sheboygan" nl="Sheboygan">
-      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
-      <longitude>-87.7093505859375</longitude>
-      <latitude>43.74755859375</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -9343,6 +9616,69 @@
       <province jpn="ウェストバージニア州" eng="West Virginia" de="West Virginia" fr="Virginie Occidentale" es="Virginia Occidental" it="Virginia Occidentale" nl="West Virginia" />
       <longitude>-80.716552734375</longitude>
       <latitude>40.0616455078125</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="マディソン" eng="Madison" de="Madison" fr="Madison" es="Madison" it="Madison" nl="Madison">
+      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
+      <longitude>-89.395751953125</longitude>
+      <latitude>43.0718994140625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ミルウォーキー" eng="Milwaukee" de="Milwaukee" fr="Milwaukee" es="Milwaukee" it="Milwaukee" nl="Milwaukee">
+      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
+      <longitude>-87.901611328125</longitude>
+      <latitude>43.033447265625</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="アップルトン" eng="Appleton" de="Appleton" fr="Appleton" es="Appleton" it="Appleton" nl="Appleton">
+      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
+      <longitude>-88.4124755859375</longitude>
+      <latitude>44.2584228515625</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="オー・クレア" eng="Eau Claire" de="Eau Claire" fr="Eau Claire" es="Eau Claire" it="Eau Claire" nl="Eau Claire">
+      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
+      <longitude>-91.494140625</longitude>
+      <latitude>44.8077392578125</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="フォン・デュ・ラク" eng="Fond du Lac" de="Fond du Lac" fr="Fond du Lac" es="Fond du Lac" it="Fond du Lac" nl="Fond du Lac">
+      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
+      <longitude>-88.4454345703125</longitude>
+      <latitude>43.76953125</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="グリーン・ベイ" eng="Green Bay" de="Green Bay" fr="Green Bay" es="Green Bay" it="Green Bay" nl="Green Bay">
+      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
+      <longitude>-88.0169677734375</longitude>
+      <latitude>44.5166015625</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ラ・クロス" eng="La Crosse" de="La Crosse" fr="La Crosse" es="La Crosse" it="La Crosse" nl="La Crosse">
+      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
+      <longitude>-91.2359619140625</longitude>
+      <latitude>43.7969970703125</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ラシーン" eng="Racine" de="Racine" fr="Racine" es="Racine" it="Racine" nl="Racine">
+      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
+      <longitude>-87.78076171875</longitude>
+      <latitude>42.725830078125</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="シボイガン" eng="Sheboygan" de="Sheboygan" fr="Sheboygan" es="Sheboygan" it="Sheboygan" nl="Sheboygan">
+      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
+      <longitude>-87.7093505859375</longitude>
+      <latitude>43.74755859375</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -11815,7 +12151,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ラトル・デ・カロル" eng="La Tor de Querol" de="Latour-de-Carol" fr="Le Barcarès" es="La Torre de Querol" it="Latour-de-Carol" nl="Latour-de-Carol">
+    <city jpn="ラトル・デ・カロル" eng="La Tor de Querol" de="Latour-de-Carol" fr="Latour-de-Carol" es="La Torre de Querol" it="Latour-de-Carol" nl="Latour-de-Carol">
       <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
       <longitude>1.880883</longitude>
       <latitude>42.46228</latitude>
@@ -11889,13 +12225,6 @@
       <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
       <longitude>2.994674</longitude>
       <latitude>43.15541</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="オセジャ" eng="Oceja" de="Osséja" fr="Osséja" es="Oceja" it="Osséja" nl="Osséja">
-      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
-      <longitude>1.975731</longitude>
-      <latitude>42.413877</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -19508,6 +19837,13 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="pb2007's Lair" eng="pb2007's Lair" de="pb2007's Lair" fr="pb2007's Lair" es="pb2007's Lair" it="pb2007's Lair" nl="pb2007's Lair">
+      <province jpn="Republic of Chorus Kid" eng="Republic of Chorus Kid" de="Republic of Chorus Kid" fr="Republic of Chorus Kid" es="Republic of Chorus Kid" it="Republic of Chorus Kid" nl="Republic of Chorus Kid" />
+      <longitude>18.4075927734375</longitude>
+      <latitude>43.8519287109375</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
   </country>
   <country>
     <name jpn="ボツワナ" eng="Botswana" de="Botswana" fr="Botswana" es="Botswana" it="Botswana" nl="Botswana" />
@@ -20997,45 +21333,234 @@
   <country>
     <name jpn="中国" eng="China" de="China" fr="Chine" es="China" it="Cina" nl="China" />
     <city jpn="北京" eng="Beijing" de="Peking" fr="Pékin" es="Pekín" it="Pechino" nl="Beijing">
-      <province jpn="北京市" eng="Beijing" de="Peking" fr="Pékin" es="Pekín" it="Pechino" nl="Beijing" />
+      <province jpn="北京都" eng="Beijing" de="Peking" fr="Pékin" es="Pekín" it="Pechino" nl="Beijing" />
       <longitude>116.43310546875</longitude>
       <latitude>39.913330078125</latitude>
+      <zoom1>9</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="合肥市" eng="Hefei" de="Hefei" fr="Hefei" es="Hefei" it="Hefei" nl="Hefei">
+      <province jpn="安徽省" eng="Anhui" de="Anhui" fr="Anhui" es="Anhui" it="Anhui" nl="Anhui" />
+      <longitude>117.248987</longitude>
+      <latitude>31.698550</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="重慶市" eng="Chongqing" de="Chongqing" fr="Chongqing" es="Chongqing" it="Chongqing" nl="Chongqing">
+      <province jpn="重慶都" eng="Chongqing" de="Chongqing" fr="Chongqing" es="Chongqing" it="Chongqing" nl="Chongqing" />
+      <longitude>106.806554</longitude>
+      <latitude>29.522671</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="広州" eng="Guangzhou" de="Guangzhou" fr="Canton" es="Cantón" it="Guangzhou" nl="Kanton">
+	<city jpn="福州市" eng="Fuzhou" de="Fuzhou" fr="Fuzhou" es="Fuzhou" it="Fuzhou" nl="Fuzhou">
+      <province jpn="福建省" eng="Fujian" de="Fujian" fr="Fujian" es="Fujian" it="Fujian" nl="Fujian" />
+      <longitude>119.229725</longitude>
+      <latitude>26.130799</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="蘭州市" eng="Lanzhou" de="Lanzhou" fr="Lanzhou" es="Lanzhou" it="Lanzhou" nl="Lanzhou">
+      <province jpn="甘粛省" eng="Gansu" de="Gansu" fr="Gansu" es="Gansu" it="Gansu" nl="Gansu" />
+      <longitude>103.808428</longitude>
+      <latitude>36.250327</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="広州市" eng="Guangzhou" de="Guangzhou" fr="Canton" es="Cantón" it="Guangzhou" nl="Kanton">
       <province jpn="広東省" eng="Guangdong" de="Guangdong" fr="Guangdong" es="Guangdong" it="Guangdong" nl="Guangdong" />
       <longitude>113.0987548828125</longitude>
       <latitude>23.0987548828125</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="大連" eng="Dalian" de="Dalian" fr="Dalian" es="Dalian" it="Dalian" nl="Dalian">
-      <province jpn="遼寧省" eng="Liaoning" de="Liaoning" fr="Liaoning" es="Liaoning" it="Liaoning" nl="Liaoning" />
-      <longitude>121.3330078125</longitude>
-      <latitude>38.748779296875</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="桂林" eng="Guilin" de="Guilin" fr="Guilin" es="Guilin" it="Guilin" nl="Guilin">
-      <province jpn="広西チワン族自治区" eng="Guangxi-Zhuangzu" de="Guangxi" fr="Guangxi" es="Guangxi" it="Guangxi" nl="Guangxi" />
+	<city jpn="桂林市" eng="Guilin" de="Guilin" fr="Guilin" es="Guilin" it="Guilin" nl="Guilin">
+      <province jpn="広西チワン族自治区" eng="Guangxi-Zhuangzu" de="Guangxi-Zhuangzu" fr="Guangxi-Zhuangzu" es="Guangxi-Zhuangzu" it="Guangxi-Zhuangzu" nl="Guangxi-Zhuangzu" />
       <longitude>110.1983642578125</longitude>
       <latitude>25.345458984375</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="上海" eng="Shanghai" de="Schanghai" fr="Shanghai" es="Shanghái" it="Shanghai" nl="Sjanghai">
-      <province jpn="上海市" eng="Shanghai" de="Shanghai" fr="Shanghai" es="Shanghái" it="Shanghai" nl="Sjanghai" />
+	<city jpn="貴陽市" eng="Guiyang" de="Guiyang" fr="Guiyang" es="Guiyang" it="Guiyang" nl="Guiyang">
+      <province jpn="貴州省" eng="Guizhou" de="Guizhou" fr="Guizhou" es="Guizhou" it="Guizhou" nl="Guizhou" />
+      <longitude>106.895450</longitude>
+      <latitude>26.686399</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="海口市" eng="Haikou" de="Haikou" fr="Haikou" es="Haikou" it="Haikou" nl="Haikou">
+      <province jpn="海南省" eng="Hainan" de="Hainan" fr="Hainan" es="Hainan" it="Hainan" nl="Hainan" />
+      <longitude>110.247314</longitude>
+      <latitude>110.247314</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="石家荘市" eng="Shijiazhuang" de="Shijiazhuang" fr="Shijiazhuang" es="Shijiazhuang" it="Shijiazhuang" nl="Shijiazhuang">
+      <province jpn="河北省" eng="Hebei" de="Hebei" fr="Hebei" es="Hebei" it="Hebei" nl="Hebei" />
+      <longitude>114.521768</longitude>
+      <latitude>37.932637</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ハルビン市" eng="Harbin" de="Harbin" fr="Harbin" es="Harbin" it="Harbin" nl="Harbin">
+      <province jpn="黒竜江省" eng="Heilongjiang" de="Heilongjiang" fr="Heilongjiang" es="Heilongjiang" it="Heilongjiang" nl="Heilongjiang" />
+      <longitude>126.856020</longitude>
+      <latitude>45.761065</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="鄭州市" eng="Zhengzhou" de="Zhengzhou" fr="Zhengzhou" es="Zhengzhou" it="Zhengzhou" nl="Zhengzhou">
+      <province jpn="河南省" eng="Henan" de="Henan" fr="Henan" es="Henan" it="Henan" nl="Henan" />
+      <longitude>113.663025</longitude>
+      <latitude>34.746846</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="武漢市" eng="Wuhan" de="Wuhan" fr="Wuhan" es="Wuhan" it="Wuhan" nl="Wuhan">
+      <province jpn="湖北省" eng="Hubei" de="Hubei" fr="Hubei" es="Hubei" it="Hubei" nl="Hubei" />
+      <longitude>114.304683</longitude>
+      <latitude>30.585925</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="長沙市" eng="Changsha" de="Changsha" fr="Changsha" es="Changsha" it="Changsha" nl="Changsha">
+      <province jpn="湖南省" eng="Hunan" de="Hunan" fr="Hunan" es="Hunan" it="Hunan" nl="Hunan" />
+      <longitude>112.936221</longitude>
+      <latitude>28.199229</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="フフホト市" eng="Hohhot" de="Hohhot" fr="Hohhot" es="Hohhot" it="Hohhot" nl="Hohhot">
+      <province jpn="内モンゴル自治区" eng="Inner Mongolia" de="Innere Mongolei" fr="Mongolie-Intérieure" es="Mongolia Interior" it="Mongolia Interna" nl="Binnen-Mongolië" />
+      <longitude>111.346379</longitude>
+      <latitude>41.210781</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="南京市" eng="Nanjing" de="Nanjing" fr="Nanjing" es="Nanjing" it="Nanjing" nl="Nanjing">
+      <province jpn="江蘇省" eng="Jiangsu" de="Jiangsu" fr="Jiangsu" es="Jiangsu" it="Jiangsu" nl="Jiangsu" />
+      <longitude>118.776164</longitude>
+      <latitude>32.046904</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="南昌市" eng="Nanchang" de="Nanchang" fr="Nanchang" es="Nanchang" it="Nanchang" nl="Nanchang">
+      <province jpn="江西省" eng="Jiangxi" de="Jiangxi" fr="Jiangxi" es="Jiangxi" it="Jiangxi" nl="Jiangxi" />
+      <longitude>115.857924</longitude>
+      <latitude>28.557337</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="長春市" eng="Changchun" de="Changchun" fr="Changchun" es="Changchun" it="Changchun" nl="Changchun">
+      <province jpn="吉林省" eng="Jilin" de="Jilin" fr="Jilin" es="Jilin" it="Jilin" nl="Jilin" />
+      <longitude>125.247826</longitude>
+      <latitude>43.738505</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="大連市" eng="Dalian" de="Dalian" fr="Dalian" es="Dalian" it="Dalian" nl="Dalian">
+      <province jpn="遼寧省" eng="Liaoning" de="Liaoning" fr="Liaoning" es="Liaoning" it="Liaoning" nl="Liaoning" />
+      <longitude>121.669182</longitude>
+      <latitude>39.042542</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="瀋陽市" eng="Shenyang" de="Shenyang" fr="Shenyang" es="Shenyang" it="Shenyang" nl="Shenyang">
+      <province jpn="遼寧省" eng="Liaoning" de="Liaoning" fr="Liaoning" es="Liaoning" it="Liaoning" nl="Liaoning" />
+      <longitude>123.486589</longitude>
+      <latitude>41.909696</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="銀川市" eng="Yinchuan" de="Yinchuan" fr="Yinchuan" es="Yinchuan" it="Yinchuan" nl="Yinchuan">
+      <province jpn="寧夏回族自治区" eng="Ningxia-Hui" de="Ningxia-Hui" fr="Ningxia-Hui" es="Ningxia-Hui" it="Ningxia-Hui" nl="Ningxia-Hui" />
+      <longitude>106.237436</longitude>
+      <latitude>38.426736</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="西寧市" eng="Xining" de="Xining" fr="Xining" es="Xining" it="Xining" nl="Xining">
+      <province jpn="青海省" eng="Qinghai" de="Qinghai" fr="Qinghai" es="Qinghai" it="Qinghai" nl="Qinghai" />
+      <longitude>101.841797</longitude>
+      <latitude>36.618193</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="西安市" eng="Xi'an" de="Xi'an" fr="Xi'an" es="Xi'an" it="Xi'an" nl="Xi'an">
+      <province jpn="陝西省" eng="Shaanxi" de="Shaanxi" fr="Shaanxi" es="Shaanxi" it="Shaanxi" nl="Shaanxi" />
+      <longitude>108.957712</longitude>
+      <latitude>34.337943</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="済南市" eng="Jinan" de="Jinan" fr="Jinan" es="Jinan" it="Jinan" nl="Jinan">
+      <province jpn="山東省" eng="Shandong" de="Shandong" fr="Shandong" es="Shandong" it="Shandong" nl="Shandong" />
+      <longitude>117.365222</longitude>
+      <latitude>36.678278</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="青島市" eng="Qingdao" de="Qingdao" fr="Qingdao" es="Qingdao" it="Qingdao" nl="Qingdao">
+      <province jpn="山東省" eng="Shandong" de="Shandong" fr="Shandong" es="Shandong" it="Shandong" nl="Shandong" />
+      <longitude>120.687677</longitude>
+      <latitude>36.402117</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="上海市" eng="Shanghai" de="Schanghai" fr="Shanghai" es="Shanghái" it="Shanghai" nl="Sjanghai">
+      <province jpn="上海都" eng="Shanghai" de="Shanghai" fr="Shanghai" es="Shanghái" it="Shanghai" nl="Sjanghai" />
       <longitude>121.4703369140625</longitude>
       <latitude>31.2451171875</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="成都" eng="Chengdu" de="Chengdu" fr="Chengdu" es="Chengdu" it="Chengdu" nl="Chengdu">
+	<city jpn="太原市" eng="Taiyuan" de="Taiyuan" fr="Taiyuan" es="Taiyuan" it="Taiyuan" nl="Taiyuan">
+      <province jpn="山西省" eng="Shanxi" de="Shanxi" fr="Shanxi" es="Shanxi" it="Shanxi" nl="Shanxi" />
+      <longitude>112.486350</longitude>
+      <latitude>37.887148</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="成都市" eng="Chengdu" de="Chengdu" fr="Chengdu" es="Chengdu" it="Chengdu" nl="Chengdu">
       <province jpn="四川省" eng="Sichuan" de="Sichuan" fr="Sichuan" es="Sichuan" it="Sichuan" nl="Sichuan" />
       <longitude>104.1119384765625</longitude>
       <latitude>30.6298828125</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="天津市" eng="Tianjin" de="Tianjin" fr="Tianjin" es="Tianjin" it="Tianjin" nl="Tianjin">
+      <province jpn="天津都" eng="Tianjin" de="Tianjin" fr="Tianjin" es="Tianjin" it="Tianjin" nl="Tianjin" />
+      <longitude>117.613117</longitude>
+      <latitude>38.952357</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ラサ市" eng="Lhasa" de="Lhasa" fr="Lhasa" es="Lhasa" it="Lhasa" nl="Lhasa">
+      <province jpn="チベット自治区" eng="Tibet" de="Tibet" fr="Tibet" es="Tíbet" it="Tibet" nl="Tibet" />
+      <longitude>91.106490</longitude>
+      <latitude>29.623132</latitude>
       <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ウルムチ市" eng="Ürümqi" de="Ürümqi" fr="Ürümqi" es="Ürümqi" it="Ürümqi" nl="Ürümqi">
+      <province jpn="新疆ウイグル自治区" eng="Xinjiang-Uyghur" de="Xinjiang-Uyghur" fr="Xinjiang-Uyghur" es="Xinjiang-Uyghur" it="Xinjiang-Uyghur" nl="Xinjiang-Uyghur" />
+      <longitude>87.689637</longitude>
+      <latitude>43.636522</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="昆明市" eng="Kunming" de="Kunming" fr="Kunming" es="Kunming" it="Kunming" nl="Kunming">
+      <province jpn="雲南省" eng="Yunnan" de="Yunnan" fr="Yunnan" es="Yunnan" it="Yunnan" nl="Yunnan" />
+      <longitude>102.823544</longitude>
+      <latitude>24.817238</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="杭州市" eng="Hangzhou" de="Hangzhou" fr="Hangzhou" es="Hangzhou" it="Hangzhou" nl="Hangzhou">
+      <province jpn="浙江省" eng="Zhejiang" de="Zhejiang" fr="Zhejiang" es="Zhejiang" it="Zhejiang" nl="Zhejiang" />
+      <longitude>119.904692</longitude>
+      <latitude>29.975410</latitude>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
@@ -21963,13 +22488,13 @@
       <name jpn="グランドターク" eng="Cockburn Town" de="Cockburn Town" fr="Cockburn Town" es="Cockburn Town" it="Cockburn Town" nl="Cockburn Town" />
     </city>
     <city>
-      <province jpn="コロンビア特別区" eng="District of Columbia" de="District of Columbia" fr="District Fédéral de Washington D.C." es="Distrito de Columbia" it="Distretto di Columbia" nl="District of Columbia" />
+      <province jpn="コロンビア特別区" eng="District of Columbia" de="District of Columbia" fr="District de Columbia" es="Distrito de Columbia" it="Distretto di Columbia" nl="District of Columbia" />
       <longitude>-77.0361328125</longitude>
       <latitude>38.8916015625</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
-      <name jpn="ワシントン" eng="Washington D.C." de="Washington D.C." fr="Washington D.C." es="Washington D.C." it="Washington D.C." nl="Washington D.C." />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
+      <name jpn="ワシントン" eng="Washington" de="Washington" fr="Washington" es="Washington" it="Washington" nl="Washington" />
     </city>
     <city>
       <province jpn="アラスカ州" eng="Alaska" de="Alaska" fr="Alaska" es="Alaska" it="Alaska" nl="Alaska" />
@@ -21977,7 +22502,7 @@
       <latitude>61.2158203125</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="アンカレジ" eng="Anchorage" de="Anchorage" fr="Anchorage" es="Anchorage" it="Anchorage" nl="Anchorage" />
     </city>
     <city>
@@ -21986,7 +22511,7 @@
       <latitude>34.0521240234375</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="ロサンゼルス" eng="Los Angeles" de="Los Angeles" fr="Los Angeles" es="Los Ángeles" it="Los Angeles" nl="Los Angeles" />
     </city>
     <city>
@@ -21995,7 +22520,7 @@
       <latitude>37.77099609375</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="サンフランシスコ" eng="San Francisco" de="San Francisco" fr="San Francisco" es="San Francisco" it="San Francisco" nl="San Francisco" />
     </city>
     <city>
@@ -22004,7 +22529,7 @@
       <latitude>39.737548828125</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="デンバー" eng="Denver" de="Denver" fr="Denver" es="Denver" it="Denver" nl="Denver" />
     </city>
     <city>
@@ -22013,7 +22538,7 @@
       <latitude>25.7684326171875</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="マイアミ" eng="Miami" de="Miami" fr="Miami" es="Miami" it="Miami" nl="Miami" />
     </city>
     <city>
@@ -22022,7 +22547,7 @@
       <latitude>28.5369873046875</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="オーランド" eng="Orlando" de="Orlando" fr="Orlando" es="Orlando" it="Orlando" nl="Orlando" />
     </city>
     <city>
@@ -22031,16 +22556,16 @@
       <latitude>33.7445068359375</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="アトランタ" eng="Atlanta" de="Atlanta" fr="Atlanta" es="Atlanta" it="Atlanta" nl="Atlanta" />
     </city>
     <city>
-      <province jpn="ハワイ州" eng="Hawaii" de="Hawaii" fr="Hawaï" es="Hawai" it="Hawaii" nl="Hawaï" />
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
       <longitude>-157.8570556640625</longitude>
       <latitude>21.302490234375</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="ホノルル" eng="Honolulu" de="Honolulu" fr="Honolulu" es="Honolulú" it="Honolulu" nl="Honolulu" />
     </city>
     <city>
@@ -22049,7 +22574,7 @@
       <latitude>41.846923828125</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="シカゴ" eng="Chicago" de="Chicago" fr="Chicago" es="Chicago" it="Chicago" nl="Chicago" />
     </city>
     <city>
@@ -22058,7 +22583,7 @@
       <latitude>29.9542236328125</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="ニュー・オリンズ" eng="New Orleans" de="New Orleans" fr="Nouvelle-Orléans" es="Nueva Orleans" it="New Orleans" nl="New Orleans" />
     </city>
     <city>
@@ -22067,7 +22592,7 @@
       <latitude>42.3577880859375</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="ボストン" eng="Boston" de="Boston" fr="Boston" es="Boston" it="Boston" nl="Boston" />
     </city>
     <city>
@@ -22076,7 +22601,7 @@
       <latitude>42.330322265625</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="デトロイト" eng="Detroit" de="Detroit" fr="Detroit" es="Detroit" it="Detroit" nl="Detroit" />
     </city>
     <city>
@@ -22085,7 +22610,7 @@
       <latitude>44.97802734375</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="ミネアポリス" eng="Minneapolis" de="Minneapolis" fr="Minneapolis" es="Minneapolis" it="Minneapolis" nl="Minneapolis" />
     </city>
     <city>
@@ -22094,7 +22619,7 @@
       <latitude>39.0948486328125</latitude>
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="カンザスシティ" eng="Kansas City" de="Kansas City" fr="Kansas City" es="Kansas City" it="Kansas City" nl="Kansas City" />
     </city>
     <city>
@@ -22103,7 +22628,7 @@
       <latitude>38.6224365234375</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="セントルイス" eng="St. Louis" de="Saint Louis" fr="Saint Louis" es="San Luis" it="Saint Louis" nl="Saint Louis" />
     </city>
     <city>
@@ -22112,7 +22637,7 @@
       <latitude>35.22216796875</latitude>
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="シャーロット" eng="Charlotte" de="Charlotte" fr="Charlotte" es="Charlotte" it="Charlotte" nl="Charlotte" />
     </city>
     <city>
@@ -22121,7 +22646,7 @@
       <latitude>36.1724853515625</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="ラスベガス" eng="Las Vegas" de="Las Vegas" fr="Las Vegas" es="Las Vegas" it="Las Vegas" nl="Las Vegas" />
     </city>
     <city>
@@ -22130,7 +22655,7 @@
       <latitude>40.7098388671875</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="ニューヨーク" eng="New York" de="New York" fr="New York" es="Nueva York" it="New York" nl="New York" />
     </city>
     <city>
@@ -22139,7 +22664,7 @@
       <latitude>43.0938720703125</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="ナイアガラ" eng="Niagara Falls" de="Niagara Falls" fr="Niagara Falls" es="Niagara Falls" it="Niagara Falls" nl="Niagara Falls" />
     </city>
     <city>
@@ -22148,7 +22673,7 @@
       <latitude>39.1607666015625</latitude>
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="シンシナティ" eng="Cincinnati" de="Cincinnati" fr="Cincinnati" es="Cincinnati" it="Cincinnati" nl="Cincinnati" />
     </city>
     <city>
@@ -22157,7 +22682,7 @@
       <latitude>35.4638671875</latitude>
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="オクラホマシティ" eng="Oklahoma City" de="Oklahoma City" fr="Oklahoma City" es="Oklahoma City" it="Oklahoma City" nl="Oklahoma City" />
     </city>
     <city>
@@ -22166,7 +22691,7 @@
       <latitude>45.5218505859375</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="ポートランド" eng="Portland" de="Portland" fr="Portland" es="Portland" it="Portland" nl="Portland" />
     </city>
     <city>
@@ -22175,7 +22700,7 @@
       <latitude>40.4351806640625</latitude>
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="ピッツバーグ" eng="Pittsburgh" de="Pittsburgh" fr="Pittsburgh" es="Pittsburgh" it="Pittsburgh" nl="Pittsburgh" />
     </city>
     <city>
@@ -22184,7 +22709,7 @@
       <latitude>35.145263671875</latitude>
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="メンフィス" eng="Memphis" de="Memphis" fr="Memphis" es="Memphis" it="Memphis" nl="Memphis" />
     </city>
     <city>
@@ -22193,7 +22718,7 @@
       <latitude>32.783203125</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="ダラス" eng="Dallas" de="Dallas" fr="Dallas" es="Dallas" it="Dallas" nl="Dallas" />
     </city>
     <city>
@@ -22202,7 +22727,7 @@
       <latitude>31.7559814453125</latitude>
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="エル・パソ" eng="El Paso" de="El Paso" fr="El Paso" es="El Paso" it="El Paso" nl="El Paso" />
     </city>
     <city>
@@ -22211,7 +22736,7 @@
       <latitude>29.761962890625</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="ヒューストン" eng="Houston" de="Houston" fr="Houston" es="Houston" it="Houston" nl="Houston" />
     </city>
     <city>
@@ -22220,7 +22745,7 @@
       <latitude>40.75927734375</latitude>
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="ソルトレークシティ" eng="Salt Lake City" de="Salt Lake City" fr="Salt Lake City" es="Salt Lake City" it="Salt Lake City" nl="Salt Lake City" />
     </city>
     <city>
@@ -22229,7 +22754,7 @@
       <latitude>47.603759765625</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="シアトル" eng="Seattle" de="Seattle" fr="Seattle" es="Seattle" it="Seattle" nl="Seattle" />
     </city>
     <city>
@@ -22247,7 +22772,7 @@
       <latitude>15.1666259765625</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="アメリカ" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis d’Amérique" es="Estados Unidos de América" it="Stati Uniti" nl="Verenigde Staten" />
+      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="サイパン" eng="Saipan" de="Saipan" fr="Saipan" es="Saipán" it="Saipan" nl="Saipan" />
     </city>
     <city>
@@ -23359,8 +23884,8 @@
     </city>
     <city>
       <province jpn="遼寧省" eng="Liaoning" de="Liaoning" fr="Liaoning" es="Liaoning" it="Liaoning" nl="Liaoning" />
-      <longitude>121.3330078125</longitude>
-      <latitude>38.748779296875</latitude>
+      <longitude>121.669182</longitude>
+      <latitude>39.042542</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
       <country jpn="中国" eng="China" de="China" fr="Chine" es="China" it="Cina" nl="China" />
