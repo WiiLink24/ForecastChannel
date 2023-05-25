@@ -26,14 +26,14 @@
       <province jpn="東京都" eng="Tokyo" de="Tokio" fr="Tokyo" es="Tokio" it="Tokyo" nl="Tokio" />
       <longitude>142.18505859375</longitude>
       <latitude>27.0867919921875</latitude>
-      <zoom1>7</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="三宅島" eng="Miyakejima" de="Miyakejima" fr="Miyakejima" es="Miyakejima" it="Miyakejima" nl="Miyakejima">
       <province jpn="東京都" eng="Tokyo" de="Tokio" fr="Tokyo" es="Tokio" it="Tokyo" nl="Tokio" />
       <longitude>139.5208740234375</longitude>
       <latitude>34.1180419921875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="札幌市" eng="Sapporo" de="Sapporo" fr="Sapporo" es="Sapporo" it="Sapporo" nl="Sapporo">
@@ -54,6 +54,13 @@
       <province jpn="北海道" eng="Hokkaido" de="Hokkaido" fr="Hokkaido" es="Hokaido" it="Hokkaido" nl="Hokkaido" />
       <longitude>142.371826171875</longitude>
       <latitude>43.7530517578125</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="富良野市" eng="Furano" de="Furano" fr="Furano" es="Furano" it="Furano" nl="Furano">
+      <province jpn="北海道" eng="Hokkaido" de="Hokkaido" fr="Hokkaido" es="Hokaido" it="Hokkaido" nl="Hokkaido" />
+      <longitude>142.468809</longitude>
+      <latitude>43.324549</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -61,7 +68,7 @@
       <province jpn="北海道" eng="Hokkaido" de="Hokkaido" fr="Hokkaido" es="Hokaido" it="Hokkaido" nl="Hokkaido" />
       <longitude>141.6357421875</longitude>
       <latitude>43.9398193359375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="岩見沢市" eng="Iwamizawa" de="Iwamizawa" fr="Iwamizawa" es="Iwamizawa" it="Iwamizawa" nl="Iwamizawa">
@@ -89,7 +96,7 @@
       <province jpn="北海道" eng="Hokkaido" de="Hokkaido" fr="Hokkaido" es="Hokaido" it="Hokkaido" nl="Hokkaido" />
       <longitude>143.8714599609375</longitude>
       <latitude>43.8079833984375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="紋別市" eng="Monbetsu" de="Mombetsu" fr="Monbetsu" es="Monbetsu" it="Monbetsu" nl="Monbetsu">
@@ -103,6 +110,13 @@
       <province jpn="北海道" eng="Hokkaido" de="Hokkaido" fr="Hokkaido" es="Hokaido" it="Hokkaido" nl="Hokkaido" />
       <longitude>145.5853271484375</longitude>
       <latitude>43.3245849609375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="中標津町" eng="Nakashibetsu" de="Nakashibetsu" fr="Nakashibetsu" es="Nakashibetsu" it="Nakashibetsu" nl="Nakashibetsu">
+      <province jpn="北海道" eng="Hokkaido" de="Hokkaido" fr="Hokkaido" es="Hokaido" it="Hokkaido" nl="Hokkaido" />
+      <longitude>144.883316</longitude>
+      <latitude>43.540843</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -124,14 +138,14 @@
       <province jpn="北海道" eng="Hokkaido" de="Hokkaido" fr="Hokkaido" es="Hokaido" it="Hokkaido" nl="Hokkaido" />
       <longitude>140.9765625</longitude>
       <latitude>42.308349609375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="浦河町" eng="Urakawa" de="Urakawa" fr="Urakawa" es="Urakawa" it="Urakawa" nl="Urakawa">
       <province jpn="北海道" eng="Hokkaido" de="Hokkaido" fr="Hokkaido" es="Hokaido" it="Hokkaido" nl="Hokkaido" />
       <longitude>142.7783203125</longitude>
       <latitude>42.154541015625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="函館市" eng="Hakodate" de="Hakodate" fr="Hakodate" es="Hakodate" it="Hakodate" nl="Hakodate">
@@ -148,7 +162,14 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="羽幌町" eng="Haboro" de="Haboro" fr="Haboro" es="Haboro" it="Haboro" nl="Haboro">
+    <city jpn="豊富町" eng="Toyotomi" de="Toyotomi" fr="Toyotomi" es="Toyotomi" it="Toyotomi" nl="Toyotomi">
+      <province jpn="北海道" eng="Hokkaido" de="Hokkaido" fr="Hokkaido" es="Hokaido" it="Hokkaido" nl="Hokkaido" />
+      <longitude>141.762432</longitude>
+      <latitude>45.066522</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="羽幌町" eng="Haboro" de="Haboro" fr="Haboro" es="Haboro" it="Haboro" nl="Haboro">
       <province jpn="北海道" eng="Hokkaido" de="Hokkaido" fr="Hokkaido" es="Hokaido" it="Hokkaido" nl="Hokkaido" />
       <longitude>141.70166015625</longitude>
       <latitude>44.3572998046875</latitude>
@@ -169,7 +190,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="雄武町" eng="Oumu" de="Oumu" fr="Oumu" es="Oumu" it="Ōmu" nl="Oumu">
+    <city jpn="雄武町" eng="Omu" de="Omu" fr="Omu" es="Omu" it="Omu" nl="Omu">
       <province jpn="北海道" eng="Hokkaido" de="Hokkaido" fr="Hokkaido" es="Hokaido" it="Hokkaido" nl="Hokkaido" />
       <longitude>142.965087890625</longitude>
       <latitude>44.5770263671875</latitude>
@@ -190,17 +211,31 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="利尻富士町" eng="Rishirifuji" de="Rishirifuji" fr="Rishirifuji" es="Rishirifuji" it="Rishirifuji" nl="Rishirifuji">
+      <province jpn="北海道" eng="Hokkaido" de="Hokkaido" fr="Hokkaido" es="Hokaido" it="Hokkaido" nl="Hokkaido" />
+      <longitude>141.198761</longitude>
+      <latitude>45.246367</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="青森市" eng="Aomori" de="Aomori" fr="Aomori" es="Aomori" it="Aomori" nl="Aomori">
       <province jpn="青森県" eng="Aomori" de="Aomori" fr="Aomori" es="Aomori" it="Aomori" nl="Aomori" />
       <longitude>140.767822265625</longitude>
       <latitude>40.814208984375</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="むつ市" eng="Mutsu" de="Mutsu" fr="Mutsu" es="Mutsu" it="Mutsu" nl="Mutsu">
       <province jpn="青森県" eng="Aomori" de="Aomori" fr="Aomori" es="Aomori" it="Aomori" nl="Aomori" />
       <longitude>141.2127685546875</longitude>
       <latitude>41.2811279296875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="五所川原市" eng="Goshogawara" de="Goshogawara" fr="Goshogawara" es="Goshogawara" it="Goshogawara" nl="Goshogawara">
+      <province jpn="青森県" eng="Aomori" de="Aomori" fr="Aomori" es="Aomori" it="Aomori" nl="Aomori" />
+      <longitude>140.332508</longitude>
+      <latitude>40.803666</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -208,13 +243,20 @@
       <province jpn="青森県" eng="Aomori" de="Aomori" fr="Aomori" es="Aomori" it="Aomori" nl="Aomori" />
       <longitude>141.5203857421875</longitude>
       <latitude>40.5230712890625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="深浦町" eng="Fukaura" de="Fukaura" fr="Fukaura" es="Fukaura" it="Fukaura" nl="Fukaura">
       <province jpn="青森県" eng="Aomori" de="Aomori" fr="Aomori" es="Aomori" it="Aomori" nl="Aomori" />
       <longitude>139.932861328125</longitude>
       <latitude>40.638427734375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="六ヶ所村" eng="Rokkasho" de="Rokkasho" fr="Rokkasho" es="Rokkasho" it="Rokkasho" nl="Rokkasho">
+      <province jpn="青森県" eng="Aomori" de="Aomori" fr="Aomori" es="Aomori" it="Aomori" nl="Aomori" />
+      <longitude>141.383125</longitude>
+      <latitude>40.948577</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -225,6 +267,20 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="久慈市" eng="Kuji" de="Kuji" fr="Kuji" es="Kuji" it="Kuji" nl="Kuji">
+      <province jpn="岩手県" eng="Iwate" de="Iwate" fr="Iwate" es="Iwate" it="Iwate" nl="Iwate" />
+      <longitude>141.793312</longitude>
+      <latitude>40.180974</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="八幡平市" eng="Hachimantai" de="Hachimantai" fr="Hachimantai" es="Hachimantai" it="Hachimantai" nl="Hachimantai">
+      <province jpn="岩手県" eng="Iwate" de="Iwate" fr="Iwate" es="Iwate" it="Iwate" nl="Iwate" />
+      <longitude>141.123711</longitude>
+      <latitude>39.954946</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="宮古市" eng="Miyako" de="Miyako" fr="Miyako" es="Miyako" it="Miyako" nl="Miyako">
       <province jpn="岩手県" eng="Iwate" de="Iwate" fr="Iwate" es="Iwate" it="Iwate" nl="Iwate" />
       <longitude>141.96533203125</longitude>
@@ -232,11 +288,25 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="奥州市" eng="Oshu" de="Oshu" fr="Oshu" es="Oshu" it="Oshu" nl="Oshu">
+      <province jpn="岩手県" eng="Iwate" de="Iwate" fr="Iwate" es="Iwate" it="Iwate" nl="Iwate" />
+      <longitude>141.122551</longitude>
+      <latitude>39.144560</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="一関市" eng="Ichinoseki" de="Ichinoseki" fr="Ichinoseki" es="Ichinoseki" it="Ichinoseki" nl="Ichinoseki">
+      <province jpn="岩手県" eng="Iwate" de="Iwate" fr="Iwate" es="Iwate" it="Iwate" nl="Iwate" />
+      <longitude>141.126929</longitude>
+      <latitude>38.920706</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="大船渡市" eng="Ofunato" de="Ofunato" fr="Ofunato" es="Ofunato" it="Ofunato" nl="Ofunato">
       <province jpn="岩手県" eng="Iwate" de="Iwate" fr="Iwate" es="Iwate" it="Iwate" nl="Iwate" />
       <longitude>141.712646484375</longitude>
       <latitude>39.0618896484375</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="仙台市" eng="Sendai" de="Sendai" fr="Sendai" es="Sendai" it="Sendai" nl="Sendai">
@@ -246,11 +316,25 @@
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="大崎市" eng="Osaki" de="Osaki" fr="Osaki" es="Osaki" it="Osaki" nl="Osaki">
+      <province jpn="宮城県" eng="Miyagi" de="Miyagi" fr="Miyagi" es="Miyagi" it="Miyagi" nl="Miyagi" />
+      <longitude>140.968067</longitude>
+      <latitude>38.592769</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="名取市" eng="Natori" de="Natori" fr="Natori" es="Natori" it="Natori" nl="Natori">
+      <province jpn="宮城県" eng="Miyagi" de="Miyagi" fr="Miyagi" es="Miyagi" it="Miyagi" nl="Miyagi" />
+      <longitude>140.888121</longitude>
+      <latitude>38.162503</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="白石市" eng="Shiroishi" de="Shiroishi" fr="Shiroishi" es="Shiroishi" it="Shiroishi" nl="Shiroishi">
       <province jpn="宮城県" eng="Miyagi" de="Miyagi" fr="Miyagi" es="Miyagi" it="Miyagi" nl="Miyagi" />
       <longitude>140.614013671875</longitude>
       <latitude>38.0072021484375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="石巻市" eng="Ishinomaki" de="Ishinomaki" fr="Ishinomaki" es="Ishinomaki" it="Ishinomaki" nl="Ishinomaki">
@@ -267,11 +351,39 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="大館市" eng="Odate" de="Odate" fr="Odate" es="Odate" it="Odate" nl="Odate">
+      <province jpn="秋田県" eng="Akita" de="Akita" fr="Akita" es="Akita" it="Akita" nl="Akita" />
+      <longitude>140.541026</longitude>
+      <latitude>40.265352</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="能代市" eng="Noshiro" de="Noshiro" fr="Noshiro" es="Noshiro" it="Noshiro" nl="Noshiro">
+      <province jpn="秋田県" eng="Akita" de="Akita" fr="Akita" es="Akita" it="Akita" nl="Akita" />
+      <longitude>139.998051</longitude>
+      <latitude>40.204765</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="大仙市" eng="Daisen" de="Daisen" fr="Daisen" es="Daisen" it="Daisen" nl="Daisen">
+      <province jpn="秋田県" eng="Akita" de="Akita" fr="Akita" es="Akita" it="Akita" nl="Akita" />
+      <longitude>140.514037</longitude>
+      <latitude>39.461676</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="由利本荘市" eng="Yurihonjo" de="Yurihonjo" fr="Yurihonjo" es="Yurihonjo" it="Yurihonjo" nl="Yurihonjo">
+      <province jpn="秋田県" eng="Akita" de="Akita" fr="Akita" es="Akita" it="Akita" nl="Akita" />
+      <longitude>140.009346</longitude>
+      <latitude>39.368838</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="横手市" eng="Yokote" de="Yokote" fr="Yokote" es="Yokote" it="Yokote" nl="Yokote">
       <province jpn="秋田県" eng="Akita" de="Akita" fr="Akita" es="Akita" it="Akita" nl="Akita" />
       <longitude>140.5535888671875</longitude>
       <latitude>39.3145751953125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="山形市" eng="Yamagata" de="Yamagata" fr="Yamagata" es="Yamagata" it="Yamagata" nl="Yamagata">
@@ -295,6 +407,13 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="鶴岡市" eng="Tsuruoka" de="Tsuruoka" fr="Tsuruoka" es="Tsuruoka" it="Tsuruoka" nl="Tsuruoka">
+      <province jpn="山形県" eng="Yamagata" de="Yamagata" fr="Yamagata" es="Yamagata" it="Yamagata" nl="Yamagata" />
+      <longitude>139.793147</longitude>
+      <latitude>38.733447</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="新庄市" eng="Shinjo" de="Shinjo" fr="Shinjo" es="Shinjo" it="Shinjo" nl="Shinjo">
       <province jpn="山形県" eng="Yamagata" de="Yamagata" fr="Yamagata" es="Yamagata" it="Yamagata" nl="Yamagata" />
       <longitude>140.3118896484375</longitude>
@@ -306,13 +425,20 @@
       <province jpn="福島県" eng="Fukushima" de="Fukushima" fr="Fukushima" es="Fukushima" it="Fukushima" nl="Fukushima" />
       <longitude>140.47119140625</longitude>
       <latitude>37.7545166015625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="小名浜" eng="Onahama" de="Onahama" fr="Onahama" es="Onahama" it="Onahama" nl="Onahama">
+    <city jpn="いわき市" eng="Iwaki" de="Iwaki" fr="Iwaki" es="Iwaki" it="Iwaki" nl="Iwaki">
       <province jpn="福島県" eng="Fukushima" de="Fukushima" fr="Fukushima" es="Fukushima" it="Fukushima" nl="Fukushima" />
       <longitude>140.9051513671875</longitude>
       <latitude>36.9415283203125</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="郡山市" eng="Koriyama" de="Koriyama" fr="Koriyama" es="Koriyama" it="Koriyama" nl="Koriyama">
+      <province jpn="福島県" eng="Fukushima" de="Fukushima" fr="Fukushima" es="Fukushima" it="Fukushima" nl="Fukushima" />
+      <longitude>140.371231</longitude>
+      <latitude>37.389043</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -320,14 +446,14 @@
       <province jpn="福島県" eng="Fukushima" de="Fukushima" fr="Fukushima" es="Fukushima" it="Fukushima" nl="Fukushima" />
       <longitude>139.910888671875</longitude>
       <latitude>37.4798583984375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="白河市" eng="Shirakawa" de="Shirakawa" fr="Shirakawa" es="Shirakawa" it="Shirakawa" nl="Shirakawa">
       <province jpn="福島県" eng="Fukushima" de="Fukushima" fr="Fukushima" es="Fukushima" it="Fukushima" nl="Fukushima" />
       <longitude>140.218505859375</longitude>
       <latitude>37.122802734375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="水戸市" eng="Mito" de="Mito" fr="Mito" es="Mito" it="Mito" nl="Mito">
@@ -341,7 +467,14 @@
       <province jpn="茨城県" eng="Ibaraki" de="Ibaraki" fr="Ibaraki" es="Ibaraki" it="Ibaraki" nl="Ibaraki" />
       <longitude>140.1251220703125</longitude>
       <latitude>36.0516357421875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="日立市" eng="Hitachi" de="Hitachi" fr="Hitachi" es="Hitachi" it="Hitachi" nl="Hitachi">
+      <province jpn="茨城県" eng="Ibaraki" de="Ibaraki" fr="Ibaraki" es="Ibaraki" it="Ibaraki" nl="Ibaraki" />
+      <longitude>140.678770</longitude>
+      <latitude>36.612551</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="宇都宮市" eng="Utsunomiya" de="Utsunomiya" fr="Utsunomiya" es="Utsunomiya" it="Utsunomiya" nl="Utsunomiya">
@@ -351,11 +484,18 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="栃木市" eng="Tochigi" de="Tochigi" fr="Tochigi" es="Tochigi" it="Tochigi" nl="Tochigi">
+      <province jpn="栃木県" eng="Tochigi" de="Tochigi" fr="Tochigi" es="Tochigi" it="Tochigi" nl="Tochigi" />
+      <longitude>139.731494</longitude>
+      <latitude>36.453751</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="大田原市" eng="Otawara" de="Otawara" fr="Otawara" es="Otawara" it="Otawara" nl="Otawara">
       <province jpn="栃木県" eng="Tochigi" de="Tochigi" fr="Tochigi" es="Tochigi" it="Tochigi" nl="Tochigi" />
       <longitude>140.042724609375</longitude>
       <latitude>36.859130859375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="日光市" eng="Nikko" de="Nikko" fr="Nikko" es="Nikko" it="Nikko" nl="Nikko">
@@ -372,17 +512,66 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="高崎市" eng="Takasaki" de="Takasaki" fr="Takasaki" es="Takasaki" it="Takasaki" nl="Takasaki">
+      <province jpn="群馬県" eng="Gunma" de="Gunma" fr="Gunma" es="Gunma" it="Gunma" nl="Gunma" />
+      <longitude>138.981838</longitude>
+      <latitude>36.271387</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="太田市" eng="Ota" de="Ota" fr="Ota" es="Ota" it="Ota" nl="Ota">
+      <province jpn="群馬県" eng="Gunma" de="Gunma" fr="Gunma" es="Gunma" it="Gunma" nl="Gunma" />
+      <longitude>139.429743</longitude>
+      <latitude>36.278936</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="渋川市" eng="Shibukawa" de="Shibukawa" fr="Shibukawa" es="Shibukawa" it="Shibukawa" nl="Shibukawa">
+      <province jpn="群馬県" eng="Gunma" de="Gunma" fr="Gunma" es="Gunma" it="Gunma" nl="Gunma" />
+      <longitude>139.016066</longitude>
+      <latitude>36.515870</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="片品村" eng="Katashina" de="Katashina" fr="Katashina" es="Katashina" it="Katashina" nl="Katashina">
+      <province jpn="群馬県" eng="Gunma" de="Gunma" fr="Gunma" es="Gunma" it="Gunma" nl="Gunma" />
+      <longitude>139.262043</longitude>
+      <latitude>36.775257</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="嬬恋村" eng="Tsumagoi" de="Tsumagoi" fr="Tsumagoi" es="Tsumagoi" it="Tsumagoi" nl="Tsumagoi">
+      <province jpn="群馬県" eng="Gunma" de="Gunma" fr="Gunma" es="Gunma" it="Gunma" nl="Gunma" />
+      <longitude>138.545511</longitude>
+      <latitude>36.514929</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="みなかみ町" eng="Minakami" de="Minakami" fr="Minakami" es="Minakami" it="Minakami" nl="Minakami">
       <province jpn="群馬県" eng="Gunma" de="Gunma" fr="Gunma" es="Gunma" it="Gunma" nl="Gunma" />
       <longitude>138.988037109375</longitude>
       <latitude>36.793212890625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="さいたま市" eng="Saitama" de="Saitama" fr="Saitama" es="Saitama" it="Saitama" nl="Saitama">
       <province jpn="埼玉県" eng="Saitama" de="Saitama" fr="Saitama" es="Saitama" it="Saitama" nl="Saitama" />
       <longitude>139.5867919921875</longitude>
       <latitude>35.870361328125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="川口市" eng="Kawaguchi" de="Kawaguchi" fr="Kawaguchi" es="Kawaguchi" it="Kawaguchi" nl="Kawaguchi">
+      <province jpn="埼玉県" eng="Saitama" de="Saitama" fr="Saitama" es="Saitama" it="Saitama" nl="Saitama" />
+      <longitude>139.725245</longitude>
+      <latitude>35.800458</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="所沢市" eng="Tokorozawa" de="Tokorozawa" fr="Tokorozawa" es="Tokorozawa" it="Tokorozawa" nl="Tokorozawa">
+      <province jpn="埼玉県" eng="Saitama" de="Saitama" fr="Saitama" es="Saitama" it="Saitama" nl="Saitama" />
+      <longitude>139.444128</longitude>
+      <latitude>35.843714</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -397,13 +586,27 @@
       <province jpn="埼玉県" eng="Saitama" de="Saitama" fr="Saitama" es="Saitama" it="Saitama" nl="Saitama" />
       <longitude>139.075927734375</longitude>
       <latitude>35.980224609375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="千葉市" eng="Chiba" de="Chiba" fr="Chiba" es="Chiba" it="Chiba" nl="Chiba">
       <province jpn="千葉県" eng="Chiba" de="Chiba" fr="Chiba" es="Chiba" it="Chiba" nl="Chiba" />
       <longitude>140.1031494140625</longitude>
       <latitude>35.595703125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="柏市" eng="Kashiwa" de="Kashiwa" fr="Kashiwa" es="Kashiwa" it="Kashiwa" nl="Kashiwa">
+      <province jpn="千葉県" eng="Chiba" de="Chiba" fr="Chiba" es="Chiba" it="Chiba" nl="Chiba" />
+      <longitude>140.033591</longitude>
+      <latitude>35.744525</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="千葉市" eng="Funabashi" de="Funabashi" fr="Funabashi" es="Funabashi" it="Funabashi" nl="Funabashi">
+      <province jpn="千葉県" eng="Chiba" de="Chiba" fr="Chiba" es="Chiba" it="Chiba" nl="Chiba" />
+      <longitude>140.033591</longitude>
+      <latitude>35.744525</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -411,7 +614,7 @@
       <province jpn="千葉県" eng="Chiba" de="Chiba" fr="Chiba" es="Chiba" it="Chiba" nl="Chiba" />
       <longitude>140.8612060546875</longitude>
       <latitude>35.7330322265625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="勝浦市" eng="Katsuura" de="Katsuura" fr="Katsuura" es="Katsuura" it="Katsuura" nl="Katsuura">
@@ -425,14 +628,14 @@
       <province jpn="千葉県" eng="Chiba" de="Chiba" fr="Chiba" es="Chiba" it="Chiba" nl="Chiba" />
       <longitude>139.866943359375</longitude>
       <latitude>34.98046875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="横浜市" eng="Yokohama" de="Yokohama" fr="Yokohama" es="Yokohama" it="Yokohama" nl="Yokohama">
       <province jpn="神奈川県" eng="Kanagawa" de="Kanagawa" fr="Kanagawa" es="Kanagawa" it="Kanagawa" nl="Kanagawa" />
       <longitude>139.6527099609375</longitude>
       <latitude>35.4364013671875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="小田原市" eng="Odawara" de="Odawara" fr="Odawara" es="Odawara" it="Odawara" nl="Odawara">
@@ -442,32 +645,67 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="三浦市" eng="Miura" de="Miura" fr="Miura" es="Miura" it="Miura" nl="Miura">
+      <province jpn="神奈川県" eng="Kanagawa" de="Kanagawa" fr="Kanagawa" es="Kanagawa" it="Kanagawa" nl="Kanagawa" />
+      <longitude>139.630068</longitude>
+      <latitude>35.142535</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="富山市" eng="Toyama" de="Toyama" fr="Toyama" es="Toyama" it="Toyama" nl="Toyama">
       <province jpn="富山県" eng="Toyama" de="Toyama" fr="Toyama" es="Toyama" it="Toyama" nl="Toyama" />
       <longitude>137.2027587890625</longitude>
       <latitude>36.705322265625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="伏木" eng="Fushiki" de="Fushiki" fr="Fushiki" es="Fushiki" it="Fushiki" nl="Fushiki">
+    <city jpn="高岡市" eng="Takaoka" de="Takaoka" fr="Takaoka" es="Takaoka" it="Takaoka" nl="Takaoka">
       <province jpn="富山県" eng="Toyama" de="Toyama" fr="Toyama" es="Toyama" it="Toyama" nl="Toyama" />
       <longitude>137.054443359375</longitude>
       <latitude>36.7877197265625</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="南砺市" eng="Nanto" de="Nanto" fr="Nanto" es="Nanto" it="Nanto" nl="Nanto">
+      <province jpn="富山県" eng="Toyama" de="Toyama" fr="Toyama" es="Toyama" it="Toyama" nl="Toyama" />
+      <longitude>136.913709</longitude>
+      <latitude>36.497714</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="黒部市" eng="Kurobe" de="Kurobe" fr="Kurobe" es="Kurobe" it="Kurobe" nl="Kurobe">
+      <province jpn="富山県" eng="Toyama" de="Toyama" fr="Toyama" es="Toyama" it="Toyama" nl="Toyama" />
+      <longitude>137.463290</longitude>
+      <latitude>36.885396</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="金沢市" eng="Kanazawa" de="Kanazawa" fr="Kanazawa" es="Kanazawa" it="Kanazawa" nl="Kanazawa">
       <province jpn="石川県" eng="Ishikawa" de="Ishikawa" fr="Ishikawa" es="Ishikawa" it="Ishikawa" nl="Ishikawa" />
       <longitude>136.636962890625</longitude>
       <latitude>36.58447265625</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="小松市" eng="Komatsu" de="Komatsu" fr="Komatsu" es="Komatsu" it="Komatsu" nl="Komatsu">
+      <province jpn="石川県" eng="Ishikawa" de="Ishikawa" fr="Ishikawa" es="Ishikawa" it="Ishikawa" nl="Ishikawa" />
+      <longitude>136.399911</longitude>
+      <latitude>36.400702</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="七尾市" eng="Nanao" de="Nanao" fr="Nanao" es="Nanao" it="Nanao" nl="Nanao">
+      <province jpn="石川県" eng="Ishikawa" de="Ishikawa" fr="Ishikawa" es="Ishikawa" it="Ishikawa" nl="Ishikawa" />
+      <longitude>136.939753</longitude>
+      <latitude>37.082721</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="輪島市" eng="Wajima" de="Wajima" fr="Wajima" es="Wajima" it="Wajima" nl="Wajima">
       <province jpn="石川県" eng="Ishikawa" de="Ishikawa" fr="Ishikawa" es="Ishikawa" it="Ishikawa" nl="Ishikawa" />
       <longitude>136.8951416015625</longitude>
       <latitude>37.386474609375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="福井市" eng="Fukui" de="Fukui" fr="Fukui" es="Fukui" it="Fukui" nl="Fukui">
@@ -477,10 +715,24 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="越前市" eng="Echizen" de="Echizen" fr="Echizen" es="Echizen" it="Echizen" nl="Echizen">
+      <province jpn="福井県" eng="Fukui" de="Fukui" fr="Fukui" es="Fukui" it="Fukui" nl="Fukui" />
+      <longitude>136.169009</longitude>
+      <latitude>35.891034</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="敦賀市" eng="Tsuruga" de="Tsuruga" fr="Tsuruga" es="Tsuruga" it="Tsuruga" nl="Tsuruga">
       <province jpn="福井県" eng="Fukui" de="Fukui" fr="Fukui" es="Fukui" it="Fukui" nl="Fukui" />
       <longitude>136.0601806640625</longitude>
       <latitude>35.6451416015625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="小浜市" eng="Obama" de="Obama" fr="Obama" es="Obama" it="Obama" nl="Obama">
+      <province jpn="福井県" eng="Fukui" de="Fukui" fr="Fukui" es="Fukui" it="Fukui" nl="Fukui" />
+      <longitude>135.740751</longitude>
+      <latitude>35.496348</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -489,6 +741,13 @@
       <longitude>138.5540771484375</longitude>
       <latitude>35.66162109375</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="北杜市" eng="Hokuto" de="Hokuto" fr="Hokuto" es="Hokuto" it="Hokuto" nl="Hokuto">
+      <province jpn="山梨県" eng="Yamanashi" de="Yamanashi" fr="Yamanashi" es="Yamanashi" it="Yamanashi" nl="Yamanashi" />
+      <longitude>138.369028</longitude>
+      <latitude>35.841245</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="河口湖" eng="Fujikawaguchiko" de="Fujikawaguchiko" fr="Fujikawaguchiko" es="Fujikawaguchiko" it="Fujikawaguchiko" nl="Fujikawaguchiko">
@@ -502,27 +761,34 @@
       <province jpn="長野県" eng="Nagano" de="Nagano" fr="Nagano" es="Nagano" it="Nagano" nl="Nagano" />
       <longitude>138.1915283203125</longitude>
       <latitude>36.6558837890625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="松本市" eng="Matsumoto" de="Matsumoto" fr="Matsumoto" es="Matsumoto" it="Matsumoto" nl="Matsumoto">
       <province jpn="長野県" eng="Nagano" de="Nagano" fr="Nagano" es="Nagano" it="Nagano" nl="Nagano" />
       <longitude>137.9718017578125</longitude>
       <latitude>36.2384033203125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="飯田市" eng="Iida" de="Iida" fr="Iida" es="Iida" it="Iida" nl="Iida">
       <province jpn="長野県" eng="Nagano" de="Nagano" fr="Nagano" es="Nagano" it="Nagano" nl="Nagano" />
       <longitude>137.8179931640625</longitude>
       <latitude>35.518798828125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="佐久市" eng="Saku" de="Saku" fr="Saku" es="Saku" it="Saku" nl="Saku">
+      <province jpn="長野県" eng="Nagano" de="Nagano" fr="Nagano" es="Nagano" it="Nagano" nl="Nagano" />
+      <longitude>138.490988</longitude>
+      <latitude>36.307355</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="軽井沢町" eng="Karuizawa" de="Karuizawa" fr="Karuizawa" es="Karuizawa" it="Karuizawa" nl="Karuizawa">
+	<city jpn="上田市" eng="Ueda" de="Ueda" fr="Ueda" es="Ueda" it="Ueda" nl="Ueda">
       <province jpn="長野県" eng="Nagano" de="Nagano" fr="Nagano" es="Nagano" it="Nagano" nl="Nagano" />
-      <longitude>138.548583984375</longitude>
-      <latitude>36.3372802734375</latitude>
+      <longitude>138.219764</longitude>
+      <latitude>36.398321</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -537,27 +803,62 @@
       <province jpn="新潟県" eng="Niigata" de="Niigata" fr="Niigata" es="Niigata" it="Niigata" nl="Niigata" />
       <longitude>139.0484619140625</longitude>
       <latitude>37.9083251953125</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="長岡市" eng="Nagaoka" de="Nagaoka" fr="Nagaoka" es="Nagaoka" it="Nagaoka" nl="Nagaoka">
       <province jpn="新潟県" eng="Niigata" de="Niigata" fr="Niigata" es="Niigata" it="Niigata" nl="Niigata" />
       <longitude>138.8232421875</longitude>
       <latitude>37.4468994140625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="上越市" eng="Joetsu" de="Joetsu" fr="Joetsu" es="Joetsu" it="Joetsu" nl="Joetsu">
       <province jpn="新潟県" eng="Niigata" de="Niigata" fr="Niigata" es="Niigata" it="Niigata" nl="Niigata" />
       <longitude>138.2464599609375</longitude>
       <latitude>37.100830078125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="新発田市" eng="Shibata" de="Shibata" fr="Shibata" es="Shibata" it="Shibata" nl="Shibata">
+      <province jpn="新潟県" eng="Niigata" de="Niigata" fr="Niigata" es="Niigata" it="Niigata" nl="Niigata" />
+      <longitude>139.382030</longitude>
+      <latitude>38.008577</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="相川" eng="Aikawa" de="Aikawa" fr="Aikawa" es="Aikawa" it="Aikawa" nl="Aikawa">
+	<city jpn="五泉市" eng="Gosen" de="Gosen" fr="Gosen" es="Gosen" it="Gosen" nl="Gosen">
       <province jpn="新潟県" eng="Niigata" de="Niigata" fr="Niigata" es="Niigata" it="Niigata" nl="Niigata" />
-      <longitude>138.240966796875</longitude>
-      <latitude>38.0181884765625</latitude>
+      <longitude>139.267421</longitude>
+      <latitude>37.716059</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="村上市" eng="Murakami" de="Murakami" fr="Murakami" es="Murakami" it="Murakami" nl="Murakami">
+      <province jpn="新潟県" eng="Niigata" de="Niigata" fr="Niigata" es="Niigata" it="Niigata" nl="Niigata" />
+      <longitude>139.465890</longitude>
+      <latitude>38.292940</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="湯沢町" eng="Yuzawa" de="Yuzawa" fr="Yuzawa" es="Yuzawa" it="Yuzawa" nl="Yuzawa">
+      <province jpn="新潟県" eng="Niigata" de="Niigata" fr="Niigata" es="Niigata" it="Niigata" nl="Niigata" />
+      <longitude>138.815527</longitude>
+      <latitude>37.015203</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="佐渡市" eng="Sado" de="Sado" fr="Sado" es="Sado" it="Sado" nl="Sado">
+      <province jpn="新潟県" eng="Niigata" de="Niigata" fr="Niigata" es="Niigata" it="Niigata" nl="Niigata" />
+      <longitude>138.384297</longitude>
+      <latitude>38.020476</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="粟島浦村" eng="Awashimaura" de="Awashimaura" fr="Awashimaura" es="Awashimaura" it="Awashimaura" nl="Awashimaura">
+      <province jpn="新潟県" eng="Niigata" de="Niigata" fr="Niigata" es="Niigata" it="Niigata" nl="Niigata" />
+      <longitude>138.384297</longitude>
+      <latitude>38.020476</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -565,6 +866,34 @@
       <province jpn="岐阜県" eng="Gifu" de="Gifu" fr="Gifu" es="Gifu" it="Gifu" nl="Gifu" />
       <longitude>136.7633056640625</longitude>
       <latitude>35.3924560546875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="多治見市" eng="Tajimi" de="Tajimi" fr="Tajimi" es="Tajimi" it="Tajimi" nl="Tajimi">
+      <province jpn="岐阜県" eng="Gifu" de="Gifu" fr="Gifu" es="Gifu" it="Gifu" nl="Gifu" />
+      <longitude>137.164124</longitude>
+      <latitude>35.410196</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="多治見市" eng="Tajimi" de="Tajimi" fr="Tajimi" es="Tajimi" it="Tajimi" nl="Tajimi">
+      <province jpn="岐阜県" eng="Gifu" de="Gifu" fr="Gifu" es="Gifu" it="Gifu" nl="Gifu" />
+      <longitude>137.164124</longitude>
+      <latitude>35.410196</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="郡上市" eng="Gujo" de="Gujo" fr="Gujo" es="Gujo" it="Gujo" nl="Gujo">
+      <province jpn="岐阜県" eng="Gifu" de="Gifu" fr="Gifu" es="Gifu" it="Gifu" nl="Gifu" />
+      <longitude>137.009521</longitude>
+      <latitude>35.770883</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="中津川市" eng="Nakatsugawa" de="Nakatsugawa" fr="Nakatsugawa" es="Nakatsugawa" it="Nakatsugawa" nl="Nakatsugawa">
+      <province jpn="岐阜県" eng="Gifu" de="Gifu" fr="Gifu" es="Gifu" it="Gifu" nl="Gifu" />
+      <longitude>137.443026</longitude>
+      <latitude>35.482163</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -572,7 +901,7 @@
       <province jpn="岐阜県" eng="Gifu" de="Gifu" fr="Gifu" es="Gifu" it="Gifu" nl="Gifu" />
       <longitude>137.252197265625</longitude>
       <latitude>36.1505126953125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="静岡市" eng="Shizuoka" de="Shizuoka" fr="Shizuoka" es="Shizuoka" it="Shizuoka" nl="Shizuoka">
@@ -580,6 +909,13 @@
       <longitude>138.40576171875</longitude>
       <latitude>34.969482421875</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="富士市" eng="Fuji" de="Fuji" fr="Fuji" es="Fuji" it="Fuji" nl="Fuji">
+      <province jpn="静岡県" eng="Shizuoka" de="Shizuoka" fr="Shizuoka" es="Shizuoka" it="Shizuoka" nl="Shizuoka" />
+      <longitude>138.650129</longitude>
+      <latitude>35.151836</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="網代" eng="Ajiro" de="Ajiro" fr="Ajiro" es="Ajiro" it="Ajiro" nl="Ajiro">
@@ -593,17 +929,31 @@
       <province jpn="静岡県" eng="Shizuoka" de="Shizuoka" fr="Shizuoka" es="Shizuoka" it="Shizuoka" nl="Shizuoka" />
       <longitude>138.922119140625</longitude>
       <latitude>35.1123046875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="浜松市" eng="Hamamatsu" de="Hamamatsu" fr="Hamamatsu" es="Hamamatsu" it="Hamamatsu" nl="Hamamatsu">
       <province jpn="静岡県" eng="Shizuoka" de="Shizuoka" fr="Shizuoka" es="Shizuoka" it="Shizuoka" nl="Shizuoka" />
       <longitude>137.7191162109375</longitude>
       <latitude>34.705810546875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="掛川市" eng="Kakegawa" de="Kakegawa" fr="Kakegawa" es="Kakegawa" it="Kakegawa" nl="Kakegawa">
+      <province jpn="静岡県" eng="Shizuoka" de="Shizuoka" fr="Shizuoka" es="Shizuoka" it="Shizuoka" nl="Shizuoka" />
+      <longitude>137.999324</longitude>
+      <latitude>34.861113</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="富士山" eng="Mount Fuji" de="Fuji" fr="Mont Fuji" es="Monte Fuji" it="Monte Fuji" nl="Fuji">
+	<city jpn="掛川市" eng="Kakegawa" de="Kakegawa" fr="Kakegawa" es="Kakegawa" it="Kakegawa" nl="Kakegawa">
+      <province jpn="静岡県" eng="Shizuoka" de="Shizuoka" fr="Shizuoka" es="Shizuoka" it="Shizuoka" nl="Shizuoka" />
+      <longitude>138.081340</longitude>
+      <latitude>35.082075</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="富士山" eng="Mt. Fuji" de="Berg Fuji" fr="Mont Fuji" es="Monte Fuji" it="Monte Fuji" nl="Berg Fuji">
       <province jpn="静岡県" eng="Shizuoka" de="Shizuoka" fr="Shizuoka" es="Shizuoka" it="Shizuoka" nl="Shizuoka" />
       <longitude>138.724365234375</longitude>
       <latitude>35.3594970703125</latitude>
@@ -617,11 +967,11 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="石廊崎" eng="Irozaki" de="Irozaki" fr="Irozaki" es="Irozaki" it="Irozaki" nl="Irozaki">
+    <city jpn="石廊崎" eng="Cape Irozaki" de="Kap Irozaki" fr="Cap Irozaki" es="Cabo Irozaki" it="Capo Irozaki" nl="Kaap Irozaki">
       <province jpn="静岡県" eng="Shizuoka" de="Shizuoka" fr="Shizuoka" es="Shizuoka" it="Shizuoka" nl="Shizuoka" />
       <longitude>138.84521484375</longitude>
       <latitude>34.595947265625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="名古屋市" eng="Nagoya" de="Nagoya" fr="Nagoya" es="Nagoya" it="Nagoya" nl="Nagoya">
@@ -629,6 +979,13 @@
       <longitude>136.966552734375</longitude>
       <latitude>35.1617431640625</latitude>
       <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="豊田市" eng="Toyota" de="Toyota" fr="Toyota" es="Toyota" it="Toyota" nl="Toyota">
+      <province jpn="愛知県" eng="Aichi" de="Aichi" fr="Aichi" es="Aichi" it="Aichi" nl="Aichi" />
+      <longitude>137.218646</longitude>
+      <latitude>35.083514</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="豊橋市" eng="Toyohashi" de="Toyohashi" fr="Toyohashi" es="Toyohashi" it="Toyohashi" nl="Toyohashi">
@@ -642,6 +999,13 @@
       <province jpn="愛知県" eng="Aichi" de="Aichi" fr="Aichi" es="Aichi" it="Aichi" nl="Aichi" />
       <longitude>137.0928955078125</longitude>
       <latitude>34.6234130859375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="東栄町" eng="Toei" de="Toei" fr="Toei" es="Toei" it="Toei" nl="Toei">
+      <province jpn="愛知県" eng="Aichi" de="Aichi" fr="Aichi" es="Aichi" it="Aichi" nl="Aichi" />
+      <longitude>137.708390</longitude>
+      <latitude>35.072873</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -652,11 +1016,18 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="伊勢市" eng="Ise" de="Ise" fr="Ise" es="Ise" it="Ise" nl="Ise">
+      <province jpn="三重県" eng="Mie" de="Mie" fr="Mie" es="Mie" it="Mie" nl="Mie" />
+      <longitude>136.736991</longitude>
+      <latitude>34.444119</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="尾鷲市" eng="Owase" de="Owase" fr="Owase" es="Owase" it="Owase" nl="Owase">
       <province jpn="三重県" eng="Mie" de="Mie" fr="Mie" es="Mie" it="Mie" nl="Mie" />
       <longitude>136.1920166015625</longitude>
       <latitude>34.0631103515625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="四日市市" eng="Yokkaichi" de="Yokkaichi" fr="Yokkaichi" es="Yokkaichi" it="Yokkaichi" nl="Yokkaichi">
@@ -666,11 +1037,11 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="上野" eng="Uenocho" de="Uenocho" fr="Uenocho" es="Uenocho" it="Uenocho" nl="Uenocho">
+    <city jpn="伊賀市" eng="Iga" de="Iga" fr="Iga" es="Iga" it="Iga" nl="Iga">
       <province jpn="三重県" eng="Mie" de="Mie" fr="Mie" es="Mie" it="Mie" nl="Mie" />
       <longitude>136.1370849609375</longitude>
       <latitude>34.7552490234375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="大津市" eng="Otsu" de="Otsu" fr="Otsu" es="Otsu" it="Otsu" nl="Otsu">
@@ -684,35 +1055,77 @@
       <province jpn="滋賀県" eng="Shiga" de="Shiga" fr="Shiga" es="Shiga" it="Shiga" nl="Shiga" />
       <longitude>136.2469482421875</longitude>
       <latitude>35.2716064453125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="東近江市" eng="Higashiomi" de="Higashiomi" fr="Higashiomi" es="Higashiomi" it="Higashiomi" nl="Higashiomi">
+      <province jpn="滋賀県" eng="Shiga" de="Shiga" fr="Shiga" es="Shiga" it="Shiga" nl="Shiga" />
+      <longitude>136.244522</longitude>
+      <latitude>35.088202</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="京都市" eng="Kyoto" de="Kyōto" fr="Kyoto" es="Kioto" it="Kyoto" nl="Kioto">
+    <city jpn="京都市" eng="Kyoto" de="Kyoto" fr="Kyoto" es="Kioto" it="Kyoto" nl="Kioto">
       <province jpn="京都府" eng="Kyoto" de="Kyoto" fr="Kyoto" es="Kioto" it="Kyoto" nl="Kyoto" />
       <longitude>135.7305908203125</longitude>
       <latitude>35.0079345703125</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="宇治市" eng="Uji" de="Uji" fr="Uji" es="Uji" it="Uji" nl="Uji">
+      <province jpn="京都府" eng="Kyoto" de="Kyoto" fr="Kyoto" es="Kioto" it="Kyoto" nl="Kyoto" />
+      <longitude>135.832114</longitude>
+      <latitude>34.866775</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="舞鶴市" eng="Maizuru" de="Maizuru" fr="Maizuru" es="Maizuru" it="Maizuru" nl="Maizuru">
       <province jpn="京都府" eng="Kyoto" de="Kyoto" fr="Kyoto" es="Kioto" it="Kyoto" nl="Kyoto" />
       <longitude>135.318603515625</longitude>
       <latitude>35.4473876953125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="福知山市" eng="Fukuchiyama" de="Fukuchiyama" fr="Fukuchiyama" es="Fukuchiyama" it="Fukuchiyama" nl="Fukuchiyama">
+      <province jpn="京都府" eng="Kyoto" de="Kyoto" fr="Kyoto" es="Kioto" it="Kyoto" nl="Kyoto" />
+      <longitude>135.208565</longitude>
+      <latitude>35.252668</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="京丹後市" eng="Kyotango" de="Kyotango" fr="Kyotango" es="Kyotango" it="Kyotango" nl="Kyotango">
+      <province jpn="京都府" eng="Kyoto" de="Kyoto" fr="Kyoto" es="Kioto" it="Kyoto" nl="Kyoto" />
+      <longitude>135.208565</longitude>
+      <latitude>35.252668</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="大阪市" eng="Osaka" de="Ōsaka" fr="Osaka" es="Osaka" it="Osaka" nl="Osaka">
+    <city jpn="大阪市" eng="Osaka" de="Osaka" fr="Osaka" es="Osaka" it="Osaka" nl="Osaka">
       <province jpn="大阪府" eng="Osaka" de="Osaka" fr="Osaka" es="Osaka" it="Osaka" nl="Osaka" />
       <longitude>135.5218505859375</longitude>
       <latitude>34.6728515625</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="神戸市" eng="Kobe" de="Kōbe" fr="Kobe" es="Kōbe" it="Kōbe" nl="Kobe">
+	<city jpn="堺市" eng="Sakai" de="Sakai" fr="Sakai" es="Sakai" it="Sakai" nl="Sakai">
+      <province jpn="大阪府" eng="Osaka" de="Osaka" fr="Osaka" es="Osaka" it="Osaka" nl="Osaka" />
+      <longitude>135.424597</longitude>
+      <latitude>34.526372</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="泉佐野市" eng="Izumisano" de="Izumisano" fr="Izumisano" es="Izumisano" it="Izumisano" nl="Izumisano">
+      <province jpn="大阪府" eng="Osaka" de="Osaka" fr="Osaka" es="Osaka" it="Osaka" nl="Osaka" />
+      <longitude>135.289002</longitude>
+      <latitude>34.419507</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="神戸市" eng="Kobe" de="Kobe" fr="Kobe" es="Kobe" it="Kobe" nl="Kobe">
       <province jpn="兵庫県" eng="Hyogo" de="Hyogo" fr="Hyogo" es="Hiogo" it="Hyogo" nl="Hyogo" />
       <longitude>135.2142333984375</longitude>
       <latitude>34.6893310546875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="豊岡市" eng="Toyooka" de="Toyooka" fr="Toyooka" es="Toyooka" it="Toyooka" nl="Toyooka">
@@ -720,6 +1133,20 @@
       <longitude>134.82421875</longitude>
       <latitude>35.52978515625</latitude>
       <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="豊岡市" eng="Kakogawa" de="Kakogawa" fr="Kakogawa" es="Kakogawa" it="Kakogawa" nl="Kakogawa">
+      <province jpn="兵庫県" eng="Hyogo" de="Hyogo" fr="Hyogo" es="Hiogo" it="Hyogo" nl="Hyogo" />
+      <longitude>134.849941</longitude>
+      <latitude>34.742338</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="西脇市" eng="Nishiwaki" de="Nishiwaki" fr="Nishiwaki" es="Nishiwaki" it="Nishiwaki" nl="Nishiwaki">
+      <province jpn="兵庫県" eng="Hyogo" de="Hyogo" fr="Hyogo" es="Hiogo" it="Hyogo" nl="Hyogo" />
+      <longitude>134.969399</longitude>
+      <latitude>35.029538</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="姫路市" eng="Himeji" de="Himeji" fr="Himeji" es="Himeji" it="Himeji" nl="Himeji">
@@ -740,13 +1167,27 @@
       <province jpn="奈良県" eng="Nara" de="Nara" fr="Nara" es="Nara" it="Nara" nl="Nara" />
       <longitude>135.8294677734375</longitude>
       <latitude>34.6893310546875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="橿原市" eng="Kashihara" de="Kashihara" fr="Kashihara" es="Kashihara" it="Kashihara" nl="Kashihara">
+      <province jpn="奈良県" eng="Nara" de="Nara" fr="Nara" es="Nara" it="Nara" nl="Nara" />
+      <longitude>135.818397</longitude>
+      <latitude>34.481596</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="風屋" eng="Kazeya" de="Kazeya" fr="Kazeya" es="Kazeya" it="Kazeya" nl="Kazeya">
+    <city jpn="十津川村" eng="Totsukawa" de="Totsukawa" fr="Totsukawa" es="Totsukawa" it="Totsukawa" nl="Totsukawa">
       <province jpn="奈良県" eng="Nara" de="Nara" fr="Nara" es="Nara" it="Nara" nl="Nara" />
       <longitude>135.7855224609375</longitude>
       <latitude>34.0411376953125</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="吉野町" eng="Yoshino" de="Yoshino" fr="Yoshino" es="Yoshino" it="Yoshino" nl="Yoshino">
+      <province jpn="奈良県" eng="Nara" de="Nara" fr="Nara" es="Nara" it="Nara" nl="Nara" />
+      <longitude>135.872632</longitude>
+      <latitude>34.338375</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -757,7 +1198,21 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="潮岬" eng="Shionomisaki" de="Shionomisaki" fr="Shionomisaki" es="Shionomisaki" it="Shionomisaki" nl="Shionomisaki">
+	<city jpn="田辺市" eng="Tanabe" de="Tanabe" fr="Tanabe" es="Tanabe" it="Tanabe" nl="Tanabe">
+      <province jpn="和歌山県" eng="Wakayama" de="Wakayama" fr="Wakayama" es="Wakayama" it="Wakayama" nl="Wakayama" />
+      <longitude>135.381897</longitude>
+      <latitude>33.726791</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="橋本市" eng="Hashimoto" de="Hashimoto" fr="Hashimoto" es="Hashimoto" it="Hashimoto" nl="Hashimoto">
+      <province jpn="和歌山県" eng="Wakayama" de="Wakayama" fr="Wakayama" es="Wakayama" it="Wakayama" nl="Wakayama" />
+      <longitude>135.381897</longitude>
+      <latitude>33.726791</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="潮岬" eng="Cape Shionomisaki" de="Kap Shionomisaki" fr="Cap Shionomisaki" es="Cabo Shionomisaki" it="Capo Shionomisaki" nl="Kaap Shionomisaki">
       <province jpn="和歌山県" eng="Wakayama" de="Wakayama" fr="Wakayama" es="Wakayama" it="Wakayama" nl="Wakayama" />
       <longitude>135.758056640625</longitude>
       <latitude>33.4478759765625</latitude>
@@ -785,6 +1240,13 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="琴浦町" eng="Kotoura" de="Kotoura" fr="Kotoura" es="Kotoura" it="Kotoura" nl="Kotoura">
+      <province jpn="鳥取県" eng="Tottori" de="Tottori" fr="Tottori" es="Totori" it="Tottori" nl="Tottori" />
+      <longitude>133.723711</longitude>
+      <latitude>35.497426</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="松江市" eng="Matsue" de="Matsue" fr="Matsue" es="Matsue" it="Matsue" nl="Matsue">
       <province jpn="島根県" eng="Shimane" de="Shimane" fr="Shimane" es="Shimane" it="Shimane" nl="Shimane" />
       <longitude>133.06640625</longitude>
@@ -792,17 +1254,45 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="出雲市" eng="Izumo" de="Izumo" fr="Izumo" es="Izumo" it="Izumo" nl="Izumo">
+      <province jpn="島根県" eng="Shimane" de="Shimane" fr="Shimane" es="Shimane" it="Shimane" nl="Shimane" />
+      <longitude>132.717047</longitude>
+      <latitude>35.358468</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="浜田市" eng="Hamada" de="Hamada" fr="Hamada" es="Hamada" it="Hamada" nl="Hamada">
       <province jpn="島根県" eng="Shimane" de="Shimane" fr="Shimane" es="Shimane" it="Shimane" nl="Shimane" />
       <longitude>132.0721435546875</longitude>
       <latitude>34.892578125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="大田市" eng="Oda" de="Oda" fr="Oda" es="Oda" it="Oda" nl="Oda">
+      <province jpn="島根県" eng="Shimane" de="Shimane" fr="Shimane" es="Shimane" it="Shimane" nl="Shimane" />
+      <longitude>132.483115</longitude>
+      <latitude>35.195953</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="隠岐の島町" eng="Okinoshima" de="Okinoshima" fr="Okinoshima" es="Okinoshima" it="Okinoshima" nl="Okinoshima">
       <province jpn="島根県" eng="Shimane" de="Shimane" fr="Shimane" es="Shimane" it="Shimane" nl="Shimane" />
       <longitude>133.3355712890625</longitude>
       <latitude>36.199951171875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="益田市" eng="Masuda" de="Masuda" fr="Masuda" es="Masuda" it="Masuda" nl="Masuda">
+      <province jpn="島根県" eng="Shimane" de="Shimane" fr="Shimane" es="Shimane" it="Shimane" nl="Shimane" />
+      <longitude>131.807190</longitude>
+      <latitude>34.675755</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="吉賀町" eng="Yoshika" de="Yoshika" fr="Yoshika" es="Yoshika" it="Yoshika" nl="Yoshika">
+      <province jpn="島根県" eng="Shimane" de="Shimane" fr="Shimane" es="Shimane" it="Shimane" nl="Shimane" />
+      <longitude>131.807190</longitude>
+      <latitude>34.675755</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -813,10 +1303,24 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="倉敷市" eng="Kurashiki" de="Kurashiki" fr="Kurashiki" es="Kurashiki" it="Kurashiki" nl="Kurashiki">
+      <province jpn="岡山県" eng="Okayama" de="Okayama" fr="Okayama" es="Okayama" it="Okayama" nl="Okayama" />
+      <longitude>133.667034</longitude>
+      <latitude>34.523205</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="津山市" eng="Tsuyama" de="Tsuyama" fr="Tsuyama" es="Tsuyama" it="Tsuyama" nl="Tsuyama">
       <province jpn="岡山県" eng="Okayama" de="Okayama" fr="Okayama" es="Okayama" it="Okayama" nl="Okayama" />
       <longitude>134.01123046875</longitude>
       <latitude>35.057373046875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="高梁市" eng="Takahashi" de="Takahashi" fr="Takahashi" es="Takahashi" it="Takahashi" nl="Takahashi">
+      <province jpn="岡山県" eng="Okayama" de="Okayama" fr="Okayama" es="Okayama" it="Okayama" nl="Okayama" />
+      <longitude>133.598281</longitude>
+      <latitude>34.792360</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -831,20 +1335,41 @@
       <province jpn="広島県" eng="Hiroshima" de="Hiroshima" fr="Hiroshima" es="Hiroshima" it="Hiroshima" nl="Hiroshima" />
       <longitude>133.0279541015625</longitude>
       <latitude>34.8541259765625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="福山市" eng="Fukuyama" de="Fukuyama" fr="Fukuyama" es="Fukuyama" it="Fukuyama" nl="Fukuyama">
       <province jpn="広島県" eng="Hiroshima" de="Hiroshima" fr="Hiroshima" es="Hiroshima" it="Hiroshima" nl="Hiroshima" />
       <longitude>133.2476806640625</longitude>
       <latitude>34.442138671875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="呉市" eng="Kure" de="Kure" fr="Kure" es="Kure" it="Kure" nl="Kure">
       <province jpn="広島県" eng="Hiroshima" de="Hiroshima" fr="Hiroshima" es="Hiroshima" it="Hiroshima" nl="Hiroshima" />
       <longitude>132.550048828125</longitude>
       <latitude>34.2333984375</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="東広島市" eng="Higashihiroshima" de="Higashihiroshima" fr="Higashihiroshima" es="Higashihiroshima" it="Higashihiroshima" nl="Higashihiroshima">
+      <province jpn="広島県" eng="Hiroshima" de="Hiroshima" fr="Hiroshima" es="Hiroshima" it="Hiroshima" nl="Hiroshima" />
+      <longitude>132.724430</longitude>
+      <latitude>34.418181</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="尾道市" eng="Onomichi" de="Onomichi" fr="Onomichi" es="Onomichi" it="Onomichi" nl="Onomichi">
+      <province jpn="広島県" eng="Hiroshima" de="Hiroshima" fr="Hiroshima" es="Hiroshima" it="Hiroshima" nl="Hiroshima" />
+      <longitude>133.165071</longitude>
+      <latitude>34.393283</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="神石高原町" eng="Jinsekikogen" de="Jinsekikogen" fr="Jinsekikogen" es="Jinsekikogen" it="Jinsekikogen" nl="Jinsekikogen">
+      <province jpn="広島県" eng="Hiroshima" de="Hiroshima" fr="Hiroshima" es="Hiroshima" it="Hiroshima" nl="Hiroshima" />
+      <longitude>133.206305</longitude>
+      <latitude>34.703060</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -859,7 +1384,7 @@
       <province jpn="山口県" eng="Yamaguchi" de="Yamaguchi" fr="Yamaguchi" es="Yamaguchi" it="Yamaguchi" nl="Yamaguchi" />
       <longitude>130.924072265625</longitude>
       <latitude>33.9422607421875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="柳井市" eng="Yanai" de="Yanai" fr="Yanai" es="Yanai" it="Yanai" nl="Yanai">
@@ -873,13 +1398,27 @@
       <province jpn="山口県" eng="Yamaguchi" de="Yamaguchi" fr="Yamaguchi" es="Yamaguchi" it="Yamaguchi" nl="Yamaguchi" />
       <longitude>131.3909912109375</longitude>
       <latitude>34.4091796875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="宇部市" eng="Ube" de="Ube" fr="Ube" es="Ube" it="Ube" nl="Ube">
       <province jpn="山口県" eng="Yamaguchi" de="Yamaguchi" fr="Yamaguchi" es="Yamaguchi" it="Yamaguchi" nl="Yamaguchi" />
       <longitude>131.2811279296875</longitude>
       <latitude>33.92578125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="岩国市" eng="Iwakuni" de="Iwakuni" fr="Iwakuni" es="Iwakuni" it="Iwakuni" nl="Iwakuni">
+      <province jpn="山口県" eng="Yamaguchi" de="Yamaguchi" fr="Yamaguchi" es="Yamaguchi" it="Yamaguchi" nl="Yamaguchi" />
+      <longitude>132.150064</longitude>
+      <latitude>34.198693</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="防府市" eng="Hofu" de="Hofu" fr="Hofu" es="Hofu" it="Hofu" nl="Hofu">
+      <province jpn="山口県" eng="Yamaguchi" de="Yamaguchi" fr="Yamaguchi" es="Yamaguchi" it="Yamaguchi" nl="Yamaguchi" />
+      <longitude>131.564623</longitude>
+      <latitude>33.993205</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -890,11 +1429,39 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="阿南市" eng="Anan" de="Anan" fr="Anan" es="Anan" it="Anan" nl="Anan">
+      <province jpn="徳島県" eng="Tokushima" de="Tokushima" fr="Tokushima" es="Tokushima" it="Tokushima" nl="Tokushima" />
+      <longitude>134.681065</longitude>
+      <latitude>33.910785</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="美波町" eng="Minami" de="Minami" fr="Minami" es="Minami" it="Minami" nl="Minami">
       <province jpn="徳島県" eng="Tokushima" de="Tokushima" fr="Tokushima" es="Tokushima" it="Tokushima" nl="Tokushima" />
       <longitude>134.53857421875</longitude>
       <latitude>33.7225341796875</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="鳴門市" eng="Naruto" de="Naruto" fr="Naruto" es="Naruto" it="Naruto" nl="Naruto">
+      <province jpn="徳島県" eng="Tokushima" de="Tokushima" fr="Tokushima" es="Tokushima" it="Tokushima" nl="Tokushima" />
+      <longitude>134.633059</longitude>
+      <latitude>34.194398</latitude>
       <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="美馬市" eng="Mima" de="Mima" fr="Mima" es="Mima" it="Mima" nl="Mima">
+      <province jpn="徳島県" eng="Tokushima" de="Tokushima" fr="Tokushima" es="Tokushima" it="Tokushima" nl="Tokushima" />
+      <longitude>134.127573</longitude>
+      <latitude>34.035605</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="海陽町" eng="Kaiyo" de="Kaiyo" fr="Kaiyo" es="Kaiyo" it="Kaiyo" nl="Kaiyo">
+      <province jpn="徳島県" eng="Tokushima" de="Tokushima" fr="Tokushima" es="Tokushima" it="Tokushima" nl="Tokushima" />
+      <longitude>134.359998</longitude>
+      <latitude>33.600731</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="高松市" eng="Takamatsu" de="Takamatsu" fr="Takamatsu" es="Takamatsu" it="Takamatsu" nl="Takamatsu">
@@ -904,10 +1471,24 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="多度津町" eng="Tadotsu" de="Tadotsu" fr="Tadotsu" es="Tadotsu" it="Tadotsu" nl="Tadotsu">
+    <city jpn="丸亀市" eng="Marugame" de="Marugame" fr="Marugame" es="Marugame" it="Marugame" nl="Marugame">
       <province jpn="香川県" eng="Kagawa" de="Kagawa" fr="Kagawa" es="Kagawa" it="Kagawa" nl="Kagawa" />
-      <longitude>133.7530517578125</longitude>
-      <latitude>34.2718505859375</latitude>
+      <longitude>133.782269</longitude>
+      <latitude>34.287550</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="観音寺市" eng="Kan'onji" de="Kan'onji" fr="Kan'onji" es="Kan'onji" it="Kan'onji" nl="Kan'onji">
+      <province jpn="香川県" eng="Kagawa" de="Kagawa" fr="Kagawa" es="Kagawa" it="Kagawa" nl="Kagawa" />
+      <longitude>133.643368</longitude>
+      <latitude>34.083461</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="三木町" eng="Miki" de="Miki" fr="Miki" es="Miki" it="Miki" nl="Miki">
+      <province jpn="香川県" eng="Kagawa" de="Kagawa" fr="Kagawa" es="Kagawa" it="Kagawa" nl="Kagawa" />
+      <longitude>134.146053</longitude>
+      <latitude>34.229908</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -918,11 +1499,18 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="今治市" eng="Imabari" de="Imabari" fr="Imabari" es="Imabari" it="Imabari" nl="Imabari">
+      <province jpn="愛媛県" eng="Ehime" de="Ehime" fr="Ehime" es="Ehime" it="Ehime" nl="Ehime" />
+      <longitude>133.010705</longitude>
+      <latitude>34.070734</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="新居浜市" eng="Niihama" de="Niihama" fr="Niihama" es="Niihama" it="Niihama" nl="Niihama">
       <province jpn="愛媛県" eng="Ehime" de="Ehime" fr="Ehime" es="Ehime" it="Ehime" nl="Ehime" />
       <longitude>133.2806396484375</longitude>
       <latitude>33.9532470703125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="宇和島市" eng="Uwajima" de="Uwajima" fr="Uwajima" es="Uwajima" it="Uwajima" nl="Uwajima">
@@ -932,14 +1520,56 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="大洲市" eng="Ozu" de="Ozu" fr="Ozu" es="Ozu" it="Ozu" nl="Ozu">
+      <province jpn="愛媛県" eng="Ehime" de="Ehime" fr="Ehime" es="Ehime" it="Ehime" nl="Ehime" />
+      <longitude>132.611915</longitude>
+      <latitude>33.531429</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="八幡浜市" eng="Yawatahama" de="Yawatahama" fr="Yawatahama" es="Yawatahama" it="Yawatahama" nl="Yawatahama">
+      <province jpn="愛媛県" eng="Ehime" de="Ehime" fr="Ehime" es="Ehime" it="Ehime" nl="Ehime" />
+      <longitude>132.363391</longitude>
+      <latitude>33.458940</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="四国中央市" eng="Shikokuchuo" de="Shikokuchuo" fr="Shikokuchuo" es="Shikokuchuo" it="Shikokuchuo" nl="Shikokuchuo">
+      <province jpn="愛媛県" eng="Ehime" de="Ehime" fr="Ehime" es="Ehime" it="Ehime" nl="Ehime" />
+      <longitude>133.531893</longitude>
+      <latitude>33.976891</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="高知市" eng="Kochi" de="Kochi" fr="Kochi" es="Kochi" it="Kochi" nl="Kochi">
       <province jpn="高知県" eng="Kochi" de="Kochi" fr="Kochi" es="Kochi" it="Kochi" nl="Kochi" />
       <longitude>133.5498046875</longitude>
       <latitude>33.563232421875</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="室戸岬" eng="Murotomisakicho" de="Murotomisakicho" fr="Murotomisakicho" es="Murotomisakicho" it="Murotomisakicho" nl="Murotomisakicho">
+	<city jpn="四万十市" eng="Shimanto" de="Shimanto" fr="Shimanto" es="Shimanto" it="Shimanto" nl="Shimanto">
+      <province jpn="高知県" eng="Kochi" de="Kochi" fr="Kochi" es="Kochi" it="Kochi" nl="Kochi" />
+      <longitude>133.167717</longitude>
+      <latitude>33.202257</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="須崎市" eng="Susaki" de="Susaki" fr="Susaki" es="Susaki" it="Susaki" nl="Susaki">
+      <province jpn="高知県" eng="Kochi" de="Kochi" fr="Kochi" es="Kochi" it="Kochi" nl="Kochi" />
+      <longitude>133.338775</longitude>
+      <latitude>33.402674</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="芸西村" eng="Geisei" de="Geisei" fr="Geisei" es="Geisei" it="Geisei" nl="Geisei">
+      <province jpn="高知県" eng="Kochi" de="Kochi" fr="Kochi" es="Kochi" it="Kochi" nl="Kochi" />
+      <longitude>133.875905</longitude>
+      <latitude>33.504567</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="室戸岬" eng="Cape Muroto" de="Kap Muroto" fr="Cap Muroto" es="Cabo Muroto" it="Capo Muroto" nl="Kaap Muroto">
       <province jpn="高知県" eng="Kochi" de="Kochi" fr="Kochi" es="Kochi" it="Kochi" nl="Kochi" />
       <longitude>134.176025390625</longitude>
       <latitude>33.24462890625</latitude>
@@ -967,7 +1597,7 @@
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="八幡" eng="Yahatanishi Ward" de="Yahatanishi Ward" fr="Yahatanishi Ward" es="Yahatanishi Ward" it="Yahatanishi Ward" nl="Yahatanishi Ward">
+    <city jpn="北九州市" eng="Kitakyushu" de="Kitakyushu" fr="Kitakyushu" es="Kitakyushu" it="Kitakyushu" nl="Kitakyushu">
       <province jpn="福岡県" eng="Fukuoka" de="Fukuoka" fr="Fukuoka" es="Fukuoka" it="Fukuoka" nl="Fukuoka" />
       <longitude>130.7427978515625</longitude>
       <latitude>33.8543701171875</latitude>
@@ -988,11 +1618,32 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="糸島市" eng="Itoshima" de="Itoshima" fr="Itoshima" es="Itoshima" it="Itoshima" nl="Itoshima">
+      <province jpn="福岡県" eng="Fukuoka" de="Fukuoka" fr="Fukuoka" es="Fukuoka" it="Fukuoka" nl="Fukuoka" />
+      <longitude>130.047267</longitude>
+      <latitude>33.483096</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="佐賀市" eng="Saga" de="Saga" fr="Saga" es="Saga" it="Saga" nl="Saga">
       <province jpn="佐賀県" eng="Saga" de="Saga" fr="Saga" es="Saga" it="Saga" nl="Saga" />
       <longitude>130.3033447265625</longitude>
       <latitude>33.2391357421875</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="唐津市" eng="Karatsu" de="Karatsu" fr="Karatsu" es="Karatsu" it="Karatsu" nl="Karatsu">
+      <province jpn="佐賀県" eng="Saga" de="Saga" fr="Saga" es="Saga" it="Saga" nl="Saga" />
+      <longitude>129.890988</longitude>
+      <latitude>33.488987</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="武雄市" eng="Takeo" de="Takeo" fr="Takeo" es="Takeo" it="Takeo" nl="Takeo">
+      <province jpn="佐賀県" eng="Saga" de="Saga" fr="Saga" es="Saga" it="Saga" nl="Saga" />
+      <longitude>130.077386</longitude>
+      <latitude>33.190383</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="伊万里市" eng="Imari" de="Imari" fr="Imari" es="Imari" it="Imari" nl="Imari">
@@ -1009,18 +1660,18 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="厳原町" eng="Izuhara" de="Izuhara" fr="Izuhara" es="Izuhara" it="Izuhara" nl="Izuhara">
+    <city jpn="対馬市" eng="Tsushima" de="Tsushima" fr="Tsushima" es="Tsushima" it="Tsushima" nl="Tsushima">
       <province jpn="長崎県" eng="Nagasaki" de="Nagasaki" fr="Nagasaki" es="Nagasaki" it="Nagasaki" nl="Nagasaki" />
       <longitude>129.2926025390625</longitude>
       <latitude>34.1949462890625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="五島市" eng="Goto" de="Goto" fr="Goto" es="Goto" it="Goto" nl="Goto">
       <province jpn="長崎県" eng="Nagasaki" de="Nagasaki" fr="Nagasaki" es="Nagasaki" it="Nagasaki" nl="Nagasaki" />
       <longitude>128.82568359375</longitude>
       <latitude>32.6898193359375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="平戸市" eng="Hirado" de="Hirado" fr="Hirado" es="Hirado" it="Hirado" nl="Hirado">
@@ -1041,13 +1692,34 @@
       <province jpn="長崎県" eng="Nagasaki" de="Nagasaki" fr="Nagasaki" es="Nagasaki" it="Nagasaki" nl="Nagasaki" />
       <longitude>129.7265625</longitude>
       <latitude>33.15673828125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="松浦市" eng="Matsuura" de="Matsuura" fr="Matsuura" es="Matsuura" it="Matsuura" nl="Matsuura">
+      <province jpn="長崎県" eng="Nagasaki" de="Nagasaki" fr="Nagasaki" es="Nagasaki" it="Nagasaki" nl="Nagasaki" />
+      <longitude>129.717689</longitude>
+      <latitude>33.382067</latitude>
       <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="壱岐市" eng="Iki" de="Iki" fr="Iki" es="Iki" it="Iki" nl="Iki">
+      <province jpn="長崎県" eng="Nagasaki" de="Nagasaki" fr="Nagasaki" es="Nagasaki" it="Nagasaki" nl="Nagasaki" />
+      <longitude>129.702809</longitude>
+      <latitude>33.753487</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="熊本市" eng="Kumamoto" de="Kumamoto" fr="Kumamoto" es="Kumamoto" it="Kumamoto" nl="Kumamoto">
       <province jpn="熊本県" eng="Kumamoto" de="Kumamoto" fr="Kumamoto" es="Kumamoto" it="Kumamoto" nl="Kumamoto" />
       <longitude>130.7098388671875</longitude>
       <latitude>32.80517578125</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="八代市" eng="Yatsushiro" de="Yatsushiro" fr="Yatsushiro" es="Yatsushiro" it="Yatsushiro" nl="Yatsushiro">
+      <province jpn="熊本県" eng="Kumamoto" de="Kumamoto" fr="Kumamoto" es="Kumamoto" it="Kumamoto" nl="Kumamoto" />
+      <longitude>130.588737</longitude>
+      <latitude>32.541749</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -1065,38 +1737,66 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="阿蘇山" eng="Mount Aso" de="Aso" fr="Mont Aso" es="Monte Aso" it="Monte Aso" nl="Aso">
+	<city jpn="阿蘇市" eng="Aso" de="Aso" fr="Aso" es="Aso" it="Aso" nl="Aso">
+      <province jpn="熊本県" eng="Kumamoto" de="Kumamoto" fr="Kumamoto" es="Kumamoto" it="Kumamoto" nl="Kumamoto" />
+      <longitude>131.111990</longitude>
+      <latitude>33.082063</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="阿蘇山" eng="Mt. Aso" de="Berg Aso" fr="Mont Aso" es="Monte Aso" it="Monte Aso" nl="Berg Aso">
       <province jpn="熊本県" eng="Kumamoto" de="Kumamoto" fr="Kumamoto" es="Kumamoto" it="Kumamoto" nl="Kumamoto" />
       <longitude>131.0723876953125</longitude>
       <latitude>32.8765869140625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="大分市" eng="Oita" de="Oita" fr="Oita" es="Oita" it="Oita" nl="Oita">
       <province jpn="大分県" eng="Oita" de="Oita" fr="Oita" es="Oita" it="Oita" nl="Oita" />
       <longitude>131.6162109375</longitude>
       <latitude>33.2281494140625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="別府市" eng="Beppu" de="Beppu" fr="Beppu" es="Beppu" it="Beppu" nl="Beppu">
+      <province jpn="大分県" eng="Oita" de="Oita" fr="Oita" es="Oita" it="Oita" nl="Oita" />
+      <longitude>131.500047</longitude>
+      <latitude>33.370875</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="中津市" eng="Nakatsu" de="Nakatsu" fr="Nakatsu" es="Nakatsu" it="Nakatsu" nl="Nakatsu">
       <province jpn="大分県" eng="Oita" de="Oita" fr="Oita" es="Oita" it="Oita" nl="Oita" />
       <longitude>131.187744140625</longitude>
       <latitude>33.5797119140625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="日田市" eng="Hita" de="Hita" fr="Hita" es="Hita" it="Hita" nl="Hita">
       <province jpn="大分県" eng="Oita" de="Oita" fr="Oita" es="Oita" it="Oita" nl="Oita" />
       <longitude>130.924072265625</longitude>
       <latitude>33.321533203125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="佐伯市" eng="Saiki" de="Saiki" fr="Saiki" es="Saiki" it="Saiki" nl="Saiki">
       <province jpn="大分県" eng="Oita" de="Oita" fr="Oita" es="Oita" it="Oita" nl="Oita" />
       <longitude>131.90185546875</longitude>
       <latitude>32.958984375</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="豊後大野市" eng="Bungo-Ono" de="Bungo-Ono" fr="Bungo-Ono" es="Bungo-Ono" it="Bungo-Ono" nl="Bungo-Ono">
+      <province jpn="大分県" eng="Oita" de="Oita" fr="Oita" es="Oita" it="Oita" nl="Oita" />
+      <longitude>131.608313</longitude>
+      <latitude>32.982482</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="国東市" eng="Kunisaki" de="Kunisaki" fr="Kunisaki" es="Kunisaki" it="Kunisaki" nl="Kunisaki">
+      <province jpn="大分県" eng="Oita" de="Oita" fr="Oita" es="Oita" it="Oita" nl="Oita" />
+      <longitude>131.732935</longitude>
+      <latitude>33.558930</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -1128,11 +1828,18 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="高鍋町" eng="Takanabe" de="Takanabe" fr="Takanabe" es="Takanabe" it="Takanabe" nl="Takanabe">
+      <province jpn="宮崎県" eng="Miyazaki" de="Miyazaki" fr="Miyazaki" es="Miyazaki" it="Miyazaki" nl="Miyazaki" />
+      <longitude>131.533811</longitude>
+      <latitude>32.204627</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="日南市" eng="Nichinan" de="Nichinan" fr="Nichinan" es="Nichinan" it="Nichinan" nl="Nichinan">
       <province jpn="宮崎県" eng="Miyazaki" de="Miyazaki" fr="Miyazaki" es="Miyazaki" it="Miyazaki" nl="Miyazaki" />
       <longitude>131.407470703125</longitude>
       <latitude>31.57470703125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="鹿児島市" eng="Kagoshima" de="Kagoshima" fr="Kagoshima" es="Kagoshima" it="Kagoshima" nl="Kagoshima">
@@ -1146,14 +1853,14 @@
       <province jpn="鹿児島県" eng="Kagoshima" de="Kagoshima" fr="Kagoshima" es="Kagoshima" it="Kagoshima" nl="Kagoshima" />
       <longitude>129.495849609375</longitude>
       <latitude>28.3721923828125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="鹿屋市" eng="Kanoya" de="Kanoya" fr="Kanoya" es="Kanoya" it="Kanoya" nl="Kanoya">
       <province jpn="鹿児島県" eng="Kagoshima" de="Kagoshima" fr="Kagoshima" es="Kagoshima" it="Kagoshima" nl="Kagoshima" />
       <longitude>130.8636474609375</longitude>
       <latitude>31.387939453125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="阿久根市" eng="Akune" de="Akune" fr="Akune" es="Akune" it="Akune" nl="Akune">
@@ -1167,21 +1874,21 @@
       <province jpn="鹿児島県" eng="Kagoshima" de="Kagoshima" fr="Kagoshima" es="Kagoshima" it="Kagoshima" nl="Kagoshima" />
       <longitude>130.7208251953125</longitude>
       <latitude>31.7999267578125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="枕崎市" eng="Makurazaki" de="Makurazaki" fr="Makurazaki" es="Makurazaki" it="Makurazaki" nl="Makurazaki">
       <province jpn="鹿児島県" eng="Kagoshima" de="Kagoshima" fr="Kagoshima" es="Kagoshima" it="Kagoshima" nl="Kagoshima" />
       <longitude>130.2923583984375</longitude>
       <latitude>31.26708984375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="種子島" eng="Tanegashima" de="Tanegashima" fr="Tanegashima" es="Tanegashima" it="Tanegashima" nl="Tanegashima">
       <province jpn="鹿児島県" eng="Kagoshima" de="Kagoshima" fr="Kagoshima" es="Kagoshima" it="Kagoshima" nl="Kagoshima" />
       <longitude>130.97900390625</longitude>
       <latitude>30.7177734375</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="屋久島" eng="Yakushima" de="Yakushima" fr="Yakushima" es="Yakushima" it="Yakushima" nl="Yakushima">
@@ -1195,7 +1902,7 @@
       <province jpn="鹿児島県" eng="Kagoshima" de="Kagoshima" fr="Kagoshima" es="Kagoshima" it="Kagoshima" nl="Kagoshima" />
       <longitude>129.9298095703125</longitude>
       <latitude>28.3172607421875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="沖永良部" eng="Okinoerabu" de="Okinoerabu" fr="Okinoerabu" es="Okinoerabu" it="Okinoerabu" nl="Okinoerabu">
@@ -1216,21 +1923,21 @@
       <province jpn="沖縄県" eng="Okinawa" de="Okinawa" fr="Okinawa" es="Okinawa" it="Okinawa" nl="Okinawa" />
       <longitude>127.68310546875</longitude>
       <latitude>26.202392578125</latitude>
-      <zoom1>6</zoom1>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="名護市" eng="Nago" de="Nago" fr="Nago" es="Nagó" it="Nago" nl="Nago">
       <province jpn="沖縄県" eng="Okinawa" de="Okinawa" fr="Okinawa" es="Okinawa" it="Okinawa" nl="Okinawa" />
       <longitude>127.9632568359375</longitude>
       <latitude>26.5869140625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="久米島町" eng="Kumejima" de="Kumejima" fr="Kumejima" es="Kumejima" it="Kumejima" nl="Kumejima">
       <province jpn="沖縄県" eng="Okinawa" de="Okinawa" fr="Okinawa" es="Okinawa" it="Okinawa" nl="Okinawa" />
       <longitude>126.7987060546875</longitude>
       <latitude>26.334228515625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="南大東島" eng="Minamidaitojima" de="Minamidaitojima" fr="Minamidaitojima" es="Minamidaitojima" it="Minamidaitojima" nl="Minamidaitojima">
@@ -1258,7 +1965,7 @@
       <province jpn="沖縄県" eng="Okinawa" de="Okinawa" fr="Okinawa" es="Okinawa" it="Okinawa" nl="Okinawa" />
       <longitude>123.0084228515625</longitude>
       <latitude>24.4610595703125</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="西表島" eng="Iriomotejima" de="Iriomotejima" fr="Iriomotejima" es="Iriomotejima" it="Iriomotejima" nl="Iriomotejima">
@@ -6308,7 +7015,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ナパ" eng="Napa" de="Napa County" fr="Comté de Napa" es="Condado de Napa" it="Contea di Napa" nl="Napa County">
+    <city jpn="ナパ" eng="Napa" de="Napa" fr="Napa" es="Napa" it="Napa" nl="Napa">
       <province jpn="カリフォルニア州" eng="California" de="Kalifornien" fr="Californie" es="California" it="California" nl="Californië" />
       <longitude>-122.2833251953125</longitude>
       <latitude>38.2928466796875</latitude>
@@ -7971,7 +8678,7 @@
       <province jpn="ミネソタ州" eng="Minnesota" de="Minnesota" fr="Minnesota" es="Minnesota" it="Minnesota" nl="Minnesota" />
       <longitude>-93.0926513671875</longitude>
       <latitude>44.9395751953125</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ミネアポリス" eng="Minneapolis" de="Minneapolis" fr="Minneapolis" es="Minneapolis" it="Minneapolis" nl="Minneapolis">
@@ -8107,7 +8814,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="リーズ・サミット" eng="Lees Summit" de="Lee's Summit" fr="Lee's Summit" es="Lee's Summit" it="Lee's Summit" nl="Lee's Summit">
+    <city jpn="リーズ・サミット" eng="Lee's Summit" de="Lee's Summit" fr="Lee's Summit" es="Lee's Summit" it="Lee's Summit" nl="Lee's Summit">
       <province jpn="ミズーリ州" eng="Missouri" de="Missouri" fr="Missouri" es="Misuri" it="Missouri" nl="Missouri" />
       <longitude>-94.3780517578125</longitude>
       <latitude>38.9080810546875</latitude>
@@ -19837,13 +20544,6 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="pb2007's Lair" eng="pb2007's Lair" de="pb2007's Lair" fr="pb2007's Lair" es="pb2007's Lair" it="pb2007's Lair" nl="pb2007's Lair">
-      <province jpn="Republic of Chorus Kid" eng="Republic of Chorus Kid" de="Republic of Chorus Kid" fr="Republic of Chorus Kid" es="Republic of Chorus Kid" it="Republic of Chorus Kid" nl="Republic of Chorus Kid" />
-      <longitude>18.4075927734375</longitude>
-      <latitude>43.8519287109375</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
   </country>
   <country>
     <name jpn="ボツワナ" eng="Botswana" de="Botswana" fr="Botswana" es="Botswana" it="Botswana" nl="Botswana" />
@@ -20660,16 +21360,6 @@
     </city>
   </country>
   <country>
-    <name jpn="マリ" eng="Mali" de="Mali" fr="Mali" es="Malí" it="Mali" nl="Mali" />
-    <city jpn="バマコ" eng="Bamako" de="Bamako" fr="Bamako" es="Bamako" it="Bamako" nl="Bamako">
-      <province jpn="バマコ特別区" eng="Bamako" de="Bamako" fr="Bamako" es="Bamako" it="Bamako" nl="Bamako" />
-      <longitude>-7.9815673828125</longitude>
-      <latitude>12.645263671875</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-  </country>
-  <country>
     <name jpn="ニジェール" eng="Niger" de="Niger" fr="Niger" es="Níger" it="Niger" nl="Niger" />
     <city jpn="ニアメ" eng="Niamey" de="Niamey" fr="Niamey" es="Niamey" it="Niamey" nl="Niamey">
       <province jpn="ニアメ首都特別区" eng="Niamey" de="Niamey" fr="Niamey" es="Niamey" it="Niamey" nl="Niamey" />
@@ -20840,126 +21530,126 @@
   </country>
   <country>
     <name jpn="台湾" eng="Taiwan" de="Taiwan" fr="Taiwan" es="Taiwán" it="Taiwan" nl="Taiwan" />
-    <city jpn="台北" eng="Taipei" de="Taipeh" fr="Taïpei" es="Taipéi" it="Taipei" nl="Taipei">
+    <city jpn="台北市" eng="Taipei" de="Taipeh" fr="Taïpei" es="Taipéi" it="Taipei" nl="Taipei">
       <province jpn="台北市" eng="Taipei" de="Taipeh" fr="Taïpei" es="Taipéi" it="Taipei" nl="Taipei" />
       <longitude>121.5472412109375</longitude>
       <latitude>25.0982666015625</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="高雄" eng="Kaohsiung" de="Kaohsiung" fr="Kaohsiung" es="Kaohsiung" it="Kaohsiung" nl="Kaohsiung">
+    <city jpn="高雄市" eng="Kaohsiung" de="Kaohsiung" fr="Kaohsiung" es="Kaohsiung" it="Kaohsiung" nl="Kaohsiung">
       <province jpn="高雄市" eng="Kaohsiung" de="Kaohsiung" fr="Kaohsiung" es="Kaohsiung" it="Kaohsiung" nl="Kaohsiung" />
       <longitude>120.2783203125</longitude>
       <latitude>22.598876953125</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="桃園" eng="Taoyuan" de="Taoyuan" fr="Taoyuan" es="Taoyuan" it="Taoyuan" nl="Taoyuan">
+    <city jpn="桃園市" eng="Taoyuan" de="Taoyuan" fr="Taoyuan" es="Taoyuan" it="Taoyuan" nl="Taoyuan">
       <province jpn="桃園市" eng="Taoyuan City" de="Taoyuan" fr="Taoyuan" es="Taoyuan" it="Taoyuan" nl="Taoyuan" />
       <longitude>121.24213</longitude>
       <latitude>24.904322</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="台中" eng="Taichung" de="Taichung" fr="Taichung" es="Taichung" it="Taichung" nl="Taichung">
+    <city jpn="台中市" eng="Taichung" de="Taichung" fr="Taichung" es="Taichung" it="Taichung" nl="Taichung">
       <province jpn="台中市" eng="Taichung City" de="Taichung" fr="Taichung" es="Taichung" it="Taichung" nl="Taichung" />
       <longitude>120.67351</longitude>
       <latitude>24.147673</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="台南" eng="Tainan" de="Tainan" fr="Tainan" es="Tainan" it="Tainan" nl="Tainan">
+    <city jpn="台南市" eng="Tainan" de="Tainan" fr="Tainan" es="Tainan" it="Tainan" nl="Tainan">
       <province jpn="台南市" eng="Tainan City" de="Tainan" fr="Tainan" es="Tainan" it="Tainan" nl="Tainan" />
       <longitude>120.234535</longitude>
       <latitude>22.997776</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="宜蘭" eng="Yilan" de="Yilan" fr="Yilan" es="Yilan" it="Yilan" nl="Yilan">
+    <city jpn="宜蘭市" eng="Yilan" de="Yilan" fr="Yilan" es="Yilan" it="Yilan" nl="Yilan">
       <province jpn="宜蘭県" eng="Yilan County" de="Yilan" fr="Yilan" es="Yilan" it="Yilan" nl="Yilan" />
       <longitude>21.787243</longitude>
       <latitude>24.758147</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="新竹" eng="Hsinchu" de="Hsinchu" fr="Hsinchu" es="Hsinchu" it="Hsinchu" nl="Hsinchu">
+    <city jpn="新竹市" eng="Hsinchu" de="Hsinchu" fr="Hsinchu" es="Hsinchu" it="Hsinchu" nl="Hsinchu">
       <province jpn="新竹市" eng="Hsinchu City" de="Hsinchu" fr="Hsinchu" es="Hsinchu" it="Hsinchu" nl="Hsinchu" />
       <longitude>120.993877</longitude>
       <latitude>24.84106</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="苗栗" eng="Miaoli" de="Miaoli" fr="Miaoli" es="Miaoli" it="Miaoli" nl="Miaoli">
+    <city jpn="苗栗市" eng="Miaoli" de="Miaoli" fr="Miaoli" es="Miaoli" it="Miaoli" nl="Miaoli">
       <province jpn="苗栗県" eng="Miaoli County" de="Miaoli" fr="Miaoli" es="Miaoli" it="Miaoli" nl="Miaoli" />
       <longitude>120.81758</longitude>
       <latitude>24.562184</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="彰化" eng="Changhua" de="Changhua" fr="Changhua" es="Changhua" it="Changhua" nl="Changhua">
+    <city jpn="彰化市" eng="Changhua" de="Changhua" fr="Changhua" es="Changhua" it="Changhua" nl="Changhua">
       <province jpn="彰化県" eng="Changhua County" de="Changhua" fr="Changhua" es="Changhua" it="Changhua" nl="Changhua" />
       <longitude>120.474553</longitude>
       <latitude>23.960669</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="南投" eng="Nantou" de="Nantou" fr="Nantou" es="Nantou" it="Nantou" nl="Nantou">
+    <city jpn="南投市" eng="Nantou" de="Nantou" fr="Nantou" es="Nantou" it="Nantou" nl="Nantou">
       <province jpn="南投県" eng="Nantou County" de="Nantou" fr="Nantou" es="Nantou" it="Nantou" nl="Nantou" />
       <longitude>120.891546</longitude>
       <latitude>23.890898</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="斗六" eng="Douliu" de="Douliu" fr="Douliu" es="Douliu" it="Douliu" nl="Douliu">
+    <city jpn="斗六市" eng="Douliu" de="Douliu" fr="Douliu" es="Douliu" it="Douliu" nl="Douliu">
       <province jpn="雲林県" eng="Yunlin County" de="Yunlin" fr="Yunlin" es="Yunlin" it="Yunlin" nl="Yunlin" />
       <longitude>120.54026</longitude>
       <latitude>23.707854</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="嘉義" eng="Chiayi" de="Chiayi" fr="Chiayi" es="Chiayi" it="Chiayi" nl="Chiayi">
+    <city jpn="嘉義市" eng="Chiayi" de="Chiayi" fr="Chiayi" es="Chiayi" it="Chiayi" nl="Chiayi">
       <province jpn="嘉義市" eng="Chiayi City" de="Chiayi" fr="Chiayi" es="Chiayi" it="Chiayi" nl="Chiayi" />
       <longitude>120.44227</longitude>
       <latitude>23.443163</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="屏東" eng="Pingtung" de="Pingtung" fr="Pingtung" es="Pingtung" it="Pingtung" nl="Pingtung">
+    <city jpn="屏東市" eng="Pingtung" de="Pingtung" fr="Pingtung" es="Pingtung" it="Pingtung" nl="Pingtung">
       <province jpn="屏東県" eng="Pingtung County" de="Pingtung" fr="Pingtung" es="Pingtung" it="Pingtung" nl="Pingtung" />
       <longitude>120.599895</longitude>
       <latitude>22.448589</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="台東" eng="Taitung" de="Taitung" fr="Taitung" es="Taitung" it="Taitung" nl="Taitung">
+    <city jpn="台東市" eng="Taitung" de="Taitung" fr="Taitung" es="Taitung" it="Taitung" nl="Taitung">
       <province jpn="台東県" eng="Taitung County" de="Taitung" fr="Taitung" es="Taitung" it="Taitung" nl="Taitung" />
       <longitude>121.14524</longitude>
       <latitude>22.738389</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="花蓮" eng="Hualien" de="Hualien" fr="Hualien" es="Hualien" it="Hualien" nl="Hualien">
+    <city jpn="花蓮市" eng="Hualien" de="Hualien" fr="Hualien" es="Hualien" it="Hualien" nl="Hualien">
       <province jpn="花蓮県" eng="Hualien County" de="Hualien" fr="Hualien" es="Hualien" it="Hualien" nl="Hualien" />
       <longitude>121.581649</longitude>
       <latitude>23.871275</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="馬公" eng="Magong" de="Magong" fr="Magong" es="Magong" it="Magong" nl="Magong">
+    <city jpn="馬公市" eng="Magong" de="Magong" fr="Magong" es="Magong" it="Magong" nl="Magong">
       <province jpn="澎湖県" eng="Penghu County" de="Penghu" fr="Penghu" es="Penghu" it="Penghu" nl="Penghu" />
       <longitude>119.581097</longitude>
       <latitude>23.566448</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="晋城" eng="Jincheng" de="Jincheng" fr="Jincheng" es="Jincheng" it="Jincheng" nl="Jincheng">
+    <city jpn="晋城市" eng="Jincheng" de="Jincheng" fr="Jincheng" es="Jincheng" it="Jincheng" nl="Jincheng">
       <province jpn="金門県" eng="Kinmen County" de="Kinmen" fr="Kinmen" es="Kinmen" it="Kinmen" nl="Kinmen" />
       <longitude>121.14524</longitude>
       <latitude>22.738389</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="南竿" eng="Nangan" de="Nangan" fr="Nangan" es="Nangan" it="Nangan" nl="Nangan">
+    <city jpn="南竿市" eng="Nangan" de="Nangan" fr="Nangan" es="Nangan" it="Nangan" nl="Nangan">
       <province jpn="連江県" eng="Lienchiang County" de="Lienchiang" fr="Lienchiang" es="Lienchiang" it="Lienchiang" nl="Lienchiang" />
       <longitude>119.951947</longitude>
       <latitude>26.158961</latitude>
@@ -21043,48 +21733,356 @@
   </country>
   <country>
     <name jpn="北朝鮮" eng="North Korea" de="Nordkorea" fr="Corée du Nord" es="Corea del Norte" it="Corea del Nord" nl="Noord-Korea" />
-    <city jpn="平壌" eng="Pyongyang" de="Pjöngjang" fr="Pyongyang" es="Pyongyang" it="Pyongyang" nl="Pyongyang">
-      <province jpn="平壌" eng="Pyongyang" de="Pjöngjang" fr="Pyongyang" es="Pyongyang" it="Pyongyang" nl="Pyongyang" />
+    <city jpn="平壌市" eng="Pyongyang" de="Pjöngjang" fr="Pyongyang" es="Pyongyang" it="Pyongyang" nl="Pyongyang">
+      <province jpn="平壤直轄市" eng="Pyongyang Directly Governed City" de="Verwaltete Stadt Pjöngjang" fr="Ville administrée de Pyongyang" es="Ciudad administrada de Pyongyang" it="Città amministrata di Pyongyang" nl="Beheerde stad Pyongyang" />
       <longitude>125.7330322265625</longitude>
       <latitude>38.9959716796875</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="咸興市" eng="Hamhung" de="Hamhung" fr="Hamhung" es="Hamhung" it="Hamhung" nl="Hamhung">
-      <province jpn="咸鏡南道" eng="South Hamgyong Province" de="Hamgyong-namdo" fr="Hamgyong du Sud" es="Provincia de Hamgyong del Sur" it="Hamgyong Meridionale" nl="Hamgyong-namdo" />
-      <longitude>127.616793</longitude>
-      <latitude>39.990214</latitude>
+	<city jpn="江界市" eng="Kanggye" de="Kanggye" fr="Kanggye" es="Kanggye" it="Kanggye" nl="Kanggye">
+      <province jpn="慈江道" eng="Chagang" de="Chagang" fr="Chagang" es="Chagang" it="Chagang" nl="Chagang" />
+      <longitude>126.670953</longitude>
+      <latitude>40.975085</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="開城市" eng="Kaesong" de="Kaesong" fr="Kaesong" es="Kaesong" it="Kaesong" nl="Kaesong">
+      <province jpn="開城特別市" eng="Kaesong Special City" de="Besondere Stadt Kaesong" fr="Ville spéciale de Kaesong" es="Ciudad especial de Kaesong" it="Città speciale di Kaesong" nl="Speciale stad Kaesong" />
+      <longitude>126.631780</longitude>
+      <latitude>37.933649</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="元山市" eng="Wonsan" de="Wonsan" fr="Wonsan" es="Wonsan" it="Wonsan" nl="Wonsan">
+      <province jpn="江原道" eng="Kangwon" de="Kangwon" fr="Kangwon" es="Kangwon" it="Kangwon" nl="Kangwon" />
+      <longitude>127.457868</longitude>
+      <latitude>39.108452</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="清津市" eng="Chongjin" de="Chongjin" fr="Chongjin" es="Chongjin" it="Chongjin" nl="Chongjin">
-      <province jpn="咸鏡北道" eng="North Hamgyong Province" de="Hamgyong-pukto" fr="Hamgyong du Nord" es="Provincia de Hamgyong del Norte" it="Hamgyong Settentrionale" nl="Hamgyong-pukto" />
+	<city jpn="金剛市" eng="Kumgang" de="Kumgang" fr="Kumgang" es="Kumgang" it="Kumgang" nl="Kumgang">
+      <province jpn="江原道" eng="Kangwon" de="Kangwon" fr="Kangwon" es="Kangwon" it="Kangwon" nl="Kangwon" />
+      <longitude>128.005686</longitude>
+      <latitude>38.591078</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="南浦市" eng="Nampo" de="Nampo" fr="Nampo" es="Nampo" it="Nampo" nl="Nampo">
+      <province jpn="南浦特別市" eng="Nampo Special City" de="Besondere Stadt Nampo" fr="Ville spéciale de Nampo" es="Ciudad especial de Nampo" it="Città speciale di Nampo" nl="Speciale stad Nampo" />
+      <longitude>125.331934</longitude>
+      <latitude>38.726134</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="清津市" eng="Chongjin" de="Chongjin" fr="Chongjin" es="Chongjin" it="Chongjin" nl="Chongjin">
+      <province jpn="咸鏡北道" eng="North Hamgyong" de="Nord-Hamgyong" fr="Hamgyong du Nord" es="Hamgyong del Norte" it="Hamgyong Settentrionale" nl="Noord-Hamgyong" />
       <longitude>129.735904</longitude>
       <latitude>41.761169</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="茂山市" eng="Musan" de="Musan" fr="Musan" es="Musan" it="Musan" nl="Musan">
+      <province jpn="咸鏡北道" eng="North Hamgyong" de="Nord-Hamgyong" fr="Hamgyong du Nord" es="Hamgyong del Norte" it="Hamgyong Settentrionale" nl="Noord-Hamgyong" />
+      <longitude>129.209157</longitude>
+      <latitude>42.256251</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="沙里院市" eng="Sariwon" de="Sariwon" fr="Sariwon" es="Sariwon" it="Sariwon" nl="Sariwon">
+      <province jpn="黄海北道" eng="North Hwanghae" de="Nord-Hwanghae" fr="Hwanghae du Nord" es="Hwanghae del Norte" it="Hwanghae Settentrionale" nl="Noord-Hwanghae" />
+      <longitude>125.811522</longitude>
+      <latitude>38.500732</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="新義州市" eng="Sinuiju" de="Sinuiju" fr="Sinuiju" es="Sinuiju" it="Sinuiju" nl="Sinuiju">
+      <province jpn="平安北道" eng="North Pyongan" de="Nord-Pyongan" fr="Pyongan du Nord" es="Pyongan del Norte" it="Pyongan Settentrionale" nl="Noord-Pyongan" />
+      <longitude>124.426556</longitude>
+      <latitude>40.042672</latitude>
       <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="亀城市" eng="Kusong" de="Kusong" fr="Kusong" es="Kusong" it="Kusong" nl="Kusong">
+      <province jpn="平安北道" eng="North Pyongan" de="Nord-Pyongan" fr="Pyongan du Nord" es="Pyongan del Norte" it="Pyongan Settentrionale" nl="Noord-Pyongan" />
+      <longitude>125.297005</longitude>
+      <latitude>39.929584</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="羅先市" eng="Rason" de="Rason" fr="Rason" es="Rason" it="Rason" nl="Rason">
+      <province jpn="羅先特別市" eng="Rason Special City" de="Besondere Stadt Rason" fr="Ville spéciale de Rason" es="Ciudad especial de Rason" it="Città speciale di Rason" nl="Speciale stad Rason" />
+      <longitude>130.327272</longitude>
+      <latitude>42.297367</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="恵山市" eng="Hyesan" de="Hyesan" fr="Hyesan" es="Hyesan" it="Hyesan" nl="Hyesan">
+      <province jpn="両江道" eng="Ryanggang" de="Ryanggang" fr="Ryanggang" es="Ryanggang" it="Ryanggang" nl="Ryanggang" />
+      <longitude>128.171212</longitude>
+      <latitude>41.340052</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="咸興市" eng="Hamhung" de="Hamhung" fr="Hamhung" es="Hamhung" it="Hamhung" nl="Hamhung">
+      <province jpn="咸鏡南道" eng="South Hamgyong" de="Süd-Hamgyong" fr="Hamgyong du Sud" es="Hamgyong del Sur" it="Hamgyong Meridionale" nl="Zuid-Hamgyong" />
+      <longitude>127.616793</longitude>
+      <latitude>39.990214</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="新浦市" eng="Sinpo" de="Sinpo" fr="Sinpo" es="Sinpo" it="Sinpo" nl="Sinpo">
+      <province jpn="咸鏡南道" eng="South Hamgyong" de="Süd-Hamgyong" fr="Hamgyong du Sud" es="Hamgyong del Sur" it="Hamgyong Meridionale" nl="Zuid-Hamgyong" />
+      <longitude>128.265875</longitude>
+      <latitude>40.043218</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="海州市" eng="Haeju" de="Haeju" fr="Haeju" es="Haeju" it="Haeju" nl="Haeju">
+      <province jpn="黄海南道" eng="South Hwanghae" de="Süd-Hwanghae" fr="Hwanghae du Sud" es="Hwanghae del Sur" it="Hwanghae Meridionale" nl="Zuid-Hwanghae" />
+      <longitude>125.774461</longitude>
+      <latitude>38.001769</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="クァイル市" eng="Kwail" de="Kwail" fr="Kwail" es="Kwail" it="Kwail" nl="Kwail">
+      <province jpn="黄海南道" eng="South Hwanghae" de="Süd-Hwanghae" fr="Hwanghae du Sud" es="Hwanghae del Sur" it="Hwanghae Meridionale" nl="Zuid-Hwanghae" />
+      <longitude>124.913573</longitude>
+      <latitude>38.354428</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="平城市" eng="Pyongsong" de="Pyongsong" fr="Pyongsong" es="Pyongsong" it="Pyongsong" nl="Pyongsong">
+      <province jpn="平安南道" eng="South Pyongan" de="Süd-Pyongan" fr="Pyongan du Sud" es="Pyongan del Sur" it="Pyongan Meridionale" nl="Zuid-Pyongan" />
+      <longitude>125.878388</longitude>
+      <latitude>39.306314</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
   <country>
     <name jpn="韓国" eng="South Korea" de="Südkorea" fr="Corée du Sud" es="Corea del Sur" it="Corea del Sud" nl="Zuid-Korea" />
-    <city jpn="ソウル" eng="Seoul" de="Seoul" fr="Séoul" es="Seúl" it="Seoul" nl="Seoul">
-      <province jpn="ソウル特別市" eng="Seoul" de="Seoul" fr="Séoul" es="Seúl" it="Seoul" nl="Seoul" />
+    <city jpn="ソウル市" eng="Seoul" de="Seoul" fr="Séoul" es="Seúl" it="Seul" nl="Seoel">
+      <province jpn="ソウル特別市" eng="Seoul" de="Seoul" fr="Séoul" es="Seúl" it="Seul" nl="Seoel" />
       <longitude>126.9964599609375</longitude>
       <latitude>37.496337890625</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="釜山市" eng="Busan" de="Busan" fr="Busan" es="Busan" it="Busan" nl="Busan">
+      <province jpn="釜山広域市" eng="Busan" de="Busan" fr="Busan" es="Busan" it="Busan" nl="Busan" />
+      <longitude>129.0289306640625</longitude>
+      <latitude>35.079345703125</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="プサン" eng="Busan" de="Busan" fr="Pusan" es="Busán" it="Busan" nl="Busan">
-      <province jpn="プサン広域市" eng="Busan" de="Busan" fr="Pusan" es="Busán" it="Busan" nl="Busan" />
-      <longitude>129.0289306640625</longitude>
-      <latitude>35.079345703125</latitude>
+	<city jpn="大邱市" eng="Daegu" de="Daegu" fr="Daegu" es="Daegu" it="Daegu" nl="Daegu">
+      <province jpn="大邱広域市" eng="Daegu" de="Daegu" fr="Daegu" es="Daegu" it="Daegu" nl="Daegu" />
+      <longitude>128.570187</longitude>
+      <latitude>35.781943</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="大田市" eng="Daejeon" de="Daejeon" fr="Daejeon" es="Daejeon" it="Daejeon" nl="Daejeon">
+      <province jpn="大田広域市" eng="Daejeon" de="Daejeon" fr="Daejeon" es="Daejeon" it="Daejeon" nl="Daejeon" />
+      <longitude>127.383256</longitude>
+      <latitude>36.298069</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="春川市" eng="Chuncheon" de="Chuncheon" fr="Chuncheon" es="Chuncheon" it="Chuncheon" nl="Chuncheon">
+      <province jpn="江原道" eng="Gangwon" de="Gangwon" fr="Gangwon" es="Gangwon" it="Gangwon" nl="Gangwon" />
+      <longitude>127.760896</longitude>
+      <latitude>37.875173</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="江陵市" eng="Gangneung" de="Gangneung" fr="Gangneung" es="Gangneung" it="Gangneung" nl="Gangneung">
+      <province jpn="江原道" eng="Gangwon" de="Gangwon" fr="Gangwon" es="Gangwon" it="Gangwon" nl="Gangwon" />
+      <longitude>128.930194</longitude>
+      <latitude>37.717442</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="東海市" eng="Donghae" de="Donghae" fr="Donghae" es="Donghae" it="Donghae" nl="Donghae">
+      <province jpn="江原道" eng="Gangwon" de="Gangwon" fr="Gangwon" es="Gangwon" it="Gangwon" nl="Gangwon" />
+      <longitude>129.167781</longitude>
+      <latitude>37.449675</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="束草市" eng="Sokcho" de="Sokcho" fr="Sokcho" es="Sokcho" it="Sokcho" nl="Sokcho">
+      <province jpn="江原道" eng="Gangwon" de="Gangwon" fr="Gangwon" es="Gangwon" it="Gangwon" nl="Gangwon" />
+      <longitude>128.546270</longitude>
+      <latitude>38.277472</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="光州市" eng="Gwangju" de="Gwangju" fr="Gwangju" es="Gwangju" it="Gwangju" nl="Gwangju">
+      <province jpn="光州広域市" eng="Gwangju" de="Gwangju" fr="Gwangju" es="Gwangju" it="Gwangju" nl="Gwangju" />
+      <longitude>126.842315</longitude>
+      <latitude>35.146627</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="水原市" eng="Suwon" de="Suwon" fr="Suwon" es="Suwon" it="Suwon" nl="Suwon">
+      <province jpn="京畿道" eng="Gyeonggi" de="Gyeonggi" fr="Gyeonggi" es="Gyeonggi" it="Gyeonggi" nl="Gyeonggi" />
+      <longitude>127.056847</longitude>
+      <latitude>37.223424</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="利川市" eng="Icheon" de="Icheon" fr="Icheon" es="Icheon" it="Icheon" nl="Icheon">
+      <province jpn="京畿道" eng="Gyeonggi" de="Gyeonggi" fr="Gyeonggi" es="Gyeonggi" it="Gyeonggi" nl="Gyeonggi" />
+      <longitude>127.572122</longitude>
+      <latitude>37.238406</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="仁川市" eng="Incheon" de="Incheon" fr="Incheon" es="Incheon" it="Incheon" nl="Incheon">
+      <province jpn="仁川広域市" eng="Incheon" de="Incheon" fr="Incheon" es="Incheon" it="Incheon" nl="Incheon" />
+      <longitude>126.682229</longitude>
+      <latitude>37.402931</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="白翎市" eng="Baengnyeong" de="Baengnyeong" fr="Baengnyeong" es="Baengnyeong" it="Baengnyeong" nl="Baengnyeong">
+      <province jpn="仁川広域市" eng="Incheon" de="Incheon" fr="Incheon" es="Incheon" it="Incheon" nl="Incheon" />
+      <longitude>124.665425</longitude>
+      <latitude>37.956990</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="済州市" eng="Jeju" de="Jeju" fr="Jeju" es="Jeju" it="Jeju" nl="Jeju">
+      <province jpn="済州特別自治道" eng="Jeju" de="Jeju" fr="Jeju" es="Jeju" it="Jeju" nl="Jeju" />
+      <longitude>126.528604</longitude>
+      <latitude>33.480201</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="クァンジュ" eng="Gwangju" de="Gwangju" fr="Gwangju" es="Gwangju" it="Gwangju" nl="Gwangju">
-      <province jpn="クァンジュ広域市" eng="Gwangju" de="Gwangju" fr="Gwangju" es="Gwangju" it="Gwangju" nl="Gwangju" />
-      <longitude>126.842315</longitude>
-      <latitude>35.146627</latitude>
+	<city jpn="清州市" eng="Cheongju" de="Cheongju" fr="Cheongju" es="Cheongju" it="Cheongju" nl="Cheongju">
+      <province jpn="忠清北道" eng="North Chungcheong" de="Nord-Chungcheong" fr="Chungcheong du Nord" es="Chungcheong del Norte" it="Chungcheong Settentrionale" nl="Noord-Chungcheong" />
+      <longitude>127.618397</longitude>
+      <latitude>36.725715</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="安東市" eng="Andong" de="Andong" fr="Andong" es="Andong" it="Andong" nl="Andong">
+      <province jpn="慶尚北道" eng="North Gyeongsang" de="Nord-Gyeongsang" fr="Gyeongsang du Nord" es="Gyeongsang del Norte" it="Gyeongsang Settentrionale" nl="Noord-Gyeongsang" />
+      <longitude>128.816516</longitude>
+      <latitude>36.578369</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="亀尾市" eng="Gumi" de="Gumi" fr="Gumi" es="Gumi" it="Gumi" nl="Gumi">
+      <province jpn="慶尚北道" eng="North Gyeongsang" de="Nord-Gyeongsang" fr="Gyeongsang du Nord" es="Gyeongsang del Norte" it="Gyeongsang Settentrionale" nl="Noord-Gyeongsang" />
+      <longitude>128.334283</longitude>
+      <latitude>36.265221</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="浦項市" eng="Pohang" de="Pohang" fr="Pohang" es="Pohang" it="Pohang" nl="Pohang">
+      <province jpn="慶尚北道" eng="North Gyeongsang" de="Nord-Gyeongsang" fr="Gyeongsang du Nord" es="Gyeongsang del Norte" it="Gyeongsang Settentrionale" nl="Noord-Gyeongsang" />
+      <longitude>129.384538</longitude>
+      <latitude>36.065211</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="蔚珍市" eng="Uljin" de="Uljin" fr="Uljin" es="Uljin" it="Uljin" nl="Uljin">
+      <province jpn="慶尚北道" eng="North Gyeongsang" de="Nord-Gyeongsang" fr="Gyeongsang du Nord" es="Gyeongsang del Norte" it="Gyeongsang Settentrionale" nl="Noord-Gyeongsang" />
+      <longitude>129.394304</longitude>
+      <latitude>36.841763</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="鬱陵市" eng="Ulleung" de="Ulleung" fr="Ulleung" es="Ulleung" it="Ulleung" nl="Ulleung">
+      <province jpn="慶尚北道" eng="North Gyeongsang" de="Nord-Gyeongsang" fr="Gyeongsang du Nord" es="Gyeongsang del Norte" it="Gyeongsang Settentrionale" nl="Noord-Gyeongsang" />
+      <longitude>130.893488</longitude>
+      <latitude>37.483072</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="全州市" eng="Jeonju" de="Jeonju" fr="Jeonju" es="Jeonju" it="Jeonju" nl="Jeonju">
+      <province jpn="全羅北道" eng="North Jeolla" de="Nord-Jeolla" fr="Jeolla du Nord" es="Jeolla del Norte" it="Jeolla Settentrionale" nl="Noord-Jeolla" />
+      <longitude>127.154032</longitude>
+      <latitude>35.808981</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="世宗市" eng="Sejong" de="Sejong" fr="Sejong" es="Sejong" it="Sejong" nl="Sejong">
+      <province jpn="世宗特別自治市" eng="Sejong" de="Sejong" fr="Sejong" es="Sejong" it="Sejong" nl="Sejong" />
+      <longitude>127.172274</longitude>
+      <latitude>36.678010</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="洪城市" eng="Hongseong" de="Hongseong" fr="Hongseong" es="Hongseong" it="Hongseong" nl="Hongseong">
+      <province jpn="忠清南道" eng="South Chungcheong" de="Süd-Chungcheong" fr="Chungcheong du Sud" es="Chungcheong del Sur" it="Chungcheong Meridionale" nl="Zuid-Chungcheong" />
+      <longitude>126.559063</longitude>
+      <latitude>36.560806</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="天安市" eng="Cheonan" de="Cheonan" fr="Cheonan" es="Cheonan" it="Cheonan" nl="Cheonan">
+      <province jpn="忠清南道" eng="South Chungcheong" de="Süd-Chungcheong" fr="Chungcheong du Sud" es="Chungcheong del Sur" it="Chungcheong Meridionale" nl="Zuid-Chungcheong" />
+      <longitude>127.211448</longitude>
+      <latitude>36.873789</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="瑞山市" eng="Seosan" de="Seosan" fr="Seosan" es="Seosan" it="Seosan" nl="Seosan">
+      <province jpn="忠清南道" eng="South Chungcheong" de="Süd-Chungcheong" fr="Chungcheong du Sud" es="Chungcheong del Sur" it="Chungcheong Meridionale" nl="Zuid-Chungcheong" />
+      <longitude>126.412375</longitude>
+      <latitude>36.745178</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="昌原市" eng="Changwon" de="Changwon" fr="Changwon" es="Changwon" it="Changwon" nl="Changwon">
+      <province jpn="慶尚南道" eng="South Gyeongsang" de="Süd-Gyeongsang" fr="Gyeongsang du Sud" es="Gyeongsang del Sur" it="Gyeongsang Meridionale" nl="Zuid-Gyeongsang" />
+      <longitude>128.518509</longitude>
+      <latitude>35.126117</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="務安市" eng="Muan" de="Muan" fr="Muan" es="Muan" it="Muan" nl="Muan">
+      <province jpn="全羅南道" eng="South Jeolla" de="Süd-Jeolla" fr="Jeolla du Sud" es="Jeolla del Sur" it="Jeolla Meridionale" nl="Zuid-Jeolla" />
+      <longitude>126.403584</longitude>
+      <latitude>35.013735</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="木浦市" eng="Mokpo" de="Mokpo" fr="Mokpo" es="Mokpo" it="Mokpo" nl="Mokpo">
+      <province jpn="全羅南道" eng="South Jeolla" de="Süd-Jeolla" fr="Jeolla du Sud" es="Jeolla del Sur" it="Jeolla Meridionale" nl="Zuid-Jeolla" />
+      <longitude>126.369168</longitude>
+      <latitude>34.796013</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="順天市" eng="Suncheon" de="Suncheon" fr="Suncheon" es="Suncheon" it="Suncheon" nl="Suncheon">
+      <province jpn="全羅南道" eng="South Jeolla" de="Süd-Jeolla" fr="Jeolla du Sud" es="Jeolla del Sur" it="Jeolla Meridionale" nl="Zuid-Jeolla" />
+      <longitude>127.311167</longitude>
+      <latitude>35.070279</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="莞島市" eng="Wando" de="Wando" fr="Wando" es="Wando" it="Wando" nl="Wando">
+      <province jpn="全羅南道" eng="South Jeolla" de="Süd-Jeolla" fr="Jeolla du Sud" es="Jeolla del Sur" it="Jeolla Meridionale" nl="Zuid-Jeolla" />
+      <longitude>126.701329</longitude>
+      <latitude>34.337643</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="麗水市" eng="Yeosu" de="Yeosu" fr="Yeosu" es="Yeosu" it="Yeosu" nl="Yeosu">
+      <province jpn="全羅南道" eng="South Jeolla" de="Süd-Jeolla" fr="Jeolla du Sud" es="Jeolla del Sur" it="Jeolla Meridionale" nl="Zuid-Jeolla" />
+      <longitude>127.660806</longitude>
+      <latitude>34.755531</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="蔚山市" eng="Ulsan" de="Ulsan" fr="Ulsan" es="Ulsan" it="Ulsan" nl="Ulsan">
+      <province jpn="蔚山広域市" eng="Ulsan" de="Ulsan" fr="Ulsan" es="Ulsan" it="Ulsan" nl="Ulsan" />
+      <longitude>129.358503</longitude>
+      <latitude>35.553224</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -21346,6 +22344,20 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="蕪湖市" eng="Wuhu" de="Wuhu" fr="Wuhu" es="Wuhu" it="Wuhu" nl="Wuhu">
+      <province jpn="安徽省" eng="Anhui" de="Anhui" fr="Anhui" es="Anhui" it="Anhui" nl="Anhui" />
+      <longitude>118.462306</longitude>
+      <latitude>31.138025</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="阜陽市" eng="Fuyang" de="Fuyang" fr="Fuyang" es="Fuyang" it="Fuyang" nl="Fuyang">
+      <province jpn="安徽省" eng="Anhui" de="Anhui" fr="Anhui" es="Anhui" it="Anhui" nl="Anhui" />
+      <longitude>115.810551</longitude>
+      <latitude>32.851236</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
 	<city jpn="重慶市" eng="Chongqing" de="Chongqing" fr="Chongqing" es="Chongqing" it="Chongqing" nl="Chongqing">
       <province jpn="重慶都" eng="Chongqing" de="Chongqing" fr="Chongqing" es="Chongqing" it="Chongqing" nl="Chongqing" />
       <longitude>106.806554</longitude>
@@ -21357,6 +22369,20 @@
       <province jpn="福建省" eng="Fujian" de="Fujian" fr="Fujian" es="Fujian" it="Fujian" nl="Fujian" />
       <longitude>119.229725</longitude>
       <latitude>26.130799</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="泉州市" eng="Quanzhou" de="Quanzhou" fr="Quanzhou" es="Quanzhou" it="Quanzhou" nl="Quanzhou">
+      <province jpn="福建省" eng="Fujian" de="Fujian" fr="Fujian" es="Fujian" it="Fujian" nl="Fujian" />
+      <longitude>118.684138</longitude>
+      <latitude>24.783596</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="廈門市" eng="Xiamen" de="Xiamen" fr="Xiamen" es="Xiamen" it="Xiamen" nl="Xiamen">
+      <province jpn="福建省" eng="Fujian" de="Fujian" fr="Fujian" es="Fujian" it="Fujian" nl="Fujian" />
+      <longitude>118.103613</longitude>
+      <latitude>24.447988</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -21364,7 +22390,21 @@
       <province jpn="甘粛省" eng="Gansu" de="Gansu" fr="Gansu" es="Gansu" it="Gansu" nl="Gansu" />
       <longitude>103.808428</longitude>
       <latitude>36.250327</latitude>
-      <zoom1>6</zoom1>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="酒泉市" eng="Jiuquan" de="Jiuquan" fr="Jiuquan" es="Jiuquan" it="Jiuquan" nl="Jiuquan">
+      <province jpn="甘粛省" eng="Gansu" de="Gansu" fr="Gansu" es="Gansu" it="Gansu" nl="Gansu" />
+      <longitude>98.492017</longitude>
+      <latitude>39.717628</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="天水市" eng="Tianshui" de="Tianshui" fr="Tianshui" es="Tianshui" it="Tianshui" nl="Tianshui">
+      <province jpn="甘粛省" eng="Gansu" de="Gansu" fr="Gansu" es="Gansu" it="Gansu" nl="Gansu" />
+      <longitude>105.742982</longitude>
+      <latitude>34.532783</latitude>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="広州市" eng="Guangzhou" de="Guangzhou" fr="Canton" es="Cantón" it="Guangzhou" nl="Kanton">
@@ -21374,11 +22414,67 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="東莞市" eng="Dongguan" de="Dongguan" fr="Dongguan" es="Dongguan" it="Dongguan" nl="Dongguan">
+      <province jpn="広東省" eng="Guangdong" de="Guangdong" fr="Guangdong" es="Guangdong" it="Guangdong" nl="Guangdong" />
+      <longitude>113.873219</longitude>
+      <latitude>23.167825</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="掲陽市" eng="Jieyang" de="Jieyang" fr="Jieyang" es="Jieyang" it="Jieyang" nl="Jieyang">
+      <province jpn="広東省" eng="Guangdong" de="Guangdong" fr="Guangdong" es="Guangdong" it="Guangdong" nl="Guangdong" />
+      <longitude>116.321574</longitude>
+      <latitude>23.470535</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="茂名市" eng="Maoming" de="Maoming" fr="Maoming" es="Maoming" it="Maoming" nl="Maoming">
+      <province jpn="広東省" eng="Guangdong" de="Guangdong" fr="Guangdong" es="Guangdong" it="Guangdong" nl="Guangdong" />
+      <longitude>111.133921</longitude>
+      <latitude>21.675558</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="深圳市" eng="Shenzhen" de="Shenzhen" fr="Shenzhen" es="Shenzhen" it="Shenzhen" nl="Shenzhen">
+      <province jpn="広東省" eng="Guangdong" de="Guangdong" fr="Guangdong" es="Guangdong" it="Guangdong" nl="Guangdong" />
+      <longitude>113.898431</longitude>
+      <latitude>22.682881</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="湛江市" eng="Zhanjiang" de="Zhanjiang" fr="Zhanjiang" es="Zhanjiang" it="Zhanjiang" nl="Zhanjiang">
+      <province jpn="広東省" eng="Guangdong" de="Guangdong" fr="Guangdong" es="Guangdong" it="Guangdong" nl="Guangdong" />
+      <longitude>110.358859</longitude>
+      <latitude>21.195843</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="桂林市" eng="Nanning" de="Nanning" fr="Nanning" es="Nanning" it="Nanning" nl="Nanning">
+      <province jpn="広西チワン族自治区" eng="Guangxi Zhuangzu" de="Guangxi Zhuangzu" fr="Guangxi Zhuangzu" es="Guangxi Zhuangzu" it="Guangxi Zhuangzu" nl="Guangxi Zhuangzu" />
+      <longitude>108.390143</longitude>
+      <latitude>22.739536</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="百色市" eng="Baise" de="Baise" fr="Baise" es="Baise" it="Baise" nl="Baise">
+      <province jpn="広西チワン族自治区" eng="Guangxi Zhuangzu" de="Guangxi Zhuangzu" fr="Guangxi Zhuangzu" es="Guangxi Zhuangzu" it="Guangxi Zhuangzu" nl="Guangxi Zhuangzu" />
+      <longitude>106.593301</longitude>
+      <latitude>23.827728</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
 	<city jpn="桂林市" eng="Guilin" de="Guilin" fr="Guilin" es="Guilin" it="Guilin" nl="Guilin">
-      <province jpn="広西チワン族自治区" eng="Guangxi-Zhuangzu" de="Guangxi-Zhuangzu" fr="Guangxi-Zhuangzu" es="Guangxi-Zhuangzu" it="Guangxi-Zhuangzu" nl="Guangxi-Zhuangzu" />
+      <province jpn="広西チワン族自治区" eng="Guangxi Zhuangzu" de="Guangxi Zhuangzu" fr="Guangxi Zhuangzu" es="Guangxi Zhuangzu" it="Guangxi Zhuangzu" nl="Guangxi Zhuangzu" />
       <longitude>110.1983642578125</longitude>
       <latitude>25.345458984375</latitude>
       <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="玉林市" eng="Yulin" de="Yulin" fr="Yulin" es="Yulin" it="Yulin" nl="Yulin">
+      <province jpn="広西チワン族自治区" eng="Guangxi Zhuangzu" de="Guangxi Zhuangzu" fr="Guangxi Zhuangzu" es="Guangxi Zhuangzu" it="Guangxi Zhuangzu" nl="Guangxi Zhuangzu" />
+      <longitude>110.150088</longitude>
+      <latitude>22.633667</latitude>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="貴陽市" eng="Guiyang" de="Guiyang" fr="Guiyang" es="Guiyang" it="Guiyang" nl="Guiyang">
@@ -21388,25 +22484,116 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="畢節市" eng="Bijie" de="Bijie" fr="Bijie" es="Bijie" it="Bijie" nl="Bijie">
+      <province jpn="貴州省" eng="Guizhou" de="Guizhou" fr="Guizhou" es="Guizhou" it="Guizhou" nl="Guizhou" />
+      <longitude>105.268627</longitude>
+      <latitude>27.374062</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="凱里市" eng="Kaili" de="Kaili" fr="Kaili" es="Kaili" it="Kaili" nl="Kaili">
+      <province jpn="貴州省" eng="Guizhou" de="Guizhou" fr="Guizhou" es="Guizhou" it="Guizhou" nl="Guizhou" />
+      <longitude>107.960202</longitude>
+      <latitude>26.576058</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="遵義市" eng="Zunyi" de="Zunyi" fr="Zunyi" es="Zunyi" it="Zunyi" nl="Zunyi">
+      <province jpn="貴州省" eng="Guizhou" de="Guizhou" fr="Guizhou" es="Guizhou" it="Guizhou" nl="Guizhou" />
+      <longitude>106.992322</longitude>
+      <latitude>27.743567</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
 	<city jpn="海口市" eng="Haikou" de="Haikou" fr="Haikou" es="Haikou" it="Haikou" nl="Haikou">
       <province jpn="海南省" eng="Hainan" de="Hainan" fr="Hainan" es="Hainan" it="Hainan" nl="Hainan" />
-      <longitude>110.247314</longitude>
-      <latitude>110.247314</latitude>
+      <longitude>110.194456</longitude>
+      <latitude>19.914041</latitude>
       <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="三沙市" eng="Sansha" de="Sansha" fr="Sansha" es="Sansha" it="Sansha" nl="Sansha">
+      <province jpn="海南省" eng="Hainan" de="Hainan" fr="Hainan" es="Hainan" it="Hainan" nl="Hainan" />
+      <longitude>112.338183</longitude>
+      <latitude>16.834980</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="三亜市" eng="Sanya" de="Sanya" fr="Sanya" es="Sanya" it="Sanya" nl="Sanya">
+      <province jpn="海南省" eng="Hainan" de="Hainan" fr="Hainan" es="Hainan" it="Hainan" nl="Hainan" />
+      <longitude>109.598128</longitude>
+      <latitude>18.261732</latitude>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="石家荘市" eng="Shijiazhuang" de="Shijiazhuang" fr="Shijiazhuang" es="Shijiazhuang" it="Shijiazhuang" nl="Shijiazhuang">
       <province jpn="河北省" eng="Hebei" de="Hebei" fr="Hebei" es="Hebei" it="Hebei" nl="Hebei" />
       <longitude>114.521768</longitude>
       <latitude>37.932637</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="滄州市" eng="Cangzhou" de="Cangzhou" fr="Cangzhou" es="Cangzhou" it="Cangzhou" nl="Cangzhou">
+      <province jpn="河北省" eng="Hebei" de="Hebei" fr="Hebei" es="Hebei" it="Hebei" nl="Hebei" />
+      <longitude>116.783313</longitude>
+      <latitude>38.219335</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="邯鄲市" eng="Handan" de="Handan" fr="Handan" es="Handan" it="Handan" nl="Handan">
+      <province jpn="河北省" eng="Hebei" de="Hebei" fr="Hebei" es="Hebei" it="Hebei" nl="Hebei" />
+      <longitude>114.689715</longitude>
+      <latitude>36.622264</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="唐山市" eng="Tangshan" de="Tangshan" fr="Tangshan" es="Tangshan" it="Tangshan" nl="Tangshan">
+      <province jpn="河北省" eng="Hebei" de="Hebei" fr="Hebei" es="Hebei" it="Hebei" nl="Hebei" />
+      <longitude>118.261064</longitude>
+      <latitude>39.613167</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="張家口市" eng="Zhangjiakou" de="Zhangjiakou" fr="Zhangjiakou" es="Zhangjiakou" it="Zhangjiakou" nl="Zhangjiakou">
+      <province jpn="河北省" eng="Hebei" de="Hebei" fr="Hebei" es="Hebei" it="Hebei" nl="Hebei" />
+      <longitude>114.924513</longitude>
+      <latitude>40.885133</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>	
 	<city jpn="ハルビン市" eng="Harbin" de="Harbin" fr="Harbin" es="Harbin" it="Harbin" nl="Harbin">
       <province jpn="黒竜江省" eng="Heilongjiang" de="Heilongjiang" fr="Heilongjiang" es="Heilongjiang" it="Heilongjiang" nl="Heilongjiang" />
       <longitude>126.856020</longitude>
       <latitude>45.761065</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="黒河市" eng="Heihe" de="Heihe" fr="Heihe" es="Heihe" it="Heihe" nl="Heihe">
+      <province jpn="黒竜江省" eng="Heilongjiang" de="Heilongjiang" fr="Heilongjiang" es="Heilongjiang" it="Heilongjiang" nl="Heilongjiang" />
+      <longitude>127.511920</longitude>
+      <latitude>50.247559</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ジャムス市" eng="Jiamusi" de="Jiamusi" fr="Jiamusi" es="Jiamusi" it="Jiamusi" nl="Jiamusi">
+      <province jpn="黒竜江省" eng="Heilongjiang" de="Heilongjiang" fr="Heilongjiang" es="Heilongjiang" it="Heilongjiang" nl="Heilongjiang" />
+      <longitude>130.237510</longitude>
+      <latitude>46.731542</latitude>
       <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="牡丹江市" eng="Mudanjiang" de="Mudanjiang" fr="Mudanjiang" es="Mudanjiang" it="Mudanjiang" nl="Mudanjiang">
+      <province jpn="黒竜江省" eng="Heilongjiang" de="Heilongjiang" fr="Heilongjiang" es="Heilongjiang" it="Heilongjiang" nl="Heilongjiang" />
+      <longitude>129.359404</longitude>
+      <latitude>44.568212</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="チチハル市" eng="Qiqihar" de="Qiqihar" fr="Qiqihar" es="Qiqihar" it="Qiqihar" nl="Qiqihar">
+      <province jpn="黒竜江省" eng="Heilongjiang" de="Heilongjiang" fr="Heilongjiang" es="Heilongjiang" it="Heilongjiang" nl="Heilongjiang" />
+      <longitude>123.934819</longitude>
+      <latitude>47.294732</latitude>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="鄭州市" eng="Zhengzhou" de="Zhengzhou" fr="Zhengzhou" es="Zhengzhou" it="Zhengzhou" nl="Zhengzhou">
@@ -21416,6 +22603,27 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="南陽市" eng="Nanyang" de="Nanyang" fr="Nanyang" es="Nanyang" it="Nanyang" nl="Nanyang">
+      <province jpn="河南省" eng="Henan" de="Henan" fr="Henan" es="Henan" it="Henan" nl="Henan" />
+      <longitude>112.370880</longitude>
+      <latitude>32.938809</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="信陽市" eng="Xinyang" de="Xinyang" fr="Xinyang" es="Xinyang" it="Xinyang" nl="Xinyang">
+      <province jpn="河南省" eng="Henan" de="Henan" fr="Henan" es="Henan" it="Henan" nl="Henan" />
+      <longitude>114.145142</longitude>
+      <latitude>32.033544</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="周口市" eng="Zhoukou" de="Zhoukou" fr="Zhoukou" es="Zhoukou" it="Zhoukou" nl="Zhoukou">
+      <province jpn="河南省" eng="Henan" de="Henan" fr="Henan" es="Henan" it="Henan" nl="Henan" />
+      <longitude>114.751245</longitude>
+      <latitude>33.619520</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
 	<city jpn="武漢市" eng="Wuhan" de="Wuhan" fr="Wuhan" es="Wuhan" it="Wuhan" nl="Wuhan">
       <province jpn="湖北省" eng="Hubei" de="Hubei" fr="Hubei" es="Hubei" it="Hubei" nl="Hubei" />
       <longitude>114.304683</longitude>
@@ -21423,11 +22631,53 @@
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="荊州市" eng="Jingzhou" de="Jingzhou" fr="Jingzhou" es="Jingzhou" it="Jingzhou" nl="Jingzhou">
+      <province jpn="湖北省" eng="Hubei" de="Hubei" fr="Hubei" es="Hubei" it="Hubei" nl="Hubei" />
+      <longitude>112.361823</longitude>
+      <latitude>30.207607</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="襄陽市" eng="Xiangyang" de="Xiangyang" fr="Xiangyang" es="Xiangyang" it="Xiangyang" nl="Xiangyang">
+      <province jpn="湖北省" eng="Hubei" de="Hubei" fr="Hubei" es="Hubei" it="Hubei" nl="Hubei" />
+      <longitude>112.008636</longitude>
+      <latitude>31.956320</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="宜昌市" eng="Yichang" de="Yichang" fr="Yichang" es="Yichang" it="Yichang" nl="Yichang">
+      <province jpn="湖北省" eng="Hubei" de="Hubei" fr="Hubei" es="Hubei" it="Hubei" nl="Hubei" />
+      <longitude>111.038905</longitude>
+      <latitude>30.639376</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
 	<city jpn="長沙市" eng="Changsha" de="Changsha" fr="Changsha" es="Changsha" it="Changsha" nl="Changsha">
       <province jpn="湖南省" eng="Hunan" de="Hunan" fr="Hunan" es="Hunan" it="Hunan" nl="Hunan" />
       <longitude>112.936221</longitude>
       <latitude>28.199229</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="常徳市" eng="Changde" de="Changde" fr="Changde" es="Changde" it="Changde" nl="Changde">
+      <province jpn="湖南省" eng="Hunan" de="Hunan" fr="Hunan" es="Hunan" it="Hunan" nl="Hunan" />
+      <longitude>111.318011</longitude>
+      <latitude>29.098820</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="衡陽市" eng="Hengyang" de="Hengyang" fr="Hengyang" es="Hengyang" it="Hengyang" nl="Hengyang">
+      <province jpn="湖南省" eng="Hunan" de="Hunan" fr="Hunan" es="Hunan" it="Hunan" nl="Hunan" />
+      <longitude>112.538312</longitude>
+      <latitude>26.778542</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="懐化市" eng="Huaihua" de="Huaihua" fr="Huaihua" es="Huaihua" it="Huaihua" nl="Huaihua">
+      <province jpn="湖南省" eng="Hunan" de="Hunan" fr="Hunan" es="Hunan" it="Hunan" nl="Hunan" />
+      <longitude>109.968106</longitude>
+      <latitude>27.538922</latitude>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="フフホト市" eng="Hohhot" de="Hohhot" fr="Hohhot" es="Hohhot" it="Hohhot" nl="Hohhot">
@@ -21437,11 +22687,46 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="南京市" eng="Nanjing" de="Nanjing" fr="Nanjing" es="Nanjing" it="Nanjing" nl="Nanjing">
+	<city jpn="赤峰市" eng="Chifeng" de="Chifeng" fr="Chifeng" es="Chifeng" it="Chifeng" nl="Chifeng">
+      <province jpn="内モンゴル自治区" eng="Inner Mongolia" de="Innere Mongolei" fr="Mongolie-Intérieure" es="Mongolia Interior" it="Mongolia Interna" nl="Binnen-Mongolië" />
+      <longitude>119.071048</longitude>
+      <latitude>42.176164</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="フルンボイル市" eng="Hulunbuir" de="Hulunbuir" fr="Hulunbuir" es="Hulunbuir" it="Hulunbuir" nl="Hulunbuir">
+      <province jpn="内モンゴル自治区" eng="Inner Mongolia" de="Innere Mongolei" fr="Mongolie-Intérieure" es="Mongolia Interior" it="Mongolia Interna" nl="Binnen-Mongolië" />
+      <longitude>119.542359</longitude>
+      <latitude>49.159106</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="南京市" eng="Nanjing" de="Nanjing" fr="Nankin" es="Nankín" it="Nanchino" nl="Nanjing">
       <province jpn="江蘇省" eng="Jiangsu" de="Jiangsu" fr="Jiangsu" es="Jiangsu" it="Jiangsu" nl="Jiangsu" />
       <longitude>118.776164</longitude>
       <latitude>32.046904</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="蘇州市" eng="Suzhou" de="Suzhou" fr="Suzhou" es="Suzhou" it="Suzhou" nl="Suzhou">
+      <province jpn="江蘇省" eng="Jiangsu" de="Jiangsu" fr="Jiangsu" es="Jiangsu" it="Jiangsu" nl="Jiangsu" />
+      <longitude>120.346278</longitude>
+      <latitude>31.206684</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="徐州市" eng="Xuzhou" de="Xuzhou" fr="Xuzhou" es="Xuzhou" it="Xuzhou" nl="Xuzhou">
+      <province jpn="江蘇省" eng="Jiangsu" de="Jiangsu" fr="Jiangsu" es="Jiangsu" it="Jiangsu" nl="Jiangsu" />
+      <longitude>117.365529</longitude>
+      <latitude>34.433697</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="塩城市" eng="Yancheng" de="Yancheng" fr="Yancheng" es="Yancheng" it="Yancheng" nl="Yancheng">
+      <province jpn="江蘇省" eng="Jiangsu" de="Jiangsu" fr="Jiangsu" es="Jiangsu" it="Jiangsu" nl="Jiangsu" />
+      <longitude>120.176376</longitude>
+      <latitude>33.345571</latitude>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="南昌市" eng="Nanchang" de="Nanchang" fr="Nanchang" es="Nanchang" it="Nanchang" nl="Nanchang">
@@ -21451,6 +22736,20 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="贛州市" eng="Ganzhou" de="Ganzhou" fr="Ganzhou" es="Ganzhou" it="Ganzhou" nl="Ganzhou">
+      <province jpn="江西省" eng="Jiangxi" de="Jiangxi" fr="Jiangxi" es="Jiangxi" it="Jiangxi" nl="Jiangxi" />
+      <longitude>115.012425</longitude>
+      <latitude>25.759010</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="上饒市" eng="Shangrao" de="Shangrao" fr="Shangrao" es="Shangrao" it="Shangrao" nl="Shangrao">
+      <province jpn="江西省" eng="Jiangxi" de="Jiangxi" fr="Jiangxi" es="Jiangxi" it="Jiangxi" nl="Jiangxi" />
+      <longitude>117.945279</longitude>
+      <latitude>28.420475</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
 	<city jpn="長春市" eng="Changchun" de="Changchun" fr="Changchun" es="Changchun" it="Changchun" nl="Changchun">
       <province jpn="吉林省" eng="Jilin" de="Jilin" fr="Jilin" es="Jilin" it="Jilin" nl="Jilin" />
       <longitude>125.247826</longitude>
@@ -21458,11 +22757,39 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="吉林市" eng="Jilin City" de="Jilin-Stadt" fr="Ville de Jilin" es="Ciudad de Jilin" it="Città de Jilin" nl="Jilin-Stad">
+      <province jpn="吉林省" eng="Jilin" de="Jilin" fr="Jilin" es="Jilin" it="Jilin" nl="Jilin" />
+      <longitude>126.544966</longitude>
+      <latitude>43.818071</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="延吉市" eng="Yanji" de="Yanji" fr="Yanji" es="Yanji" it="Yanji" nl="Yanji">
+      <province jpn="吉林省" eng="Jilin" de="Jilin" fr="Jilin" es="Jilin" it="Jilin" nl="Jilin" />
+      <longitude>129.389857</longitude>
+      <latitude>42.842252</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="大連市" eng="Dalian" de="Dalian" fr="Dalian" es="Dalian" it="Dalian" nl="Dalian">
       <province jpn="遼寧省" eng="Liaoning" de="Liaoning" fr="Liaoning" es="Liaoning" it="Liaoning" nl="Liaoning" />
       <longitude>121.669182</longitude>
       <latitude>39.042542</latitude>
       <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="鞍山市" eng="Anshan" de="Anshan" fr="Anshan" es="Anshan" it="Anshan" nl="Anshan">
+      <province jpn="遼寧省" eng="Liaoning" de="Liaoning" fr="Liaoning" es="Liaoning" it="Liaoning" nl="Liaoning" />
+      <longitude>122.876672</longitude>
+      <latitude>40.818053</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="錦州市" eng="Jinzhou" de="Jinzhou" fr="Jinzhou" es="Jinzhou" it="Jinzhou" nl="Jinzhou">
+      <province jpn="遼寧省" eng="Liaoning" de="Liaoning" fr="Liaoning" es="Liaoning" it="Liaoning" nl="Liaoning" />
+      <longitude>121.103173</longitude>
+      <latitude>41.054450</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="瀋陽市" eng="Shenyang" de="Shenyang" fr="Shenyang" es="Shenyang" it="Shenyang" nl="Shenyang">
@@ -21473,16 +22800,37 @@
       <zoom2>3</zoom2>
     </city>
 	<city jpn="銀川市" eng="Yinchuan" de="Yinchuan" fr="Yinchuan" es="Yinchuan" it="Yinchuan" nl="Yinchuan">
-      <province jpn="寧夏回族自治区" eng="Ningxia-Hui" de="Ningxia-Hui" fr="Ningxia-Hui" es="Ningxia-Hui" it="Ningxia-Hui" nl="Ningxia-Hui" />
+      <province jpn="寧夏回族自治区" eng="Ningxia Hui" de="Ningxia Hui" fr="Ningxia Hui" es="Ningxia Hui" it="Ningxia Hui" nl="Ningxia Hui" />
       <longitude>106.237436</longitude>
       <latitude>38.426736</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="固原市" eng="Guyuan" de="Guyuan" fr="Guyuan" es="Guyuan" it="Guyuan" nl="Guyuan">
+      <province jpn="寧夏回族自治区" eng="Ningxia Hui" de="Ningxia Hui" fr="Ningxia Hui" es="Ningxia Hui" it="Ningxia Hui" nl="Ningxia Hui" />
+      <longitude>106.234278</longitude>
+      <latitude>35.977438</latitude>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="西寧市" eng="Xining" de="Xining" fr="Xining" es="Xining" it="Xining" nl="Xining">
       <province jpn="青海省" eng="Qinghai" de="Qinghai" fr="Qinghai" es="Qinghai" it="Qinghai" nl="Qinghai" />
       <longitude>101.841797</longitude>
       <latitude>36.618193</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="デリンハ市" eng="Delingha" de="Delingha" fr="Delingha" es="Delingha" it="Delingha" nl="Delingha">
+      <province jpn="青海省" eng="Qinghai" de="Qinghai" fr="Qinghai" es="Qinghai" it="Qinghai" nl="Qinghai" />
+      <longitude>97.369000</longitude>
+      <latitude>37.341443</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="玉樹市" eng="Yushu" de="Yushu" fr="Yushu" es="Yushu" it="Yushu" nl="Yushu">
+      <province jpn="青海省" eng="Qinghai" de="Qinghai" fr="Qinghai" es="Qinghai" it="Qinghai" nl="Qinghai" />
+      <longitude>97.097364</longitude>
+      <latitude>32.977395</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -21493,6 +22841,34 @@
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="宝鶏市" eng="Baoji" de="Baoji" fr="Baoji" es="Baoji" it="Baoji" nl="Baoji">
+      <province jpn="陝西省" eng="Shaanxi" de="Shaanxi" fr="Shaanxi" es="Shaanxi" it="Shaanxi" nl="Shaanxi" />
+      <longitude>107.084113</longitude>
+      <latitude>34.361116</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="漢中市" eng="Hanzhong" de="Hanzhong" fr="Hanzhong" es="Hanzhong" it="Hanzhong" nl="Hanzhong">
+      <province jpn="陝西省" eng="Shaanxi" de="Shaanxi" fr="Shaanxi" es="Shaanxi" it="Shaanxi" nl="Shaanxi" />
+      <longitude>106.943441</longitude>
+      <latitude>32.993230</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="渭南市" eng="Weinan" de="Weinan" fr="Weinan" es="Weinan" it="Weinan" nl="Weinan">
+      <province jpn="陝西省" eng="Shaanxi" de="Shaanxi" fr="Shaanxi" es="Shaanxi" it="Shaanxi" nl="Shaanxi" />
+      <longitude>110.069885</longitude>
+      <latitude>34.541242</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="楡林市" eng="Yulin" de="Yulin" fr="Yulin" es="Yulin" it="Yulin" nl="Yulin">
+      <province jpn="陝西省" eng="Shaanxi" de="Shaanxi" fr="Shaanxi" es="Shaanxi" it="Shaanxi" nl="Shaanxi" />
+      <longitude>109.882075</longitude>
+      <latitude>38.299547</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
 	<city jpn="済南市" eng="Jinan" de="Jinan" fr="Jinan" es="Jinan" it="Jinan" nl="Jinan">
       <province jpn="山東省" eng="Shandong" de="Shandong" fr="Shandong" es="Shandong" it="Shandong" nl="Shandong" />
       <longitude>117.365222</longitude>
@@ -21500,11 +22876,39 @@
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="済寧市" eng="Jining" de="Jining" fr="Jining" es="Jining" it="Jining" nl="Jining">
+      <province jpn="山東省" eng="Shandong" de="Shandong" fr="Shandong" es="Shandong" it="Shandong" nl="Shandong" />
+      <longitude>116.369432</longitude>
+      <latitude>35.301593</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="臨沂市" eng="Linyi" de="Linyi" fr="Linyi" es="Linyi" it="Linyi" nl="Linyi">
+      <province jpn="山東省" eng="Shandong" de="Shandong" fr="Shandong" es="Shandong" it="Shandong" nl="Shandong" />
+      <longitude>118.202496</longitude>
+      <latitude>35.223775</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
 	<city jpn="青島市" eng="Qingdao" de="Qingdao" fr="Qingdao" es="Qingdao" it="Qingdao" nl="Qingdao">
       <province jpn="山東省" eng="Shandong" de="Shandong" fr="Shandong" es="Shandong" it="Shandong" nl="Shandong" />
       <longitude>120.687677</longitude>
       <latitude>36.402117</latitude>
       <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="煙台市" eng="Yantai" de="Yantai" fr="Yantai" es="Yantai" it="Yantai" nl="Yantai">
+      <province jpn="山東省" eng="Shandong" de="Shandong" fr="Shandong" es="Shandong" it="Shandong" nl="Shandong" />
+      <longitude>121.483254</longitude>
+      <latitude>37.445809</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="濰坊市" eng="Weifang" de="Weifang" fr="Weifang" es="Weifang" it="Weifang" nl="Weifang">
+      <province jpn="山東省" eng="Shandong" de="Shandong" fr="Shandong" es="Shandong" it="Shandong" nl="Shandong" />
+      <longitude>119.064596</longitude>
+      <latitude>36.608218</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="上海市" eng="Shanghai" de="Schanghai" fr="Shanghai" es="Shanghái" it="Shanghai" nl="Sjanghai">
@@ -21518,14 +22922,63 @@
       <province jpn="山西省" eng="Shanxi" de="Shanxi" fr="Shanxi" es="Shanxi" it="Shanxi" nl="Shanxi" />
       <longitude>112.486350</longitude>
       <latitude>37.887148</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="大同市" eng="Datong" de="Datong" fr="Datong" es="Datong" it="Datong" nl="Datong">
+      <province jpn="山西省" eng="Shanxi" de="Shanxi" fr="Shanxi" es="Shanxi" it="Shanxi" nl="Shanxi" />
+      <longitude>113.083491</longitude>
+      <latitude>40.013069</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="臨汾市" eng="Linfen" de="Linfen" fr="Linfen" es="Linfen" it="Linfen" nl="Linfen">
+      <province jpn="山西省" eng="Shanxi" de="Shanxi" fr="Shanxi" es="Shanxi" it="Shanxi" nl="Shanxi" />
+      <longitude>111.577139</longitude>
+      <latitude>36.003113</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="呂梁市" eng="Lüliang" de="Lüliang" fr="Lüliang" es="Lüliang" it="Lüliang" nl="Lüliang">
+      <province jpn="山西省" eng="Shanxi" de="Shanxi" fr="Shanxi" es="Shanxi" it="Shanxi" nl="Shanxi" />
+      <longitude>111.043475</longitude>
+      <latitude>37.494932</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="運城市" eng="Yuncheng" de="Yuncheng" fr="Yuncheng" es="Yuncheng" it="Yuncheng" nl="Yuncheng">
+      <province jpn="山西省" eng="Shanxi" de="Shanxi" fr="Shanxi" es="Shanxi" it="Shanxi" nl="Shanxi" />
+      <longitude>111.049154</longitude>
+      <latitude>35.291198</latitude>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="成都市" eng="Chengdu" de="Chengdu" fr="Chengdu" es="Chengdu" it="Chengdu" nl="Chengdu">
       <province jpn="四川省" eng="Sichuan" de="Sichuan" fr="Sichuan" es="Sichuan" it="Sichuan" nl="Sichuan" />
       <longitude>104.1119384765625</longitude>
       <latitude>30.6298828125</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="達州市" eng="Dazhou" de="Dazhou" fr="Dazhou" es="Dazhou" it="Dazhou" nl="Dazhou">
+      <province jpn="四川省" eng="Sichuan" de="Sichuan" fr="Sichuan" es="Sichuan" it="Sichuan" nl="Sichuan" />
+      <longitude>107.169419</longitude>
+      <latitude>31.291005</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="攀枝花市" eng="Panzhihua" de="Panzhihua" fr="Panzhihua" es="Panzhihua" it="Panzhihua" nl="Panzhihua">
+      <province jpn="四川省" eng="Sichuan" de="Sichuan" fr="Sichuan" es="Sichuan" it="Sichuan" nl="Sichuan" />
+      <longitude>101.668757</longitude>
+      <latitude>26.442558</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="西昌市" eng="Xichang" de="Xichang" fr="Xichang" es="Xichang" it="Xichang" nl="Xichang">
+      <province jpn="四川省" eng="Sichuan" de="Sichuan" fr="Sichuan" es="Sichuan" it="Sichuan" nl="Sichuan" />
+      <longitude>101.759327</longitude>
+      <latitude>28.554732</latitude>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="天津市" eng="Tianjin" de="Tianjin" fr="Tianjin" es="Tianjin" it="Tianjin" nl="Tianjin">
@@ -21542,10 +22995,59 @@
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="ナクチュ市" eng="Nagqu" de="Nagqu" fr="Nagqu" es="Nagqu" it="Nagqu" nl="Nagqu">
+      <province jpn="チベット自治区" eng="Tibet" de="Tibet" fr="Tibet" es="Tíbet" it="Tibet" nl="Tibet" />
+      <longitude>92.132113</longitude>
+      <latitude>31.478654</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ニンティ市" eng="Nyingchi" de="Nyingchi" fr="Nyingchi" es="Nyingchi" it="Nyingchi" nl="Nyingchi">
+      <province jpn="チベット自治区" eng="Tibet" de="Tibet" fr="Tibet" es="Tíbet" it="Tibet" nl="Tibet" />
+      <longitude>94.374400</longitude>
+      <latitude>29.729868</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="チャムド市" eng="Qamdo" de="Qamdo" fr="Qamdo" es="Qamdo" it="Qamdo" nl="Qamdo">
+      <province jpn="チベット自治区" eng="Tibet" de="Tibet" fr="Tibet" es="Tíbet" it="Tibet" nl="Tibet" />
+      <longitude>97.301219</longitude>
+      <latitude>31.104270</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="シガツェ市" eng="Xigazê" de="Xigazê" fr="Xigazê" es="Xigazê" it="Xigazê" nl="Xigazê">
+      <province jpn="チベット自治区" eng="Tibet" de="Tibet" fr="Tibet" es="Tíbet" it="Tibet" nl="Tibet" />
+      <longitude>88.733230</longitude>
+      <latitude>29.174700</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
 	<city jpn="ウルムチ市" eng="Ürümqi" de="Ürümqi" fr="Ürümqi" es="Ürümqi" it="Ürümqi" nl="Ürümqi">
-      <province jpn="新疆ウイグル自治区" eng="Xinjiang-Uyghur" de="Xinjiang-Uyghur" fr="Xinjiang-Uyghur" es="Xinjiang-Uyghur" it="Xinjiang-Uyghur" nl="Xinjiang-Uyghur" />
+      <province jpn="新疆ウイグル自治区" eng="Xinjiang Uyghur" de="Xinjiang Uyghur" fr="Xinjiang Uyghur" es="Xinjiang Uyghur" it="Xinjiang Uyghur" nl="Xinjiang Uyghur" />
       <longitude>87.689637</longitude>
       <latitude>43.636522</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アクス市" eng="Aksu" de="Aksu" fr="Aksu" es="Aksu" it="Aksu" nl="Aksu">
+      <province jpn="新疆ウイグル自治区" eng="Xinjiang Uyghur" de="Xinjiang Uyghur" fr="Xinjiang Uyghur" es="Xinjiang Uyghur" it="Xinjiang Uyghur" nl="Xinjiang Uyghur" />
+      <longitude>80.265930</longitude>
+      <latitude>40.916946</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="カシュガル市" eng="Kashgar" de="Kashgar" fr="Kashgar" es="Kashgar" it="Kashgar" nl="Kashgar">
+      <province jpn="新疆ウイグル自治区" eng="Xinjiang Uyghur" de="Xinjiang Uyghur" fr="Xinjiang Uyghur" es="Xinjiang Uyghur" it="Xinjiang Uyghur" nl="Xinjiang Uyghur" />
+      <longitude>75.999953</longitude>
+      <latitude>39.374501</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="クムル市" eng="Kumul" de="Kumul" fr="Kumul" es="Kumul" it="Kumul" nl="Kumul">
+      <province jpn="新疆ウイグル自治区" eng="Xinjiang Uyghur" de="Xinjiang Uyghur" fr="Xinjiang Uyghur" es="Xinjiang Uyghur" it="Xinjiang Uyghur" nl="Xinjiang Uyghur" />
+      <longitude>93.580902</longitude>
+      <latitude>42.724175</latitude>
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -21556,11 +23058,53 @@
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="麗江市" eng="Lijiang" de="Lijiang" fr="Lijiang" es="Lijiang" it="Lijiang" nl="Lijiang">
+      <province jpn="雲南省" eng="Yunnan" de="Yunnan" fr="Yunnan" es="Yunnan" it="Yunnan" nl="Yunnan" />
+      <longitude>100.238816</longitude>
+      <latitude>26.747285</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="普洱市" eng="Pu'er" de="Pu'er" fr="Pu'er" es="Pu'er" it="Pu'er" nl="Pu'er">
+      <province jpn="雲南省" eng="Yunnan" de="Yunnan" fr="Yunnan" es="Yunnan" it="Yunnan" nl="Yunnan" />
+      <longitude>100.997402</longitude>
+      <latitude>22.696598</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="昭通市" eng="Zhaotong" de="Zhaotong" fr="Zhaotong" es="Zhaotong" it="Zhaotong" nl="Zhaotong">
+      <province jpn="雲南省" eng="Yunnan" de="Yunnan" fr="Yunnan" es="Yunnan" it="Yunnan" nl="Yunnan" />
+      <longitude>103.671294</longitude>
+      <latitude>27.273306</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
 	<city jpn="杭州市" eng="Hangzhou" de="Hangzhou" fr="Hangzhou" es="Hangzhou" it="Hangzhou" nl="Hangzhou">
       <province jpn="浙江省" eng="Zhejiang" de="Zhejiang" fr="Zhejiang" es="Zhejiang" it="Zhejiang" nl="Zhejiang" />
       <longitude>119.904692</longitude>
       <latitude>29.975410</latitude>
       <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+	</city>
+	<city jpn="金華市" eng="Jinhua" de="Jinhua" fr="Jinhua" es="Jinhua" it="Jinhua" nl="Jinhua">
+      <province jpn="浙江省" eng="Zhejiang" de="Zhejiang" fr="Zhejiang" es="Zhejiang" it="Zhejiang" nl="Zhejiang" />
+      <longitude>119.464515</longitude>
+      <latitude>29.107355</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="寧波市" eng="Ningbo" de="Ningbo" fr="Ningbo" es="Ningbo" it="Ningbo" nl="Ningbo">
+      <province jpn="浙江省" eng="Zhejiang" de="Zhejiang" fr="Zhejiang" es="Zhejiang" it="Zhejiang" nl="Zhejiang" />
+      <longitude>119.464515</longitude>
+      <latitude>29.107355</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="温州市" eng="Wenzhou" de="Wenzhou" fr="Wenzhou" es="Wenzhou" it="Wenzhou" nl="Wenzhou">
+      <province jpn="浙江省" eng="Zhejiang" de="Zhejiang" fr="Zhejiang" es="Zhejiang" it="Zhejiang" nl="Zhejiang" />
+      <longitude>120.705132</longitude>
+      <latitude>27.911261</latitude>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
@@ -23739,22 +25283,22 @@
       <name eng="Kaohsiung" de="Kaohsiung" fr="Kaohsiung" es="Kaohsiung" it="Kaohsiung" nl="Kaohsiung" />
     </city>
     <city>
-      <province jpn="ソウル特別市" eng="Seoul" de="Seoul" fr="Séoul" es="Seúl" it="Seoul" nl="Seoul" />
+      <province jpn="ソウル特別市" eng="Seoul" de="Seoul" fr="Séoul" es="Seúl" it="Seul" nl="Seoel" />
       <longitude>126.9964599609375</longitude>
       <latitude>37.496337890625</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
       <country jpn="韓国" eng="South Korea" de="Südkorea" fr="Corée du Sud" es="Corea del Sur" it="Corea del Sud" nl="Zuid-Korea" />
-      <name jpn="ソウル" eng="Seoul" de="Seoul" fr="Séoul" es="Seúl" it="Seoul" nl="Seoul" />
+      <name jpn="ソウル" eng="Seoul" de="Seoul" fr="Séoul" es="Seúl" it="Seul" nl="Seoel" />
     </city>
     <city>
-      <province jpn="プサン広域市" eng="Busan" de="Busan" fr="Pusan" es="Busán" it="Busan" nl="Busan" />
+      <province jpn="釜山広域市" eng="Busan" de="Busan" fr="Busan" es="Busan" it="Busan" nl="Busan" />
       <longitude>129.0289306640625</longitude>
       <latitude>35.079345703125</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
       <country jpn="韓国" eng="South Korea" de="Südkorea" fr="Corée du Sud" es="Corea del Sur" it="Corea del Sud" nl="Zuid-Korea" />
-      <name jpn="プサン" eng="Busan" de="Busan" fr="Pusan" es="Busán" it="Busan" nl="Busan" />
+      <name jpn="釜山" eng="Busan" de="Busan" fr="Busan" es="Busan" it="Busan" nl="Busan" />
     </city>
     <city>
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
