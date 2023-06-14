@@ -83,6 +83,10 @@ func (f *Forecast) PopulateLocations(cities []InternationalCity) {
 				CountryCode:       0xFE,
 				RegionCode:        0xFE,
 				LocationCode:      uint16(noProvince),
+				Latitude:          CoordinateEncode(city.Latitude),
+				Longitude:         CoordinateEncode(city.Longitude),
+				LocationZoom1:     uint8(city.Zoom1),
+				LocationZoom2:     uint8(city.Zoom2),
 				City:              &City{},
 				InternationalCity: &_city,
 			}
@@ -212,11 +216,13 @@ func (f *Forecast) MakeLocationText() {
 			}
 		}
 
-		f.LocationTable[i].CountryTextOffset = f.GetCurrentSize()
-		f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.internationalCities[i].Country)))...)
-		f.LocationText = append(f.LocationText, uint16(0))
-		for f.GetCurrentSize()&3 != 0 {
+		if f.internationalCities[i].Country.English != "" {
+			f.LocationTable[i].CountryTextOffset = f.GetCurrentSize()
+			f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.internationalCities[i].Country)))...)
 			f.LocationText = append(f.LocationText, uint16(0))
+			for f.GetCurrentSize()&3 != 0 {
+				f.LocationText = append(f.LocationText, uint16(0))
+			}
 		}
 	}
 }
