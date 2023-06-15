@@ -7813,6 +7813,13 @@
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="アルトン" eng="Alton" de="Alton" fr="Alton" es="Alton" it="Alton" nl="Alton">
+      <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
+      <longitude>-90.169662</longitude>
+      <latitude>38.908852</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="オーロラ" eng="Aurora" de="Aurora" fr="Aurora" es="Aurora" it="Aurora" nl="Aurora">
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
       <longitude>-88.319091796875</longitude>
