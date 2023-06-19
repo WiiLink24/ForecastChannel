@@ -397,7 +397,7 @@
       <province jpn="山形県" eng="Yamagata" de="Yamagata" fr="Yamagata" es="Yamagata" it="Yamagata" nl="Yamagata" />
       <longitude>140.1416015625</longitude>
       <latitude>37.9083251953125</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="酒田市" eng="Sakata" de="Sakata" fr="Sakata" es="Sakata" it="Sakata" nl="Sakata">
@@ -698,7 +698,7 @@
       <province jpn="石川県" eng="Ishikawa" de="Ishikawa" fr="Ishikawa" es="Ishikawa" it="Ishikawa" nl="Ishikawa" />
       <longitude>136.939753</longitude>
       <latitude>37.082721</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="輪島市" eng="Wajima" de="Wajima" fr="Wajima" es="Wajima" it="Wajima" nl="Wajima">
@@ -1090,7 +1090,7 @@
       <province jpn="京都府" eng="Kyoto" de="Kyoto" fr="Kyoto" es="Kioto" it="Kyoto" nl="Kyoto" />
       <longitude>135.208565</longitude>
       <latitude>35.252668</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="京丹後市" eng="Kyotango" de="Kyotango" fr="Kyotango" es="Kyotango" it="Kyotango" nl="Kyotango">
@@ -1118,7 +1118,7 @@
       <province jpn="大阪府" eng="Osaka" de="Osaka" fr="Osaka" es="Osaka" it="Osaka" nl="Osaka" />
       <longitude>135.289002</longitude>
       <latitude>34.419507</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="神戸市" eng="Kobe" de="Kobe" fr="Kobe" es="Kobe" it="Kobe" nl="Kobe">
@@ -1160,7 +1160,7 @@
       <province jpn="兵庫県" eng="Hyogo" de="Hyogo" fr="Hyogo" es="Hiogo" it="Hyogo" nl="Hyogo" />
       <longitude>134.9066162109375</longitude>
       <latitude>34.332275390625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="奈良市" eng="Nara" de="Nara" fr="Nara" es="Nara" it="Nara" nl="Nara">
@@ -1188,7 +1188,7 @@
       <province jpn="奈良県" eng="Nara" de="Nara" fr="Nara" es="Nara" it="Nara" nl="Nara" />
       <longitude>135.872632</longitude>
       <latitude>34.338375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="和歌山市" eng="Wakayama" de="Wakayama" fr="Wakayama" es="Wakayama" it="Wakayama" nl="Wakayama">
@@ -1377,7 +1377,7 @@
       <province jpn="山口県" eng="Yamaguchi" de="Yamaguchi" fr="Yamaguchi" es="Yamaguchi" it="Yamaguchi" nl="Yamaguchi" />
       <longitude>131.4569091796875</longitude>
       <latitude>34.156494140625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="下関市" eng="Shimonoseki" de="Shimonoseki" fr="Shimonoseki" es="Shimonoseki" it="Shimonoseki" nl="Shimonoseki">
@@ -1517,7 +1517,7 @@
       <province jpn="愛媛県" eng="Ehime" de="Ehime" fr="Ehime" es="Ehime" it="Ehime" nl="Ehime" />
       <longitude>132.550048828125</longitude>
       <latitude>33.22265625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="大洲市" eng="Ozu" de="Ozu" fr="Ozu" es="Ozu" it="Ozu" nl="Ozu">
@@ -1734,7 +1734,7 @@
       <province jpn="熊本県" eng="Kumamoto" de="Kumamoto" fr="Kumamoto" es="Kumamoto" it="Kumamoto" nl="Kumamoto" />
       <longitude>130.7537841796875</longitude>
       <latitude>32.2119140625</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="阿蘇市" eng="Aso" de="Aso" fr="Aso" es="Aso" it="Aso" nl="Aso">
@@ -1853,7 +1853,7 @@
       <province jpn="鹿児島県" eng="Kagoshima" de="Kagoshima" fr="Kagoshima" es="Kagoshima" it="Kagoshima" nl="Kagoshima" />
       <longitude>129.495849609375</longitude>
       <latitude>28.3721923828125</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="鹿屋市" eng="Kanoya" de="Kanoya" fr="Kanoya" es="Kanoya" it="Kanoya" nl="Kanoya">
@@ -12718,7 +12718,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ポー" eng="Pau" de="Pau" fr="Pau" es="Pau" it="Pau" nl="Pau">
+    <city jpn="パウ" eng="Pau" de="Pau" fr="Pau" es="Pau" it="Pau" nl="Pau">
       <province jpn="ヌーヴェル・アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
       <longitude>-0.37353515625</longitude>
       <latitude>43.297119140625</latitude>
@@ -12788,7 +12788,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="トゥールーズ" eng="Toulouse" de="Toulouse" fr="Toulouse" es="Toulouse" it="Tolosa" nl="Toulouse">
+    <city jpn="トゥールーズ" eng="Toulouse" de="Toulouse" fr="Toulouse" es="Tolosa" it="Tolosa" nl="Toulouse">
       <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
       <longitude>1.4337158203125</longitude>
       <latitude>43.5992431640625</latitude>
@@ -15659,7 +15659,7 @@
       <province jpn="ノールト・ホラント州" eng="North Holland" de="Nordholland" fr="Hollande septentrionale" es="Holanda Septentrional" it="Olanda Settentrionale" nl="Noord-Holland" />
       <longitude>4.6307373046875</longitude>
       <latitude>52.3828125</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アルクマール" eng="Alkmaar" de="Alkmaar" fr="Alkmaar" es="Alkmaar" it="Alkmaar" nl="Alkmaar">
@@ -15676,17 +15676,31 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="ヒルフェルスム" eng="Hilversum" de="Hilversum" fr="Hilversum" es="Hilversum" it="Hilversum" nl="Hilversum">
+      <province jpn="ノールト・ホラント州" eng="North Holland" de="Nordholland" fr="Hollande septentrionale" es="Holanda Septentrional" it="Olanda Settentrionale" nl="Noord-Holland" />
+      <longitude>5.072753</longitude>
+      <latitude>52.233250</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="アッセン" eng="Assen" de="Assen" fr="Assen" es="Assen" it="Assen" nl="Assen">
       <province jpn="ドレンテ州" eng="Drenthe" de="Drenthe" fr="Drenthe" es="Drente" it="Drenthe" nl="Drenthe" />
       <longitude>6.5533447265625</longitude>
       <latitude>52.987060546875</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="エメン" eng="Emmen" de="Emmen" fr="Emmen" es="Emmen" it="Emmen" nl="Emmen">
       <province jpn="ドレンテ州" eng="Drenthe" de="Drenthe" fr="Drenthe" es="Drente" it="Drenthe" nl="Drenthe" />
       <longitude>6.8994140625</longitude>
       <latitude>52.7728271484375</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="メッペル" eng="Meppel" de="Meppel" fr="Meppel" es="Meppel" it="Meppel" nl="Meppel">
+      <province jpn="ドレンテ州" eng="Drenthe" de="Drenthe" fr="Drenthe" es="Drente" it="Drenthe" nl="Drenthe" />
+      <longitude>6.201169</longitude>
+      <latitude>52.730635</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -15694,28 +15708,56 @@
       <province jpn="フレボラント州" eng="Flevoland" de="Flevoland" fr="Flevoland" es="Flevoland" it="Flevoland" nl="Flevoland" />
       <longitude>5.4656982421875</longitude>
       <latitude>52.503662109375</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="レーワルデン" eng="Leeuwarden" de="Leeuwarden" fr="Leeuwarden" es="Leeuwarden" it="Leeuwarden" nl="Leeuwarden">
-      <province jpn="フリースラント州" eng="Friesland" de="Friesland" fr="Frise" es="Frisia" it="Frisia" nl="Friesland" />
+	<city jpn="アルメレ" eng="Almere" de="Almere" fr="Almere" es="Almere" it="Almere" nl="Almere">
+      <province jpn="フレボラント州" eng="Flevoland" de="Flevoland" fr="Flevoland" es="Flevoland" it="Flevoland" nl="Flevoland" />
+      <longitude>5.302173</longitude>
+      <latitude>52.376348</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="エメロールト" eng="Emmeloord" de="Emmeloord" fr="Emmeloord" es="Emmeloord" it="Emmeloord" nl="Emmeloord">
+      <province jpn="フレボラント州" eng="Flevoland" de="Flevoland" fr="Flevoland" es="Flevoland" it="Flevoland" nl="Flevoland" />
+      <longitude>5.744433</longitude>
+      <latitude>52.697200</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="リィオヴト" eng="Ljouwert" de="Ljouwert" fr="Ljouwert" es="Ljouwert" it="Ljouwert" nl="Ljouwert">
+      <province jpn="フリースランド州" eng="Fryslân" de="Friesland" fr="Frise" es="Frisia" it="Frisia" nl="Fryslân" />
       <longitude>5.7843017578125</longitude>
       <latitude>53.1903076171875</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ヘーレンフェーン" eng="Heerenveen" de="Heerenveen" fr="Heerenveen" es="Heerenveen" it="Heerenveen" nl="Heerenveen">
-      <province jpn="フリースラント州" eng="Friesland" de="Friesland" fr="Frise" es="Frisia" it="Frisia" nl="Friesland" />
+	<city jpn="ドラフテン" eng="Drachten" de="Drachten" fr="Drachten" es="Drachten" it="Drachten" nl="Drachten">
+      <province jpn="フリースランド州" eng="Fryslân" de="Friesland" fr="Frise" es="Frisia" it="Frisia" nl="Fryslân" />
+      <longitude>6.087868</longitude>
+      <latitude>53.109078</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="イットハーレンフェーン" eng="It Hearrenfean" de="It Hearrenfean" fr="It Hearrenfean" es="It Hearrenfean" it="It Hearrenfean" nl="It Hearrenfean">
+      <province jpn="フリースランド州" eng="Fryslân" de="Friesland" fr="Frise" es="Frisia" it="Frisia" nl="Fryslân" />
       <longitude>5.921630859375</longitude>
       <latitude>52.9486083984375</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ウェスト・スカイルジ" eng="West-Skylge" de="West-Skylge" fr="West-Skylge" es="West-Skylge" it="West-Skylge" nl="West-Skylge">
+      <province jpn="フリースランド州" eng="Fryslân" de="Friesland" fr="Frise" es="Frisia" it="Frisia" nl="Fryslân" />
+      <longitude>5.214955</longitude>
+      <latitude>53.364940</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アルンヘム" eng="Arnhem" de="Arnheim" fr="Arnhem" es="Arnhem" it="Arnhem" nl="Arnhem">
       <province jpn="ヘルデンラント州" eng="Gelderland" de="Gelderland" fr="Gueldre" es="Güeldres" it="Gheldria" nl="Gelderland" />
       <longitude>5.9051513671875</longitude>
       <latitude>51.9818115234375</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アーペルドールン" eng="Apeldoorn" de="Apeldoorn" fr="Apeldoorn" es="Apeldoorn" it="Apeldoorn" nl="Apeldoorn">
@@ -15723,6 +15765,13 @@
       <longitude>5.9600830078125</longitude>
       <latitude>52.2125244140625</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ハルデルウェイク" eng="Harderwijk" de="Harderwijk" fr="Harderwijk" es="Harderwijk" it="Harderwijk" nl="Harderwijk">
+      <province jpn="ヘルデンラント州" eng="Gelderland" de="Gelderland" fr="Gueldre" es="Güeldres" it="Gheldria" nl="Gelderland" />
+      <longitude>5.621107</longitude>
+      <latitude>52.341063</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ネイメーヘン" eng="Nijmegen" de="Nijmegen" fr="Nimègue" es="Nimega" it="Nimega" nl="Nijmegen">
@@ -15739,11 +15788,39 @@
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="フェーンダム" eng="Veendam" de="Veendam" fr="Veendam" es="Veendam" it="Veendam" nl="Veendam">
+      <province jpn="フローニンゲン州" eng="Groningen" de="Groningen" fr="Groningue" es="Groninga" it="Groninga" nl="Groningen" />
+      <longitude>6.895740</longitude>
+      <latitude>53.106682</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="マーストリヒト" eng="Maastricht" de="Maastricht" fr="Maastricht" es="Maastricht" it="Maastricht" nl="Maastricht">
       <province jpn="リンビュルフ州" eng="Limburg" de="Limburg" fr="Limbourg" es="Limburgo" it="Limburgo" nl="Limburg" />
       <longitude>5.6744384765625</longitude>
       <latitude>50.8502197265625</latitude>
       <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ヘールレン" eng="Heerlen" de="Heerlen" fr="Heerlen" es="Heerlen" it="Heerlen" nl="Heerlen">
+      <province jpn="リンビュルフ州" eng="Limburg" de="Limburg" fr="Limbourg" es="Limburgo" it="Limburgo" nl="Limburg" />
+      <longitude>6.036154</longitude>
+      <latitude>50.885650</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ルールモント" eng="Roermond" de="Roermond" fr="Ruremonde" es="Roermond" it="Roermond" nl="Roermond">
+      <province jpn="リンビュルフ州" eng="Limburg" de="Limburg" fr="Limbourg" es="Limburgo" it="Limburgo" nl="Limburg" />
+      <longitude>6.006081</longitude>
+      <latitude>51.166614</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="シッタルト" eng="Sittard" de="Sittard" fr="Sittard" es="Sittard" it="Sittard" nl="Sittard">
+      <province jpn="リンビュルフ州" eng="Limburg" de="Limburg" fr="Limbourg" es="Limburgo" it="Limburgo" nl="Limburg" />
+      <longitude>5.873619</longitude>
+      <latitude>51.018445</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="フェンロー" eng="Venlo" de="Venlo" fr="Venlo" es="Venlo" it="Venlo" nl="Venlo">
@@ -15753,7 +15830,14 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="セルトーヘンボス" eng=" 's-Hertogenbosch" de="'s-Hertogenbosch" fr="Bois-le-Duc" es="Bolduque" it="'s-Hertogenbosch" nl="'s-Hertogenbosch">
+	<city jpn="フェンラユ" eng="Venray" de="Venray" fr="Venray" es="Venray" it="Venray" nl="Venray">
+      <province jpn="リンビュルフ州" eng="Limburg" de="Limburg" fr="Limbourg" es="Limburgo" it="Limburgo" nl="Limburg" />
+      <longitude>6.163330078125</longitude>
+      <latitude>51.3665771484375</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="スヘルトーヘンボス" eng="'s-Hertogenbosch" de="Herzogenbusch" fr="Bois-le-Duc" es="Bolduque" it="Boscoducale" nl="'s-Hertogenbosch">
       <province jpn="ノールト・ブラバント州" eng="North Brabant" de="Nordbrabant" fr="Brabant septentrional" es="Brabante Septentrional" it="Brabante Settentrionale" nl="Noord-Brabant" />
       <longitude>5.3118896484375</longitude>
       <latitude>51.690673828125</latitude>
@@ -15764,7 +15848,7 @@
       <province jpn="ノールト・ブラバント州" eng="North Brabant" de="Nordbrabant" fr="Brabant septentrional" es="Brabante Septentrional" it="Brabante Settentrionale" nl="Noord-Brabant" />
       <longitude>5.47119140625</longitude>
       <latitude>51.4324951171875</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ブレダー" eng="Breda" de="Breda" fr="Bréda" es="Breda" it="Breda" nl="Breda">
@@ -15772,6 +15856,27 @@
       <longitude>4.7735595703125</longitude>
       <latitude>51.5863037109375</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ローゼンダール" eng="Roosendaal" de="Roosendaal" fr="Rosendael" es="Roosendaal" it="Roosendaal" nl="Roosendaal">
+      <province jpn="ノールト・ブラバント州" eng="North Brabant" de="Nordbrabant" fr="Brabant septentrional" es="Brabante Septentrional" it="Brabante Settentrionale" nl="Noord-Brabant" />
+      <longitude>4.413123</longitude>
+      <latitude>51.553687</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="シント・ウーデローデ" eng="Sint-Oedenrode" de="Sint-Oedenrode" fr="Rhode-Saint-Oude" es="Sint-Oedenrode" it="Sint-Oedenrode" nl="Sint-Oedenrode">
+      <province jpn="ノールト・ブラバント州" eng="North Brabant" de="Nordbrabant" fr="Brabant septentrional" es="Brabante Septentrional" it="Brabante Settentrionale" nl="Noord-Brabant" />
+      <longitude>5.474951</longitude>
+      <latitude>51.584517</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ティルブルフ" eng="Tilburg" de="Tilburg" fr="Tilbourg" es="Tilburg" it="Tilburg" nl="Tilburg">
+      <province jpn="ノールト・ブラバント州" eng="North Brabant" de="Nordbrabant" fr="Brabant septentrional" es="Brabante Septentrional" it="Brabante Settentrionale" nl="Noord-Brabant" />
+      <longitude>5.086017</longitude>
+      <latitude>51.553049</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ズウォレ" eng="Zwolle" de="Zwolle" fr="Zwolle" es="Zwolle" it="Zwolle" nl="Zwolle">
@@ -15785,14 +15890,21 @@
       <province jpn="オーベルアイセル州" eng="Overijssel" de="Overijssel" fr="Overijssel" es="Overijssel" it="Overijssel" nl="Overijssel" />
       <longitude>6.888427734375</longitude>
       <latitude>52.218017578125</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アルメロ" eng="Almelo" de="Almelo" fr="Almelo" es="Almelo" it="Almelo" nl="Almelo">
+      <province jpn="オーベルアイセル州" eng="Overijssel" de="Overijssel" fr="Overijssel" es="Overijssel" it="Overijssel" nl="Overijssel" />
+      <longitude>6.650002</longitude>
+      <latitude>52.404289</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ハーグ" eng="The Hague" de="Den Haag" fr="La Haye" es="La Haya" it="L'Aia" nl="Den Haag">
       <province jpn="ゾイト・ホラント州" eng="South Holland" de="Südholland" fr="Hollande méridionale" es="Holanda Meridional" it="Olanda Meridionale" nl="Zuid-Holland" />
       <longitude>4.3121337890625</longitude>
       <latitude>52.0806884765625</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ロッテルダム" eng="Rotterdam" de="Rotterdam" fr="Rotterdam" es="Róterdam" it="Rotterdam" nl="Rotterdam">
@@ -15806,21 +15918,21 @@
       <province jpn="ユトレヒト州" eng="Utrecht" de="Utrecht" fr="Utrecht" es="Utrecht" it="Utrecht" nl="Utrecht" />
       <longitude>5.108642578125</longitude>
       <latitude>52.086181640625</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ミデルブルフ" eng="Middelburg" de="Middelburg" fr="Middelbourg" es="Middelburg" it="Middelburg" nl="Middelburg">
       <province jpn="ゼーラント州" eng="Zeeland" de="Zeeland" fr="Zélande" es="Zelanda" it="Zelanda" nl="Zeeland" />
       <longitude>3.6090087890625</longitude>
       <latitude>51.4984130859375</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="テルネーゼン" eng="Terneuzen" de="Terneuzen" fr="Terneuzen" es="Terneuzen" it="Terneuzen" nl="Terneuzen">
       <province jpn="ゼーラント州" eng="Zeeland" de="Zeeland" fr="Zélande" es="Zelanda" it="Zelanda" nl="Zeeland" />
       <longitude>3.8232421875</longitude>
       <latitude>51.3336181640625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
@@ -16903,7 +17015,7 @@
       <province jpn="アンダルシーア" eng="Andalusia" de="Andalusien" fr="Andalousie" es="Andalucía" it="Andalusia" nl="Andalusië" />
       <longitude>-5.5206298828125</longitude>
       <latitude>37.650146484375</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ルセーナ" eng="Lucena" de="Lucena" fr="Lucena" es="Lucena" it="Lucena" nl="Lucena">
@@ -17092,7 +17204,7 @@
       <province jpn="アラゴン" eng="Aragon" de="Aragonien" fr="Aragon" es="Aragón" it="Aragona" nl="Aragón" />
       <longitude>0.421239</longitude>
       <latitude>41.86527</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="バルデリナレス" eng="Valdelinares" de="Valdelinares" fr="Valdelinares" es="Valdelinares" it="Valdelinares" nl="Valdelinares">
@@ -17169,7 +17281,7 @@
       <province jpn="バレアーレス諸島" eng="Balearic Islands" de="Balearische Inseln" fr="Îles Baléares" es="Balears" it="Baleari" nl="Balearen" />
       <longitude>3.842533</longitude>
       <latitude>40.051142</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アイヴィーサ" eng="Eivissa" de="Eivissa" fr="Eivissa" es="Eivissa" it="Eivissa" nl="Eivissa">
@@ -17631,7 +17743,7 @@
       <province jpn="カスティーリャ・レオン" eng="Castile and Leon" de="Kastilien-Leon" fr="Castille-et-Leon" es="Castilla y León" it="Castiglia e Leon" nl="Kastilië en León" />
       <longitude>-5.0811767578125</longitude>
       <latitude>40.2044677734375</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アレバロ" eng="Arévalo" de="Arévalo" fr="Arévalo" es="Arévalo" it="Arévalo" nl="Arévalo">
@@ -17722,7 +17834,7 @@
       <province jpn="カスティーリャ・レオン" eng="Castile and Leon" de="Kastilien-Leon" fr="Castille-et-Leon" es="Castilla y León" it="Castiglia e Leon" nl="Kastilië en León" />
       <longitude>-6.591796875</longitude>
       <latitude>42.5445556640625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="プエブラ・デ・サナブリア" eng="Puebla de Sanabria" de="Puebla de Sanabria" fr="Puebla de Sanabria" es="Puebla de Sanabria" it="Puebla de Sanabria" nl="Puebla de Sanabria">
@@ -17781,11 +17893,25 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="セウ・ドゥルジェイ" eng="La Seu d'Urgell" de="La Seu d'Urgell" fr="La Seu d'Urgell" es="La Seu d'Urgell" it="La Seu d'Urgell" nl="La Seu d'Urgell">
+      <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
+      <longitude>1.456666</longitude>
+      <latitude>42.355532</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="リェイダ" eng="Lleida" de="Lleida" fr="Lleida" es="Lleida" it="Lleida" nl="Lleida">
       <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
       <longitude>0.6317138671875</longitude>
       <latitude>41.6162109375</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="マンレザ" eng="Manresa" de="Manresa" fr="Manresa" es="Manresa" it="Manresa" nl="Manresa">
+      <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
+      <longitude>1.811003</longitude>
+      <latitude>41.737576</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="タラゴーナ" eng="Tarragona" de="Tarragona" fr="Tarragone" es="Tarragona" it="Tarragona" nl="Tarragona">
@@ -17793,6 +17919,27 @@
       <longitude>1.2469482421875</longitude>
       <latitude>41.1163330078125</latitude>
       <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="トゥルトーザ" eng="Tortosa" de="Tortosa" fr="Tortosa" es="Tortosa" it="Tortosa" nl="Tortosa">
+      <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
+      <longitude>0.517327</longitude>
+      <latitude>40.818473</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ビエーリャ・エ・ミジャーラン" eng="Vielha e Mijaran" de="Vielha e Mijaran" fr="Vielha e Mijaran" es="Vielha e Mijaran" it="Vielha e Mijaran" nl="Vielha e Mijaran">
+      <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
+      <longitude>0.791393</longitude>
+      <latitude>42.682064</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ビラノバ・イ・ラ・ジャルトル" eng="Vilanova i la Geltrú" de="Vilanova i la Geltrú" fr="Vilanova i la Geltrú" es="Vilanova i la Geltrú" it="Vilanova i la Geltrú" nl="Vilanova i la Geltrú">
+      <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
+      <longitude>1.653051</longitude>
+      <latitude>41.196878</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アンポスタ" eng="Amposta" de="Amposta" fr="Amposta" es="Amposta" it="Amposta" nl="Amposta">
@@ -17935,13 +18082,6 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="セウ・ドゥルジェイ" eng="La Seu d'Urgell" de="La Seu d'Urgell" fr="La Seu d'Urgell" es="La Seu d'Urgell" it="La Seu d'Urgell" nl="La Seu d'Urgell">
-      <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
-      <longitude>1.456666</longitude>
-      <latitude>42.355532</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="ボリアス・ブランカス" eng="Les Borges Blanques" de="Les Borges Blanques" fr="Les Borges Blanques" es="Les Borges Blanques" it="Les Borges Blanques" nl="Les Borges Blanques">
       <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
       <longitude>0.871052</longitude>
@@ -17967,13 +18107,6 @@
       <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
       <longitude>2.8721</longitude>
       <latitude>41.704752</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="マンレザ" eng="Manresa" de="Manresa" fr="Manresa" es="Manresa" it="Manresa" nl="Manresa">
-      <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
-      <longitude>1.811003</longitude>
-      <latitude>41.737576</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -18031,6 +18164,13 @@
       <longitude>3.14208984375</longitude>
       <latitude>42.4237060546875</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="プラッツ・ダ・リュサネース" eng="Prats de Lluçanès" de="Prats de Lluçanès" fr="Prats de Lluçanès" es="Prats de Lluçanès" it="Prats de Lluçanès" nl="Prats de Lluçanès">
+      <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
+      <longitude>2.027827</longitude>
+      <latitude>42.008030</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="プッチサルダー" eng="Puigcerdà" de="Puigcerdà" fr="Puigcerdà" es="Puigcerdà" it="Puigcerdà" nl="Puigcerdà">
@@ -18093,7 +18233,7 @@
       <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
       <longitude>1.517419</longitude>
       <latitude>41.987959</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ソート" eng="Sort" de="Sort" fr="Sort" es="Sort" it="Sort" nl="Sort">
@@ -18117,13 +18257,6 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="トゥルトーザ" eng="Tortosa" de="Tortosa" fr="Tortosa" es="Tortosa" it="Tortosa" nl="Tortosa">
-      <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
-      <longitude>0.517327</longitude>
-      <latitude>40.818473</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="トレンプ" eng="Tremp" de="Tremp" fr="Tremp" es="Tremp" it="Tremp" nl="Tremp">
       <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
       <longitude>0.894493</longitude>
@@ -18145,13 +18278,6 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ビエーリャ・エ・ミジャーラン" eng="Vielha e Mijaran" de="Vielha e Mijaran" fr="Vielha e Mijaran" es="Vielha e Mijaran" it="Vielha e Mijaran" nl="Vielha e Mijaran">
-      <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
-      <longitude>0.791393</longitude>
-      <latitude>42.682064</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="ビラフランカ・ダル・パナデス" eng="Vilafranca del Penedès" de="Vilafranca del Penedès" fr="Vilafranca del Penedès" es="Vilafranca del Penedès" it="Vilafranca del Penedès" nl="Vilafranca del Penedès">
       <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
       <longitude>1.680441</longitude>
@@ -18159,288 +18285,281 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ビラノバ・イ・ラ・ジャルトル" eng="Vilanova i la Geltrú" de="Vilanova i la Geltrú" fr="Vilanova i la Geltrú" es="Vilanova i la Geltrú" it="Vilanova i la Geltrú" nl="Vilanova i la Geltrú">
-      <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
-      <longitude>1.653051</longitude>
-      <latitude>41.196878</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="バレンシア" eng="València" de="Valencia" fr="Valence" es="València" it="Valencia" nl="Valencia">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.362548828125</longitude>
       <latitude>39.4683837890625</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アリカンテ" eng="Alacant" de="Alacant" fr="Alacant" es="Alacant" it="Alacant" nl="Alacant">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.4833984375</longitude>
       <latitude>38.34228515625</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="カステリョン・デ・ラ・プラナ" eng="Castelló de la Plana" de="Castelló de la Plana" fr="Castelló de la Plana" es="Castelló de la Plana" it="Castelló de la Plana" nl="Castelló de la Plana">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.032958984375</longitude>
       <latitude>39.979248046875</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アデムス" eng="Ademuz" de="Ademuz" fr="Ademuz" es="Ademuz" it="Ademuz" nl="Ademuz">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-1.286983</longitude>
       <latitude>40.061755</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アルボカセル" eng="Albocàsser" de="Albocàsser" fr="Albocàsser" es="Albocàsser" it="Albocàsser" nl="Albocàsser">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.002438</longitude>
       <latitude>40.348904</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アルコイ" eng="Alcoi" de="Alcoi" fr="Alcoi" es="Alcoi" it="Alcoi" nl="Alcoi">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.455649</longitude>
       <latitude>38.62736</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アルコセブレ" eng="Alcossebre" de="Alcossebre" fr="Alcossebre" es="Alcossebre" it="Alcossebre" nl="Alcossebre">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>0.272497</longitude>
       <latitude>40.232704</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アルジーラ" eng="Alzira" de="Alzira" fr="Alzira" es="Alzira" it="Alzira" nl="Alzira">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.527185</longitude>
       <latitude>39.163015</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="アヨラ" eng="Ayora" de="Ayora" fr="Ayora" es="Ayora" it="Ayora" nl="Ayora">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-1.057734</longitude>
       <latitude>39.059351</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ベニカシム" eng="Benicàssim" de="Benicàssim" fr="Benicàssim" es="Benicàssim" it="Benicàssim" nl="Benicàssim">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>0.160291</longitude>
       <latitude>40.127377</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ベニドルム" eng="Benidorm" de="Benidorm" fr="Benidorm" es="Benidorm" it="Benidorm" nl="Benidorm">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.1263427734375</longitude>
       <latitude>38.5400390625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ボリアナ" eng="Borriana" de="Borriana" fr="Borriana" es="Borriana" it="Borriana" nl="Borriana">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.097219</longitude>
       <latitude>39.870616</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="カルップ" eng="Calp" de="Calp" fr="Calp" es="Calp" it="Calp" nl="Calp">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>0.094629</longitude>
       <latitude>38.675693</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="チェルバ" eng="Chelva" de="Chelva" fr="Chelva" es="Chelva" it="Chelva" nl="Chelva">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-1.008657</longitude>
       <latitude>39.745105</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="チバ" eng="Chiva" de="Chiva" fr="Chiva" es="Chiva" it="Chiva" nl="Chiva">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.807671</longitude>
       <latitude>39.490583</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="コセンタイナ" eng="Cocentaina" de="Cocentaina" fr="Cocentaina" es="Cocentaina" it="Cocentaina" nl="Cocentaina">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.357734</longitude>
       <latitude>38.76719</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="クリェラ" eng="Cullera" de="Cullera" fr="Cullera" es="Cullera" it="Cullera" nl="Cullera">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.244873</longitude>
       <latitude>39.160446</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="デニア" eng="Dénia" de="Dénia" fr="Dénia" es="Dénia" it="Dénia" nl="Dénia">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>0.1043701171875</longitude>
       <latitude>38.836669921875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="エルダ" eng="Elda" de="Elda" fr="Elda" es="Elda" it="Elda" nl="Elda">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.80593</longitude>
       <latitude>38.50296</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="エルチェ" eng="Elx" de="Elx" fr="Elx" es="Elx" it="Elx" nl="Elx">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.7086181640625</longitude>
       <latitude>38.265380859375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="エンゲラ" eng="Enguera" de="Enguera" fr="Enguera" es="Enguera" it="Enguera" nl="Enguera">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.74052</longitude>
       <latitude>38.97374</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ガンディア" eng="Gandia" de="Gandia" fr="Gandie" es="Gandia" it="Gandia" nl="Gandia">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.17578125</longitude>
       <latitude>38.968505859375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ヘリカ" eng="Jérica" de="Jérica" fr="Jérica" es="Jérica" it="Jérica" nl="Jérica">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.602097</longitude>
       <latitude>39.91915</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ラルコラ" eng="L'Alcora" de="L'Alcora" fr="L'Alcora" es="L'Alcora" it="L'Alcora" nl="L'Alcora">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.271516</longitude>
       <latitude>40.075939</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ラ・ビラ・ホヨーサ" eng="La Vila Joiosa" de="La Vila Joiosa" fr="La Vila Joiosa" es="La Vila Joiosa" it="La Vila Joiosa" nl="La Vila Joiosa">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.321101</longitude>
       <latitude>38.46946</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="イーリア" eng="Llíria" de="Llíria" fr="Llíria" es="Llíria" it="Llíria" nl="Llíria">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.661549</longitude>
       <latitude>39.632987</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="モレリャ" eng="Morella" de="Morella" fr="Morella" es="Morella" it="Morella" nl="Morella">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.098876953125</longitude>
       <latitude>40.616455078125</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="オンティニェント" eng="Ontinyent" de="Ontinyent" fr="Ontinyent" es="Ontinyent" it="Ontinyent" nl="Ontinyent">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.604248046875</longitude>
       <latitude>38.8201904296875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="オリウエラ" eng="Orihuela" de="Orihuela" fr="Orihuela" es="Orihuela" it="Orihuela" nl="Orihuela">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.988946</longitude>
       <latitude>38.0873</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ペニスコラ" eng="Peníscola" de="Peníscola" fr="Peníscola" es="Peñíscola" it="Peníscola" nl="Peníscola">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>0.3900146484375</longitude>
       <latitude>40.36376953125</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="プソル" eng="Puçol" de="Puçol" fr="Puçol" es="Puçol" it="Puçol" nl="Puçol">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.293998</longitude>
       <latitude>39.55749</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="レケナ" eng="Requena" de="Requena" fr="Requena" es="Requena" it="Requena" nl="Requena">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-1.0986328125</longitude>
       <latitude>39.48486328125</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="サグント" eng="Sagunt" de="Sagunt" fr="Sagunt" es="Sagunt" it="Sagunt" nl="Sagunt">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.274658203125</longitude>
       <latitude>39.6771240234375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="Santa Pola" eng="Santa Pola" de="Santa Pola" fr="Santa Pola" es="Santa Pola" it="Santa Pola" nl="Santa Pola">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.560302734375</longitude>
       <latitude>38.1939697265625</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="セゴルベ" eng="Segorbe" de="Segorbe" fr="Segorbe" es="Segorbe" it="Segorbe" nl="Segorbe">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.523371</longitude>
       <latitude>39.801375</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="スエカ" eng="Sueca" de="Sueca" fr="Sueca" es="Sueca" it="Sueca" nl="Sueca">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.305318</longitude>
       <latitude>39.285078</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="トレント" eng="Torrent" de="Torrent" fr="Torrent" es="Torrent" it="Torrent" nl="Torrent">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.653209</longitude>
       <latitude>39.353858</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ビリェナ" eng="Villena" de="Villena" fr="Villena" es="Villena" it="Villena" nl="Villena">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.8624267578125</longitude>
       <latitude>38.6279296875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ビナロス" eng="Vinaròs" de="Vinaròs" fr="Vinaròs" es="Vinaròs" it="Vinaròs" nl="Vinaròs">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>0.472412109375</longitude>
       <latitude>40.4681396484375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ハティバ" eng="Xàtiva" de="Xàtiva" fr="Xàtiva" es="Xàtiva" it="Xàtiva" nl="Xàtiva">
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>-0.5218505859375</longitude>
       <latitude>38.9849853515625</latitude>
       <zoom1>1</zoom1>
@@ -18513,7 +18632,7 @@
       <province jpn="バスク地方" eng="Basque Autonomous Community" de="Autonome Gemeinschaft Baskenland" fr="Communauté autonome basque" es="Euskadi" it="Comunità autonoma del Paese Basco" nl="Autonome Gemeinschaft Baskenland" />
       <longitude>-2.657706</longitude>
       <latitude>43.31168</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="トロサ" eng="Tolosa" de="Tolosa" fr="Tolosa" es="Tolosa" it="Tolosa" nl="Tolosa">
@@ -18912,7 +19031,7 @@
       <province jpn="セウタ" eng="Ceuta" de="Ceuta" fr="Ceuta" es="Ceuta" it="Ceuta" nl="Ceuta" />
       <longitude>-5.3173828125</longitude>
       <latitude>35.8868408203125</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="メリリャ" eng="Melilla" de="Melilla" fr="Melilla" es="Melilla" it="Melilla" nl="Melilla">
@@ -20303,7 +20422,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="イギリス" eng="Douglas" de="Douglas" fr="Douglas" es="Douglas" it="Douglas" nl="Douglas">
+    <city jpn="ダグラス" eng="Douglas" de="Douglas" fr="Douglas" es="Douglas" it="Douglas" nl="Douglas">
       <province jpn="マン島" eng="Isle of Man" de="Isle of Man" fr="Ile de Man" es="Isla de Man" it="Isola di Man" nl="Man" />
       <longitude>-4.482421875</longitude>
       <latitude>54.16259765625</latitude>
@@ -21251,60 +21370,235 @@
     </city>
   </country>
   <country>
-    <name jpn="トルコ" eng="Turkey" de="Türkei" fr="Turquie" es="Turquía" it="Turchia" nl="Turkije" />
+    <name jpn="トルコ" eng="Türkiye" de="Türkei" fr="Turquie" es="Turquía" it="Turchia" nl="Turkije" />
     <city jpn="アンカラ" eng="Ankara" de="Ankara" fr="Ankara" es="Ankara" it="Ankara" nl="Ankara">
-      <province jpn="アンカラ県" eng="Ankara" de="Ankara" fr="Ankara" es="Ankara" it="Ankara" nl="Ankara" />
+      <province jpn="西アナトリア地方" eng="West Anatolia" de="Westanatolien" fr="Anatolie occidentale" es="Anatolia occidental" it="Anatolia occidentale" nl="West-Anatolië" />
       <longitude>32.84912109375</longitude>
       <latitude>39.92431640625</latitude>
-      <zoom1>6</zoom1>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="イスタンブール" eng="Istanbul" de="Istanbul" fr="Istanbul" es="Estambul" it="Istanbul" nl="Istanbul">
-      <province jpn="イスタンブル県" eng="Istanbul" de="Istanbul" fr="Istanbul" es="Estambul" it="Istanbul" nl="Istanbul" />
-      <longitude>28.9984130859375</longitude>
-      <latitude>41.055908203125</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="アダナ" eng="Adana" de="Adana" fr="Adana" es="Adana" it="Adana" nl="Adana">
-      <province jpn="アダナ県" eng="Adana" de="Adana" fr="Adana" es="Adana" it="Adana" nl="Adana" />
-      <longitude>35.33952</longitude>
-      <latitude>36.979165</latitude>
-      <zoom1>2</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="アンタリヤ" eng="Antalya" de="Antalya" fr="Antalya" es="Antalya" it="Antalya" nl="Antalya">
-      <province jpn="アンタリヤ県" eng="Antalya" de="Antalya" fr="Antalya" es="Antalya" it="Antalya" nl="Antalya" />
-      <longitude>30.691686</longitude>
-      <latitude>36.868118</latitude>
-      <zoom1>2</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-    <city jpn="ディヤルバクル" eng="Diyarbakir" de="Diyarbakir" fr="Diyarbakir" es="Diyarbakir" it="Diyarbakir" nl="Diyarbakir">
-      <province jpn="ディヤルバクル県" eng="Diyarbakir" de="Diyarbakir" fr="Diyarbakir" es="Diyarbakir" it="Diyarbakir" nl="Diyarbakir" />
-      <longitude>40.17745</longitude>
-      <latitude>37.92589</latitude>
+	<city jpn="コニヤ" eng="Konya" de="Konya" fr="Konya" es="Konya" it="Konya" nl="Konya">
+      <province jpn="西アナトリア地方" eng="West Anatolia" de="Westanatolien" fr="Anatolie occidentale" es="Anatolia occidental" it="Anatolia occidentale" nl="West-Anatolië" />
+      <longitude>32.502849</longitude>
+      <latitude>37.847479</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ガジアンテプ" eng="Gaziantep" de="Gaziantep" fr="Gaziantep" es="Gaziantep" it="Gaziantep" nl="Gaziantep">
-      <province jpn="ガジアンテプ県" eng="Gaziantep" de="Gaziantep" fr="Gaziantep" es="Gaziantep" it="Gaziantep" nl="Gaziantep" />
-      <longitude>37.356836</longitude>
-      <latitude>37.038216</latitude>
-      <zoom1>1</zoom1>
+    <city jpn="イスタンブール" eng="Istanbul" de="Istanbul" fr="Istanbul" es="Estambul" it="Istanbul" nl="Istanbul">
+      <province jpn="イスタンブール地方" eng="Istanbul" de="Istanbul" fr="Istanbul" es="Estambul" it="Istanbul" nl="Istanbul" />
+      <longitude>28.9984130859375</longitude>
+      <latitude>41.055908203125</latitude>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="コニヤ" eng="Konya" de="Konya" fr="Konya" es="Konya" it="Konya" nl="Konya">
-      <province jpn="コニヤ県" eng="Konya" de="Konya" fr="Konya" es="Konya" it="Konya" nl="Konya" />
-      <longitude>32.502849</longitude>
-      <latitude>37.847479</latitude>
+	<city jpn="アイドゥン" eng="Aydin" de="Aydin" fr="Aydin" es="Aydin" it="Aydin" nl="Aydin">
+      <province jpn="エーゲ海地方" eng="Aegean" de="Ägäis" fr="Égée" es="Egeo" it="Egeo" nl="Egeïsch" />
+      <longitude>27.842603</longitude>
+      <latitude>37.820709</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="イズミル" eng="Izmir" de="Izmir" fr="Smyrne" es="Esmirna" it="Smirne" nl="İzmir">
-      <province jpn="イズミル県" eng="Izmir" de="Izmir" fr="Smyrne" es="Esmirna" it="Smirne" nl="İzmir" />
+	<city jpn="イズミル" eng="Izmir" de="Izmir" fr="Smyrne" es="Esmirna" it="Smirne" nl="Izmir">
+      <province jpn="エーゲ海地方" eng="Aegean" de="Ägäis" fr="Égée" es="Egeo" it="Egeo" nl="Egeïsch" />
       <longitude>27.13311</longitude>
       <latitude>38.415719</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="マニサ" eng="Manisa" de="Manisa" fr="Manisa" es="Manisa" it="Manisa" nl="Manisa">
+      <province jpn="エーゲ海地方" eng="Aegean" de="Ägäis" fr="Égée" es="Egeo" it="Egeo" nl="Egeïsch" />
+      <longitude>27.507825</longitude>
+      <latitude>38.686645</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="カイセリ" eng="Kayseri" de="Kayseri" fr="Kayseri" es="Kayseri" it="Kayseri" nl="Kayseri">
+      <province jpn="中央アナトリア地方" eng="Central Anatolia" de="Zentralanatolien" fr="Anatolie du centre" es="Anatolia central" it="Anatolia centrale" nl="Centraal-Anatolië" />
+      <longitude>35.511632</longitude>
+      <latitude>38.703268</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="クルッカレ" eng="Kirikkale" de="Kirikkale" fr="Kirikkale" es="Kirikkale" it="Kirikkale" nl="Kirikkale">
+      <province jpn="中央アナトリア地方" eng="Central Anatolia" de="Zentralanatolien" fr="Anatolie du centre" es="Anatolia central" it="Anatolia centrale" nl="Centraal-Anatolië" />
+      <longitude>33.664813</longitude>
+      <latitude>39.808915</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="エラズー" eng="Elazig" de="Elazig" fr="Elazig" es="Elazig" it="Elazig" nl="Elazig">
+      <province jpn="中央東アナトリア地方" eng="Central East Anatolia" de="Zentralostanatolien" fr="Anatolie du centre-est" es="Anatolia centrooriental" it="Anatolia centro orientale" nl="Centraaloost-Anatolië" />
+      <longitude>39.158980</longitude>
+      <latitude>38.661790</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="マラティヤ" eng="Malatya" de="Malatya" fr="Malatya" es="Malatya" it="Malatya" nl="Malatya">
+      <province jpn="中央東アナトリア地方" eng="Central East Anatolia" de="Zentralostanatolien" fr="Anatolie du centre-est" es="Anatolia centrooriental" it="Anatolia centro orientale" nl="Centraaloost-Anatolië" />
+      <longitude>38.259562</longitude>
+      <latitude>38.352864</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ムシュ" eng="Mus" de="Mus" fr="Mus" es="Mus" it="Mus" nl="Mus">
+      <province jpn="中央東アナトリア地方" eng="Central East Anatolia" de="Zentralostanatolien" fr="Anatolie du centre-est" es="Anatolia centrooriental" it="Anatolia centro orientale" nl="Centraaloost-Anatolië" />
+      <longitude>41.486594</longitude>
+      <latitude>38.728457</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ヴァン" eng="Van" de="Van" fr="Van" es="Van" it="Van" nl="Van">
+      <province jpn="中央東アナトリア地方" eng="Central East Anatolia" de="Zentralostanatolien" fr="Anatolie du centre-est" es="Anatolia centrooriental" it="Anatolia centro orientale" nl="Centraaloost-Anatolië" />
+      <longitude>43.327990</longitude>
+      <latitude>38.493996</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ブルサ" eng="Bursa" de="Bursa" fr="Bursa" es="Bursa" it="Bursa" nl="Bursa">
+      <province jpn="東マルマラ地方" eng="East Marmara" de="Ost-Marmara" fr="Marmara oriental" es="Mármara oriental" it="Marmara orientale" nl="Oost-Marmara" />
+      <longitude>28.997242</longitude>
+      <latitude>40.210478</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ゴルジュク" eng="Gölcük" de="Gölcük" fr="Gölcük" es="Gölcük" it="Gölcük" nl="Gölcük">
+      <province jpn="東マルマラ地方" eng="East Marmara" de="Ost-Marmara" fr="Marmara oriental" es="Mármara oriental" it="Marmara orientale" nl="Oost-Marmara" />
+      <longitude>29.821631</longitude>
+      <latitude>40.708760</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アダナ" eng="Adana" de="Adana" fr="Adana" es="Adana" it="Adana" nl="Adana">
+      <province jpn="地中海地方" eng="Mediterranean" de="Mittelmeer" fr="Méditerranée" es="Mediterráneo" it="Mediterraneo" nl="Mediterrane" />
+      <longitude>35.33952</longitude>
+      <latitude>36.979165</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アンタキヤ" eng="Antakya" de="Antakya" fr="Antakya" es="Antioquía" it="Antiochia" nl="Antakya">
+      <province jpn="地中海地方" eng="Mediterranean" de="Mittelmeer" fr="Méditerranée" es="Mediterráneo" it="Mediterraneo" nl="Mediterrane" />
+      <longitude>36.161699</longitude>
+      <latitude>36.184854</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アンタリヤ" eng="Antalya" de="Antalya" fr="Antalya" es="Antalya" it="Antalya" nl="Antalya">
+      <province jpn="地中海地方" eng="Mediterranean" de="Mittelmeer" fr="Méditerranée" es="Mediterráneo" it="Mediterraneo" nl="Mediterrane" />
+      <longitude>30.691686</longitude>
+      <latitude>36.868118</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アール" eng="Agri" de="Agri" fr="Agri" es="Agri" it="Agri" nl="Agri">
+      <province jpn="北東アナトリア地方" eng="Northeast Anatolia" de="Nordostanatolien" fr="Anatolie du Nord-Est" es="Anatolia nororiental" it="Anatolia nordorientale" nl="Noordoost-Anatolië" />
+      <longitude>43.030608</longitude>
+      <latitude>39.634054</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="エルジンジャン" eng="Erzincan" de="Erzincan" fr="Erzincan" es="Erzincan" it="Erzincan" nl="Erzincan">
+      <province jpn="北東アナトリア地方" eng="Northeast Anatolia" de="Nordostanatolien" fr="Anatolie du Nord-Est" es="Anatolia nororiental" it="Anatolia nordorientale" nl="Noordoost-Anatolië" />
+      <longitude>39.481930</longitude>
+      <latitude>39.744527</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="エルズルム" eng="Erzurum" de="Erzurum" fr="Erzurum" es="Erzurum" it="Erzurum" nl="Erzurum">
+      <province jpn="北東アナトリア地方" eng="Northeast Anatolia" de="Nordostanatolien" fr="Anatolie du Nord-Est" es="Anatolia nororiental" it="Anatolia nordorientale" nl="Noordoost-Anatolië" />
+      <longitude>41.270628</longitude>
+      <latitude>39.891600</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ディヤルバクル" eng="Diyarbakir" de="Diyarbakir" fr="Diyarbakir" es="Diyarbakir" it="Diyarbakir" nl="Diyarbakir">
+      <province jpn="南東アナトリア地方" eng="Southeast Anatolia" de="Südostanatolien" fr="Anatolie du Sud-Est" es="Anatolia sudoriental" it="Anatolia sudorientale" nl="Zuidoost-Anatolië" />
+      <longitude>40.17745</longitude>
+      <latitude>37.92589</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ガジアンテプ" eng="Gaziantep" de="Gaziantep" fr="Gaziantep" es="Gaziantep" it="Gaziantep" nl="Gaziantep">
+      <province jpn="南東アナトリア地方" eng="Southeast Anatolia" de="Südostanatolien" fr="Anatolie du Sud-Est" es="Anatolia sudoriental" it="Anatolia sudorientale" nl="Zuidoost-Anatolië" />
+      <longitude>37.356836</longitude>
+      <latitude>37.038216</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="マルディン" eng="Mardin" de="Mardin" fr="Mardin" es="Mardin" it="Mardin" nl="Mardin">
+      <province jpn="南東アナトリア地方" eng="Southeast Anatolia" de="Südostanatolien" fr="Anatolie du Sud-Est" es="Anatolia sudoriental" it="Anatolia sudorientale" nl="Zuidoost-Anatolië" />
+      <longitude>40.762095</longitude>
+      <latitude>37.318884</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="シャンルウルファ" eng="Sanliurfa" de="Sanliurfa" fr="Sanliurfa" es="Sanliurfa" it="Sanliurfa" nl="Sanliurfa">
+      <province jpn="南東アナトリア地方" eng="Southeast Anatolia" de="Südostanatolien" fr="Anatolie du Sud-Est" es="Anatolia sudoriental" it="Anatolia sudorientale" nl="Zuidoost-Anatolië" />
+      <longitude>38.819374</longitude>
+      <latitude>37.142523</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ギレスン" eng="Giresun" de="Giresun" fr="Giresun" es="Giresun" it="Giresun" nl="Giresun">
+      <province jpn="東黒海地方" eng="East Black Sea" de="Östliches Schwarzes Meer" fr="Mer Noire orientale" es="Mar Negro oriental" it="Mar Nero orientale" nl="Oostelijke Zwarte Zee" />
+      <longitude>38.353409</longitude>
+      <latitude>40.905952</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="リゼ" eng="Rize" de="Rize" fr="Rize" es="Rize" it="Rize" nl="Rize">
+      <province jpn="東黒海地方" eng="East Black Sea" de="Östliches Schwarzes Meer" fr="Mer Noire orientale" es="Mar Negro oriental" it="Mar Nero orientale" nl="Oostelijke Zwarte Zee" />
+      <longitude>40.528925</longitude>
+      <latitude>41.022390</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="トラブゾン" eng="Trabzon" de="Trabzon" fr="Trabzon" es="Trebisonda" it="Trebisonda" nl="Trabzon">
+      <province jpn="東黒海地方" eng="East Black Sea" de="Östliches Schwarzes Meer" fr="Mer Noire orientale" es="Mar Negro oriental" it="Mar Nero orientale" nl="Oostelijke Zwarte Zee" />
+      <longitude>39.716389</longitude>
+      <latitude>40.990706</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="カスタモヌ" eng="Kastamonu" de="Kastamonu" fr="Kastamonu" es="Kastamonu" it="Kastamonu" nl="Kastamonu">
+      <province jpn="西黒海地方" eng="West Black Sea" de="Westliches Schwarzes Meer" fr="Mer Noire occidentale" es="Mar Negro occidental" it="Mar Nero occidentale" nl="Westelijke Zwarte Zee" />
+      <longitude>33.767485</longitude>
+      <latitude>41.461181</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="サムスン" eng="Samsun" de="Samsun" fr="Samsun" es="Samsun" it="Samsun" nl="Samsun">
+      <province jpn="西黒海地方" eng="West Black Sea" de="Westliches Schwarzes Meer" fr="Mer Noire occidentale" es="Mar Negro occidental" it="Mar Nero occidentale" nl="Westelijke Zwarte Zee" />
+      <longitude>36.353890</longitude>
+      <latitude>41.261463</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="トカット" eng="Tokat" de="Tokat" fr="Tokat" es="Tokat" it="Tokat" nl="Tokat">
+      <province jpn="西黒海地方" eng="West Black Sea" de="Westliches Schwarzes Meer" fr="Mer Noire occidentale" es="Mar Negro occidental" it="Mar Nero occidentale" nl="Westelijke Zwarte Zee" />
+      <longitude>36.509827</longitude>
+      <latitude>40.325523</latitude>
+      <zoom1>2	</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ゾングルダク" eng="Zonguldak" de="Zonguldak" fr="Zonguldak" es="Zonguldak" it="Zonguldak" nl="Zonguldak">
+      <province jpn="西黒海地方" eng="West Black Sea" de="Westliches Schwarzes Meer" fr="Mer Noire occidentale" es="Mar Negro occidental" it="Mar Nero occidentale" nl="Westelijke Zwarte Zee" />
+      <longitude>31.770432</longitude>
+      <latitude>41.433272</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="バルケスィル" eng="Balikesir" de="Balikesir" fr="Balikesir" es="Balikesir" it="Balikesir" nl="Balikesir">
+      <province jpn="西マルマラ地方" eng="West Marmara" de="West-Marmara" fr="Marmara occidental" es="Mármara occidental" it="Marmara occidentale" nl="West-Marmara" />
+      <longitude>27.788213</longitude>
+      <latitude>39.628106</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="テキルダー" eng="Tekirdag" de="Tekirdag" fr="Tekirdag" es="Tekirdag" it="Tekirdag" nl="Tekirdag">
+      <province jpn="西マルマラ地方" eng="West Marmara" de="West-Marmara" fr="Marmara occidental" es="Mármara occidental" it="Marmara occidentale" nl="West-Marmara" />
+      <longitude>27.496809</longitude>
+      <latitude>40.965710</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -21758,14 +22052,14 @@
       <province jpn="江原道" eng="Kangwon" de="Kangwon" fr="Kangwon" es="Kangwon" it="Kangwon" nl="Kangwon" />
       <longitude>127.457868</longitude>
       <latitude>39.108452</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="金剛市" eng="Kumgang" de="Kumgang" fr="Kumgang" es="Kumgang" it="Kumgang" nl="Kumgang">
       <province jpn="江原道" eng="Kangwon" de="Kangwon" fr="Kangwon" es="Kangwon" it="Kangwon" nl="Kangwon" />
       <longitude>128.005686</longitude>
       <latitude>38.591078</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="南浦市" eng="Nampo" de="Nampo" fr="Nampo" es="Nampo" it="Nampo" nl="Nampo">
@@ -21786,7 +22080,7 @@
       <province jpn="咸鏡北道" eng="North Hamgyong" de="Nord-Hamgyong" fr="Hamgyong du Nord" es="Hamgyong del Norte" it="Hamgyong Settentrionale" nl="Noord-Hamgyong" />
       <longitude>129.209157</longitude>
       <latitude>42.256251</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="沙里院市" eng="Sariwon" de="Sariwon" fr="Sariwon" es="Sariwon" it="Sariwon" nl="Sariwon">
@@ -21807,7 +22101,7 @@
       <province jpn="平安北道" eng="North Pyongan" de="Nord-Pyongan" fr="Pyongan du Nord" es="Pyongan del Norte" it="Pyongan Settentrionale" nl="Noord-Pyongan" />
       <longitude>125.297005</longitude>
       <latitude>39.929584</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="羅先市" eng="Rason" de="Rason" fr="Rason" es="Rason" it="Rason" nl="Rason">
@@ -21835,7 +22129,7 @@
       <province jpn="咸鏡南道" eng="South Hamgyong" de="Süd-Hamgyong" fr="Hamgyong du Sud" es="Hamgyong del Sur" it="Hamgyong Meridionale" nl="Zuid-Hamgyong" />
       <longitude>128.265875</longitude>
       <latitude>40.043218</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="海州市" eng="Haeju" de="Haeju" fr="Haeju" es="Haeju" it="Haeju" nl="Haeju">
@@ -21873,21 +22167,21 @@
       <province jpn="釜山広域市" eng="Busan" de="Busan" fr="Busan" es="Busan" it="Busan" nl="Busan" />
       <longitude>129.0289306640625</longitude>
       <latitude>35.079345703125</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="大邱市" eng="Daegu" de="Daegu" fr="Daegu" es="Daegu" it="Daegu" nl="Daegu">
       <province jpn="大邱広域市" eng="Daegu" de="Daegu" fr="Daegu" es="Daegu" it="Daegu" nl="Daegu" />
       <longitude>128.570187</longitude>
       <latitude>35.781943</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="大田市" eng="Daejeon" de="Daejeon" fr="Daejeon" es="Daejeon" it="Daejeon" nl="Daejeon">
       <province jpn="大田広域市" eng="Daejeon" de="Daejeon" fr="Daejeon" es="Daejeon" it="Daejeon" nl="Daejeon" />
       <longitude>127.383256</longitude>
       <latitude>36.298069</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="春川市" eng="Chuncheon" de="Chuncheon" fr="Chuncheon" es="Chuncheon" it="Chuncheon" nl="Chuncheon">
@@ -21906,8 +22200,8 @@
     </city>
 	<city jpn="東海市" eng="Donghae" de="Donghae" fr="Donghae" es="Donghae" it="Donghae" nl="Donghae">
       <province jpn="江原道" eng="Gangwon" de="Gangwon" fr="Gangwon" es="Gangwon" it="Gangwon" nl="Gangwon" />
-      <longitude>129.167781</longitude>
-      <latitude>37.449675</latitude>
+      <longitude>129.164983</longitude>
+      <latitude>37.444884</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -21929,7 +22223,7 @@
       <province jpn="京畿道" eng="Gyeonggi" de="Gyeonggi" fr="Gyeonggi" es="Gyeonggi" it="Gyeonggi" nl="Gyeonggi" />
       <longitude>127.056847</longitude>
       <latitude>37.223424</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="利川市" eng="Icheon" de="Icheon" fr="Icheon" es="Icheon" it="Icheon" nl="Icheon">
@@ -21943,7 +22237,7 @@
       <province jpn="仁川広域市" eng="Incheon" de="Incheon" fr="Incheon" es="Incheon" it="Incheon" nl="Incheon" />
       <longitude>126.682229</longitude>
       <latitude>37.402931</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="白翎市" eng="Baengnyeong" de="Baengnyeong" fr="Baengnyeong" es="Baengnyeong" it="Baengnyeong" nl="Baengnyeong">
@@ -21971,14 +22265,14 @@
       <province jpn="慶尚北道" eng="North Gyeongsang" de="Nord-Gyeongsang" fr="Gyeongsang du Nord" es="Gyeongsang del Norte" it="Gyeongsang Settentrionale" nl="Noord-Gyeongsang" />
       <longitude>128.816516</longitude>
       <latitude>36.578369</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="亀尾市" eng="Gumi" de="Gumi" fr="Gumi" es="Gumi" it="Gumi" nl="Gumi">
       <province jpn="慶尚北道" eng="North Gyeongsang" de="Nord-Gyeongsang" fr="Gyeongsang du Nord" es="Gyeongsang del Norte" it="Gyeongsang Settentrionale" nl="Noord-Gyeongsang" />
       <longitude>128.334283</longitude>
       <latitude>36.265221</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="浦項市" eng="Pohang" de="Pohang" fr="Pohang" es="Pohang" it="Pohang" nl="Pohang">
@@ -21999,14 +22293,14 @@
       <province jpn="慶尚北道" eng="North Gyeongsang" de="Nord-Gyeongsang" fr="Gyeongsang du Nord" es="Gyeongsang del Norte" it="Gyeongsang Settentrionale" nl="Noord-Gyeongsang" />
       <longitude>130.893488</longitude>
       <latitude>37.483072</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="全州市" eng="Jeonju" de="Jeonju" fr="Jeonju" es="Jeonju" it="Jeonju" nl="Jeonju">
       <province jpn="全羅北道" eng="North Jeolla" de="Nord-Jeolla" fr="Jeolla du Nord" es="Jeolla del Norte" it="Jeolla Settentrionale" nl="Noord-Jeolla" />
       <longitude>127.154032</longitude>
       <latitude>35.808981</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="世宗市" eng="Sejong" de="Sejong" fr="Sejong" es="Sejong" it="Sejong" nl="Sejong">
@@ -22020,7 +22314,7 @@
       <province jpn="忠清南道" eng="South Chungcheong" de="Süd-Chungcheong" fr="Chungcheong du Sud" es="Chungcheong del Sur" it="Chungcheong Meridionale" nl="Zuid-Chungcheong" />
       <longitude>126.559063</longitude>
       <latitude>36.560806</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="天安市" eng="Cheonan" de="Cheonan" fr="Cheonan" es="Cheonan" it="Cheonan" nl="Cheonan">
@@ -22048,7 +22342,7 @@
       <province jpn="全羅南道" eng="South Jeolla" de="Süd-Jeolla" fr="Jeolla du Sud" es="Jeolla del Sur" it="Jeolla Meridionale" nl="Zuid-Jeolla" />
       <longitude>126.403584</longitude>
       <latitude>35.013735</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="木浦市" eng="Mokpo" de="Mokpo" fr="Mokpo" es="Mokpo" it="Mokpo" nl="Mokpo">
@@ -22062,7 +22356,7 @@
       <province jpn="全羅南道" eng="South Jeolla" de="Süd-Jeolla" fr="Jeolla du Sud" es="Jeolla del Sur" it="Jeolla Meridionale" nl="Zuid-Jeolla" />
       <longitude>127.311167</longitude>
       <latitude>35.070279</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
 	<city jpn="莞島市" eng="Wando" de="Wando" fr="Wando" es="Wando" it="Wando" nl="Wando">
@@ -22083,7 +22377,7 @@
       <province jpn="蔚山広域市" eng="Ulsan" de="Ulsan" fr="Ulsan" es="Ulsan" it="Ulsan" nl="Ulsan" />
       <longitude>129.358503</longitude>
       <latitude>35.553224</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
@@ -23326,10 +23620,171 @@
   <country>
     <name jpn="イスラエル" eng="Israel" de="Israel" fr="Israël" es="Israel" it="Israele" nl="Israël" />
     <city jpn="エルサレム" eng="Jerusalem" de="Jerusalem" fr="Jérusalem" es="Jerusalén" it="Gerusalemme" nl="Jeruzalem">
-      <province jpn="エルサレム地区" eng="Jerusalem District" de="Bezirk Jerusalem" fr="District de Jérusalem" es="Distrito de Jerusalén" it="Distretto di Gerusalemme" nl="Jeruzalem" />
+      <province jpn="エルサレム地区" eng="Jerusalem District" de="Bezirk Jerusalem" fr="District de Jérusalem" es="Distrito de Jerusalén" it="Distretto di Gerusalemme" nl="District Jeruzalem" />
       <longitude>35.211181640625</longitude>
       <latitude>31.761474609375</latitude>
       <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="モディイン・マカビム・レウト" eng="Modi'in-Maccabim-Re'ut" de="Modi'in Makabim Re'ut" fr="Modiin-Maccabim-Reout" es="Modi'ín-Macabim-Re'ut" it="Modi'in-Maccabim-Re'ut" nl="Modi'in-Makkabim-Re'oet">
+      <province jpn="中央地区" eng="Central District" de="Zentralbezirk" fr="District centre" es="Distrito Central" it="Distretto Centrale" nl="District Noord" />
+      <longitude>34.994706</longitude>
+      <latitude>31.893637</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ネタニヤ" eng="Netanya" de="Netanya" fr="Netanya" es="Netanya" it="Netanya" nl="Netanya">
+      <province jpn="中央地区" eng="Central District" de="Zentralbezirk" fr="District centre" es="Distrito Central" it="Distretto Centrale" nl="District Noord" />
+      <longitude>34.858413</longitude>
+      <latitude>32.349569</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="レホヴォト" eng="Rehovot" de="Rehovot" fr="Rehovot" es="Rejovot" it="Rehovot" nl="Rehovot">
+      <province jpn="中央地区" eng="Central District" de="Zentralbezirk" fr="District centre" es="Distrito Central" it="Distretto Centrale" nl="District Noord" />
+      <longitude>34.862261</longitude>
+      <latitude>31.900203</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アッコ" eng="Acre" de="Akkon" fr="Acre" es="Acre" it="Acri" nl="Akko">
+      <province jpn="北部地区" eng="Northern District" de="Nordbezirk" fr="District nord" es="Distrito Norte" it="Distretto Settentrionale" nl="District Noord" />
+      <longitude>35.080869</longitude>
+      <latitude>32.918175</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="カルミエル" eng="Karmi'el" de="Karmi'el" fr="Karmiel" es="Carmiel" it="Karmiel" nl="Karmiël">
+      <province jpn="北部地区" eng="Northern District" de="Nordbezirk" fr="District nord" es="Distrito Norte" it="Distretto Settentrionale" nl="District Noord" />
+      <longitude>35.309939</longitude>
+      <latitude>32.923135</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="キリヤット・シュモナ" eng="Kiryat Shemona" de="Kirjat Schmona" fr="Qiryat Shemona" es="Kiryat Shemona" it="Kiryat Shmona" nl="Kirjat Sjmona">
+      <province jpn="北部地区" eng="Northern District" de="Nordbezirk" fr="District nord" es="Distrito Norte" it="Distretto Settentrionale" nl="District Noord" />
+      <longitude>35.580088</longitude>
+      <latitude>33.199237</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ナハリヤ" eng="Nahariyya" de="Naharija" fr="Nahariya" es="Naharia" it="Nahariya" nl="Naharia">
+      <province jpn="北部地区" eng="Northern District" de="Nordbezirk" fr="District nord" es="Distrito Norte" it="Distretto Settentrionale" nl="District Noord" />
+      <longitude>35.097459</longitude>
+      <latitude>33.016578</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ナザレ" eng="Nazareth" de="Nazareth" fr="Nazareth" es="Nazaret" it="Nazareth" nl="Nazareth">
+      <province jpn="北部地区" eng="Northern District" de="Nordbezirk" fr="District nord" es="Distrito Norte" it="Distretto Settentrionale" nl="District Noord" />
+      <longitude>35.301808</longitude>
+      <latitude>32.696938</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ティベリア" eng="Tiberias" de="Tiberias" fr="Tibériade" es="Tiberíades" it="Tiberiade" nl="Tiberias">
+      <province jpn="北部地区" eng="Northern District" de="Nordbezirk" fr="District nord" es="Distrito Norte" it="Distretto Settentrionale" nl="District Noord" />
+      <longitude>35.520546</longitude>
+      <latitude>32.816745</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ハイファ" eng="Haifa" de="Haifa" fr="Haifa" es="Haifa" it="Haifa" nl="Haifa">
+      <province jpn="ハイファ地区" eng="Haifa District" de="Bezirk Haifa" fr="District de Haifa" es="Distrito de Haifa" it="Distretto di Haifa" nl="District Haifa" />
+      <longitude>34.975233</longitude>
+      <latitude>32.807840</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ハデラ" eng="Hadera" de="Chadera" fr="Hadera" es="Hadera" it="Hadera" nl="Hadera">
+      <province jpn="ハイファ地区" eng="Haifa District" de="Bezirk Haifa" fr="District de Haifa" es="Distrito de Haifa" it="Distretto di Haifa" nl="District Haifa" />
+      <longitude>34.918234</longitude>
+      <latitude>32.455030</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アシュケロン" eng="Ashdod" de="Aschdod" fr="Ashdod" es="Asdod" it="Ashdod" nl="Asjdod">
+      <province jpn="南部地区" eng="Southern District" de="Südbezirk" fr="District sud" es="Distrito Meridional" it="Distretto Meridionale" nl="District Zuid" />
+      <longitude>34.636523</longitude>
+      <latitude>31.802828</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アシュドッド" eng="Ashkelon" de="Aschkelon" fr="Ascalon" es="Ascalón" it="Ascalona" nl="Asjkelon">
+      <province jpn="南部地区" eng="Southern District" de="Südbezirk" fr="District sud" es="Distrito Meridional" it="Distretto Meridionale" nl="District Zuid" />
+      <longitude>34.566989</longitude>
+      <latitude>31.653981</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ベエルシェバ" eng="Be'er-Sheva" de="Be'er-Sheva" fr="Be'er-Sheva" es="Be'er-Sheva" it="Be'er-Sheva" nl="Be'er-Sheva">
+      <province jpn="南部地区" eng="Southern District" de="Südbezirk" fr="District sud" es="Distrito Meridional" it="Distretto Meridionale" nl="District Zuid" />
+      <longitude>34.789256</longitude>
+      <latitude>31.244779</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ディモナ" eng="Dimona" de="Dimona" fr="Dimona" es="Dimona" it="Dimona" nl="Dimona">
+      <province jpn="南部地区" eng="Southern District" de="Südbezirk" fr="District sud" es="Distrito Meridional" it="Distretto Meridionale" nl="District Zuid" />
+      <longitude>35.024251</longitude>
+      <latitude>31.053877</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="エイラト" eng="Eilat" de="Eilat" fr="Eilat" es="Eilat" it="Eilat" nl="Eilat">
+      <province jpn="南部地区" eng="Southern District" de="Südbezirk" fr="District sud" es="Distrito Meridional" it="Distretto Meridionale" nl="District Zuid" />
+      <longitude>34.950013</longitude>
+      <latitude>29.550210</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アイン・ゲディ" eng="Ein Gedi" de="Ein Gedi" fr="Ein Gedi" es="Ein Gedi" it="Ein Gedi" nl="Ein Gedi">
+      <province jpn="南部地区" eng="Southern District" de="Südbezirk" fr="District sud" es="Distrito Meridional" it="Distretto Meridionale" nl="District Zuid" />
+      <longitude>35.383001</longitude>
+      <latitude>31.444773</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アイン・ヤハヴ" eng="Ein Yahav" de="Ein Jahav" fr="Ein Yahav" es="Ein Yahav" it="Ein Yahav" nl="Ein Yahav">
+      <province jpn="南部地区" eng="Southern District" de="Südbezirk" fr="District sud" es="Distrito Meridional" it="Distretto Meridionale" nl="District Zuid" />
+      <longitude>35.243978</longitude>
+      <latitude>30.665591</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="キルヤット・ガト" eng="Kiryat Gat" de="Kirjat Gat" fr="Kiryat Gat" es="Kiryat Gat" it="Kiryat Gat" nl="Kirjat Gat">
+      <province jpn="南部地区" eng="Southern District" de="Südbezirk" fr="District sud" es="Distrito Meridional" it="Distretto Meridionale" nl="District Zuid" />
+      <longitude>34.775341</longitude>
+      <latitude>31.602503</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ミツペ・ラモン" eng="Mitzpe Ramon" de="Mitzpe Ramon" fr="Mitzpe Ramon" es="Mitzpé Ramón" it="Mitzpe Ramon" nl="Mitzpe Ramon">
+      <province jpn="南部地区" eng="Southern District" de="Südbezirk" fr="District sud" es="Distrito Meridional" it="Distretto Meridionale" nl="District Zuid" />
+      <longitude>34.795472</longitude>
+      <latitude>30.617423</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="スデロット" eng="Sderot" de="Sderot" fr="Sdérot" es="Sederot" it="Sderot" nl="Sderot">
+      <province jpn="南部地区" eng="Southern District" de="Südbezirk" fr="District sud" es="Distrito Meridional" it="Distretto Meridionale" nl="District Zuid" />
+      <longitude>34.583333</longitude>
+      <latitude>31.521254</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="テルアビブ" eng="Tel Aviv" de="Tel Aviv" fr="Tel Aviv" es="Tel Aviv" it="Tel Aviv" nl="Tel Aviv">
+      <province jpn="テルアビブ地区" eng="Tel Aviv District" de="Bezirk Tel Aviv" fr="District de Tel Aviv" es="Distrito de Tel Aviv" it="Distretto di Tel Aviv" nl="District Tel Aviv" />
+      <longitude>34.7662353515625</longitude>
+      <latitude>32.047119140625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ヘルツリーヤ" eng="Herzliya" de="Herzlia" fr="Herzliya" es="Herzlía" it="Herzliya" nl="Herzelia">
+      <province jpn="テルアビブ地区" eng="Tel Aviv District" de="Bezirk Tel Aviv" fr="District de Tel Aviv" es="Distrito de Tel Aviv" it="Distretto di Tel Aviv" nl="District Tel Aviv" />
+      <longitude>34.831305</longitude>
+      <latitude>32.190839</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
@@ -23387,25 +23842,16 @@
       <province jpn="北海道" eng="Hokkaido" de="Hokkaido" fr="Hokkaido" es="Hokaido" it="Hokkaido" nl="Hokkaido" />
       <longitude>141.328125</longitude>
       <latitude>43.055419921875</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
       <country jpn="日本" eng="Japan" de="Japan" fr="Japon" es="Japón" it="Giappone" nl="Japan" />
       <name jpn="札幌市" eng="Sapporo" de="Sapporo" fr="Sapporo" es="Sapporo" it="Sapporo" nl="Sapporo" />
     </city>
     <city>
-      <province jpn="京都府" eng="Kyoto" de="Kyoto" fr="Kyoto" es="Kioto" it="Kyoto" nl="Kyoto" />
-      <longitude>135.7305908203125</longitude>
-      <latitude>35.0079345703125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-      <country jpn="日本" eng="Japan" de="Japan" fr="Japon" es="Japón" it="Giappone" nl="Japan" />
-      <name jpn="京都市" eng="Kyoto" de="Kyoto" fr="Kyoto" es="Kioto" it="Kyoto" nl="Kyoto" />
-    </city>
-    <city>
       <province jpn="大阪府" eng="Osaka" de="Osaka" fr="Osaka" es="Osaka" it="Osaka" nl="Osaka" />
       <longitude>135.5218505859375</longitude>
       <latitude>34.6728515625</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
       <country jpn="日本" eng="Japan" de="Japan" fr="Japon" es="Japón" it="Giappone" nl="Japan" />
       <name jpn="大阪市" eng="Osaka" de="Osaka" fr="Osaka" es="Osaka" it="Osaka" nl="Osaka" />
@@ -23414,10 +23860,46 @@
       <province jpn="福岡県" eng="Fukuoka" de="Fukuoka" fr="Fukuoka" es="Fukuoka" it="Fukuoka" nl="Fukuoka" />
       <longitude>130.374755859375</longitude>
       <latitude>33.5797119140625</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
       <country jpn="日本" eng="Japan" de="Japan" fr="Japon" es="Japón" it="Giappone" nl="Japan" />
       <name jpn="福岡市" eng="Fukuoka" de="Fukuoka" fr="Fukuoka" es="Fukuoka" it="Fukuoka" nl="Fukuoka" />
+    </city>
+	<city>
+      <province jpn="広島県" eng="Hiroshima" de="Hiroshima" fr="Hiroshima" es="Hiroshima" it="Hiroshima" nl="Hiroshima" />
+       <longitude>132.462158203125</longitude>
+      <latitude>34.3927001953125</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="日本" eng="Japan" de="Japan" fr="Japon" es="Japón" it="Giappone" nl="Japan" />
+      <name jpn="広島市" eng="Hiroshima" de="Hiroshima" fr="Hiroshima" es="Hiroshima" it="Hiroshima" nl="Hiroshima" />
+    </city>
+	<city>
+      <province jpn="宮城県" eng="Miyagi" de="Miyagi" fr="Miyagi" es="Miyagi" it="Miyagi" nl="Miyagi" />
+      <longitude>140.899658203125</longitude>
+      <latitude>38.25439453125</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="日本" eng="Japan" de="Japan" fr="Japon" es="Japón" it="Giappone" nl="Japan" />
+      <name jpn="仙台市" eng="Sendai" de="Sendai" fr="Sendai" es="Sendai" it="Sendai" nl="Sendai" />
+    </city>
+	<city>
+      <province jpn="長崎県" eng="Nagasaki" de="Nagasaki" fr="Nagasaki" es="Nagasaki" it="Nagasaki" nl="Nagasaki" />
+      <longitude>129.869384765625</longitude>
+      <latitude>32.728271484375</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="日本" eng="Japan" de="Japan" fr="Japon" es="Japón" it="Giappone" nl="Japan" />
+      <name jpn="長崎市" eng="Nagasaki" de="Nagasaki" fr="Nagasaki" es="Nagasaki" it="Nagasaki" nl="Nagasaki" />
+    </city>
+	<city>
+      <province jpn="新潟県" eng="Niigata" de="Niigata" fr="Niigata" es="Niigata" it="Niigata" nl="Niigata" />
+      <longitude>139.0484619140625</longitude>
+      <latitude>37.9083251953125</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="日本" eng="Japan" de="Japan" fr="Japon" es="Japón" it="Giappone" nl="Japan" />
+      <name jpn="新潟市" eng="Niigata" de="Niigata" fr="Niigata" es="Niigata" it="Niigata" nl="Niigata" />
     </city>
     <city>
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
@@ -23688,6 +24170,15 @@
       <zoom2>3</zoom2>
       <country jpn="カナダ" eng="Canada" de="Kanada" fr="Canada" es="Canadá" it="Canada" nl="Canada" />
       <name jpn="イカルイット" eng="Iqaluit" de="Iqaluit" fr="Iqaluit" es="Iqaluit" it="Iqaluit" nl="Iqaluit" />
+    </city>
+	<city>
+      <province jpn="ノバ・スコシア州" eng="Nova Scotia" de="Neuschottland" fr="Nouvelle-Écosse" es="Nueva Escocia" it="Nuova Scozia" nl="Nova Scotia" />
+      <longitude>-63.4954833984375</longitude>
+      <latitude>44.8956298828125</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="カナダ" eng="Canada" de="Kanada" fr="Canada" es="Canadá" it="Canada" nl="Canada" />
+      <name jpn="ハリファクス" eng="Halifax" de="Halifax" fr="Halifax" es="Halifax" it="Halifax" nl="Halifax" />
     </city>
     <city>
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
@@ -24571,7 +25062,25 @@
       <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
       <name jpn="パリ" eng="Paris" de="Paris" fr="Paris" es="París" it="Parigi" nl="Parijs" />
     </city>
+	<city>
+      <province jpn="ノルマンディー" eng="Normandy" de="Normandie" fr="Normandie" es="Normandía" it="Normandia" nl="Normandië" />
+      <longitude>1.0986328125</longitude>
+      <latitude>49.4384765625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
+      <name jpn="ルーアン" eng="Rouen" de="Rouen" fr="Rouen" es="Ruan" it="Rouen" nl="Rouen" />
+    </city>
     <city>
+      <province jpn="ヌーヴェル・アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
+      <longitude>-0.37353515625</longitude>
+      <latitude>43.297119140625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
+      <name jpn="パウ" eng="Pau" de="Pau" fr="Pau" es="Pau" it="Pau" nl="Pau" />
+    </city>
+	<city>
       <province jpn="ヌーヴェル・アキテーヌ" eng="New Aquitaine" de="Neu-Aquitanien" fr="Nouvelle-Aquitaine" es="Nueva Aquitania" it="Nuova Aquitania" nl="Nieuw-Aquitanië" />
       <longitude>-0.582275390625</longitude>
       <latitude>44.835205078125</latitude>
@@ -24587,7 +25096,16 @@
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
       <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
-      <name jpn="トゥールーズ" eng="Toulouse" de="Toulouse" fr="Toulouse" es="Toulouse" it="Tolosa" nl="Toulouse" />
+      <name jpn="トゥールーズ" eng="Toulouse" de="Toulouse" fr="Toulouse" es="Tolosa" it="Tolosa" nl="Toulouse" />
+    </city>
+	<city>
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>2.889404296875</longitude>
+      <latitude>42.6873779296875</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
+      <name jpn="パルピニャー" eng="Perpinyà" de="Perpignan" fr="Perpignan" es="Perpiñán" it="Perpignano" nl="Perpignan" />
     </city>
     <city>
       <province jpn="ペイ・ド・ラ・ロワール" eng="Pays de la Loire" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Paesi della Loira" nl="Pays de la Loire" />
@@ -24598,14 +25116,32 @@
       <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
       <name jpn="ナント" eng="Nantes" de="Nantes" fr="Nantes" es="Nantes" it="Nantes" nl="Nantes" />
     </city>
+	<city>
+      <province jpn="ブルターニュ" eng="Brittany" de="Bretagne" fr="Bretagne" es="Bretaña" it="Bretagna" nl="Bretagne" />
+      <longitude>-1.680908203125</longitude>
+      <latitude>48.109130859375</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
+      <name jpn="レンヌ" eng="Rennes" de="Rennes" fr="Rennes" es="Rennes" it="Rennes" nl="Rennes" />
+    </city>
     <city>
       <province jpn="プロヴァンス・アルプ・コート・ダジュール" eng="Provence-Alps-French Riviera" de="Provence-Alpes-Côte d’Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
       <longitude>5.372314453125</longitude>
       <latitude>43.2916259765625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
       <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
       <name jpn="マルセイユ" eng="Marseille" de="Marseille" fr="Marseille" es="Marsella" it="Marsiglia" nl="Marseille" />
+    </city>
+	<city>
+      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
+      <longitude>3.8726806640625</longitude>
+      <latitude>43.604736328125</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
+      <name jpn="モンペリエ" eng="Montpellier" de="Montpellier" fr="Montpellier" es="Montpellier" it="Montpellier" nl="Montpellier" />
     </city>
     <city>
       <province jpn="プロヴァンス・アルプ・コート・ダジュール" eng="Provence-Alps-French Riviera" de="Provence-Alpes-Côte d’Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
@@ -24615,6 +25151,15 @@
       <zoom2>3</zoom2>
       <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
       <name jpn="ニース" eng="Nice" de="Nizza" fr="Nice" es="Niza" it="Nizza" nl="Nice" />
+    </city>
+	<city>
+      <province jpn="コルシカ" eng="Corsica" de="Korsika" fr="Corse" es="Córcega" it="Corsica" nl="Corsica" />
+      <longitude>8.734130859375</longitude>
+      <latitude>41.9183349609375</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
+      <name jpn="アジャクシオ" eng="Aiacciu" de="Ajaccio" fr="Ajaccio" es="Ajaccio" it="Ajaccio" nl="Ajaccio" />
     </city>
     <city>
       <province jpn="ベルリン" eng="Berlin" de="Berlin" fr="Berlin" es="Berlín" it="Berlino" nl="Berlijn" />
@@ -24647,7 +25192,7 @@
       <province jpn="ハンブルク" eng="Hamburg" de="Hamburg" fr="Hambourg" es="Hamburgo" it="Amburgo" nl="Hamburg" />
       <longitude>9.986572265625</longitude>
       <latitude>53.54736328125</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
       <country jpn="ドイツ" eng="Germany" de="Deutschland" fr="Allemagne" es="Alemania" it="Germania" nl="Duitsland" />
       <name jpn="ハンブルク" eng="Hamburg" de="Hamburg" fr="Hambourg" es="Hamburgo" it="Amburgo" nl="Hamburg" />
@@ -24665,10 +25210,46 @@
       <province jpn="ノルトライン・ウェストファーレン州" eng="North Rhine-Westphalia" de="Nordrhein-Westfalen" fr="Rhénanie-du-Nord-Westphalie" es="Renania del Norte-Westfalia" it="Nord Reno-Westfalia" nl="Noord-Rijnland-Westfalen" />
       <longitude>7.0916748046875</longitude>
       <latitude>50.7293701171875</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
       <country jpn="ドイツ" eng="Germany" de="Deutschland" fr="Allemagne" es="Alemania" it="Germania" nl="Duitsland" />
       <name jpn="ボン" eng="Bonn" de="Bonn" fr="Bonn" es="Bonn" it="Bonn" nl="Bonn" />
+    </city>
+	<city>
+      <province jpn="バーデン・ビュルテンベルク州" eng="Baden-Württemberg" de="Baden-Württemberg" fr="Bade-Wurtemberg" es="Baden-Wurtemberg" it="Baden-Württemberg" nl="Baden-Württemberg" />
+      <longitude>9.173583984375</longitude>
+      <latitude>48.768310546875</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="ドイツ" eng="Germany" de="Deutschland" fr="Allemagne" es="Alemania" it="Germania" nl="Duitsland" />
+      <name jpn="シュトゥットガルト" eng="Stuttgart" de="Stuttgart" fr="Stuttgart" es="Stuttgart" it="Stoccarda" nl="Stuttgart" />
+    </city>
+	<city>
+      <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
+      <longitude>11.0687255859375</longitude>
+      <latitude>49.449462890625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="ドイツ" eng="Germany" de="Deutschland" fr="Allemagne" es="Alemania" it="Germania" nl="Duitsland" />
+      <name jpn="ニュルンベルク" eng="Nuremberg" de="Nürnberg" fr="Nuremberg" es="Núremberg" it="Norimberga" nl="Neurenberg" />
+    </city>
+	<city>
+      <province jpn="ザクセン州" eng="Saxony" de="Sachsen" fr="Saxe" es="Sajonia" it="Sassonia" nl="Saksen" />
+      <longitude>9.73388671875</longitude>
+      <latitude>52.3663330078125</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="ドイツ" eng="Germany" de="Deutschland" fr="Allemagne" es="Alemania" it="Germania" nl="Duitsland" />
+      <name jpn="ライプツィヒ" eng="Leipzig" de="Leipzig" fr="Leipzig" es="Leipzig" it="Lipsia" nl="Leipzig" />
+    </city>
+	<city>
+      <province jpn="ニーダーザクセン州" eng="Lower Saxony" de="Niedersachsen" fr="Basse-Saxe" es="Baja Sajonia" it="Bassa Sassonia" nl="Nedersaksen" />
+      <longitude>12.381591796875</longitude>
+      <latitude>51.328125</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="ドイツ" eng="Germany" de="Deutschland" fr="Allemagne" es="Alemania" it="Germania" nl="Duitsland" />
+      <name jpn="ハノーファー" eng="Hanover" de="Hannover" fr="Hanovre" es="Hannover" it="Hannover" nl="Hannover" />
     </city>
     <city>
       <province jpn="アッティカ" eng="Attica" de="Attika" fr="Attique" es="Ática" it="Attica" nl="Attika" />
@@ -24764,7 +25345,7 @@
       <province jpn="カンパニア州" eng="Campania" de="Kampanien" fr="Campanie" es="Campania" it="Campania" nl="Campanië" />
       <longitude>14.249267578125</longitude>
       <latitude>40.836181640625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
       <country jpn="イタリア" eng="Italy" de="Italien" fr="Italie" es="Italia" it="Italia" nl="Italië" />
       <name jpn="ナポリ" eng="Naples" de="Neapel" fr="Naples" es="Nápoles" it="Napoli" nl="Napels" />
@@ -24778,14 +25359,14 @@
       <country jpn="イタリア" eng="Italy" de="Italien" fr="Italie" es="Italia" it="Italia" nl="Italië" />
       <name jpn="パレルモ" eng="Palermo" de="Palermo" fr="Palerme" es="Palermo" it="Palermo" nl="Palermo" />
     </city>
-    <city>
-      <province jpn="シチリア州" eng="Sicily" de="Sizilien" fr="Sicile" es="Sicilia" it="Sicilia" nl="Sicilië" />
-      <longitude>15.2764892578125</longitude>
-      <latitude>37.0733642578125</latitude>
-      <zoom1>1</zoom1>
+	<city>
+      <province jpn="サルデーニャ州" eng="Sardinia" de="Sardinien" fr="Sardaigne" es="Cerdeña" it="Sardegna" nl="Sardinië" />
+      <longitude>9.1021728515625</longitude>
+      <latitude>39.2156982421875</latitude>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
       <country jpn="イタリア" eng="Italy" de="Italien" fr="Italie" es="Italia" it="Italia" nl="Italië" />
-      <name jpn="シラクサ" eng="Syracuse" de="Syrakus" fr="Syracuse" es="Siracusa" it="Siracusa" nl="Siracusa" />
+      <name jpn="カリアリ" eng="Cagliari" de="Cagliari" fr="Cagliari" es="Cagliari" it="Cagliari" nl="Cagliari" />
     </city>
     <city>
       <province jpn="リガ" eng="Riga" de="Riga" fr="Riga" es="Riga" it="Riga" nl="Riga" />
@@ -24881,10 +25462,19 @@
       <province jpn="ノールト・ホラント州" eng="North Holland" de="Nordholland" fr="Hollande septentrionale" es="Holanda Septentrional" it="Olanda Settentrionale" nl="Noord-Holland" />
       <longitude>4.8834228515625</longitude>
       <latitude>52.3663330078125</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
       <country jpn="オランダ" eng="Netherlands" de="Niederlande" fr="Pays-Bas" es="Países Bajos" it="Paesi Bassi" nl="Nederland" />
       <name jpn="アムステルダム" eng="Amsterdam" de="Amsterdam" fr="Amsterdam" es="Ámsterdam" it="Amsterdam" nl="Amsterdam" />
+    </city>
+	<city>
+      <province jpn="フリースランド" eng="Fryslân" de="Friesland" fr="Frise" es="Frisia" it="Frisia" nl="Fryslân" />
+      <longitude>5.7843017578125</longitude>
+      <latitude>53.1903076171875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="オランダ" eng="Netherlands" de="Niederlande" fr="Pays-Bas" es="Países Bajos" it="Paesi Bassi" nl="Nederland" />
+      <name jpn="リィオヴト" eng="Ljouwert" de="Ljouwert" fr="Ljouwert" es="Ljouwert" it="Ljouwert" nl="Ljouwert" />
     </city>
     <city>
       <province jpn="ウェリントン" eng="Wellington" de="Wellington" fr="Wellington" es="Región de Wellington" it="Wellington" nl="Wellington" />
@@ -25088,7 +25678,7 @@
       <province jpn="カスティーリャ・ラ・マンチャ" eng="Castile-La Mancha" de="Kastilien-La Mancha" fr="Castille-La Manche" es="Castilla-La Mancha" it="Castiglia-La Mancia" nl="Kastilië-La Mancha" />
       <longitude>-4.02099609375</longitude>
       <latitude>39.8529052734375</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
       <country jpn="スペイン" eng="Spain" de="Spanien" fr="Espagne" es="España" it="Spagna" nl="Spanje" />
       <name jpn="トレド" eng="Toledo" de="Toledo" fr="Tolède" es="Toledo" it="Toledo" nl="Toledo" />
@@ -25102,14 +25692,50 @@
       <country jpn="スペイン" eng="Spain" de="Spanien" fr="Espagne" es="España" it="Spagna" nl="Spanje" />
       <name jpn="バルセロナ" eng="Barcelona" de="Barcelona" fr="Barcelone" es="Barcelona" it="Barcellona" nl="Barcelona" />
     </city>
-    <city>
-      <province jpn="バレンシア" eng="Valencian Community" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
-      <longitude>-0.362548828125</longitude>
-      <latitude>39.4683837890625</latitude>
-      <zoom1>1</zoom1>
+	<city>
+      <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
+      <longitude>0.6317138671875</longitude>
+      <latitude>41.6162109375</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
       <country jpn="スペイン" eng="Spain" de="Spanien" fr="Espagne" es="España" it="Spagna" nl="Spanje" />
-      <name jpn="バレンシア" eng="Valencia" de="Valencia" fr="Valence" es="Valencia" it="Valencia" nl="Valencia" />
+      <name jpn="リェイダ" eng="Lleida" de="Lleida" fr="Lleida" es="Lleida" it="Lleida" nl="Lleida" />
+    </city>
+    <city>
+      <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
+      <longitude>-0.362548828125</longitude>
+      <latitude>39.4683837890625</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="スペイン" eng="Spain" de="Spanien" fr="Espagne" es="España" it="Spagna" nl="Spanje" />
+      <name jpn="バレンシア" eng="València" de="Valencia" fr="Valence" es="València" it="Valencia" nl="Valencia" />
+    </city>
+	<city>
+      <province jpn="アラゴン" eng="Aragon" de="Aragonien" fr="Aragon" es="Aragón" it="Aragona" nl="Aragón" />
+      <longitude>-0.867919921875</longitude>
+      <latitude>41.649169921875</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="スペイン" eng="Spain" de="Spanien" fr="Espagne" es="España" it="Spagna" nl="Spanje" />
+      <name jpn="サラゴサ" eng="Zaragoza" de="Saragossa" fr="Saragosse" es="Zaragoza" it="Saragozza" nl="Zaragoza" />
+    </city>
+	<city>
+      <province jpn="バスク" eng="Basque Autonomous Community" de="Autonome Gemeinschaft Baskenland" fr="Communauté autonome basque" es="Euskadi" it="Comunità autonoma del Paese Basco" nl="Autonome Gemeinschaft Baskenland" />
+      <longitude>-2.9278564453125</longitude>
+      <latitude>43.2586669921875</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="スペイン" eng="Spain" de="Spanien" fr="Espagne" es="España" it="Spagna" nl="Spanje" />
+      <name jpn="ビルバオ" eng="Bilbao" de="Bilbao" fr="Bilbao" es="Bilbao" it="Bilbao" nl="Bilbao" />
+    </city>
+	<city>
+      <province jpn="ガリーシア" eng="Galicia" de="Galicien" fr="Galice" es="Galicia" it="Galizia" nl="Galicië" />
+      <longitude>-8.3990478515625</longitude>
+      <latitude>43.3575439453125</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="スペイン" eng="Spain" de="Spanien" fr="Espagne" es="España" it="Spagna" nl="Spanje" />
+      <name jpn="ア・コルーニャ" eng="A Coruña" de="A Coruña" fr="La Corogne" es="A Coruña" it="La Coruña" nl="A Coruña" />
     </city>
     <city>
       <province jpn="ホホ" eng="Hhohho" de="Hhohho" fr="Hhohho" es="Hhohho" it="Hhohho" nl="Hhohho" />
@@ -25171,7 +25797,7 @@
       <latitude>39.92431640625</latitude>
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="トルコ" eng="Turkey" de="Türkei" fr="Turquie" es="Turquía" it="Turchia" nl="Turkije" />
+      <country jpn="トルコ" eng="Türkiye" de="Türkei" fr="Turquie" es="Turquía" it="Turchia" nl="Turkije" />
       <name jpn="アンカラ" eng="Ankara" de="Ankara" fr="Ankara" es="Ankara" it="Ankara" nl="Ankara" />
     </city>
     <city>
@@ -25180,7 +25806,7 @@
       <latitude>41.055908203125</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="トルコ" eng="Turkey" de="Türkei" fr="Turquie" es="Turquía" it="Turchia" nl="Turkije" />
+      <country jpn="トルコ" eng="Türkiye" de="Türkei" fr="Turquie" es="Turquía" it="Turchia" nl="Turkije" />
       <name jpn="イスタンブール" eng="Istanbul" de="Istanbul" fr="Istanbul" es="Estambul" it="Istanbul" nl="Istanbul" />
     </city>
     <city>
@@ -25196,7 +25822,7 @@
       <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
       <longitude>0.098876953125</longitude>
       <latitude>52.20703125</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
       <country jpn="イギリス" eng="United Kingdom" de="Großbritannien" fr="Royaume-Uni" es="Reino Unido" it="Regno Unito" nl="Verenigd Koninkrijk" />
       <name jpn="ケンブリッジ" eng="Cambridge" de="Cambridge" fr="Cambridge" es="Cambridge" it="Cambridge" nl="Cambridge" />
@@ -25205,25 +25831,25 @@
       <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
       <longitude>-2.2576904296875</longitude>
       <latitude>53.4869384765625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
       <country jpn="イギリス" eng="United Kingdom" de="Großbritannien" fr="Royaume-Uni" es="Reino Unido" it="Regno Unito" nl="Verenigd Koninkrijk" />
       <name jpn="マンチェスター" eng="Manchester" de="Manchester" fr="Manchester" es="Manchester" it="Manchester" nl="Manchester" />
     </city>
-    <city>
+	<city>
       <province jpn="イングランド" eng="England" de="England" fr="Angleterre" es="Inglaterra" it="Inghilterra" nl="Engeland" />
-      <longitude>-2.977294921875</longitude>
-      <latitude>53.4100341796875</latitude>
-      <zoom1>4</zoom1>
+      <longitude>-1.900634765625</longitude>
+      <latitude>52.4761962890625</latitude>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
       <country jpn="イギリス" eng="United Kingdom" de="Großbritannien" fr="Royaume-Uni" es="Reino Unido" it="Regno Unito" nl="Verenigd Koninkrijk" />
-      <name jpn="リバプール" eng="Liverpool" de="Liverpool" fr="Liverpool" es="Liverpool" it="Liverpool" nl="Liverpool" />
+      <name jpn="バーミンガム" eng="Birmingham" de="Birmingham" fr="Birmingham" es="Birmingham" it="Birmingham" nl="Birmingham" />
     </city>
     <city>
       <province jpn="スコットランド" eng="Scotland" de="Schottland" fr="Écosse" es="Escocia" it="Scozia" nl="Schotland" />
       <longitude>-3.2025146484375</longitude>
       <latitude>55.953369140625</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
       <country jpn="イギリス" eng="United Kingdom" de="Großbritannien" fr="Royaume-Uni" es="Reino Unido" it="Regno Unito" nl="Verenigd Koninkrijk" />
       <name jpn="エジンバラ" eng="Edinburgh" de="Edinburgh" fr="Edimbourg" es="Edimburgo" it="Edimburgo" nl="Edinburgh" />
@@ -25236,6 +25862,15 @@
       <zoom2>3</zoom2>
       <country jpn="イギリス" eng="United Kingdom" de="Großbritannien" fr="Royaume-Uni" es="Reino Unido" it="Regno Unito" nl="Verenigd Koninkrijk" />
       <name jpn="ベルファスト" eng="Belfast" de="Belfast" fr="Belfast" es="Belfast" it="Belfast" nl="Belfast" />
+    </city>
+	<city>
+      <province jpn="マン島" eng="Isle of Man" de="Isle of Man" fr="Ile de Man" es="Isla de Man" it="Isola di Man" nl="Man" />
+      <longitude>-4.482421875</longitude>
+      <latitude>54.16259765625</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="イギリス" eng="United Kingdom" de="Großbritannien" fr="Royaume-Uni" es="Reino Unido" it="Regno Unito" nl="Verenigd Koninkrijk" />
+      <name jpn="ダグラス" eng="Douglas" de="Douglas" fr="Douglas" es="Douglas" it="Douglas" nl="Douglas" />
     </city>
     <city>
       <province jpn="ジブラルタル" eng="Gibraltar" de="Gibraltar" fr="Gibraltar" es="Gibraltar" it="Gibilterra" nl="Gibraltar" />
@@ -25295,7 +25930,7 @@
       <province jpn="釜山広域市" eng="Busan" de="Busan" fr="Busan" es="Busan" it="Busan" nl="Busan" />
       <longitude>129.0289306640625</longitude>
       <latitude>35.079345703125</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
       <country jpn="韓国" eng="South Korea" de="Südkorea" fr="Corée du Sud" es="Corea del Sur" it="Corea del Sud" nl="Zuid-Korea" />
       <name jpn="釜山" eng="Busan" de="Busan" fr="Busan" es="Busan" it="Busan" nl="Busan" />
@@ -25619,7 +26254,7 @@
       <province jpn="アンドラ・ラ・ベリャ" eng="Andorra la Vella" de="Andorra la Vella" fr="Andorre-la-Vieille" es="Andorra la Vella" it="Andorra la Vella" nl="Andorra la Vella" />
       <longitude>1.5106201171875</longitude>
       <latitude>42.506103515625</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
       <country jpn="アンドラ" eng="Andorra" de="Andorra" fr="Andorre" es="Andorra" it="Andorra" nl="Andorra" />
       <name jpn="アンドラ・ラ・ベリャ" eng="Andorra la Vella" de="Andorra la Vella" fr="Andorre-la-Vieille" es="Andorra la Vella" it="Andorra la Vella" nl="Andorra la Vella" />
@@ -25966,6 +26601,15 @@
       <country jpn="イスラエル" eng="Israel" de="Israel" fr="Israël" es="Israel" it="Israele" nl="Israël" />
       <name jpn="エルサレム" eng="Jerusalem" de="Jerusalem" fr="Jérusalem" es="Jerusalén" it="Gerusalemme" nl="Jeruzalem" />
     </city>
+	<city>
+      <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
+      <longitude>-2.13209</longitude>
+      <latitude>49.213628</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="ジャージー島" eng="Jersey" de="Jersey" fr="Jersey" es="Jersey" it="Jersey" nl="Jersey" />
+      <name jpn="ジャージー" eng="Jersey" de="Jersey" fr="Jersey" es="Jersey" it="Jersey" nl="Jersey" />
+    </city>
     <city>
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>71.466064453125</longitude>
@@ -26141,7 +26785,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>-6.8499755859375</longitude>
       <latitude>34.0301513671875</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>9</zoom1>
       <zoom2>3</zoom2>
       <country jpn="モロッコ" eng="Morocco" de="Marokko" fr="Maroc" es="Marruecos" it="Marocco" nl="Marokko" />
       <name jpn="ラバト" eng="Rabat" de="Rabat" fr="Rabat" es="Rabat" it="Rabat" nl="Rabat" />
@@ -26150,7 +26794,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>-7.613525390625</longitude>
       <latitude>33.59619140625</latitude>
-      <zoom1>9</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
       <country jpn="モロッコ" eng="Morocco" de="Marokko" fr="Maroc" es="Marruecos" it="Marocco" nl="Marokko" />
       <name jpn="カサブランカ" eng="Casablanca" de="Casablanca" fr="Casablanca" es="Casablanca" it="Casablanca" nl="Casablanca" />
@@ -26388,15 +27032,6 @@
       <zoom2>3</zoom2>
       <country jpn="ガンビア" eng="The Gambia" de="Gambia" fr="Gambie" es="Gambia" it="Gambia" nl="Gambia" />
       <name jpn="バンジュール" eng="Banjul" de="Banjul" fr="Banjul" es="Banjul" it="Banjul" nl="Banjul" />
-    </city>
-    <city>
-      <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
-      <longitude>0</longitude>
-      <latitude>-90</latitude>
-      <zoom1>9</zoom1>
-      <zoom2>3</zoom2>
-      <country jpn="" eng="" de="" fr="" es="" it="" nl="" />
-      <name jpn="南極点" eng="The South Pole" de="Südpol" fr="Pôle Sud" es="Polo Sur" it="Polo Sud" nl="De zuidpool" />
     </city>
     <city>
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
