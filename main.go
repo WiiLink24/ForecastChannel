@@ -163,7 +163,7 @@ func main() {
 					forecast.WriteAll(wiiUBuffer)
 
 					// Make short.bin
-					wii, wiiU := forecast.MakeShortBin(weatherList.International.Cities)
+					short := forecast.MakeShortBin(weatherList.International.Cities)
 
 					// Make the folder if it doesn't already exist
 					err := os.Mkdir(fmt.Sprintf("./files/%d/%s", languageCode, ZFill(countryCode, 3)), 0755)
@@ -175,19 +175,10 @@ func main() {
 					compressed, err := lz10.Compress(buffer.Bytes())
 					checkError(err)
 
-					compressedU, err := lz10.Compress(wiiUBuffer.Bytes())
-					checkError(err)
-
 					err = os.WriteFile(fmt.Sprintf("./files/%d/%s/forecast.bin", languageCode, ZFill(countryCode, 3)), SignFile(compressed), 0666)
 					checkError(err)
 
-					err = os.WriteFile(fmt.Sprintf("./files/%d/%s/short.bin", languageCode, ZFill(countryCode, 3)), SignFile(wii), 0666)
-					checkError(err)
-
-					err = os.WriteFile(fmt.Sprintf("./files/%d/%s/forecast.alt", languageCode, ZFill(countryCode, 3)), SignFile(compressedU), 0666)
-					checkError(err)
-
-					err = os.WriteFile(fmt.Sprintf("./files/%d/%s/short.alt", languageCode, ZFill(countryCode, 3)), SignFile(wiiU), 0666)
+					err = os.WriteFile(fmt.Sprintf("./files/%d/%s/short.bin", languageCode, ZFill(countryCode, 3)), SignFile(short), 0666)
 					checkError(err)
 				}()
 			}

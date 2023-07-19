@@ -4,6 +4,7 @@ var countryCodes = map[string]uint8{}
 
 func PopulateCountryCodes() {
 	countryCodes["Japan"] = 1
+	countryCodes["Antarctica"] = 2
 	countryCodes["Caribbean Netherlands"] = 3
 	countryCodes["Falkland Islands"] = 4
 	countryCodes["Sint Maarten"] = 7
@@ -103,7 +104,7 @@ func PopulateCountryCodes() {
 	countryCodes["Eswatini"] = 106
 	countryCodes["Sweden"] = 107
 	countryCodes["Switzerland"] = 108
-	countryCodes["Turkey"] = 109
+	countryCodes["Türkiye"] = 109
 	countryCodes["United Kingdom"] = 110
 	countryCodes["Zambia"] = 111
 	countryCodes["Zimbabwe"] = 112
@@ -175,6 +176,9 @@ func PopulateCountryCodes() {
 	countryCodes["Israel"] = 180
 	countryCodes["Moldova"] = 207
 	countryCodes["Ukraine"] = 208
+	countryCodes["Libya"] = 218
 	countryCodes["Morocco"] = 219
+	countryCodes["South Sudan"] = 220
 	countryCodes["Cuba"] = 223
+	countryCodes["Kiribati"] = 240
 }
