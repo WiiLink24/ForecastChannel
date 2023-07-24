@@ -39,7 +39,9 @@ type Forecast struct {
 }
 
 var weatherMap = map[string]*accuweather.Weather{}
-var currentTime = time.Now().Unix()
+
+// We generate at 10 to the hour to give time for the files to generate, but want to display the next hour on the channel.
+var currentTime = time.Now().Unix() + 600
 var weatherList *WeatherList
 var mapMutex = sync.RWMutex{}
 
@@ -115,6 +117,7 @@ func main() {
 				languageCode := languageCode
 				go func() {
 					defer wg.Done()
+					semaphore <- struct{}{}
 					forecast := Forecast{}
 					forecast.currentCountryList = &national
 					forecast.currentCountryCode = countryCode
@@ -148,20 +151,6 @@ func main() {
 					buffer.Reset()
 					forecast.WriteAll(buffer)
 
-					// Prepare to make for Wii U
-					// TODO: Patch IOS to force proper UTC
-					wiiUBuffer := new(bytes.Buffer)
-					forecast.Header.OpenTimestamp = 0
-					forecast.Header.CloseTimestamp = 0xFFFFFFFF
-					forecast.WriteAll(wiiUBuffer)
-
-					crcTable = crc32.MakeTable(crc32.IEEE)
-					checksum = crc32.Checksum(wiiUBuffer.Bytes()[12:], crcTable)
-					forecast.Header.CRC32 = checksum
-
-					wiiUBuffer.Reset()
-					forecast.WriteAll(wiiUBuffer)
-
 					// Make short.bin
 					short := forecast.MakeShortBin(weatherList.International.Cities)
 
@@ -180,6 +169,7 @@ func main() {
 
 					err = os.WriteFile(fmt.Sprintf("./files/%d/%s/short.bin", languageCode, ZFill(countryCode, 3)), SignFile(short), 0666)
 					checkError(err)
+					<-semaphore
 				}()
 			}
 		}()

@@ -35,7 +35,7 @@ func (f *Forecast) MakeHeader() {
 		Filesize:                       0,
 		CRC32:                          0,
 		OpenTimestamp:                  fixTime(int(currentTime)),
-		CloseTimestamp:                 fixTime(int(currentTime)) + 70,
+		CloseTimestamp:                 fixTime(int(currentTime)) + 63,
 		CountryCode:                    f.currentCountryCode,
 		LanguageCode:                   f.currentLanguageCode,
 		TemperatureFlag:                f.GetTemperatureFlag(),
