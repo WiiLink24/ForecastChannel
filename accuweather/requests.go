@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"runtime"
 	"strconv"
 	"time"
 )
@@ -16,7 +17,18 @@ const (
 
 var currentTime = time.Now().Unix()
 
-func GetWeather(longitude float64, latitude float64, _time int64) *Weather {
+func GetWeather(longitude float64, latitude float64, _time int64) (w *Weather) {
+	defer func() {
+		if err := recover(); err != nil {
+			buf := make([]byte, 2048)
+			n := runtime.Stack(buf, false)
+			buf = buf[:n]
+
+			fmt.Printf("Recovering from error %v\n %s\n", err, buf)
+			w = BlankData()
+		}
+	}()
+
 	currentTime = _time
 	weather := Weather{}
 
