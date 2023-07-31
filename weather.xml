@@ -5749,7 +5749,7 @@
     </city>
   </country>
   <country>
-    <name jpn="オランダ領アンティル" eng="Curaçao" de="Niederländische Antillen" fr="Antilles néerlandaises" es="Antillas Neerlandesas" it="Antille Olandesi" nl="Nederlandse Antillen" />
+    <name jpn="キュラソー" eng="Curaçao" de="Curaçao" fr="Curaçao" es="Curazao" it="Curaçao" nl="Curaçao" />
     <city jpn="ウィレムスタット" eng="Willemstad" de="Willemstad" fr="Willemstad" es="Willemstad" it="Willemstad" nl="Willemstad">
       <province jpn="サカテカス州" eng="Zacatecas" de="Zacatecas" fr="Zacatecas" es="Zacatecas" it="Zacatecas" nl="Zacatecas" />
       <longitude>-68.9117431640625</longitude>
@@ -6707,6 +6707,13 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="ガルフ・ショアーズ" eng="Gulf Shores" de="Gulf Shores" fr="Gulf Shores" es="Gulf Shores" it="Gulf Shores" nl="Gulf Shores">
+      <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
+      <longitude>-87.784620</longitude>
+      <latitude>30.240063</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="フーバー" eng="Hoover" de="Hoover" fr="Hoover" es="Hoover" it="Hoover" nl="Hoover">
       <province jpn="アラバマ州" eng="Alabama" de="Alabama" fr="Alabama" es="Alabama" it="Alabama" nl="Alabama" />
       <longitude>-86.8084716796875</longitude>
@@ -7155,6 +7162,13 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="トレイシー" eng="Tracy" de="Tracy" fr="Tracy" es="Tracy" it="Tracy" nl="Tracy">
+      <province jpn="カリフォルニア州" eng="California" de="Kalifornien" fr="Californie" es="California" it="California" nl="Californië" />
+      <longitude>-121.527602</longitude>
+      <latitude>37.723179</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="サウザンドオークス" eng="Thousand Oaks" de="Thousand Oaks" fr="Thousand Oaks" es="Thousand Oaks" it="Thousand Oaks" nl="Thousand Oaks">
       <province jpn="カリフォルニア州" eng="California" de="Kalifornien" fr="Californie" es="California" it="California" nl="Californië" />
       <longitude>-118.8336181640625</longitude>
@@ -7365,13 +7379,6 @@
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="アルタモンテ・スプリングス" eng="Altamonte Springs" de="Altamonte Springs" fr="Altamonte Springs" es="Altamonte Springs" it="Altamonte Springs" nl="Altamonte Springs">
-      <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
-      <longitude>-81.36474609375</longitude>
-      <latitude>28.6578369140625</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="ボカラトン" eng="Boca Raton" de="Boca Raton" fr="Boca Raton" es="Boca Ratón" it="Boca Raton" nl="Boca Raton">
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-80.079345703125</longitude>
@@ -7453,6 +7460,13 @@
       <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
       <longitude>-81.947021484375</longitude>
       <latitude>28.037109375</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="レイク・メアリー" eng="Lake Mary" de="Lake Mary" fr="Lake Mary" es="Lake Mary" it="Lake Mary" nl="Lake Mary">
+      <province jpn="フロリダ州" eng="Florida" de="Florida" fr="Floride" es="Florida" it="Florida" nl="Florida" />
+      <longitude>-81.313068</longitude>
+      <latitude>28.782235</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -7695,70 +7709,70 @@
       <zoom2>3</zoom2>
     </city>
     <city jpn="ホノルル" eng="Honolulu" de="Honolulu" fr="Honolulu" es="Honolulu" it="Honolulu" nl="Honolulu">
-      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawái" it="Hawai'i" nl="Hawaï" />
       <longitude>-157.8570556640625</longitude>
       <latitude>21.302490234375</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ヒロ" eng="Hilo" de="Hilo" fr="Hilo" es="Hilo" it="Hilo" nl="Hilo">
-      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawái" it="Hawai'i" nl="Hawaï" />
       <longitude>-155.0885009765625</longitude>
       <latitude>19.7259521484375</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="カフルイ" eng="Kahului" de="Kahului" fr="Kahului" es="Kahului" it="Kahului" nl="Kahului">
-      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawái" it="Hawai'i" nl="Hawaï" />
       <longitude>-156.46728515625</longitude>
       <latitude>20.8905029296875</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="カイルア・コナ" eng="Kailua-Kona" de="Kailua-Kona" fr="Kailua-Kona" es="Kailua-Kona" it="Kailua-Kona" nl="Kailua-Kona">
-      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawái" it="Hawai'i" nl="Hawaï" />
       <longitude>-155.980917</longitude>
       <latitude>19.625268</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ラナイ島" eng="Lana'i" de="Lana'i" fr="Lana'i" es="Lana'i" it="Lana'i" nl="Lana'i">
-      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawái" it="Hawai'i" nl="Hawaï" />
       <longitude>-156.952808</longitude>
       <latitude>20.833485</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="リフエ" eng="Lihu'e" de="Lihu'e" fr="Lihu'e" es="Lihu'e" it="Lihu'e" nl="Lihu'e">
-      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawái" it="Hawai'i" nl="Hawaï" />
       <longitude>-159.36767578125</longitude>
       <latitude>21.9781494140625</latitude>
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ミリラニ" eng="Mililani" de="Mililani" fr="Mililani" es="Mililani" it="Mililani" nl="Mililani">
-      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawái" it="Hawai'i" nl="Hawaï" />
       <longitude>-158.032539</longitude>
       <latitude>21.474249</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="モロカイ島" eng="Moloka'i" de="Moloka'i" fr="Moloka'i" es="Moloka'i" it="Moloka'i" nl="Moloka'i">
-      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawái" it="Hawai'i" nl="Hawaï" />
       <longitude>-157.0989990234375</longitude>
       <latitude>21.148681640625</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="プーウァイ" eng="Pu'uwai" de="Pu'uwai" fr="Pu'uwai" es="Pu'uwai" it="Pu'uwai" nl="Pu'uwai">
-      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawái" it="Hawai'i" nl="Hawaï" />
       <longitude>-160.197739</longitude>
       <latitude>21.888143</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ワイメア" eng="Waimea" de="Waimea" fr="Waimea" es="Waimea" it="Waimea" nl="Waimea">
-      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawái" it="Hawai'i" nl="Hawaï" />
       <longitude>-155.748015</longitude>
       <latitude>20.077952</latitude>
       <zoom1>1</zoom1>
@@ -7897,7 +7911,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="マウント・バーノン" eng="Mount Vernon" de="Mount Vernon" fr="Mount Vernon" es="Mount Vermon" it="Mount Vernon" nl="Mount Vernon">
+    <city jpn="マウントバーノン" eng="Mount Vernon" de="Mount Vernon" fr="Mount Vernon" es="Mount Vermon" it="Mount Vernon" nl="Mount Vernon">
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
       <longitude>-88.9013671875</longitude>
       <latitude>38.3148193359375</latitude>
@@ -8030,6 +8044,13 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="リッチモンド" eng="Richmond" de="Richmond" fr="Richmond" es="Richmond" it="Richmond" nl="Richmond">
+      <province jpn="インディアナ州" eng="Indiana" de="Indiana" fr="Indiana" es="Indiana" it="Indiana" nl="Indiana" />
+      <longitude>-84.889641</longitude>
+      <latitude>39.814186</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="サウス・ベンド" eng="South Bend" de="South Bend" fr="South Bend" es="South Bend" it="South Bend" nl="South Bend">
       <province jpn="インディアナ州" eng="Indiana" de="Indiana" fr="Indiana" es="Indiana" it="Indiana" nl="Indiana" />
       <longitude>-86.2481689453125</longitude>
@@ -8126,6 +8147,13 @@
       <longitude>-97.3333740234375</longitude>
       <latitude>37.6885986328125</latitude>
       <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アーマ" eng="Arma" de="Arma" fr="Arma" es="Arma" it="Arma" nl="Arma">
+      <province jpn="カンザス州" eng="Kansas" de="Kansas" fr="Kansas" es="Kansas" it="Kansas" nl="Kansas" />
+      <longitude>-94.702288</longitude>
+      <latitude>37.541717</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ダッジ・シティ" eng="Dodge City" de="Dodge City" fr="Dodge City" es="Dodge City" it="Dodge City" nl="Dodge City">
@@ -8286,6 +8314,13 @@
       <province jpn="ルイジアナ州" eng="Louisiana" de="Louisiana" fr="Louisiane" es="Luisiana" it="Louisiana" nl="Louisiana" />
       <longitude>-92.4444580078125</longitude>
       <latitude>31.31103515625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ハモンド" eng="Hammond" de="Hammond" fr="Hammond" es="Hammond" it="Hammond" nl="Hammond">
+      <province jpn="ルイジアナ州" eng="Louisiana" de="Louisiana" fr="Louisiane" es="Luisiana" it="Louisiana" nl="Louisiana" />
+      <longitude>-90.434190</longitude>
+      <latitude>30.495020</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -8455,6 +8490,13 @@
       <longitude>-69.9609375</longitude>
       <latitude>43.912353515625</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="デンマーク" eng="Denmark" de="Denmark" fr="Denmark" es="Denmark" it="Denmark" nl="Denmark">
+      <province jpn="メーン州" eng="Maine" de="Maine" fr="Maine" es="Maine" it="Maine" nl="Maine" />
+      <longitude>-70.810813</longitude>
+      <latitude>43.968075</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ルイストン" eng="Lewiston" de="Lewiston" fr="Lewiston" es="Lewiston" it="Lewiston" nl="Lewiston">
@@ -9276,6 +9318,13 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="エリザベスシティ" eng="Elizabeth City" de="Elizabeth City" fr="Elizabeth City" es="Elizabeth City" it="Elizabeth City" nl="Elizabeth City">
+      <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
+      <longitude>-76.233255</longitude>
+      <latitude>36.285519</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="ファイエットビル" eng="Fayetteville" de="Fayetteville" fr="Fayetteville" es="Fayetteville" it="Fayetteville" nl="Fayetteville">
       <province jpn="ノースカロライナ州" eng="North Carolina" de="Nordkarolina" fr="Caroline du Nord" es="Carolina del Norte" it="Carolina del Nord" nl="Noord-Carolina" />
       <longitude>-78.8763427734375</longitude>
@@ -9449,6 +9498,13 @@
       <longitude>-83.551025390625</longitude>
       <latitude>41.66015625</latitude>
       <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ツインズバーグ" eng="Twinsburg" de="Twinsburg" fr="Twinsburg" es="Twinsburg" it="Twinsburg" nl="Twinsburg">
+      <province jpn="オハイオ州" eng="Ohio" de="Ohio" fr="Ohio" es="Ohio" it="Ohio" nl="Ohio" />
+      <longitude>-81.450543</longitude>
+      <latitude>41.321450</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ヤングスタウン" eng="Youngstown" de="Youngstown" fr="Youngstown" es="Youngstown" it="Youngstown" nl="Youngstown">
@@ -9990,6 +10046,20 @@
       <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="マーブル・フォールズ" eng="Marble Falls" de="Marble Falls" fr="Marble Falls" es="Marble Falls" it="Marble Falls" nl="Marble Falls">
+      <province jpn="テキサス州" eng="Texas" de="Texas" fr="Texas" es="Texas" it="Texas" nl="Texas" />
+      <longitude>-98.291945</longitude>
+      <latitude>30.602595</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="マティス" eng="Mathis" de="Mathis" fr="Mathis" es="Mathis" it="Mathis" nl="Mathis">
+      <province jpn="テキサス州" eng="Texas" de="Texas" fr="Texas" es="Texas" it="Texas" nl="Texas" />
+      <longitude>-97.861606</longitude>
+      <latitude>28.097133</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="マッカレン" eng="McAllen" de="McAllen" fr="McAllen" es="McAllen" it="McAllen" nl="McAllen">
       <province jpn="テキサス州" eng="Texas" de="Texas" fr="Texas" es="Texas" it="Texas" nl="Texas" />
       <longitude>-98.228759765625</longitude>
@@ -10239,21 +10309,21 @@
       <province jpn="ワシントン州" eng="Washington" de="Washington" fr="Washington" es="Washington" it="Washington" nl="Washington" />
       <longitude>-122.1954345703125</longitude>
       <latitude>47.977294921875</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="オークハーバー" eng="Oak Harbor" de="Oak Harbor" fr="Oak Harbor" es="Oak Harbor" it="Oak Harbor" nl="Oak Harbor">
+	<city jpn="マウントバーノン" eng="Mount Vernon" de="Mount Vernon" fr="Mount Vernon" es="Mount Vernon" it="Mount Vernon" nl="Mount Vernon">
       <province jpn="ワシントン州" eng="Washington" de="Washington" fr="Washington" es="Washington" it="Washington" nl="Washington" />
-      <longitude>-122.640380859375</longitude>
-      <latitude>48.2904052734375</latitude>
-      <zoom1>0</zoom1>
+      <longitude>-122.336474</longitude>
+      <latitude>48.413811</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ポート・アンジェルス" eng="Port Angeles" de="Port Angeles" fr="Port Angeles" es="Port Angeles" it="Port Angeles" nl="Port Angeles">
       <province jpn="ワシントン州" eng="Washington" de="Washington" fr="Washington" es="Washington" it="Washington" nl="Washington" />
       <longitude>-123.4259033203125</longitude>
       <latitude>48.1146240234375</latitude>
-      <zoom1>0</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="タコマ" eng="Tacoma" de="Tacoma" fr="Tacoma" es="Tacoma" it="Tacoma" nl="Tacoma">
@@ -10351,6 +10421,20 @@
       <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
       <longitude>-88.4124755859375</longitude>
       <latitude>44.2584228515625</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ビーバーダム" eng="Beaver Dam" de="Beaver Dam" fr="Beaver Dam" es="Beaver Dam" it="Beaver Dam" nl="Beaver Dam">
+      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
+      <longitude>-88.835216</longitude>
+      <latitude>43.450858</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="デ·ピア" eng="De Pere" de="De Pere" fr="De Pere" es="De Pere" it="De Pere" nl="De Pere">
+      <province jpn="ウィスコンシン州" eng="Wisconsin" de="Wisconsin" fr="Wisconsin" es="Wisconsin" it="Wisconsin" nl="Wisconsin" />
+      <longitude>-88.136815</longitude>
+      <latitude>44.395164</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -17396,7 +17480,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="オビエド" eng="Oviedo" de="Oviedo" fr="Oviedo" es="Oviedo" it="Oviedo" nl="Oviedo">
+    <city jpn="ウヴィエウ" eng="Uviéu" de="Uviéu" fr="Uviéu" es="Uviéu" it="Uviéu" nl="Uviéu">
       <province jpn="アストゥリアス" eng="Asturies" de="Asturien" fr="Asturies" es="Asturies" it="Asturie" nl="Asturië" />
       <longitude>-5.833740234375</longitude>
       <latitude>43.363037109375</latitude>
@@ -17459,7 +17543,7 @@
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="シウタデリャ・デ・メノルカ" eng="Ciutadella de Menorca" de="Ciutadella de Menorca" fr="Ciutadella de Menorca" es="Ciutadella de Menorca" it="Ciutadella de Menorca" nl="Ciutadella de Menorca">
+    <city jpn="シウタデリャカ" eng="Ciutadella" de="Ciutadella" fr="Ciutadella" es="Ciutadella" it="Ciutadella" nl="Ciutadella">
       <province jpn="バレアーレス諸島" eng="Balearic Islands" de="Balearische Inseln" fr="Îles Baléares" es="Balears" it="Baleari" nl="Balearen" />
       <longitude>3.842533</longitude>
       <latitude>40.051142</latitude>
@@ -18065,10 +18149,10 @@
       <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
       <longitude>2.1697998046875</longitude>
       <latitude>41.3800048828125</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ジローナ" eng="Girona" de="Girona" fr="Gérone" es="Girona" it="Girona" nl="Gerona">
+    <city jpn="ジローナ" eng="Girona" de="Girona" fr="Girona" es="Girona" it="Girona" nl="Girona">
       <province jpn="カタルーニャ" eng="Catalonia" de="Katalonien" fr="Catalogne" es="Catalunya" it="Catalogna" nl="Catalonië" />
       <longitude>2.8179931640625</longitude>
       <latitude>41.9732666015625</latitude>
@@ -18670,7 +18754,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ペニスコラ" eng="Peníscola" de="Peníscola" fr="Peníscola" es="Peñíscola" it="Peníscola" nl="Peníscola">
+    <city jpn="ペニスコラ" eng="Peníscola" de="Peníscola" fr="Peníscola" es="Peníscola" it="Peníscola" nl="Peníscola">
       <province jpn="バレンシア" eng="Valencian Country" de="Land Valencia" fr="Pays valencien" es="Comunitat Valenciana" it="Comunità Valenciana" nl="Land Valencia" />
       <longitude>0.3900146484375</longitude>
       <latitude>40.36376953125</latitude>
@@ -18922,11 +19006,11 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="サンティアゴ・デ・コンポステーラ" eng="Santiago de Compostela" de="Santiago de Compostela" fr="Saint-Jacques-de-Compostelle" es="Santiago de Compostela" it="Santiago di Compostela" nl="Santiago de Compostella">
+    <city jpn="コンポステーラ" eng="Compostela" de="Compostela" fr="Compostelle" es="Compostela" it="Compostela" nl="Compostella">
       <province jpn="ガリーシア" eng="Galicia" de="Galicien" fr="Galice" es="Galicia" it="Galizia" nl="Galicië" />
       <longitude>-8.5418701171875</longitude>
       <latitude>42.8741455078125</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ア・コルーニャ" eng="A Coruña" de="A Coruña" fr="La Corogne" es="A Coruña" it="A Coruña" nl="A Coruña">
@@ -21897,8 +21981,8 @@
   </country>
   <country>
     <name jpn="アンドラ" eng="Andorra" de="Andorra" fr="Andorre" es="Andorra" it="Andorra" nl="Andorra" />
-    <city jpn="アンドラ・ラ・ベリャ" eng="Andorra la Vella" de="Andorra la Vella" fr="Andorre-la-Vieille" es="Andorra la Vella" it="Andorra la Vella" nl="Andorra la Vella">
-      <province jpn="アンドラ・ラ・ベリャ" eng="Andorra la Vella" de="Andorra la Vella" fr="Andorre-la-Vieille" es="Andorra la Vella" it="Andorra la Vella" nl="Andorra la Vella" />
+    <city jpn="アンドラ・ラ・ベリャ" eng="Andorra la Vella" de="Andorra la Vella" fr="Andorre la Vella" es="Andorra la Vella" it="Andorra la Vella" nl="Andorra la Vella">
+      <province jpn="アンドラ・ラ・ベリャ" eng="Andorra la Vella" de="Andorra la Vella" fr="Andorre la Vella" es="Andorra la Vella" it="Andorra la Vella" nl="Andorra la Vella" />
       <longitude>1.5106201171875</longitude>
       <latitude>42.506103515625</latitude>
       <zoom1>9</zoom1>
@@ -22125,7 +22209,7 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="南竿市" eng="Nangan" de="Nangan" fr="Nangan" es="Nangan" it="Nangan" nl="Nangan">
+    <city jpn="南竿郷" eng="Nangan" de="Nangan" fr="Nangan" es="Nangan" it="Nangan" nl="Nangan">
       <province jpn="連江県" eng="Lienchiang County" de="Lienchiang" fr="Lienchiang" es="Lienchiang" it="Lienchiang" nl="Lienchiang" />
       <longitude>119.951947</longitude>
       <latitude>26.158961</latitude>
@@ -22760,7 +22844,7 @@
       <province jpn="中部ヴィサヤ" eng="Central Visayas" de="Central Visayas" fr="Visayas centrales" es="Visayas Central" it="Visayas Centrale" nl="Central Visayas" />
       <longitude>123.8873291015625</longitude>
       <latitude>10.3106689453125</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
@@ -23736,26 +23820,110 @@
     </city>
   </country>
   <country>
-    <name jpn="サウジアラビア" eng="Saudi Arabia" de="Saudi-Arabien" fr="Arabie saoudite" es="Arabia Saudí" it="Arabia Saudita" nl="Saoedi-Arabië" />
+    <name jpn="サウジアラビア" eng="Saudi Arabia" de="Saudi-Arabien" fr="Arabie saoudite" es="Arabia Saudita" it="Arabia Saudita" nl="Saoedi-Arabië" />
     <city jpn="リヤド" eng="Riyadh" de="Riad" fr="Riyad" es="Riad" it="Riyad" nl="Riyad">
-      <province jpn="リヤド州" eng="Ar Riyad" de="Riad" fr="Ar Riyâd" es="Ar Riyad" it="Al Riyad" nl="Ar Riyad" />
+      <province jpn="リヤド州" eng="Riyadh" de="Riad" fr="Riyad" es="Riad" it="Riyad" nl="Riyad" />
       <longitude>46.768798828125</longitude>
       <latitude>24.6368408203125</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="バーハ" eng="Al Bahah" de="Al-Baha" fr="Al Bahah" es="Al Bahah" it="Al-Baha" nl="Al-Bahah">
+      <province jpn="バーハ州" eng="Al Bahah" de="Al-Baha" fr="Al Bahah" es="Al Bahah" it="Al-Baha" nl="Al-Bahah" />
+      <longitude>41.440290</longitude>
+      <latitude>20.019566</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アラル" eng="Arar" de="Arar" fr="Arar" es="Arar" it="Arar" nl="Arar">
+      <province jpn="北部国境州" eng="Al-Hudud Al-Shamaliyyah" de="Al-Hudud Asch-schamaliyya" fr="Al Hudud ach Chamaliya" es="Hudud ash-Shamaliyah" it="Al-Hudud al-Shamaliyya" nl="Al Hudud ash Shamaliyah" />
+      <longitude>41.023691</longitude>
+      <latitude>30.961831</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="サカーカ" eng="Sakakah" de="Sakaka" fr="Sakaka" es="Sakaka" it="Sakaka" nl="Sakakah">
+      <province jpn="ジャウフ州" eng="Al-Jawf" de="Al-Dschauf" fr="Al Jawf" es="Yauf" it="Al-Jawf" nl="Al Jawf" />
+      <longitude>40.041905</longitude>
+      <latitude>29.849688</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ブライダ" eng="Buraidah" de="Buraida" fr="Bouraïda" es="Buraidá" it="Burayda" nl="Buraidah">
+      <province jpn="カスィーム州" eng="Al-Qassim" de="Al-Qasim" fr="Al Qasim" es="Casim" it="Al-Qasim" nl="Al Qasim" />
+      <longitude>43.957079</longitude>
+      <latitude>26.351171</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="アブハー" eng="Abha" de="Abha" fr="Abha" es="Abha" it="Abha" nl="Abha">
+      <province jpn="アスィール州" eng="Asir" de="Asir" fr="Asir" es="Asir" it="Asir" nl="Asir" />
+      <longitude>42.526264</longitude>
+      <latitude>18.223035</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ダンマーム" eng="Dammam" de="Dammam" fr="Dammam" es="Dammam" it="Dammam" nl="Dammam">
+      <province jpn="東部州" eng="Ash Sharqiyah" de="Asch-Scharqiyya" fr="Ach-Charqiya" es="Sharqiyah" it="Al-Sharqiyya" nl="Ash Sharqiyah" />
+      <longitude>50.102055</longitude>
+      <latitude>26.399964</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="メッカ" eng="Mecca" de="Mekka" fr="La Mecque" es="La Meca" it="La Mecca" nl="Mekka">
-      <province jpn="メッカ州" eng="Makkah" de="Mekka" fr="La Mecque" es="Hiyaz" it="Hijàz" nl="Mekka" />
+      <province jpn="メッカ州" eng="Mecca" de="Mekka" fr="La Mecque" es="La Meca" it="La Mecca" nl="Mekka" />
       <longitude>39.825439453125</longitude>
       <latitude>21.42333984375</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ジッダ" eng="Jeddah" de="Dschidda" fr="Jiddah" es="Yeddah" it="Gidda" nl="Djedda">
-      <province jpn="メッカ州" eng="Makkah" de="Mekka" fr="La Mecque" es="Hiyaz" it="Hijàz" nl="Mekka" />
+      <province jpn="メッカ州" eng="Mecca" de="Mekka" fr="La Mecque" es="La Meca" it="La Mecca" nl="Mekka" />
       <longitude>39.2156982421875</longitude>
       <latitude>21.5167236328125</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ハーイル" eng="Ha'il" de="Ha'il" fr="Haïl" es="Hail" it="Ha'il" nl="Ha'il">
+      <province jpn="ハーイル州" eng="Ha'il" de="Ha'il" fr="Haïl" es="Hail" it="Ha'il" nl="Ha'il" />
+      <longitude>41.696098</longitude>
+      <latitude>27.509817</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ジーザーン" eng="Jizan" de="Dschaizan" fr="Jizan" es="Jizán" it="Jizan" nl="Jizan">
+      <province jpn="ジーザーン州" eng="Jizan" de="Dschaizan" fr="Jizan" es="Jizán" it="Jizan" nl="Jizan" />
+      <longitude>42.576201</longitude>
+      <latitude>16.863061</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ジーザーン" eng="Jizan" de="Dschaizan" fr="Jizan" es="Jizán" it="Jizan" nl="Jizan">
+      <province jpn="ジーザーン州" eng="Jizan" de="Dschaizan" fr="Jizan" es="Jizán" it="Jizan" nl="Jizan" />
+      <longitude>42.578253</longitude>
+      <latitude>16.863056</latitude>
       <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="マディーナ" eng="Medina" de="Medina" fr="Médine" es="Medina" it="Medina" nl="Medina">
+      <province jpn="マディーナ州" eng="Medina" de="Medina" fr="Médine" es="Medina" it="Medina" nl="Medina" />
+      <longitude>39.607287</longitude>
+      <latitude>24.497155</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ナジュラーン" eng="Najran" de="Nadschran" fr="Najran" es="Nayrán" it="Najran" nl="Najran">
+      <province jpn="ナジュラーン州" eng="Najran" de="Nadschran" fr="Najran" es="Nayrán" it="Najran" nl="Najran" />
+      <longitude>44.222749</longitude>
+      <latitude>17.557459</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="タブーク" eng="Tabuk" de="Tabuk" fr="Tabouk" es="Tabuk" it="Tabuk" nl="Tabuk">
+      <province jpn="タブーク州" eng="Tabuk" de="Tabuk" fr="Tabouk" es="Tabuk" it="Tabuk" nl="Tabuk" />
+      <longitude>36.555248</longitude>
+      <latitude>28.383857</latitude>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
@@ -23775,7 +23943,7 @@
       <province jpn="首都県" eng="Capital Governorate" de="Hauptstadtgouvernement" fr="Gouvernorat de la capitale" es="Gobernación Capital" it="Governatorato della Capitale" nl="Hoofdstad" />
       <longitude>50.5810546875</longitude>
       <latitude>26.2353515625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>
@@ -24306,7 +24474,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>-63.0450439453125</longitude>
       <latitude>18.21533203125</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
       <country jpn="アンギラ" eng="Anguilla" de="Anguilla" fr="Anguilla" es="Anguila" it="Anguilla" nl="Anguilla" />
       <name jpn="ザ・バレー" eng="The Valley" de="The Valley" fr="The Valley" es="El Valle" it="The Valley" nl="The Valley" />
@@ -24315,7 +24483,7 @@
       <province jpn="セント・ジョン" eng="Saint John" de="Saint John" fr="Saint-Jean" es="Saint John" it="Saint John" nl="Saint John" />
       <longitude>-61.8475341796875</longitude>
       <latitude>17.1112060546875</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
       <country jpn="アンティグア・バーブーダ" eng="Antigua and Barbuda" de="Antigua und Barbuda" fr="Antigua-et-Barbuda" es="Antigua y Barbuda" it="Antigua e Barbuda" nl="Antigua en Barbuda" />
       <name jpn="セント・ジョン" eng="St. John's" de="Saint John's" fr="Saint John's" es="Saint John's" it="Saint John's" nl="Saint John's" />
@@ -24391,6 +24559,15 @@
       <zoom2>3</zoom2>
       <country jpn="ベリーズ" eng="Belize" de="Belize" fr="Belize" es="Belice" it="Belize" nl="Belize" />
       <name jpn="ベルモパン" eng="Belmopan" de="Belmopan" fr="Belmopan" es="Belmopán" it="Belmopan" nl="Belmopan" />
+    </city>
+	<city>
+      <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
+      <longitude>-64.784343</longitude>
+      <latitude>32.293911</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="バミューダ諸島" eng="Bermuda" de="Bermuda" fr="Bermudes" es="Bermudas" it="Bermuda" nl="Bermuda" />
+      <name jpn="ベルモパン" eng="Hamilton" de="Hamilton" fr="Hamilton" es="Hamilton" it="Hamilton" nl="Hamilton" />
     </city>
     <city>
       <province jpn="ラパス県" eng="La Paz" de="La Paz" fr="La Paz" es="La Paz" it="La Paz" nl="La Paz" />
@@ -24468,7 +24645,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>-64.6160888671875</longitude>
       <latitude>18.4130859375</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
       <country jpn="英領ヴァージン諸島" eng="British Virgin Islands" de="Britische Jungferninseln" fr="Iles Vierges britanniques" es="Islas Vírgenes Británicas" it="Isole Vergini Britanniche" nl="Britse Maagdeneilanden" />
       <name jpn="ロードタウン" eng="Road Town" de="Road Town" fr="Road Town" es="Road Town" it="Road Town" nl="Road Town" />
@@ -24585,7 +24762,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>-81.3812255859375</longitude>
       <latitude>19.2974853515625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
       <country jpn="ケイマン諸島" eng="Cayman Islands" de="Kaimaninseln" fr="Iles Caïmans" es="Islas Caimán" it="Isole Cayman" nl="Kaaimaneilanden" />
       <name jpn="ジョージタウン" eng="George Town" de="George Town" fr="George Town" es="George Town" it="George Town" nl="George Town" />
@@ -24639,7 +24816,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>-61.3970947265625</longitude>
       <latitude>15.2984619140625</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
       <country jpn="ドミニカ国" eng="Dominica" de="Dominica" fr="Dominique" es="Dominica" it="Dominica" nl="Dominica" />
       <name jpn="ロゾー" eng="Roseau" de="Roseau" fr="Roseau" es="Roseau" it="Roseau" nl="Roseau" />
@@ -24675,7 +24852,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>-61.7486572265625</longitude>
       <latitude>12.0465087890625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
       <country jpn="グレナダ" eng="Grenada" de="Grenada" fr="Grenade" es="Granada" it="Grenada" nl="Grenada" />
       <name jpn="セントジョージ" eng="St. George's" de="Saint George's" fr="Saint George's" es="Saint George's" it="Saint George's" nl="Saint George's" />
@@ -24738,7 +24915,7 @@
       <province jpn="バハ・カリフォルニア・スル州" eng="Baja California Sur" de="Süd-Niederkalifornien" fr="Basse-Californie du Sud" es="Baja California Sur" it="Bassa California del Sud" nl="Zuid-Neder-Californië" />
       <longitude>-109.896240234375</longitude>
       <latitude>22.8790283203125</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
       <country jpn="メキシコ" eng="Mexico" de="Mexiko" fr="Mexique" es="México" it="Messico" nl="Mexico" />
       <name jpn="サンルーカス岬" eng="Cabo San Lucas" de="Los Cabos" fr="San Lucas" es="Cabo San Lucas" it="Cabo San Lucas" nl="Cabo San Lucas" />
@@ -24792,7 +24969,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>-62.212183</longitude>
       <latitude>16.789051</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
       <country jpn="モントセラト" eng="Montserrat" de="Montserrat" fr="Montserrat" es="Montserrat" it="Montserrat" nl="Montserrat" />
       <name jpn="ブレイズ" eng="Brades" de="Brades" fr="Brades" es="Brades" it="Brades" nl="Brades" />
@@ -24801,9 +24978,9 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>-68.9117431640625</longitude>
       <latitude>12.095947265625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="オランダ領アンティル" eng="Netherlands Antilles" de="Niederländische Antillen" fr="Antilles néerlandaises" es="Antillas Neerlandesas" it="Antille Olandesi" nl="Nederlandse Antillen" />
+      <country jpn="キュラソー" eng="Curaçao" de="Curaçao" fr="Curaçao" es="Curazao" it="Curaçao" nl="Curaçao" />
       <name jpn="ウィレムスタット" eng="Willemstad" de="Willemstad" fr="Willemstad" es="Willemstad" it="Willemstad" nl="Willemstad" />
     </city>
     <city>
@@ -24864,7 +25041,7 @@
       <province jpn="セント・ジョージ・バセテール" eng="Saint George Basseterre" de="Saint George Basseterre" fr="Saint-George Basseterre" es="Saint George Basseterre" it="Saint George Basseterre" nl="Saint George Basseterre" />
       <longitude>-62.7154541015625</longitude>
       <latitude>17.2979736328125</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
       <country jpn="セントキッツ・ネイビス" eng="St. Kitts and Nevis" de="St. Kitts und Nevis" fr="Saint-Kitts-et-Nevis" es="San Cristóbal y Nieves" it="Saint Kitts e Nevis" nl="Saint Kitts en Nevis" />
       <name jpn="バセテール" eng="Basseterre" de="Basseterre" fr="Basseterre" es="Basseterre" it="Basseterre" nl="Basseterre" />
@@ -24873,7 +25050,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>-60.99609375</longitude>
       <latitude>13.99658203125</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
       <country jpn="セントルシア" eng="St. Lucia" de="St. Lucia" fr="Sainte-Lucie" es="Santa Lucía" it="Santa Lucia" nl="Saint Lucia" />
       <name jpn="カストリーズ" eng="Castries" de="Castries" fr="Castries" es="Castries" it="Castries" nl="Castries" />
@@ -24882,7 +25059,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>-61.2158203125</longitude>
       <latitude>13.128662109375</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
       <country jpn="セントビンセント・グレナディーン" eng="St. Vincent and the Grenadines" de="St. Vincent und die Grenadinen" fr="Saint-Vincent-et-les-Grenadines" es="San Vicente y las Granadinas" it="Saint Vincent e Grenadine" nl="Saint Vincent en de Grenadines" />
       <name jpn="キングスタウン" eng="Kingstown" de="Kingstown" fr="Kingstown" es="Kingstown" it="Kingstown" nl="Kingstown" />
@@ -24900,7 +25077,7 @@
       <province jpn="ポート・オブ・スペイン" eng="Port-of-Spain" de="Port-of-Spain" fr="Port d'Espagne" es="Puerto España" it="Port of Spain" nl="Port of Spain" />
       <longitude>-61.512451171875</longitude>
       <latitude>10.645751953125</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
       <country jpn="トリニダード・トバゴ" eng="Trinidad and Tobago" de="Trinidad und Tobago" fr="Trinité-et-Tobago" es="Trinidad y Tobago" it="Trinidad e Tobago" nl="Trinidad en Tobago" />
       <name jpn="ポートオブスペイン" eng="Port of Spain" de="Port-of-Spain" fr="Port d'Espagne" es="Puerto España" it="Port-of-Spain" nl="Port of Spain" />
@@ -24987,13 +25164,13 @@
       <name jpn="アトランタ" eng="Atlanta" de="Atlanta" fr="Atlanta" es="Atlanta" it="Atlanta" nl="Atlanta" />
     </city>
     <city>
-      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawai" it="Hawai'i" nl="Hawaï" />
+      <province jpn="ハワイ州" eng="Hawai'i" de="Hawai'i" fr="Hawaï" es="Hawái" it="Hawai'i" nl="Hawaï" />
       <longitude>-157.8570556640625</longitude>
       <latitude>21.302490234375</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
       <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
-      <name jpn="ホノルル" eng="Honolulu" de="Honolulu" fr="Honolulu" es="Honolulú" it="Honolulu" nl="Honolulu" />
+      <name jpn="ホノルル" eng="Honolulu" de="Honolulu" fr="Honolulu" es="Honolulu" it="Honolulu" nl="Honolulu" />
     </city>
     <city>
       <province jpn="イリノイ州" eng="Illinois" de="Illinois" fr="Illinois" es="Illinois" it="Illinois" nl="Illinois" />
@@ -25084,15 +25261,6 @@
       <zoom2>3</zoom2>
       <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
       <name jpn="ニューヨーク" eng="New York" de="New York" fr="New York" es="Nueva York" it="New York" nl="New York" />
-    </city>
-    <city>
-      <province jpn="ニューヨーク州" eng="New York" de="New York" fr="New York" es="Nueva York" it="New York" nl="New York" />
-      <longitude>-79.0521240234375</longitude>
-      <latitude>43.0938720703125</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-      <country jpn="アメリカ合衆国" eng="United States" de="Vereinigte Staaten" fr="Etats-Unis" es="Estados Unidos" it="Stati Uniti" nl="Verenigde Staten" />
-      <name jpn="ナイアガラ" eng="Niagara Falls" de="Niagara Falls" fr="Niagara Falls" es="Niagara Falls" it="Niagara Falls" nl="Niagara Falls" />
     </city>
     <city>
       <province jpn="オハイオ州" eng="Ohio" de="Ohio" fr="Ohio" es="Ohio" it="Ohio" nl="Ohio" />
@@ -25242,7 +25410,7 @@
       <province jpn="オーストラリア首都特別地域" eng="Australian Capital Territory" de="Australisches Hauptstadtterritorium" fr="Territoire de la capitale australienne" es="Territorio de la Capital Australiana" it="Australian Capital Territory" nl="Australisch Hoofdstedelijk Territorium" />
       <longitude>149.04052734375</longitude>
       <latitude>-35.3485107421875</latitude>
-      <zoom1>9</zoom1>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
       <country jpn="オーストラリア" eng="Australia" de="Australien" fr="Australie" es="Australia" it="Australia" nl="Australië" />
       <name jpn="キャンベラ" eng="Canberra" de="Canberra" fr="Canberra" es="Canberra" it="Canberra" nl="Canberra" />
@@ -25251,7 +25419,7 @@
       <province jpn="ニューサウスウェールズ州" eng="New South Wales" de="Neusüdwales" fr="Nouvelle-Galles-du-Sud" es="Nueva Gales del Sur" it="Nuovo Galles del Sud" nl="Nieuw-Zuid-Wales" />
       <longitude>151.23779296875</longitude>
       <latitude>-33.8873291015625</latitude>
-      <zoom1>7</zoom1>
+      <zoom1>9</zoom1>
       <zoom2>3</zoom2>
       <country jpn="オーストラリア" eng="Australia" de="Australien" fr="Australie" es="Australia" it="Australia" nl="Australië" />
       <name jpn="シドニー" eng="Sydney" de="Sydney" fr="Sydney" es="Sídney" it="Sydney" nl="Sydney" />
@@ -25278,19 +25446,10 @@
       <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
       <longitude>153.0230712890625</longitude>
       <latitude>-27.4493408203125</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
       <country jpn="オーストラリア" eng="Australia" de="Australien" fr="Australie" es="Australia" it="Australia" nl="Australië" />
       <name jpn="ブリスベン" eng="Brisbane" de="Brisbane" fr="Brisbane" es="Brisbane" it="Brisbane" nl="Brisbane" />
-    </city>
-    <city>
-      <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
-      <longitude>153.4185791015625</longitude>
-      <latitude>-28.0206298828125</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-      <country jpn="オーストラリア" eng="Australia" de="Australien" fr="Australie" es="Australia" it="Australia" nl="Australië" />
-      <name jpn="ゴールドコースト" eng="Gold Coast" de="Gold Coast" fr="Gold Coast" es="Costa Dorada" it="Gold Coast" nl="Gold Coast" />
     </city>
     <city>
       <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
@@ -25509,15 +25668,6 @@
       <name jpn="トゥールーズ" eng="Toulouse" de="Toulouse" fr="Toulouse" es="Tolosa" it="Tolosa" nl="Toulouse" />
     </city>
     <city>
-      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
-      <longitude>2.889404296875</longitude>
-      <latitude>42.6873779296875</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-      <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
-      <name jpn="パルピニャー" eng="Perpinyà" de="Perpignan" fr="Perpignan" es="Perpiñán" it="Perpignano" nl="Perpignan" />
-    </city>
-    <city>
       <province jpn="ペイ・ド・ラ・ロワール" eng="Pays de la Loire" de="Pays de la Loire" fr="Pays de la Loire" es="Países del Loira" it="Paesi della Loira" nl="Pays de la Loire" />
       <longitude>-1.549072265625</longitude>
       <latitude>47.2137451171875</latitude>
@@ -25530,7 +25680,7 @@
       <province jpn="ブルターニュ" eng="Brittany" de="Bretagne" fr="Bretagne" es="Bretaña" it="Bretagna" nl="Bretagne" />
       <longitude>-1.680908203125</longitude>
       <latitude>48.109130859375</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
       <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
       <name jpn="レンヌ" eng="Rennes" de="Rennes" fr="Rennes" es="Rennes" it="Rennes" nl="Rennes" />
@@ -25638,7 +25788,7 @@
       <province jpn="バイエルン州" eng="Bavaria" de="Bayern" fr="Bavière" es="Baviera" it="Baviera" nl="Beieren" />
       <longitude>11.0687255859375</longitude>
       <latitude>49.449462890625</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
       <country jpn="ドイツ" eng="Germany" de="Deutschland" fr="Allemagne" es="Alemania" it="Germania" nl="Duitsland" />
       <name jpn="ニュルンベルク" eng="Nuremberg" de="Nürnberg" fr="Nuremberg" es="Núremberg" it="Norimberga" nl="Neurenberg" />
@@ -25647,7 +25797,7 @@
       <province jpn="ザクセン州" eng="Saxony" de="Sachsen" fr="Saxe" es="Sajonia" it="Sassonia" nl="Saksen" />
       <longitude>9.73388671875</longitude>
       <latitude>52.3663330078125</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
       <country jpn="ドイツ" eng="Germany" de="Deutschland" fr="Allemagne" es="Alemania" it="Germania" nl="Duitsland" />
       <name jpn="ライプツィヒ" eng="Leipzig" de="Leipzig" fr="Leipzig" es="Leipzig" it="Lipsia" nl="Leipzig" />
@@ -25674,7 +25824,7 @@
       <province jpn="南エーゲ" eng="South Aegean" de="Südliche Ägäis" fr="Sud de l'Égée" es="Egeo Meridional" it="Egeo Meridionale" nl="Zuid-Egeïsche Eilanden" />
       <longitude>28.2183837890625</longitude>
       <latitude>36.4361572265625</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
       <country jpn="ギリシャ" eng="Greece" de="Griechenland" fr="Grèce" es="Grecia" it="Grecia" nl="Griekenland" />
       <name jpn="ロードス" eng="Rhodes" de="Rhodos" fr="Rhodes" es="Rodas" it="Rodi" nl="Rhodos" />
@@ -25719,7 +25869,7 @@
       <province jpn="ピエモンテ州" eng="Piedmont" de="Piemont" fr="Piémont" es="Piamonte" it="Piemonte" nl="Piëmont" />
       <longitude>7.6739501953125</longitude>
       <latitude>45.0714111328125</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
       <country jpn="イタリア" eng="Italy" de="Italien" fr="Italie" es="Italia" it="Italia" nl="Italië" />
       <name jpn="トリノ" eng="Turin" de="Turin" fr="Turin" es="Turín" it="Torino" nl="Turijn" />
@@ -25836,7 +25986,7 @@
       <province jpn="南東地域" eng="South Eastern Region" de="Südost" fr="Sud-Est" es="Sureste" it="Sud-Est" nl="Zuidoost" />
       <longitude>14.512939453125</longitude>
       <latitude>35.8978271484375</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
       <country jpn="マルタ" eng="Malta" de="Malta" fr="Malte" es="Malta" it="Malta" nl="Malta" />
       <name jpn="バレッタ" eng="Valletta" de="Valletta" fr="La Vallette" es="La Valeta" it="La Valletta" nl="Valletta" />
@@ -25881,7 +26031,7 @@
       <province jpn="フリースランド" eng="Fryslân" de="Friesland" fr="Frise" es="Frisia" it="Frisia" nl="Fryslân" />
       <longitude>5.7843017578125</longitude>
       <latitude>53.1903076171875</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
       <country jpn="オランダ" eng="Netherlands" de="Niederlande" fr="Pays-Bas" es="Países Bajos" it="Paesi Bassi" nl="Nederland" />
       <name jpn="リィオヴト" eng="Ljouwert" de="Ljouwert" fr="Ljouwert" es="Ljouwert" it="Ljouwert" nl="Ljouwert" />
@@ -25935,24 +26085,24 @@
       <province jpn="マウォポルスカ" eng="Lesser Poland" de="Kleinpolen" fr="Petite-Pologne" es="Pequeña Polonia" it="Piccola Polonia" nl="Klein-Polen" />
       <longitude>19.940185546875</longitude>
       <latitude>50.0537109375</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
       <country jpn="ポーランド" eng="Poland" de="Polen" fr="Pologne" es="Polonia" it="Polonia" nl="Polen" />
       <name jpn="クラクフ" eng="Kraków" de="Krakau" fr="Cracovie" es="Cracovia" it="Cracovia" nl="Kraków" />
     </city>
     <city>
       <province jpn="リスボン都市圏" eng="Lisbon" de="Lissabon" fr="Lisbonne" es="Lisboa" it="Lisbona" nl="Lissabon" />
-      <longitude>-8.602294921875</longitude>
-      <latitude>41.1492919921875</latitude>
-      <zoom1>6</zoom1>
+	  <longitude>-9.140625</longitude>
+      <latitude>38.7213134765625</latitude>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
       <country jpn="ポルトガル" eng="Portugal" de="Portugal" fr="Portugal" es="Portugal" it="Portogallo" nl="Portugal" />
       <name jpn="リスボン" eng="Lisbon" de="Lissabon" fr="Lisbonne" es="Lisboa" it="Lisbona" nl="Lissabon" />
     </city>
     <city>
       <province jpn="ノルテ" eng="Norte" de="Nordportugal" fr="Région Nord" es="Norte" it="Nord" nl="Norte" />
-      <longitude>-9.140625</longitude>
-      <latitude>38.7213134765625</latitude>
+      <longitude>-8.602294921875</longitude>
+      <latitude>41.1492919921875</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
       <country jpn="ポルトガル" eng="Portugal" de="Portugal" fr="Portugal" es="Portugal" it="Portogallo" nl="Portugal" />
@@ -26043,7 +26193,7 @@
       <province jpn="南部連邦管区" eng="Southern Federal District" de="Südrussland" fr="District fédéral du Sud" es="Distrito Federal Meridional" it="Distretto Federale Meridionale" nl="Zuidelijk Federaal District" />
       <longitude>45.68115234375</longitude>
       <latitude>43.2916259765625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
       <country jpn="ロシア" eng="Russia" de="Russland" fr="Russie" es="Rusia" it="Russia" nl="Rusland" />
       <name jpn="グロズヌイ" eng="Grozny" de="Grosny" fr="Grozny" es="Grozni" it="Grozny" nl="Grozny" />
@@ -26061,7 +26211,7 @@
       <province jpn="ブラティスラバ" eng="Bratislava" de="Bratislava" fr="Bratislava" es="Bratislava" it="Bratislava" nl="Bratislava" />
       <longitude>17.1221923828125</longitude>
       <latitude>48.1475830078125</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
       <country jpn="スロバキア" eng="Slovakia" de="Slowakei" fr="Slovaquie" es="Eslovaquia" it="Slovacchia" nl="Slowakije" />
       <name jpn="ブラチスラヴァ" eng="Bratislava" de="Bratislava" fr="Bratislava" es="Bratislava" it="Bratislava" nl="Bratislava" />
@@ -26167,12 +26317,12 @@
     </city>
     <city>
       <province jpn="ガリーシア" eng="Galicia" de="Galicien" fr="Galice" es="Galicia" it="Galizia" nl="Galicië" />
-      <longitude>-8.3990478515625</longitude>
-      <latitude>43.3575439453125</latitude>
+      <longitude>-8.5418701171875</longitude>
+      <latitude>42.8741455078125</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
       <country jpn="スペイン" eng="Spain" de="Spanien" fr="Espagne" es="España" it="Spagna" nl="Spanje" />
-      <name jpn="ア・コルーニャ" eng="A Coruña" de="A Coruña" fr="La Corogne" es="A Coruña" it="A Coruña" nl="A Coruña" />
+      <name jpn="コンポステーラ" eng="Compostela" de="Compostela" fr="Compostelle" es="Compostela" it="Compostela" nl="Compostella" />
     </city>
     <city>
       <province jpn="アンダルシーア" eng="Andalusia" de="Andalusien" fr="Andalousie" es="Andalucía" it="Andalusia" nl="Andalusië" />
@@ -26185,18 +26335,18 @@
     </city>
     <city>
       <province jpn="バレアーレス諸島" eng="Balearic Islands" de="Balearische Inseln" fr="Îles Baléares" es="Balears" it="Isole Baleari" nl="Balearen" />
-      <longitude>-15.4302978515625</longitude>
-      <latitude>28.1195068359375</latitude>
-      <zoom1>2</zoom1>
+	  <longitude>2.65417</longitude>
+      <latitude>39.586918</latitude>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
       <country jpn="スペイン" eng="Spain" de="Spanien" fr="Espagne" es="España" it="Spagna" nl="Spanje" />
       <name jpn="パルマ" eng="Palma" de="Palma" fr="Palma" es="Palma" it="Palma" nl="Palma" />
     </city>
     <city>
-      <province jpn="ラス・パルマス" eng="Las Palmas de Gran Canaria" de="Las Palmas de Gran Canaria" fr="Las Palmas de Gran Canaria" es="Las Palmas de Gran Canaria" it="Las Palmas de Gran Canaria" nl="Las Palmas de Gran Canaria" />
-      <longitude>2.65417</longitude>
-      <latitude>39.586918</latitude>
-      <zoom1>3</zoom1>
+      <province jpn="カナリア諸島" eng="Canary Islands" de="Kanarische Inseln" fr="Canaries" es="Canarias" it="Isole Canarie" nl="Canarische Eilanden" />
+      <longitude>-15.4302978515625</longitude>
+      <latitude>28.1195068359375</latitude>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
       <country jpn="スペイン" eng="Spain" de="Spanien" fr="Espagne" es="España" it="Spagna" nl="Spanje" />
       <name jpn="ラス・パルマス" eng="Las Palmas de Gran Canaria" de="Las Palmas de Gran Canaria" fr="Las Palmas de Gran Canaria" es="Las Palmas de Gran Canaria" it="Las Palmas de Gran Canaria" nl="Las Palmas de Gran Canaria" />
@@ -26232,7 +26382,7 @@
       <province jpn="ジュネーヴ州" eng="Geneva" de="Genf" fr="Genève" es="Ginebra" it="Ginevra" nl="Genève" />
       <longitude>6.1688232421875</longitude>
       <latitude>46.197509765625</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
       <country jpn="スイス" eng="Switzerland" de="Schweiz" fr="Suisse" es="Suiza" it="Svizzera" nl="Zwitserland" />
       <name jpn="ジュネーブ" eng="Geneva" de="Genf" fr="Genève" es="Ginebra" it="Ginevra" nl="Genève" />
@@ -26241,7 +26391,7 @@
       <province jpn="ボー州" eng="Vaud" de="Waadt" fr="Vaud" es="Vaud" it="Vaud" nl="Vaud" />
       <longitude>6.624755859375</longitude>
       <latitude>46.5216064453125</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
       <country jpn="スイス" eng="Switzerland" de="Schweiz" fr="Suisse" es="Suiza" it="Svizzera" nl="Zwitserland" />
       <name jpn="ローザンヌ" eng="Lausanne" de="Lausanne" fr="Lausanne" es="Lausana" it="Losanna" nl="Lausanne" />
@@ -26340,7 +26490,7 @@
       <province jpn="ウェールズ" eng="Wales" de="Wales" fr="Pays de Galles" es="Gales" it="Galles" nl="Wales" />
       <longitude>-3.175048828125</longitude>
       <latitude>51.4764404296875</latitude>
-      <zoom1>2</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
       <country jpn="イギリス" eng="United Kingdom" de="Großbritannien" fr="Royaume-Uni" es="Reino Unido" it="Regno Unito" nl="Verenigd Koninkrijk" />
       <name jpn="カーディフ" eng="Cardiff" de="Cardiff" fr="Cardiff" es="Cardiff" it="Cardiff" nl="Cardiff" />
@@ -26457,7 +26607,7 @@
       <province jpn="バンコク" eng="Krung Thep Mahanakhon" de="Bangkok" fr="Bangkok" es="Bangkok" it="Bangkok" nl="Bangkok" />
       <longitude>100.513916015625</longitude>
       <latitude>13.7493896484375</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>8</zoom1>
       <zoom2>3</zoom2>
       <country jpn="タイ" eng="Thailand" de="Thailand" fr="Thaïlande" es="Tailandia" it="Thailandia" nl="Thailand" />
       <name jpn="バンコク" eng="Bangkok" de="Bangkok" fr="Bangkok" es="Bangkok" it="Bangkok" nl="Bangkok" />
@@ -26484,7 +26634,7 @@
       <province jpn="中部ヴィサヤ" eng="Central Visayas" de="Central Visayas" fr="Visayas centrales" es="Visayas Central" it="Visayas Centrale" nl="Central Visayas" />
       <longitude>123.8873291015625</longitude>
       <latitude>10.3106689453125</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
       <country jpn="フィリピン" eng="Philippines" de="Philippinen" fr="Philippines" es="Filipinas" it="Filippine" nl="Filipijnen" />
       <name jpn="セブ" eng="Cebu City" de="Cebu" fr="Cebu City" es="Cebu City" it="Cebu City" nl="Cebu City" />
@@ -26652,21 +26802,21 @@
       <name jpn="クウェート" eng="Kuwait City" de="Kuwait-Stadt" fr="Koweït" es="Kuwait" it="Kuwait City" nl="Koeweit" />
     </city>
     <city>
-      <province jpn="リヤド州" eng="Ar Riyad" de="Riad" fr="Ar Riyâd" es="Ar Riyad" it="Al Riyad" nl="Ar Riyad" />
+      <province jpn="リヤド州" eng="Riyadh" de="Riad" fr="Riyad" es="Riad" it="Riyad" nl="Riyad" />
       <longitude>46.768798828125</longitude>
       <latitude>24.6368408203125</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="サウジアラビア" eng="Saudi Arabia" de="Saudi-Arabien" fr="Arabie saoudite" es="Arabia Saudí" it="Arabia Saudita" nl="Saoedi-Arabië" />
+      <country jpn="サウジアラビア" eng="Saudi Arabia" de="Saudi-Arabien" fr="Arabie saoudite" es="Arabia Saudita" it="Arabia Saudita" nl="Saoedi-Arabië" />
       <name jpn="リヤド" eng="Riyadh" de="Riad" fr="Riyad" es="Riad" it="Riyad" nl="Riyad" />
     </city>
     <city>
-      <province jpn="メッカ州" eng="Makkah" de="Mekka" fr="La Mecque" es="Hiyaz" it="Hijàz" nl="Mekka" />
+      <province jpn="メッカ州" eng="Mecca" de="Mekka" fr="La Mecque" es="La Meca" it="La Mecca" nl="Mekka" />
       <longitude>39.825439453125</longitude>
       <latitude>21.42333984375</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
-      <country jpn="サウジアラビア" eng="Saudi Arabia" de="Saudi-Arabien" fr="Arabie saoudite" es="Arabia Saudí" it="Arabia Saudita" nl="Saoedi-Arabië" />
+      <country jpn="サウジアラビア" eng="Saudi Arabia" de="Saudi-Arabien" fr="Arabie saoudite" es="Arabia Saudita" it="Arabia Saudita" nl="Saoedi-Arabië" />
       <name jpn="メッカ" eng="Mecca" de="Mekka" fr="La Mecque" es="La Meca" it="La Mecca" nl="Mekka" />
     </city>
     <city>
@@ -26682,7 +26832,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>50.5810546875</longitude>
       <latitude>26.2353515625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
       <country jpn="バーレーン" eng="Bahrain" de="Bahrain" fr="Bahreïn" es="Bahréin" it="Bahrain" nl="Bahrein" />
       <name jpn="マナマ" eng="Manama" de="Manama" fr="Manama" es="Manama" it="Manama" nl="Manama" />
@@ -26724,13 +26874,13 @@
       <name jpn="アルジェ" eng="Algiers" de="Algier" fr="Alger" es="Argel" it="Algeri" nl="Algiers" />
     </city>
     <city>
-      <province jpn="アンドラ・ラ・ベリャ" eng="Andorra la Vella" de="Andorra la Vella" fr="Andorre-la-Vieille" es="Andorra la Vella" it="Andorra la Vella" nl="Andorra la Vella" />
+      <province jpn="アンドラ・ラ・ベリャ" eng="Andorra la Vella" de="Andorra la Vella" fr="Andorre la Vella" es="Andorra la Vella" it="Andorra la Vella" nl="Andorra la Vella" />
       <longitude>1.5106201171875</longitude>
       <latitude>42.506103515625</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
       <country jpn="アンドラ" eng="Andorra" de="Andorra" fr="Andorre" es="Andorra" it="Andorra" nl="Andorra" />
-      <name jpn="アンドラ・ラ・ベリャ" eng="Andorra la Vella" de="Andorra la Vella" fr="Andorre-la-Vieille" es="Andorra la Vella" it="Andorra la Vella" nl="Andorra la Vella" />
+      <name jpn="アンドラ・ラ・ベリャ" eng="Andorra la Vella" de="Andorra la Vella" fr="Andorre la Vella" es="Andorra la Vella" it="Andorra la Vella" nl="Andorra la Vella" />
     </city>
     <city>
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
@@ -26790,7 +26940,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>114.9114990234375</longitude>
       <latitude>4.932861328125</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
       <country jpn="ブルネイ" eng="Brunei" de="Brunei" fr="Brunei" es="Brunei" it="Brunei" nl="Brunei" />
       <name jpn="バンダル・スリ・ブガワン" eng="Bandar Seri Begawan" de="Bandar Seri Begawan" fr="Bandar Seri Begawan" es="Bandar Seri Begawan" it="Bandar Seri Begawan" nl="Bandar Seri Begawan" />
@@ -26939,6 +27089,15 @@
       <country jpn="東ティモール" eng="East Timor" de="Osttimor" fr="Timor oriental" es="Timor Oriental" it="Timor Est" nl="Oost-Timor" />
       <name jpn="ディリ" eng="Dili" de="Díli" fr="Dili" es="Dili" it="Dili" nl="Dili" />
     </city>
+	<city>
+      <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
+      <longitude>72.444396</longitude>
+      <latitude>-7.292761</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="イギリス領インド洋地域" eng="British Indian Ocean Territory" de="Britisches Territorium im Indischen Ozean" fr="Territoire britannique de l'océan Indien" es="Territorio Británico del Océano Índico" it="Territorio britannico dell'Oceano Indiano" nl="Brits Indische Oceaanterritorium" />
+      <name jpn="ディリ" eng="Diego Garcia" de="Diego Garcia" fr="Diego Garcia" es="Diego García" it="Diego Garcia" nl="Diego Garcia" />
+    </city>
     <city>
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>8.7835693359375</longitude>
@@ -26970,19 +27129,10 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>178.428955078125</longitude>
       <latitude>-18.1494140625</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>8</zoom1>
       <zoom2>3</zoom2>
       <country jpn="フィジー" eng="Fiji" de="Fidschi" fr="Fidji" es="Fiyi" it="Figi" nl="Fiji" />
       <name jpn="スバ" eng="Suva" de="Suva" fr="Suva" es="Suva" it="Suva" nl="Suva" />
-    </city>
-    <city>
-      <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
-      <longitude>177.4456787109375</longitude>
-      <latitude>-17.7484130859375</latitude>
-      <zoom1>9</zoom1>
-      <zoom2>3</zoom2>
-      <country jpn="フィジー" eng="Fiji" de="Fidschi" fr="Fidji" es="Fiyi" it="Figi" nl="Fiji" />
-      <name jpn="ナンディ" eng="Nadi" de="Nadi" fr="Nadi" es="Nadi" it="Nadi" nl="Nadi" />
     </city>
     <city>
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
@@ -27006,7 +27156,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>44.7967529296875</longitude>
       <latitude>41.715087890625</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
       <country jpn="グルジア" eng="Georgia" de="Georgien" fr="Géorgie" es="Georgia" it="Georgia" nl="Georgië" />
       <name jpn="トビリシ" eng="Tbilisi" de="Tiflis" fr="Tbilissi" es="Tbilisi" it="Tbilisi" nl="Tbilisi" />
@@ -27087,7 +27237,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>71.466064453125</longitude>
       <latitude>51.1798095703125</latitude>
-      <zoom1>9</zoom1>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
       <country jpn="カザフスタン" eng="Kazakhstan" de="Kasachstan" fr="Kazakhstan" es="Kazajstán" it="Kazakistan" nl="Kazachstan" />
       <name jpn="ヌルスルタン" eng="Nur-Sultan" de="Nur-Sultan" fr="Noursultan" es="Nur-sultán" it="Nur-Sultan" nl="Nur-Sultan" />
@@ -27123,7 +27273,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>74.59716796875</longitude>
       <latitude>42.8631591796875</latitude>
-      <zoom1>7</zoom1>
+      <zoom1>9</zoom1>
       <zoom2>3</zoom2>
       <country jpn="キルギス" eng="Kyrgyzstan" de="Kirgisistan" fr="Kirghizistan" es="Kirguistán" it="Kirghizistan" nl="Kirgizische Republiek" />
       <name jpn="ビシュケク" eng="Bishkek" de="Bischkek" fr="Bishkek" es="Bishkek" it="Bishkek" nl="Bisjkek" />
@@ -27186,7 +27336,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>73.509521484375</longitude>
       <latitude>4.1693115234375</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
       <country jpn="モルディブ" eng="Maldives" de="Malediven" fr="Maldives" es="Maldivas" it="Maldive" nl="Malediven" />
       <name jpn="マレ" eng="Malé" de="Malé" fr="Malé" es="Malé" it="Malé" nl="Malé" />
@@ -27402,7 +27552,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>-171.7822265625</longitude>
       <latitude>-13.798828125</latitude>
-      <zoom1>6</zoom1>
+      <zoom1>8</zoom1>
       <zoom2>3</zoom2>
       <country jpn="サモア" eng="Samoa" de="Samoa" fr="Samoa" es="Samoa" it="Samoa" nl="Samoa" />
       <name jpn="アピア" eng="Apia" de="Apia" fr="Apia" es="Apia" it="Apia" nl="Apia" />
@@ -27555,7 +27705,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>179.1815185546875</longitude>
       <latitude>-8.525390625</latitude>
-      <zoom1>7</zoom1>
+      <zoom1>8</zoom1>
       <zoom2>3</zoom2>
       <country jpn="ツバル" eng="Tuvalu" de="Tuvalu" fr="Tuvalu" es="Tuvalu" it="Tuvalu" nl="Tuvalu" />
       <name jpn="フナフティ" eng="Funafuti" de="Funafuti" fr="Funafuti" es="Funafuti" it="Funafuti" nl="Funafuti" />
@@ -27609,7 +27759,7 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>106.69921875</longitude>
       <latitude>10.7830810546875</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>8	</zoom1>
       <zoom2>3</zoom2>
       <country jpn="ベトナム" eng="Vietnam" de="Vietnam" fr="Viêt Nam" es="Vietnam" it="Vietnam" nl="Vietnam" />
       <name jpn="ホー・チミン" eng="Ho Chi Minh City" de="Ho-Chi-Minh-Stadt" fr="Hô-Chi-Minh-Ville" es="Ho Chi Minh" it="Ho Chi Minh" nl="Ho Chi Minhstad" />
@@ -27618,10 +27768,10 @@
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>44.197998046875</longitude>
       <latitude>15.380859375</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>6</zoom1>
       <zoom2>3</zoom2>
       <country jpn="イエメン" eng="Yemen" de="Jemen" fr="Yémen" es="Yemen" it="Yemen" nl="Jemen" />
-      <name jpn="サヌア" eng="Sanaa" de="Sanaa" fr="Sanaa" es="Sanaa" it="Sanaa" nl="Sanaa" />
+      <name jpn="サヌア" eng="Sanaa" de="Sanaa" fr="Sanaa" es="Saná" it="Sanaa" nl="Sanaa" />
     </city>
     <city>
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
@@ -27634,21 +27784,30 @@
     </city>
     <city>
       <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
-      <longitude>169.07958984375</longitude>
-      <latitude>-18.7481689453125</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-      <country jpn="バヌアツ" eng="Vanuatu" de="Vanuatu" fr="Vanuatu" es="Vanuatu" it="Vanuatu" nl="Vanuatu" />
-      <name jpn="エロマンガ島" eng="Erromango Island" de="Erromango" fr="Île d'Erromango" es="Isla de Erromango" it="Isola di Erromango" nl="Erromango" />
-    </city>
-    <city>
-      <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <longitude>86.9293212890625</longitude>
       <latitude>27.982177734375</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
       <country jpn="" eng="" de="" fr="" es="" it="" nl="" />
       <name jpn="エベレスト" eng="Mount Everest" de="Mount Everest" fr="Mont Everest" es="Monte Everest" it="Monte Everest" nl="Mount Everest" />
+    </city>
+	<city>
+      <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
+      <longitude>-12.312607</longitude>
+      <latitude>-37.066816</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="トリスタンダクーニャ島" eng="Tristan da Cunha" de="Tristan da Cunha" fr="Tristan da Cunha" es="Tristan da Cunha" it="Tristan da Cunha" nl="Tristan da Cunha" />
+      <name jpn="エディンバラ・オブ・ザ・セブン・シーズ" eng="Edinburgh of the Seven Seas" de="Edinburgh of the Seven Seas" fr="Édimbourg-des-Sept-Mers" es="Edimburgo de los Siete Mares" it="Edinburgh of the Seven Seas" nl="Edinburgh-of-the-Seven-Seas" />
+    </city>
+	<city>
+      <province jpn="" eng="" de="" fr="" es="" it="" nl="" />
+      <longitude>-36.495966</longitude>
+      <latitude>-54.283521</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+      <country jpn="サウスジョージア・サウスサンドウィッチ諸島" eng="South Georgia and the South Sandwich Islands" de="Südgeorgien und die Südlichen Sandwichinseln" fr="Géorgie du Sud-et-les îles Sandwich du Sud" es="Islas Georgias del Sur y Sandwich del Sur" it="Georgia del Sud e Isole Sandwich Australi" nl="Zuid-Georgia en de Zuidelijke Sandwicheilanden" />
+      <name jpn="キング・エドワード・ポイント" eng="King Edward Point" de="King Edward Point" fr="King Edward Point" es="King Edward Point" it="King Edward Point" nl="King Edward Point" />
     </city>
     <city>
       <province jpn="ロス海属領" eng="Ross Dependency" de="Ross-Nebengebiet" fr="Dépendance de Ross" es="Dependencia Ross" it="Dipendenza di Ross" nl="Ross Dependency" />
