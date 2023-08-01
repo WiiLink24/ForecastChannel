@@ -25695,24 +25695,6 @@
       <name jpn="マルセイユ" eng="Marseille" de="Marseille" fr="Marseille" es="Marsella" it="Marsiglia" nl="Marseille" />
     </city>
     <city>
-      <province jpn="オクシタニア" eng="Occitania" de="Okzitanien" fr="Occitanie" es="Occitania" it="Occitania" nl="Occitanië" />
-      <longitude>3.8726806640625</longitude>
-      <latitude>43.604736328125</latitude>
-      <zoom1>2</zoom1>
-      <zoom2>3</zoom2>
-      <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
-      <name jpn="モンペリエ" eng="Montpellier" de="Montpellier" fr="Montpellier" es="Montpellier" it="Montpellier" nl="Montpellier" />
-    </city>
-    <city>
-      <province jpn="プロヴァンス・アルプ・コート・ダジュール" eng="Provence-Alps-French Riviera" de="Provence-Alpes-Côte d’Azur" fr="Provence-Alpes-Côte d'Azur" es="Provenza-Alpes-Costa Azul" it="Provenza-Alpi-Costa Azzurra" nl="Provence-Alpes-Côte d'Azur" />
-      <longitude>7.138497</longitude>
-      <latitude>43.637827</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-      <country jpn="フランス" eng="France" de="Frankreich" fr="France" es="Francia" it="Francia" nl="Frankrijk" />
-      <name jpn="ニース" eng="Nice" de="Nizza" fr="Nice" es="Niza" it="Nizza" nl="Nice" />
-    </city>
-    <city>
       <province jpn="コルシカ" eng="Corsica" de="Korsika" fr="Corse" es="Córcega" it="Corsica" nl="Corsica" />
       <longitude>8.734130859375</longitude>
       <latitude>41.9183349609375</latitude>
