@@ -9654,10 +9654,17 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="バーウィック" eng="Berwick" de="Berwick" fr="Berwick" es="Berwick" it="Berwick" nl="Berwick">
+    <city jpn="ベリック" eng="Berwick" de="Berwick" fr="Berwick" es="Berwick" it="Berwick" nl="Berwick">
       <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
       <longitude>-76.23361111111112</longitude>
       <latitude>41.0547222</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ブルームズバーグ" eng="Bloomsburg" de="Bloomsburg" fr="Bloomsburg" es="Bloomsburg" it="Bloomsburg" nl="Bloomsburg">
+      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
+      <longitude>-76.45805555555556</longitude>
+      <latitude>41.0025</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -9707,6 +9714,13 @@
       <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
       <longitude>-80.343017578125</longitude>
       <latitude>41.0009765625</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="オレンジビル" eng="Orangeville" de="Orangeville" fr="Orangeville" es="Orangeville" it="Orangeville" nl="Orangeville">
+      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
+      <longitude>-76.41444444444446</longitude>
+      <latitude>41.0786111</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
