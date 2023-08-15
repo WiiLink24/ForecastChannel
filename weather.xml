@@ -12,7 +12,7 @@
       <province jpn="東京都" eng="Tokyo" de="Tokio" fr="Tokyo" es="Tokio" it="Tokyo" nl="Tokio" />
       <longitude>139.7735595703125</longitude>
       <latitude>33.1182861328125</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="三鷹市" eng="Mitaka" de="Mitaka" fr="Mitaka" es="Mitaka" it="Mitaka" nl="Mitaka">
