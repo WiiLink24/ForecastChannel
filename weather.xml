@@ -9675,6 +9675,13 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="ダンヴィル" eng="Danville" de="Danville" fr="Danville" es="Danville" it="Danville" nl="Danville">
+      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
+      <longitude>-76.61194444444443</longitude>
+      <latitude>40.9616667</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="ドゥ・ボイス" eng="Du Bois" de="DuBois" fr="DuBois" es="DuBois" it="DuBois" nl="DuBois">
       <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
       <longitude>-78.7554931640625</longitude>
