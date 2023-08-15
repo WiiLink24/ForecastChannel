@@ -12,7 +12,14 @@
       <province jpn="東京都" eng="Tokyo" de="Tokio" fr="Tokyo" es="Tokio" it="Tokyo" nl="Tokio" />
       <longitude>139.7735595703125</longitude>
       <latitude>33.1182861328125</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="三鷹市" eng="Mitaka" de="Mitaka" fr="Mitaka" es="Mitaka" it="Mitaka" nl="Mitaka">
+      <province jpn="東京都" eng="Tokyo" de="Tokio" fr="Tokyo" es="Tokio" it="Tokyo" nl="Tokio" />
+      <longitude>139.5595277777778</longitude>
+      <latitude>35.6835556</latitude>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="大島" eng="Oshima" de="Oshima" fr="Oshima" es="Oshima" it="Oshima" nl="Oshima">
@@ -9647,6 +9654,13 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="バーウィック" eng="Berwick" de="Berwick" fr="Berwick" es="Berwick" it="Berwick" nl="Berwick">
+      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
+      <longitude>-76.23361111111112</longitude>
+      <latitude>41.0547222</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="チェンバーズバーグ" eng="Chambersburg" de="Chambersburg" fr="Chambersburg" es="Chambersburg" it="Chambersburg" nl="Chambersburg">
       <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
       <longitude>-77.6568603515625</longitude>
@@ -9679,6 +9693,13 @@
       <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
       <longitude>-78.9202880859375</longitude>
       <latitude>40.3253173828125</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ネスコペック" eng="Nescopeck" de="Nescopeck" fr="Nescopeck" es="Nescopeck" it="Nescopeck" nl="Nescopeck">
+      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
+      <longitude>-76.21583333333334</longitude>
+      <latitude>41.0525</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
