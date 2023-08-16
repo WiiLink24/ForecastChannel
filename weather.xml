@@ -9695,6 +9695,13 @@
       <latitude>41.0547222</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
+    <city jpn="イースト・バーウィック" eng="East Berwick" de="Ost-Berwick" fr="Berwick Est" es="Berwick Este" it="Berwick Est" nl="Oost-Berwick">
+      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
+      <longitude>-76.22444444444444</longitude>
+      <latitude>41.0627778</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     </city>
     <city jpn="ブルームズバーグ" eng="Bloomsburg" de="Bloomsburg" fr="Bloomsburg" es="Bloomsburg" it="Bloomsburg" nl="Bloomsburg">
       <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
