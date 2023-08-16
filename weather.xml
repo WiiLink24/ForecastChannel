@@ -645,11 +645,25 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="川崎市" eng="Kawasaki" de="Kawasaki" fr="Kawasaki" es="Kawasaki" it="Kawasaki" nl="Kawasaki">
+      <province jpn="神奈川県" eng="Kanagawa" de="Kanagawa" fr="Kanagawa" es="Kanagawa" it="Kanagawa" nl="Kanagawa" />
+      <longitude>139.7</longitude>
+      <latitude>35.5166667</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="小田原市" eng="Odawara" de="Odawara" fr="Odawara" es="Odawara" it="Odawara" nl="Odawara">
       <province jpn="神奈川県" eng="Kanagawa" de="Kanagawa" fr="Kanagawa" es="Kanagawa" it="Kanagawa" nl="Kanagawa" />
       <longitude>139.15283203125</longitude>
       <latitude>35.2496337890625</latitude>
       <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="相模原市" eng="Sagamihara" de="Sagamihara" fr="Sagamihara" es="Sagamihara" it="Sagamihara" nl="Sagamihara">
+      <province jpn="神奈川県" eng="Kanagawa" de="Kanagawa" fr="Kanagawa" es="Kanagawa" it="Kanagawa" nl="Kanagawa" />
+      <longitude>139.36666666666667</longitude>
+      <latitude>35.5666667</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="三浦市" eng="Miura" de="Miura" fr="Miura" es="Miura" it="Miura" nl="Miura">
@@ -687,6 +701,13 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="羽咋市" eng="Hakui" de="Hakui" fr="Hakui" es="Hakui" it="Hakui" nl="Hakui">
+      <province jpn="石川県" eng="Ishikawa" de="Ishikawa" fr="Ishikawa" es="Ishikawa" it="Ishikawa" nl="Ishikawa" />
+      <longitude>136.77897222222222</longitude>
+      <latitude>36.8936111</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="金沢市" eng="Kanazawa" de="Kanazawa" fr="Kanazawa" es="Kanazawa" it="Kanazawa" nl="Kanazawa">
       <province jpn="石川県" eng="Ishikawa" de="Ishikawa" fr="Ishikawa" es="Ishikawa" it="Ishikawa" nl="Ishikawa" />
       <longitude>136.636962890625</longitude>
@@ -705,6 +726,13 @@
       <province jpn="石川県" eng="Ishikawa" de="Ishikawa" fr="Ishikawa" es="Ishikawa" it="Ishikawa" nl="Ishikawa" />
       <longitude>136.939753</longitude>
       <latitude>37.082721</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="珠洲市" eng="Suzu" de="Suzu" fr="Suzu" es="Suzu" it="Suzu" nl="Suzu">
+      <province jpn="石川県" eng="Ishikawa" de="Ishikawa" fr="Ishikawa" es="Ishikawa" it="Ishikawa" nl="Ishikawa" />
+      <longitude>137.26047222222223</longitude>
+      <latitude>37.4363333</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -9171,6 +9199,13 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="マンハッタン" eng="Manhattan" de="Manhattan" fr="Le quartier Manhattan" es="Manhattan" it="Manhattan" nl="Manhattan">
+      <province jpn="ニューヨーク州" eng="New York" de="New York" fr="New York" es="Nueva York" it="New York" nl="New York" />
+      <longitude>-73.96666666666667</longitude>
+      <latitude>40.7833333</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="ミドルタウン" eng="Middletown" de="Middletown" fr="Middletown" es="Middletown" it="Middletown" nl="Middletown">
       <province jpn="ニューヨーク州" eng="New York" de="New York" fr="New York" es="Nueva York" it="New York" nl="New York" />
       <longitude>-74.42138671875</longitude>
@@ -9668,6 +9703,13 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="ブルックビル" eng="Brookville" de="Brookville" fr="Brookville" es="Brookville" it="Brookville" nl="Brookville">
+      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
+      <longitude>-79.08027777777778</longitude>
+      <latitude>41.1597222</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="チェンバーズバーグ" eng="Chambersburg" de="Chambersburg" fr="Chambersburg" es="Chambersburg" it="Chambersburg" nl="Chambersburg">
       <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
       <longitude>-77.6568603515625</longitude>
@@ -9708,6 +9750,13 @@
       <longitude>-78.9202880859375</longitude>
       <latitude>40.3253173828125</latitude>
       <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="モーガンタウン" eng="Morgantown" de="Morgantown" fr="Morgantown" es="Morgantown" it="Morgantown" nl="Morgantown">
+      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
+      <longitude>-75.89</longitude>
+      <latitude>40.155</latitude>
+      <zoom1>0</zoom2>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ネスコペック" eng="Nescopeck" de="Nescopeck" fr="Nescopeck" es="Nescopeck" it="Nescopeck" nl="Nescopeck">
@@ -9787,6 +9836,13 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="クランストン" eng="Cranston" de="Cranston" fr="Cranston" es="Cranston" it="Cranston" nl="Cranston">
+      <province jpn="ロードアイランド州" eng="Rhode Island" de="Rhode Island" fr="Rhode Island" es="Rhode Island" it="Rhode Island" nl="Rhode Island" />
+      <longitude>-71.45</longitude>
+      <latitude>41.7666667</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="プロビデンス" eng="Providence" de="Providence" fr="Providence" es="Providence" it="Providence" nl="Providence">
       <province jpn="ロードアイランド州" eng="Rhode Island" de="Rhode Island" fr="Rhode Island" es="Rhode Island" it="Rhode Island" nl="Rhode Island" />
       <longitude>-71.4111328125</longitude>
@@ -9805,6 +9861,13 @@
       <province jpn="ロードアイランド州" eng="Rhode Island" de="Rhode Island" fr="Rhode Island" es="Rhode Island" it="Rhode Island" nl="Rhode Island" />
       <longitude>-71.378173828125</longitude>
       <latitude>41.8743896484375</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="シチュエイト" eng="Scituate" de="Situa­tion" fr="Scitué" es="Situación" it="Situazione" nl="Scituatie">
+      <province jpn="ロードアイランド州" eng="Rhode Island" de="Rhode Island" fr="Rhode Island" es="Rhode Island" it="Rhode Island" nl="Rhode Island" />
+      <longitude>-71.61666666666666</longitude>
+      <latitude>41.7833333</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
