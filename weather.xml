@@ -9675,6 +9675,27 @@
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="アロンズバーグ" eng="Aaronsburg" de="Aaronsburg" fr="Aaronsburg" es="Aaronsburg" it="Aaronsburg" nl="Aaronsburg">
+      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
+      <longitude>-77.45305555555557</longitude>
+      <latitude>40.8997222</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="アボッツタウン" eng="Abbottstown" de="Abbottstown" fr="Abbottstown" es="Abbottstown" it="Abbottstown" nl="Abbottstown">
+      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
+      <longitude>-76.98611111111111</longitude>
+      <latitude>39.8855556</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="アダムズバーグ" eng="Adamsburg" de="Adamsburg" fr="Adamsburg" es="Adamsburg" it="Adamsburg" nl="Adamsburg">
+      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
+      <longitude>-79.65444444444445</longitude>
+      <latitude>40.3105556</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="アレンタウン" eng="Allentown" de="Allentown" fr="Allentown" es="Allentown" it="Allentown" nl="Allentown">
       <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
       <longitude>-75.487060546875</longitude>
@@ -9695,6 +9716,7 @@
       <latitude>41.0547222</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
+      </city>
     <city jpn="イースト・バーウィック" eng="East Berwick" de="Ost-Berwick" fr="Berwick Est" es="Berwick Este" it="Berwick Est" nl="Oost-Berwick">
       <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
       <longitude>-76.22444444444444</longitude>
@@ -9762,7 +9784,7 @@
       <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" />
       <longitude>-75.89</longitude>
       <latitude>40.155</latitude>
-      <zoom1>0</zoom2>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ネスコペック" eng="Nescopeck" de="Nescopeck" fr="Nescopeck" es="Nescopeck" it="Nescopeck" nl="Nescopeck">
