@@ -20849,7 +20849,7 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="デリー" eng="Londonderry" de="Derry" fr="Derry" es="Derry" it="Derry" nl="Derry">
+    <city jpn="デリー" eng="Derry" de="Derry" fr="Derry" es="Derry" it="Derry" nl="Derry">
       <province jpn="北アイルランド" eng="Northern Ireland" de="Nordirland" fr="Irlande du Nord" es="Irlanda del Norte" it="Irlanda del Nord" nl="Noord-Ierland" />
       <longitude>-7.3223876953125</longitude>
       <latitude>54.9920654296875</latitude>
@@ -21605,11 +21605,186 @@
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
+	<city jpn="ベルゴロド" eng="Belgorod" de="Belgorod" fr="Belgorod" es="Bélgorod" it="Belgorod" nl="Belgorod">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>36.597777</longitude>
+      <latitude>50.600774</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ブリャンスク" eng="Bryansk" de="Brjansk" fr="Briansk" es="Briansk" it="Brjansk" nl="Brjansk">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>34.377931</longitude>
+      <latitude>53.263556</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="イヴァノヴォ" eng="Ivanovo" de="Iwanowo" fr="Ivanovo" es="Ivánovo" it="Ivanovo" nl="Ivanovo">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>41.010298</longitude>
+      <latitude>56.997976</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="カルーガ" eng="Kaluga" de="Kaluga" fr="Kalouga" es="Kaluga" it="Kaluga" nl="Kaloega">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>36.247072</longitude>
+      <latitude>54.534469</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="クリンツィ" eng="Klintsy" de="Klinzy" fr="Klintsy" es="Klintsí" it="Klincy" nl="Klintsy">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>32.193928</longitude>
+      <latitude>52.701329</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="コストロマ" eng="Kostroma" de="Kostroma" fr="Kostroma" es="Kostromá" it="Kostroma" nl="Kostroma">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>41.059543</longitude>
+      <latitude>57.794079</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="コヴロフ" eng="Kovrov" de="Kowrow" fr="Kovrov" es="Kovrov" it="Kovrov" nl="Kovrov">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>41.330596</longitude>
+      <latitude>56.337706</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="クルスク" eng="Kursk" de="Kursk" fr="Koursk" es="Kursk" it="Kursk" nl="Koersk">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>36.197896</longitude>
+      <latitude>51.728030</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="リペツク" eng="Lipetsk" de="Lipezk" fr="Lipetsk" es="Lípetsk" it="Lipeck" nl="Lipetsk">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>39.681746</longitude>
+      <latitude>52.579373</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ムーロム" eng="Murom" de="Murom" fr="Mourom" es="Múrom" it="Murom" nl="Moerom">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>41.987900</longitude>
+      <latitude>55.551594</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ノヴォモスコフスク" eng="Novomoskovsk" de="Nowomoskowsk" fr="Novomoskovsk" es="Novomoskovsk" it="Novomoskovsk" nl="Novomoskovsk">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>38.295713</longitude>
+      <latitude>54.028558</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="オリョール" eng="Oryol" de="Orjol" fr="Orel" es="Oriol" it="Orël" nl="Orjol">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>36.080803</longitude>
+      <latitude>52.963180</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="オスタシコフ" eng="Ostashkov" de="Ostaschkow" fr="Ostachkov" es="Ostáshkov" it="Ostashkov" nl="Ostasjkov">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>33.094153</longitude>
+      <latitude>57.155658</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ポドリスク" eng="Podolsk" de="Podolsk" fr="Podolsk" es="Podolsk" it="Podol'sk" nl="Podolsk">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>37.546398</longitude>
+      <latitude>55.391428</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="リャザン" eng="Ryazan" de="Rjasan" fr="Riazan" es="Riazán" it="Rjazan'" nl="Rjazan">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>39.718115</longitude>
+      <latitude>54.594838</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ロストフ" eng="Rostov" de="Rostow" fr="Rostov" es="Rostov" it="Rostov" nl="Rostov">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>39.346505</longitude>
+      <latitude>57.148055</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="シャリヤ" eng="Sharya" de="Sharja" fr="Charia" es="Shariá" it="Shar'ja" nl="Sjarja">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>45.600626</longitude>
+      <latitude>58.382056</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="スモレンスク" eng="Smolensk" de="Smolensk" fr="Smolensk" es="Smolensk" it="Smolensk" nl="Smolensk">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>31.972614</longitude>
+      <latitude>54.797658</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="タンボフ" eng="Tambov" de="Tambow" fr="Tambov" es="Tambov" it="Tambov" nl="Tambov">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>41.458212</longitude>
+      <latitude>52.690318</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="トゥーラ" eng="Tula" de="Tula" fr="Toula" es="Tula" it="Tula" nl="Toela">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>37.624747</longitude>
+      <latitude>54.196648</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="トヴェリ" eng="Tver" de="Twer" fr="Tver" es="Tver" it="Tver'" nl="Tver">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>35.829075</longitude>
+      <latitude>56.987824</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ウラジーミル" eng="Vladimir" de="Wladimir" fr="Vladimir" es="Vladímir" it="Vladimir" nl="Vladimir">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>40.393901</longitude>
+      <latitude>56.133363</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ヴォロネジ" eng="Voronezh" de="Woronesch" fr="Voronej" es="Vorónezh" it="Voronez" nl="Voronezj">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>39.161457</longitude>
+      <latitude>51.622234</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ヤロスラヴリ" eng="Yaroslavl" de="Jaroslawl" fr="Iaroslavl" es="Yaroslavl" it="Jaroslavl'" nl="Jaroslavl">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>39.772186</longitude>
+      <latitude>57.558362</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ゼレノグラード" eng="Zelenograd" de="Selenograd" fr="Zelenograd" es="Zelenogrado" it="Zelenograd" nl="Zelenograd">
+      <province jpn="中央連邦管区" eng="Central Federal District" de="Zentralrussland" fr="District fédéral central" es="Distrito Federal Central" it="Distretto Federale Centrale" nl="Centraal Federaal District" />
+      <longitude>36.875718</longitude>
+      <latitude>56.082055</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="イルクーツク" eng="Irkutsk" de="Irkutsk" fr="Irkoutsk" es="Irkutsk" it="Irkutsk" nl="Irkoetsk">
       <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" />
       <longitude>104.2327880859375</longitude>
       <latitude>52.3114013671875</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ハバロフスク" eng="Khabarovsk" de="Chabarowsk" fr="Khabarovsk" es="Jabarovsk" it="Khabarovsk" nl="Chabarovsk">
@@ -21623,48 +21798,167 @@
       <province jpn="極東連邦管区" eng="Far Eastern Federal District" de="Ferner Osten" fr="District fédéral extrême-oriental" es="Distrito Federal de Extremo Oriente" it="Estremo Oriente Russo" nl="Federaal District Verre Oosten" />
       <longitude>131.912841796875</longitude>
       <latitude>43.1158447265625</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ユジノ・サハリンスク" eng="Yuzhno-Sakhalinsk" de="Juschno-Sachalinsk" fr="Ioujno Sakhalinsk" es="Yuzhno-Sakhalinsk" it="Yuzhno-Sakhalinsk" nl="Joezjno-Sachalinsk">
       <province jpn="極東連邦管区" eng="Far Eastern Federal District" de="Ferner Osten" fr="District fédéral extrême-oriental" es="Distrito Federal de Extremo Oriente" it="Estremo Oriente Russo" nl="Federaal District Verre Oosten" />
       <longitude>142.7178955078125</longitude>
       <latitude>46.944580078125</latitude>
-      <zoom1>9</zoom1>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="サンクトペテルブルク" eng="Saint Petersburg" de="Sankt Petersburg" fr="Saint-Pétersbourg" es="San Petersburgo" it="San Pietroburgo" nl="Sint-Petersburg">
       <province jpn="北西連邦管区" eng="Northwestern Federal District" de="Nordwestrussland" fr="District fédéral du Nord-Ouest" es="Distrito Federal del Noroeste" it="Distretto Federale Nordoccidentale" nl="Noordwestelijk Federaal District" />
       <longitude>30.43212890625</longitude>
       <latitude>59.930419921875</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ノヴォシビルスク" eng="Novosibirsk" de="Nowosibirsk" fr="Novossibirsk" es="Novosibirsk" it="Novosibirsk" nl="Novosibirsk">
       <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" />
       <longitude>82.895197</longitude>
       <latitude>54.956727</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="グロズヌイ" eng="Grozny" de="Grosny" fr="Grozny" es="Grozni" it="Grozny" nl="Grozny">
       <province jpn="南部連邦管区" eng="Southern Federal District" de="Südrussland" fr="District fédéral du Sud" es="Distrito Federal Meridional" it="Distretto Federale Meridionale" nl="Zuidelijk Federaal District" />
       <longitude>45.68115234375</longitude>
       <latitude>43.2916259765625</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="エカテリンブルク" eng="Yekaterinburg" de="Jekaterinburg" fr="Ekaterinbourg" es="Ekaterimburgo" it="Ekaterinburg" nl="Ekaterinburg">
       <province jpn="ウラル連邦管区" eng="Urals Federal District" de="Ural" fr="District fédéral de l'Oural" es="Distrito Federal de los Urales" it="Distretto Federale degli Urali" nl="Federaal District Oeral" />
       <longitude>60.57861328125</longitude>
       <latitude>56.832275390625</latitude>
-      <zoom1>5</zoom1>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ニジニ・ノヴゴロド" eng="Nizhny Novgorod" de="Nischni Nowgorod" fr="Nijni-Novgorod" es="Nizhni Nóvgorod" it="Niznij Novgorod" nl="Nizjni Novgorod">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>49.046635</longitude>
+      <latitude>55.771366</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="チェボクサル" eng="Cheboksary" de="Tscheboksary" fr="Tcheboksary" es="Cheboksari" it="Ceboksary" nl="Tsjeboksary">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>47.253985</longitude>
+      <latitude>55.771366</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="グラゾフ" eng="Glazov" de="Glasow" fr="Glazov" es="Glázov" it="Glazov" nl="Glazov">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>52.709239</longitude>
+      <latitude>58.107833</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="イジェフスク" eng="Izhevsk" de="Ischewsk" fr="Ijevsk" es="Izhevsk" it="Izevsk" nl="Izjevsk">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>53.212265</longitude>
+      <latitude>56.826462</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="カナッシュ" eng="Kanash" de="Kanasch" fr="Kanach" es="Kanash" it="Kanash" nl="Kanasj">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>47.449654</longitude>
+      <latitude>55.479703</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="カザン" eng="Kazan" de="Kasan" fr="Kazan" es="Kazán" it="Kazàn" nl="Kazan">
       <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
       <longitude>49.046635</longitude>
       <latitude>55.771366</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="キーロフ" eng="Kirov" de="Kirow" fr="Kirov" es="Kírov" it="Kirov" nl="Kirov">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>49.789850</longitude>
+      <latitude>58.588471</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="オレンブルク" eng="Orenburg" de="Orenburg" fr="Orenbourg" es="Orenburgo" it="Orenburg" nl="Orenburg">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>49.789850</longitude>
+      <latitude>58.588471</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="オルスク" eng="Orsk" de="Orsk" fr="Orsk" es="Orsk" it="Orsk" nl="Orsk">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>58.555709</longitude>
+      <latitude>51.229779</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ペンザ" eng="Penza" de="Pensa" fr="Penza" es="Penza" it="Penza" nl="Penza">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>45.023141</longitude>
+      <latitude>53.192376</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ペルミ" eng="Perm" de="Perm" fr="Perm" es="Perm" it="Perm'" nl="Perm">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>56.392182</longitude>
+      <latitude>58.005142</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="サマーラ" eng="Samara" de="Samara" fr="Samara" es="Samara" it="Samara" nl="Samara">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>50.181475</longitude>
+      <latitude>53.176786</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="サランスク" eng="Saransk" de="Saransk" fr="Saransk" es="Saransk" it="Saransk" nl="Saransk">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>45.134421</longitude>
+      <latitude>54.185486</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="サラトフ" eng="Saratov" de="Saratow" fr="Saratov" es="Sarátov" it="Saratov" nl="Saratov">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>46.060398</longitude>
+      <latitude>51.523210</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ステルリタマク" eng="Sterlitamak" de="Sterlitamak" fr="Sterlitamak" es="Sterlitamak" it="Sterlitamak" nl="Sterlitamak">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>55.873573</longitude>
+      <latitude>53.563428</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ウファ" eng="Ufa" de="Ufa" fr="Oufa" es="Ufá" it="Ufa" nl="Oefa">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>56.041717</longitude>
+      <latitude>54.727330</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ウリヤノフスク" eng="Ulyanovsk" de="Uljanowsk" fr="Oulianovsk" es="Uliánovsk" it="Ul'janovsk" nl="Oeljanovsk">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>48.442787</longitude>
+      <latitude>54.310317</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ヨシュカル・オラ" eng="Yoshkar-Ola" de="Joschkar-Ola" fr="Iochkar-Ola" es="Yoshkar-Olá" it="Joskar-Ola" nl="Josjkar-Ola">
+      <province jpn="沿ヴォルガ連邦管区" eng="Volga Federal District" de="Wolga" fr="District fédéral de Privoljsk" es="Distrito Federal del Volga" it="Distretto Federale del Volga" nl="Federaal District Wolga" />
+      <longitude>47.896372</longitude>
+      <latitude>56.677961</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -24284,7 +24578,7 @@
   <country>
     <name jpn="ウクライナ" eng="Ukraine" de="Ukraine" fr="Ukraine" es="Ucrania" it="Ucraina" nl="Oekraïne" />
     <city jpn="キーウ" eng="Kyiv" de="Kiew" fr="Kyïv" es="Kiev" it="Kiev" nl="Kyiv">
-      <province jpn="キーウ市" eng="Kyiv" de="Kiew" fr="Kyïv" es="Kiev" it="Kiev" nl="Kyiv" />
+      <province jpn="キーウ市" eng="Kyiv City" de="Stadt Kiew" fr="Ville de Kyïv" es="Ciudad de Kiev" it="Città di Kiev" nl="Stad Kyiv" />
       <longitude>30.4486083984375</longitude>
       <latitude>50.3997802734375</latitude>
       <zoom1>9</zoom1>
@@ -24294,20 +24588,55 @@
       <province jpn="クリミア自治共和国" eng="Autonomous Republic of Crimea" de="Autonome Republik Krim" fr="République autonome de Crimée" es="República Autónoma de Crimea" it="Repubblica autonoma di Crimea" nl="Autonome republiek van de Krim" />
       <longitude>34.102532</longitude>
       <latitude>44.952618</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ジャンコイ" eng="Dzhankoi" de="Dschankoj" fr="Djankoï" es="Dzhankói" it="Dzhankoi" nl="Dzjankoj">
       <province jpn="クリミア自治共和国" eng="Autonomous Republic of Crimea" de="Autonome Republik Krim" fr="République autonome de Crimée" es="República Autónoma de Crimea" it="Repubblica autonoma di Crimea" nl="Autonome republiek van de Krim" />
       <longitude>34.386968</longitude>
       <latitude>45.71051</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ケルチ" eng="Kerch" de="Kertsch" fr="Kertch" es="Kerch" it="Kerch" nl="Kertsj">
       <province jpn="クリミア自治共和国" eng="Autonomous Republic of Crimea" de="Autonome Republik Krim" fr="République autonome de Crimée" es="República Autónoma de Crimea" it="Repubblica autonoma di Crimea" nl="Autonome republiek van de Krim" />
       <longitude>36.474091</longitude>
       <latitude>45.356947</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ヤルタ" eng="Yalta" de="Jalta" fr="Yalta" es="Yalta" it="Jalta" nl="Jalta">
+      <province jpn="クリミア自治共和国" eng="Autonomous Republic of Crimea" de="Autonome Republik Krim" fr="République autonome de Crimée" es="República Autónoma de Crimea" it="Repubblica autonoma di Crimea" nl="Autonome republiek van de Krim" />
+      <longitude>34.147384</longitude>
+      <latitude>44.485374</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="チェルカースィ" eng="Cherkasy" de="Tscherkassy" fr="Tcherkassy" es="Cherkasy" it="Cerkasy" nl="Tsjerkasy">
+      <province jpn="チェルカースィ州" eng="Cherkasy Oblast" de="Oblast Tscherkassy" fr="Oblast de Tcherkassy" es="Óblast de Cherkasy" it="Oblast di Cerkasy" nl="Oblast Tsjerkasy" />
+      <longitude>32.082047</longitude>
+      <latitude>49.439314</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ウーマニ" eng="Uman" de="Uman" fr="Ouman" es="Uman" it="Uman'" nl="Oeman">
+      <province jpn="チェルカースィ州" eng="Cherkasy Oblast" de="Oblast Tscherkassy" fr="Oblast de Tcherkassy" es="Óblast de Cherkasy" it="Oblast di Cerkasy" nl="Oblast Tsjerkasy" />
+      <longitude>30.216362</longitude>
+      <latitude>48.716001</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="チェルニーヒウ" eng="Chernihiv" de="Tschernihiw" fr="Tchernihiv" es="Cherníhiv" it="Cernihiv" nl="Tsjernihiv">
+      <province jpn="チェルニーヒウ州" eng="Chernihiv Oblast" de="Oblast Tschernihiw" fr="Oblast de Tchernihiv" es="Óblast de Cherníhiv" it="Oblast di Cernihiv" nl="Oblast Tsjernihiv" />
+      <longitude>31.287042</longitude>
+      <latitude>51.488136</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="チェルニウツィー" eng="Chernivtsi" de="Tscherniwzi" fr="Tchernivtsi" es="Chernivtsí" it="Cernivci" nl="Tsjernivtsi">
+      <province jpn="チェルニウツィー州" eng="Chernivtsi Oblast" de="Oblast Tscherniwzi" fr="Oblast de Tchernivtsi" es="Óblast de Chernivtsí" it="Oblast di Cernivci" nl="Oblast Tsjernivtsi" />
+      <longitude>25.937899</longitude>
+      <latitude>48.295987</latitude>
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -24329,7 +24658,7 @@
       <province jpn="ドネツィク州" eng="Donetsk Oblast" de="Oblast Donezk" fr="Oblast de Donetsk" es="Óblast de Donetsk" it="Oblast di Donec'k" nl="Oblast Donetsk" />
       <longitude>37.787418</longitude>
       <latitude>47.993655</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="バフムート" eng="Bakhmut" de="Bachmut" fr="Bakhmout" es="Bajmut" it="Bachmut" nl="Bachmoet">
@@ -24358,6 +24687,34 @@
       <longitude>24.71834</longitude>
       <latitude>48.887616</latitude>
       <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ハルキウ" eng="Kharkiv" de="Charkiw" fr="Kharkiv" es="Járkiv" it="Charkiv" nl="Charkiv">
+      <province jpn="ハルキウ州" eng="Kharkiv Oblast" de="Oblast Charkiw" fr="Oblast de Kharkiv" es="Óblast de Járkiv" it="Oblast di Charkiv" nl="Oblast Charkiv" />
+      <longitude>36.304990</longitude>
+      <latitude>49.984081</latitude>
+      <zoom1>6</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="イジューム" eng="Izyum" de="Isjum" fr="Izioum" es="Izium" it="Izjum" nl="Izjoem">
+      <province jpn="ハルキウ州" eng="Kharkiv Oblast" de="Oblast Charkiw" fr="Oblast de Kharkiv" es="Óblast de Járkiv" it="Oblast di Charkiv" nl="Oblast Charkiv" />
+      <longitude>37.263688</longitude>
+      <latitude>49.196168</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ヘルソン" eng="Kherson" de="Cherson" fr="Kherson" es="Jersón" it="Cherson" nl="Cherson">
+      <province jpn="ヘルソン州" eng="Kherson Oblast" de="Oblast Cherson" fr="Oblast de Kherson" es="Óblast de Cherson" it="Oblast di Cherson" nl="Oblast Cherson" />
+      <longitude>32.610756</longitude>
+      <latitude>46.647796</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="フメリニツキー" eng="Khmelnytskyi" de="Chmelnyzkyj" fr="Khmelnytskyï" es="Jmelnitski" it="Chmel'nyc'kyj" nl="Chmelnytsky">
+      <province jpn="フメリニツキー州" eng="Khmelnytskyi Oblast" de="Oblast Chmelnyzkyj" fr="Oblast de Khmelnytskyï" es="Óblast de Jmelnitski" it="Oblast di Chmel'nyc'kyj" nl="Oblast Chmelnytsky" />
+      <longitude>27.005540</longitude>
+      <latitude>49.403294</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="クロピヴニツキー" eng="Kropyvnytskyi" de="Kropywnyzkyj" fr="Kropyvnytskyï" es="Kropivnitski" it="Kropyvnyc'kyj" nl="Kropyvnytsky">
@@ -24392,14 +24749,14 @@
       <province jpn="ルハーンシク州" eng="Luhansk Oblast" de="Oblast Luhansk" fr="Oblast de Louhansk" es="Óblast de Lugansk" it="Oblast di Luhans'k" nl="Oblast Loehansk" />
       <longitude>39.312934</longitude>
       <latitude>48.566691</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="セヴェロドネツィク" eng="Sievierodonetsk" de="Sjewjerodonezk" fr="Sievierodonetsk" es="Severodonetsk" it="Sjevjerodonec'k" nl="Sjevjerodonetsk">
       <province jpn="ルハーンシク州" eng="Luhansk Oblast" de="Oblast Luhansk" fr="Oblast de Louhansk" es="Óblast de Lugansk" it="Oblast di Luhans'k" nl="Oblast Loehansk" />
       <longitude>38.4949</longitude>
       <latitude>48.917343</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="リヴィウ" eng="Lviv" de="Lwiw" fr="Lviv" es="Leópolis" it="Leopoli" nl="Lviv">
@@ -24413,21 +24770,77 @@
       <province jpn="ムィコラーイウ州" eng="Mykolaiv Oblast" de="Oblast Mykolajiw" fr="Oblast de Mykolaïv" es="Óblast de Nicolaiev" it="Oblast di Mykolaïv" nl="Oblast Mykolajiv" />
       <longitude>32.008062</longitude>
       <latitude>46.953929</latitude>
-      <zoom1>3</zoom1>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="オデッサ" eng="Odesa" de="Odessa" fr="Odessa" es="Odesa" it="Odessa" nl="Odessa">
       <province jpn="ムィコラーイウ州" eng="Odesa Oblast" de="Oblast Odessa" fr="Oblast d'Odessa" es="Óblast de Odesa" it="Oblast di Odessa" nl="Oblast Odessa" />
-      <longitude>32.008062</longitude>
-      <latitude>46.953929</latitude>
+      <longitude>30.740039</longitude>
+      <latitude>46.456707</latitude>
       <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ポルタヴァ" eng="Poltava" de="Poltava" fr="Poltava" es="Poltava" it="Poltava" nl="Poltava">
+      <province jpn="ポルタヴァ州" eng="Poltava Oblast" de="Oblast Poltava" fr="Oblast de Poltava" es="Óblast de Poltava" it="Oblast di Poltava" nl="Oblast Poltava" />
+      <longitude>34.544270</longitude>
+      <latitude>49.570668</latitude>
+      <zoom1>4</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="クレメンチューク" eng="Kremenchuk" de="Krementschuk" fr="Krementchouk" es="Kremenchuk" it="Kremenchug" nl="Krementsjoek">
+      <province jpn="ポルタヴァ州" eng="Poltava Oblast" de="Oblast Poltava" fr="Oblast de Poltava" es="Óblast de Poltava" it="Oblast di Poltava" nl="Oblast Poltava" />
+      <longitude>33.418660</longitude>
+      <latitude>49.077702</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="リウネ" eng="Rivne" de="Riwne" fr="Rivne" es="Rivne" it="Rivne" nl="Rivne">
+      <province jpn="リウネ州" eng="Rivne Oblast" de="Oblast Riwne" fr="Oblast de Rivne" es="Óblast de Rivne" it="Oblast di Rivne" nl="Oblast Rivne" />
+      <longitude>26.254477</longitude>
+      <latitude>50.615393</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="セヴァストポリ" eng="Sevastopol" de="Sewastopol" fr="Sébastopol" es="Sebastopol" it="Sebastopoli" nl="Sebastopol">
+      <province jpn="セヴァストポリ市" eng="Sevastopol City" de="Stadt Sewastopol" fr="Ville de Sébastopol" es="Ciudad de Sebastopol" it="Città di Sebastopoli" nl="Stad Sevastopol" />
+      <longitude>33.525115</longitude>
+      <latitude>44.595731</latitude>
+      <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="スームィ" eng="Sumy" de="Sumy" fr="Soumy" es="Sumy" it="Sumy" nl="Soemy">
+      <province jpn="スームィ州" eng="Sumy Oblast" de="Oblast Sumy" fr="Oblast de Soumy" es="Óblast de Sumy" it="Oblast di Sumy" nl="Oblast Soemy" />
+      <longitude>34.544270</longitude>
+      <latitude>49.570668</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="テルノーピリ" eng="Ternopil" de="Ternopil" fr="Ternopil" es="Ternópil" it="Ternopil'" nl="Ternopil">
+      <province jpn="テルノーピリ州" eng="Ternopil Oblast" de="Oblast Ternopil" fr="Oblast de Ternopil" es="Óblast de Ternópil" it="Oblast di Ternopil'" nl="Oblast Ternopil" />
+      <longitude>25.611314</longitude>
+      <latitude>49.550867</latitude>
+      <zoom1>2</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="ボルシチウ" eng="Borshchiv" de="Borschtschiw" fr="Borchtchiv" es="Borchtchiv" it="Borsciv" nl="Borsjtsjiv">
+      <province jpn="テルノーピリ州" eng="Ternopil Oblast" de="Oblast Ternopil" fr="Oblast de Ternopil" es="Óblast de Ternópil" it="Oblast di Ternopil'" nl="Oblast Ternopil" />
+      <longitude>26.065472</longitude>
+      <latitude>48.801298</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="クレメネツィ" eng="Kremenets" de="Kremenez" fr="Kremenets" es="Krémenets" it="Kremenec'" nl="Kremenets">
+      <province jpn="テルノーピリ州" eng="Ternopil Oblast" de="Oblast Ternopil" fr="Oblast de Ternopil" es="Óblast de Ternópil" it="Oblast di Ternopil'" nl="Oblast Ternopil" />
+      <longitude>25.750861</longitude>
+      <latitude>50.096894</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ヴィーンヌィツャ" eng="Vinnytsia" de="Winnyzja" fr="Vinnytsia" es="Vínnitsa" it="Vinnycja" nl="Vinnytsja">
       <province jpn="ヴィーンヌィツャ州" eng="Vinnytsia Oblast" de="Oblast Winnyzja" fr="Oblast de Vinnytsia" es="Óblast de Vínnytsia" it="Oblast di Vinnycja" nl="Oblast Vinnytsja" />
       <longitude>28.466259</longitude>
       <latitude>49.227968</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ハーイスィン" eng="Haisyn" de="Hajssyn" fr="Haïssyn" es="Haisin" it="Hajsyn" nl="Hajsyn">
@@ -24441,14 +24854,14 @@
       <province jpn="ヴィーンヌィツャ州" eng="Vinnytsia Oblast" de="Oblast Winnyzja" fr="Oblast de Vinnytsia" es="Óblast de Vínnytsia" it="Oblast di Vinnycja" nl="Oblast Vinnytsja" />
       <longitude>27.794702</longitude>
       <latitude>48.447167</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ルーツィク" eng="Lutsk" de="Luzk" fr="Loutsk" es="Lutsk" it="Luc'k" nl="Loetsk">
       <province jpn="ヴォルィーニ州" eng="Volyn Oblast" de="Oblast Wolyn" fr="Oblast de Volhynie" es="Óblast de Volinia" it="Oblast di Volinia" nl="Oblast Wolynië" />
       <longitude>25.32599</longitude>
       <latitude>50.743037</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="コーヴェリ" eng="Kovel" de="Kowel" fr="Kovel" es="Kóvel" it="Kovel" nl="Kovel">
@@ -24462,7 +24875,7 @@
       <province jpn="ザカルパッチャ州" eng="Zakarpattia Oblast" de="Oblast Sakarpattja" fr="Oblast de Transcarpatie" es="Óblast de Transcarpacia" it="Oblast della Transcarpazia" nl="Oblast Transkarpatië" />
       <longitude>22.289203</longitude>
       <latitude>48.602433</latitude>
-      <zoom1>4</zoom1>
+      <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="チャチフ" eng="Tiachiv" de="Tjatschiw" fr="Tiatchiv" es="Tyachiv" it="Tjaciv" nl="Tjatsjiv">
@@ -24497,7 +24910,7 @@
       <province jpn="ジトーミル州" eng="Zhytomyr Oblast" de="Oblast Schytomyr" fr="Oblast de Jytomyr" es="Óblast de Zhitómir" it="Oblast di Zytomyr" nl="Oblast Zjytomyr" />
       <longitude>28.632841</longitude>
       <latitude>50.962342</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
   </country>

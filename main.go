@@ -40,8 +40,7 @@ type Forecast struct {
 
 var weatherMap = map[string]*accuweather.Weather{}
 
-// We generate at 10 to the hour to give time for the files to generate, but want to display the next hour on the channel.
-var currentTime = time.Now().Unix() + 600
+var currentTime = time.Now().Unix()
 var weatherList *WeatherList
 var mapMutex = sync.RWMutex{}
 
