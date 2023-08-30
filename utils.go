@@ -136,7 +136,18 @@ func SignFile(contents []byte) []byte {
 
 	// Get RSA key and sign
 	rsaData, err := os.ReadFile("Private.pem")
-	checkError(err)
+	if err != nil {
+		if !os.IsNotExist(err) {
+			checkError(err)
+		}
+
+		// Otherwise the file does not exist. Assume this is GitHub Actions and return an empty signature.
+		buffer.Write(make([]byte, 64))
+		buffer.Write(make([]byte, 256))
+		buffer.Write(contents)
+
+		return buffer.Bytes()
+	}
 
 	rsaBlock, _ := pem.Decode(rsaData)
 
