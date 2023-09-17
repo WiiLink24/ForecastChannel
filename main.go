@@ -6,6 +6,7 @@ import (
 	"encoding/binary"
 	"fmt"
 	"github.com/wii-tools/lzx/lz10"
+	orderedmap "github.com/wk8/go-ordered-map/v2"
 	"hash/crc32"
 	"io"
 	"log"
@@ -33,7 +34,7 @@ type Forecast struct {
 	currentLanguageCode uint8
 	currentCountryCode  uint8
 	currentCountryList  *NationalList
-	rawLocations        Locations
+	rawLocations        *orderedmap.OrderedMap[string, *orderedmap.OrderedMap[string, *orderedmap.OrderedMap[string, Location]]]
 	cityNames           []City
 	internationalCities []InternationalCity
 }

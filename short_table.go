@@ -66,11 +66,14 @@ func (f *Forecast) MakeShortForecastTable(cities []InternationalCity) {
 			continue
 		}
 
-		countryCode := f.rawLocations[city.Country.English][city.Province.English][city.Name.English].CountryCode
+		country, _ := f.rawLocations.Get(city.Country.English)
+		province, _ := country.Get(city.Province.English)
+		currentCity, _ := province.Get(city.Name.English)
+		countryCode := currentCity.CountryCode
 		f.ShortForecastTable = append(f.ShortForecastTable, ShortForecastTable{
 			CountryCode:                         countryCode,
-			RegionCode:                          f.rawLocations[city.Country.English][city.Province.English][city.Name.English].RegionCode,
-			LocationCode:                        f.rawLocations[city.Country.English][city.Province.English][city.Name.English].LocationCode,
+			RegionCode:                          currentCity.RegionCode,
+			LocationCode:                        currentCity.LocationCode,
 			LocalTimestamp:                      fixTime(weather.Globe.Time),
 			GlobalTimestamp:                     fixTime(int(currentTime)),
 			TodayForecast:                       ConvertIcon(weather.Today.WeatherIcon, countryCode),

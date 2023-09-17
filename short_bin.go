@@ -54,13 +54,17 @@ func (f *Forecast) MakeShortBin(cities []InternationalCity) []byte {
 	}
 	var currentForecastTables []CurrentForecastTable
 
+	currentCountry, _ := f.rawLocations.Get(f.currentCountryList.Name.English)
 	for _, city := range f.currentCountryList.Cities {
 		weather := *weatherMap[fmt.Sprintf("%f,%f", city.Longitude, city.Latitude)]
-		countryCode := f.rawLocations[f.currentCountryList.Name.English][city.Province.English][city.English].CountryCode
+
+		province, _ := currentCountry.Get(city.Province.English)
+		currentCity, _ := province.Get(city.English)
+		countryCode := currentCity.CountryCode
 		currentForecastTables = append(currentForecastTables, CurrentForecastTable{
 			CountryCode:                  countryCode,
-			RegionCode:                   f.rawLocations[f.currentCountryList.Name.English][city.Province.English][city.English].RegionCode,
-			LocationCode:                 f.rawLocations[f.currentCountryList.Name.English][city.Province.English][city.English].LocationCode,
+			RegionCode:                   currentCity.RegionCode,
+			LocationCode:                 currentCity.LocationCode,
 			LocalTimestamp:               fixTime(weather.Globe.Time),
 			GlobalTimestamp:              fixTime(int(currentTime)),
 			CurrentForecast:              ConvertIcon(weather.Current.WeatherIcon, countryCode),
@@ -79,11 +83,15 @@ func (f *Forecast) MakeShortBin(cities []InternationalCity) []byte {
 			continue
 		}
 
-		countryCode := f.rawLocations[city.Country.English][city.Province.English][city.Name.English].CountryCode
+		country, _ := f.rawLocations.Get(city.Country.English)
+		province, _ := country.Get(city.Province.English)
+		currentCity, _ := province.Get(city.Name.English)
+
+		countryCode := currentCity.CountryCode
 		currentForecastTables = append(currentForecastTables, CurrentForecastTable{
 			CountryCode:                  countryCode,
-			RegionCode:                   f.rawLocations[city.Country.English][city.Province.English][city.Name.English].RegionCode,
-			LocationCode:                 f.rawLocations[city.Country.English][city.Province.English][city.Name.English].LocationCode,
+			RegionCode:                   currentCity.RegionCode,
+			LocationCode:                 currentCity.LocationCode,
 			LocalTimestamp:               fixTime(weather.Globe.Time),
 			GlobalTimestamp:              fixTime(int(currentTime)),
 			CurrentForecast:              ConvertIcon(weather.Current.WeatherIcon, countryCode),

@@ -1,6 +1,7 @@
 package main
 
 import (
+	"github.com/wk8/go-ordered-map/v2"
 	"unicode/utf16"
 )
 
@@ -31,35 +32,35 @@ type Location struct {
 	InternationalCity *InternationalCity
 }
 
-type Locations map[string]map[string]map[string]Location
-
 func (f *Forecast) PopulateLocations(cities []InternationalCity) {
-	locations := map[string]map[string]map[string]Location{}
+	locations := orderedmap.New[string, *orderedmap.OrderedMap[string, *orderedmap.OrderedMap[string, Location]]]()
 
 	// First we will populate the national cities. This way we can ignore any duplicates in international.
-	locations[f.currentCountryList.Name.English] = map[string]map[string]Location{}
+	locations.Set(f.currentCountryList.Name.English, orderedmap.New[string, *orderedmap.OrderedMap[string, Location]]())
 	for _, city := range f.currentCountryList.Cities {
 		// Populate province slice if it doesn't exist
-		if locations[f.currentCountryList.Name.English][city.Province.English] == nil {
-			locations[f.currentCountryList.Name.English][city.Province.English] = map[string]Location{}
+		country, _ := locations.Get(f.currentCountryList.Name.English)
+		if _, ok := country.Get(city.Province.English); !ok {
+			country.Set(city.Province.English, orderedmap.New[string, Location]())
 		}
 
-		if _, ok := locations[f.currentCountryList.Name.English][city.Province.English][city.English]; ok {
+		province, _ := country.Get(city.Province.English)
+		if _, ok := province.Get(city.English); ok {
 			continue
 		}
 
 		_city := city
-		locations[f.currentCountryList.Name.English][city.Province.English][city.English] = Location{
+		province.Set(city.English, Location{
 			CountryCode:       f.currentCountryCode,
-			RegionCode:        uint8(len(locations[f.currentCountryList.Name.English]) + 1),
-			LocationCode:      uint16(len(locations[f.currentCountryList.Name.English][city.Province.English]) + 1),
+			RegionCode:        uint8(country.Len()) + 1,
+			LocationCode:      uint16(province.Len()) + 1,
 			Latitude:          CoordinateEncode(city.Latitude),
 			Longitude:         CoordinateEncode(city.Longitude),
 			LocationZoom1:     uint8(city.Zoom1),
 			LocationZoom2:     uint8(city.Zoom2),
 			City:              &_city,
 			InternationalCity: &InternationalCity{},
-		}
+		})
 	}
 
 	noProvince := 1
@@ -69,17 +70,23 @@ func (f *Forecast) PopulateLocations(cities []InternationalCity) {
 			continue
 		}
 
-		if locations[city.Country.English] == nil {
-			locations[city.Country.English] = map[string]map[string]Location{}
+		if _, ok := locations.Get(city.Country.English); !ok {
+			locations.Set(city.Country.English, orderedmap.New[string, *orderedmap.OrderedMap[string, Location]]())
 		}
 
-		if locations[city.Country.English][city.Province.English] == nil {
-			locations[city.Country.English][city.Province.English] = map[string]Location{}
+		country, _ := locations.Get(city.Country.English)
+		if _, ok := country.Get(city.Province.English); !ok {
+			country.Set(city.Province.English, orderedmap.New[string, Location]())
+		}
+
+		province, _ := country.Get(city.Province.English)
+		if _, ok := province.Get(city.Name.English); ok {
+			continue
 		}
 
 		_city := city
 		if _, ok := countryCodes[city.Country.English]; !ok && city.Province.English == "" {
-			locations[city.Country.English][city.Province.English][city.Name.English] = Location{
+			province.Set(city.Name.English, Location{
 				CountryCode:       0xFE,
 				RegionCode:        0xFE,
 				LocationCode:      uint16(noProvince),
@@ -89,26 +96,22 @@ func (f *Forecast) PopulateLocations(cities []InternationalCity) {
 				LocationZoom2:     uint8(city.Zoom2),
 				City:              &City{},
 				InternationalCity: &_city,
-			}
+			})
 			noProvince++
 			continue
 		}
 
-		if _, ok := locations[city.Country.English][city.Province.English][city.Name.English]; ok {
-			continue
-		}
-
-		locations[city.Country.English][city.Province.English][city.Name.English] = Location{
+		province.Set(city.Name.English, Location{
 			CountryCode:       countryCodes[city.Country.English],
-			RegionCode:        uint8(len(locations[city.Country.English]) + 1),
-			LocationCode:      uint16(len(locations[city.Country.English][city.Province.English]) + 1),
+			RegionCode:        uint8(country.Len()) + 1,
+			LocationCode:      uint16(province.Len()) + 1,
 			Latitude:          CoordinateEncode(city.Latitude),
 			Longitude:         CoordinateEncode(city.Longitude),
 			LocationZoom1:     uint8(city.Zoom1),
 			LocationZoom2:     uint8(city.Zoom2),
 			City:              &City{},
 			InternationalCity: &_city,
-		}
+		})
 	}
 
 	f.rawLocations = locations
@@ -117,48 +120,49 @@ func (f *Forecast) PopulateLocations(cities []InternationalCity) {
 func (f *Forecast) MakeLocationTable() {
 	f.Header.LocationsTableOffset = f.GetCurrentSize()
 
-	for _, province := range f.rawLocations[f.currentCountryList.Name.English] {
-		for _, city := range province {
+	currentCountry, _ := f.rawLocations.Get(f.currentCountryList.Name.English)
+	for province := currentCountry.Oldest(); province != nil; province = province.Next() {
+		for city := province.Value.Oldest(); city != nil; city = city.Next() {
 			f.LocationTable = append(f.LocationTable, LocationTable{
-				CountryCode:       city.CountryCode,
-				RegionCode:        city.RegionCode,
-				LocationCode:      city.LocationCode,
+				CountryCode:       city.Value.CountryCode,
+				RegionCode:        city.Value.RegionCode,
+				LocationCode:      city.Value.LocationCode,
 				CityTextOffset:    0,
 				RegionTextOffset:  0,
 				CountryTextOffset: 0,
-				Latitude:          city.Latitude,
-				Longitude:         city.Longitude,
-				LocationZoom1:     city.LocationZoom1,
-				LocationZoom2:     city.LocationZoom2,
+				Latitude:          city.Value.Latitude,
+				Longitude:         city.Value.Longitude,
+				LocationZoom1:     city.Value.LocationZoom1,
+				LocationZoom2:     city.Value.LocationZoom2,
 			})
 
-			f.cityNames = append(f.cityNames, *city.City)
-			f.internationalCities = append(f.internationalCities, *city.InternationalCity)
+			f.cityNames = append(f.cityNames, *city.Value.City)
+			f.internationalCities = append(f.internationalCities, *city.Value.InternationalCity)
 		}
 	}
 
-	for countryName, country := range f.rawLocations {
-		if countryName == f.currentCountryList.Name.English {
+	for country := f.rawLocations.Oldest(); country != nil; country = country.Next() {
+		if country.Key == f.currentCountryList.Name.English {
 			continue
 		}
 
-		for _, province := range country {
-			for _, city := range province {
+		for province := country.Value.Oldest(); province != nil; province = province.Next() {
+			for city := province.Value.Oldest(); city != nil; city = city.Next() {
 				f.LocationTable = append(f.LocationTable, LocationTable{
-					CountryCode:       city.CountryCode,
-					RegionCode:        city.RegionCode,
-					LocationCode:      city.LocationCode,
+					CountryCode:       city.Value.CountryCode,
+					RegionCode:        city.Value.RegionCode,
+					LocationCode:      city.Value.LocationCode,
 					CityTextOffset:    0,
 					RegionTextOffset:  0,
 					CountryTextOffset: 0,
-					Latitude:          city.Latitude,
-					Longitude:         city.Longitude,
-					LocationZoom1:     city.LocationZoom1,
-					LocationZoom2:     city.LocationZoom2,
+					Latitude:          city.Value.Latitude,
+					Longitude:         city.Value.Longitude,
+					LocationZoom1:     city.Value.LocationZoom1,
+					LocationZoom2:     city.Value.LocationZoom2,
 				})
 
-				f.cityNames = append(f.cityNames, *city.City)
-				f.internationalCities = append(f.internationalCities, *city.InternationalCity)
+				f.cityNames = append(f.cityNames, *city.Value.City)
+				f.internationalCities = append(f.internationalCities, *city.Value.InternationalCity)
 			}
 		}
 	}

@@ -111,13 +111,17 @@ type LongForecastTable struct {
 func (f *Forecast) MakeLongForecastTable() {
 	f.Header.LongForecastTableOffset = f.GetCurrentSize()
 
+	currentCountry, _ := f.rawLocations.Get(f.currentCountryList.Name.English)
 	for _, city := range f.currentCountryList.Cities {
 		weather := *weatherMap[fmt.Sprintf("%f,%f", city.Longitude, city.Latitude)]
-		countryCode := f.rawLocations[f.currentCountryList.Name.English][city.Province.English][city.English].CountryCode
+
+		province, _ := currentCountry.Get(city.Province.English)
+		currentCity, _ := province.Get(city.English)
+		countryCode := currentCity.CountryCode
 		f.LongForecastTable = append(f.LongForecastTable, LongForecastTable{
 			CountryCode:                         countryCode,
-			RegionCode:                          f.rawLocations[f.currentCountryList.Name.English][city.Province.English][city.English].RegionCode,
-			LocationCode:                        f.rawLocations[f.currentCountryList.Name.English][city.Province.English][city.English].LocationCode,
+			RegionCode:                          currentCity.RegionCode,
+			LocationCode:                        currentCity.LocationCode,
 			LocalTimestamp:                      fixTime(weather.Globe.Time),
 			GlobalTimestamp:                     fixTime(int(currentTime)),
 			TodayForecast:                       ConvertIcon(weather.Today.WeatherIcon, countryCode),
