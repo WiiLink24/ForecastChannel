@@ -151,7 +151,7 @@ func SignFile(contents []byte) []byte {
 
 	rsaBlock, _ := pem.Decode(rsaData)
 
-	parsedKey, err := x509.ParsePKCS1PrivateKey(rsaBlock.Bytes)
+	parsedKey, err := x509.ParsePKCS8PrivateKey(rsaBlock.Bytes)
 	checkError(err)
 
 	// Hash our data then sign
@@ -162,7 +162,7 @@ func SignFile(contents []byte) []byte {
 	contentsHashSum := hash.Sum(nil)
 
 	reader := rand.Reader
-	signature, err := rsa.SignPKCS1v15(reader, parsedKey, crypto.SHA1, contentsHashSum)
+	signature, err := rsa.SignPKCS1v15(reader, parsedKey.(*rsa.PrivateKey), crypto.SHA1, contentsHashSum)
 	checkError(err)
 
 	buffer.Write(make([]byte, 64))
