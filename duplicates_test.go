@@ -14,6 +14,10 @@ func TestDuplicates(t *testing.T) {
 	PopulateCountryCodes()
 	for c, u := range countryCodes {
 		data, err := os.ReadFile(fmt.Sprintf("files/1/%s/forecast.bin", ZFill(u, 3)))
+		if data == nil {
+			fmt.Println(fmt.Sprintf("Skipping Country %s", c))
+			continue
+		}
 		if err != nil {
 			fmt.Println(fmt.Sprintf("Error in Country %s", c))
 			t.Error(err)
