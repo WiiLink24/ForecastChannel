@@ -10,6 +10,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/stretchr/testify v1.8.1 h1:w7B6lhMri9wdJUVmEZPGGhZzrYTPvgJArz7wNPgYKsk=
 github.com/wii-tools/lzx v0.0.0-20221114001118-aaec5e424e43 h1:woCmRIngzz1fcUDj+1at7h9EW1Os8SK0tbOh4WEoyPQ=
 github.com/wii-tools/lzx v0.0.0-20221114001118-aaec5e424e43/go.mod h1:ufCQJfNwbD5fkg6jHpw69vc5opbc42TePvnloMFYbmY=
+github.com/wii-tools/lzx v0.0.0-20231015015251-a22af598bf96 h1:/VIs7AN9f+C1xXD4z5FwMWlhrr05EhyMge7zaMMjcxA=
+github.com/wii-tools/lzx v0.0.0-20231015015251-a22af598bf96/go.mod h1:ufCQJfNwbD5fkg6jHpw69vc5opbc42TePvnloMFYbmY=
 github.com/wk8/go-ordered-map/v2 v2.1.8 h1:5h/BUHu93oj4gIdvHHHGsScSTMijfx5PeYkE/fJgbpc=
 github.com/wk8/go-ordered-map/v2 v2.1.8/go.mod h1:5nJHM5DyteebpVlHnWMV0rPz6Zp7+xBAnxjb1X5vnTw=
 golang.org/x/exp v0.0.0-20230118134722-a68e582fa157 h1:fiNkyhJPUvxbRPbCqY/D9qdjmPzfHcpK3P4bM4gioSY=
