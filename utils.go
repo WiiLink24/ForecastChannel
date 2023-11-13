@@ -76,6 +76,11 @@ func (f *Forecast) GetTemperatureFlag() uint8 {
 }
 
 func GetSupportedLanguages(countryCode uint8) []uint8 {
+	// Fill out the Russian supported countries first as those are specific
+	if countryCode == 18 {
+		return []uint8{7}
+	}
+
 	if countryCode == 1 {
 		return []uint8{0, 1, 2, 3, 4, 5, 6}
 	} else if 8 <= countryCode && countryCode <= 52 {
@@ -103,6 +108,8 @@ func (f *Forecast) GetLocalizedName(names LocalizedNames) string {
 		return names.Italian
 	case 6:
 		return names.Dutch
+	case 7:
+		return names.Russian
 	}
 
 	// Impossible to reach here
@@ -125,6 +132,8 @@ func (f *Forecast) GetCityName(city City) string {
 		return city.Italian
 	case 6:
 		return city.Dutch
+	case 7:
+		return city.Russian
 	}
 
 	// Impossible to reach here

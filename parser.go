@@ -30,6 +30,7 @@ type City struct {
 	Spanish   string         `xml:"es,attr"`
 	Italian   string         `xml:"it,attr"`
 	Dutch     string         `xml:"nl,attr"`
+	Russian   string         `xml:"rus,attr"`
 	Province  LocalizedNames `xml:"province"`
 	Longitude float64        `xml:"longitude"`
 	Latitude  float64        `xml:"latitude"`
@@ -46,6 +47,7 @@ type LocalizedNames struct {
 	Spanish  string `xml:"es,attr"`
 	Italian  string `xml:"it,attr"`
 	Dutch    string `xml:"nl,attr"`
+	Russian  string `xml:"rus,attr"`
 }
 
 type InternationalList struct {
