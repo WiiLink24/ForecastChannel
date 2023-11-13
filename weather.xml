@@ -13934,8 +13934,8 @@
     </city>
     <city jpn="クロッペンブルク" eng="Cloppenburg" de="Cloppenburg" fr="Cloppenburg" es="Cloppenburg" it="Cloppenburg" nl="Cloppenburg" rus="Клоппенбург">
       <province jpn="ニーダーザクセン州" eng="Lower Saxony" de="Niedersachsen" fr="Basse-Saxe" es="Baja Sajonia" it="Bassa Sassonia" nl="Nedersaksen" rus="Нижняя Саксония"></province>
-      <longitude>8.052861</longitude>
-      <latitude>52.841164</latitude>
+      <longitude>8.009427</longitude>
+      <latitude>7.9691</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -21654,116 +21654,11 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="ノヴォシビルスク" eng="Novosibirsk" de="Nowosibirsk" fr="Novossibirsk" es="Novosibirsk" it="Novosibirsk" nl="Novosibirsk" rus="Новосибирск">
-      <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
-      <longitude>82.895197</longitude>
-      <latitude>54.956727</latitude>
-      <zoom1>7</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="アバカン" eng="Abakan" de="Abakan" fr="Abakan" es="Abakán" it="Abakan" nl="Abakan" rus="Абакан">
-      <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
-      <longitude>91.413181</longitude>
-      <latitude>53.702021</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="アバサ" eng="Abaza" de="Abasa" fr="Abaza" es="Abazá" it="Abaza" nl="Abaza" rus="Абаза">
-      <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
-      <longitude>90.082176</longitude>
-      <latitude>52.617413</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="バルナウル" eng="Barnaul" de="Barnaul" fr="Barnaoul" es="Barnaúl" it="Barnaul" nl="Barnaoel" rus="Барнаул">
-      <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
-      <longitude>83.744226</longitude>
-      <latitude>53.287384</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="ビイスク" eng="Biysk" de="Bijsk" fr="Biïsk" es="Bisk" it="Bijsk" nl="Biejsk" rus="Бийск">
-      <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
-      <longitude>85.175991</longitude>
-      <latitude>52.467515</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="ブラーツク" eng="Bratsk" de="Bratsk" fr="Bratsk" es="Bratsk" it="Bratsk" nl="Bratsk" rus="Братск">
-      <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
-      <longitude>101.967404</longitude>
-      <latitude>56.205448</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="ゴルノ・アルタイスク" eng="Gorno-Altaysk" de="Gorno-Altaisk" fr="Gorno-Altaïsk" es="Gorno-Altaisk" it="Gorno-Altaysk" nl="Gorno-Altajsk" rus="Горно-Алтайск">
-      <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
-      <longitude>85.999195</longitude>
-      <latitude>51.940847</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="イルクーツク" eng="Irkutsk" de="Irkutsk" fr="Irkoutsk" es="Irkutsk" it="Irkutsk" nl="Irkoetsk" rus="Иркутск">
       <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
       <longitude>104.2327880859375</longitude>
       <latitude>52.3114013671875</latitude>
       <zoom1>7</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="カメン・ナ・オビ" eng="Kamen-na-Obi" de="Kamen am Ob" fr="Kamen-na-Obi" es="Kamen-na-Obí" it="Kamen-na-Obi" nl="Kamen-na-Obi" rus="Камень-на-Оби">
-      <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
-      <longitude>81.296582</longitude>
-      <latitude>53.752434</latitude>
-      <zoom1>3</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="ケメロヴォ" eng="Kemerovo" de="Kemerowo" fr="Kemerovo" es="Kémerovo" it="Kemerovo" nl="Kemerovo" rus="Кемерово">
-      <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
-      <longitude>86.127095</longitude>
-      <latitude>55.318030</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="ハタンガ" eng="Khatanga" de="Khatanga" fr="Khatanga" es="Chatanga" it="Chatanga" nl="Chatanga" rus="Хатанга">
-      <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
-      <longitude>102.476256</longitude>
-      <latitude>71.978809</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="クラスノヤルスク" eng="Krasnoyarsk" de="Krasnojarsk" fr="Krasnoïarsk" es="Krasnoyarsk" it="Krasnojarsk" nl="Krasnojarsk" rus="Красноярск">
-      <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
-      <longitude>93.009527</longitude>
-      <latitude>55.966656</latitude>
-      <zoom1>7</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="レソシビルスク" eng="Lesosibirsk" de="Lesosibirsk" fr="Lessossibirsk" es="Lesosibirsk" it="Lesosibirsk" nl="Lesosibirsk" rus="Лесосибирск">
-      <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
-      <longitude>92.506652</longitude>
-      <latitude>58.199457</latitude>
-      <zoom1>4</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="ノリリスク" eng="Norilsk" de="Norilsk" fr="Norilsk" es="Norilsk" it="Noril'sk" nl="Norilsk" rus="Норильск">
-      <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
-      <longitude>88.218484</longitude>
-      <latitude>69.336619</latitude>
-      <zoom1>7</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="ノヴォクズネツク" eng="Novokuznetsk" de="Nowokusnezk" fr="Novokouznetsk" es="Novokuznetsk" it="Novokuznetsk" nl="Novokoeznetsk" rus="Новокузнецк">
-      <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
-      <longitude>87.214014</longitude>
-      <latitude>53.704185</latitude>
-      <zoom1>5</zoom1>
-      <zoom2>3</zoom2>
-    </city>
-	<city jpn="ウスト・コクサ" eng="Ust-Koksa" de="Oust-Koksa" fr="Ust-Koksa" es="Ust-Koksa" it="Ust-Koksa" nl="Oest-Koksa" rus="Усть-Кокса">
-	<province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
-      <longitude>85.683561</longitude>
-      <latitude>50.234959</latitude>
-      <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ウラジオストク" eng="Vladivostok" de="Wladiwostok" fr="Vladivostok" es="Vladivostok" it="Vladivostok" nl="Vladivostok" rus="Владивосток">
@@ -21875,6 +21770,13 @@
       <province jpn="北西連邦管区" eng="Northwestern Federal District" de="Nordwestrussland" fr="District fédéral du Nord-Ouest" es="Distrito Federal del Noroeste" it="Distretto Federale Nordoccidentale" nl="Noordwestelijk Federaal District" rus="Северозападный федеральный округ"></province>
       <longitude>30.43212890625</longitude>
       <latitude>59.930419921875</latitude>
+      <zoom1>7</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ノヴォシビルスク" eng="Novosibirsk" de="Nowosibirsk" fr="Novossibirsk" es="Novosibirsk" it="Novosibirsk" nl="Novosibirsk" rus="Новосибирск">
+      <province jpn="シベリア連邦管区" eng="Siberian Federal District" de="Sibirien" fr="District fédéral sibérien" es="Distrito Federal de Siberia" it="Distretto Federale Siberiano" nl="Federaal District Siberië" rus="Сибирский федеральный округ"></province>
+      <longitude>82.895197</longitude>
+      <latitude>54.956727</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
