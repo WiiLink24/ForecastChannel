@@ -20,7 +20,7 @@ jobs:
         run: go build -v
 
       - name: Run
-        run: mkdir files files/0 files/1 files/2 files/3 files/4 files/5 files/6; ./ForecastChannel
+        run: mkdir files files/0 files/1 files/2 files/3 files/4 files/5 files/6 files/7; ./ForecastChannel
 
       - name: Test for Duplicates
         run: go test
