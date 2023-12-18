@@ -1058,6 +1058,13 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city="高島市" eng="Takashima" de="Takashima" fr="Takashima" es="Takashima" it="Takashima" nl="Takashima" rus="Такасима">
+      <province jpn="滋賀県" eng="Shiga" de="Shiga" fr="Shiga" es="Shiga" it="Shiga" nl="Shiga" rus="Сига"></province>
+      <longitude>136.033333</longitude>
+      <latitude>35.35</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="東近江市" eng="Higashiomi" de="Higashiomi" fr="Higashiomi" es="Higashiomi" it="Higashiomi" nl="Higashiomi" rus="Хигасиоми">
       <province jpn="滋賀県" eng="Shiga" de="Shiga" fr="Shiga" es="Shiga" it="Shiga" nl="Shiga" rus="Сига"></province>
       <longitude>136.244522</longitude>
@@ -1105,6 +1112,13 @@
       <longitude>135.5218505859375</longitude>
       <latitude>34.6728515625</latitude>
       <zoom1>5</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="豊能町" eng="Toyono" de="Toyono" fr="Toyono" es="Toyono" it="Toyono" nl="Toyono" rus="Тойоно">
+      <province jpn="大阪府" eng="Osaka" de="Osaka" fr="Osaka" es="Osaka" it="Osaka" nl="Osaka" rus="Осака"></province>
+      <longitude>135.383333</longitude>
+      <latitude>34.918889</latitude>
+      <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="堺市" eng="Sakai" de="Sakai" fr="Sakai" es="Sakai" it="Sakai" nl="Sakai" rus="Сакаи">
