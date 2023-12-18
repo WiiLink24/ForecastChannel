@@ -1058,7 +1058,7 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="高島市" eng="Takashima" de="Takashima" fr="Takashima" es="Takashima" it="Takashima" nl="Takashima" rus="Такасима">
+    <city="高島市" eng="Takashima" de="Takashima" fr="Takashima" es="Takashima" it="Takashima" nl="Takashima" rus="Такасима">
       <province jpn="滋賀県" eng="Shiga" de="Shiga" fr="Shiga" es="Shiga" it="Shiga" nl="Shiga" rus="Сига"></province>
       <longitude>136.033333</longitude>
       <latitude>35.35</latitude>
@@ -1104,12 +1104,6 @@
       <province jpn="京都府" eng="Kyoto" de="Kyoto" fr="Kyoto" es="Kioto" it="Kyoto" nl="Kyoto" rus="Киото"></province>
       <longitude>135.208565</longitude>
       <latitude>35.252668</latitude>
-      <zoom1>0</zoom1>
-      <zoom2>3</zoom2>
-    <city jpn="南丹市" eng="Nantan" de="Nantan" fr="Nantan" es="Nantan" it="Nantan" nl="Nantan" rus="Нантан">
-      <province jpn="京都府" eng="Kyoto" de="Kyoto" fr="Kyoto" es="Kioto" it="Kyoto" nl="Kyoto" rus="Киото"></province>
-      <longitude>135.466667</longitude>
-      <latitude>35.1</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
