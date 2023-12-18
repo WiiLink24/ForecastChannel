@@ -9654,6 +9654,13 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="ブルームスバーグ" eng="Bloomsburg" de="Bloomsburg" fr="Bloomsburg" es="Bloomsburg" it="Bloomsburg" nl="Bloomsburg" rus="Блумсбург">
+      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" rus="Пенсильвания"></province>
+      <longitude>-76.458056</longitude>
+      <latitude>41.0025</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="チェンバーズバーグ" eng="Chambersburg" de="Chambersburg" fr="Chambersburg" es="Chambersburg" it="Chambersburg" nl="Chambersburg" rus="Чемберсберг">
       <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" rus="Пенсильвания"></province>
       <longitude>-77.6568603515625</longitude>
@@ -9743,6 +9750,13 @@
       <longitude>-76.9976806640625</longitude>
       <latitude>41.2371826171875</latitude>
       <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ワイオミング州" eng="Wyoming" de="Wyoming" fr="Wyoming" es="Wyoming" it="Wyoming" nl="Wyoming" rus="Вайоминг">
+      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" rus="Пенсильвания"></province>
+      <longitude>-75.836944</longitude>
+      <latitude>41.309444</latitude>
+      <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ヨーク" eng="York" de="York" fr="York" es="York" it="York" nl="York" rus="Йорк">
