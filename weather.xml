@@ -22,6 +22,13 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="小金井市" eng="Koganei" de="Koganei" fr="Koganei" es="Koganei" it="Koganei" nl="Koganei" rus="Коганэй">
+      <province jpn="東京都" eng="Tokyo" de="Tokio" fr="Tokyo" es="Tokio" it="Tokyo" nl="Tokio" rus="Токио"></province>
+      <longitude>139.502972</longitude>
+      <latitude>35.699472</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="父島" eng="Chichijima" de="Chichijima" fr="Chichijima" es="Chichijima" it="Chichijima" nl="Chichijima" rus="Титидзима">
       <province jpn="東京都" eng="Tokyo" de="Tokio" fr="Tokyo" es="Tokio" it="Tokyo" nl="Tokio" rus="Токио"></province>
       <longitude>142.18505859375</longitude>
@@ -236,6 +243,20 @@
       <province jpn="青森県" eng="Aomori" de="Aomori" fr="Aomori" es="Aomori" it="Aomori" nl="Aomori" rus="Аомори"></province>
       <longitude>140.332508</longitude>
       <latitude>40.803666</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="黒石市" eng="Kuroishi" de="Kuroishi" fr="Kuroishi" es="Kuroishi" it="Kuroishi" nl="Kuroishi" rus="Куроиси">
+      <province jpn="青森県" eng="Aomori" de="Aomori" fr="Aomori" es="Aomori" it="Aomori" nl="Aomori" rus="Аомори"></province>
+      <longitude>140.611306</longitude>
+      <latitude>40.642611</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="平内町" eng="Hiranai" de="Hiranai" fr="Hiranai" es="Hiranai" it="Hiranai" nl="Hiranai" rus="Хиранай">
+      <province jpn="青森県" eng="Aomori" de="Aomori" fr="Aomori" es="Aomori" it="Aomori" nl="Aomori" rus="Аомори"></province>
+      <longitude>140.955861</longitude>
+      <latitude>40.925944</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -9644,6 +9665,13 @@
       <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" rus="Пенсильвания"></province>
       <longitude>-78.3929443359375</longitude>
       <latitude>40.517578125</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="バーウィック" eng="Berwick" de="Berwick" fr="Berwick" es="Berwick" it="Berwick" nl="Berwick" rus="Бервик">
+      <province jpn="ペンシルベニア州" eng="Pennsylvania" de="Pennsylvania" fr="Pennsylvanie" es="Pensilvania" it="Pennsylvania" nl="Pennsylvania" rus="Пенсильвания"></province>
+      <longitude>-76.233611</longitude>
+      <latitude>41.054722</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
