@@ -5,6 +5,7 @@ import (
 	"bytes"
 	"encoding/binary"
 	"fmt"
+	"github.com/cloudflare/cloudflare-go"
 	"github.com/wii-tools/lzx/lz10"
 	orderedmap "github.com/wk8/go-ordered-map/v2"
 	"hash/crc32"
@@ -39,17 +40,29 @@ type Forecast struct {
 	internationalCities []InternationalCity
 }
 
-var weatherMap = map[string]*accuweather.Weather{}
-
-var currentTime = time.Now().Unix()
-var weatherList *WeatherList
-var mapMutex = sync.RWMutex{}
+var (
+	currentTime   = time.Now().Unix()
+	weatherMap    = map[string]*accuweather.Weather{}
+	weatherList   *WeatherList
+	mapMutex      = sync.RWMutex{}
+	config        Config
+	cloudflareAPI *cloudflare.API
+)
 
 func main() {
 	start := time.Now()
 	// Get all important data we need
 	weatherList = ParseWeatherXML()
 	PopulateCountryCodes()
+
+	config = GetConfig()
+
+	// Cloudflare API for caching files
+	var err error
+	cloudflareAPI, err = cloudflare.NewWithAPIToken(config.CloudflareToken)
+	if err != nil {
+		panic(err)
+	}
 
 	// Async HTTP done safely and fast
 	wg := sync.WaitGroup{}
@@ -64,7 +77,7 @@ func main() {
 			defer wg.Done()
 			semaphore <- struct{}{}
 			fmt.Println("Processing", city.Name.English)
-			weather := accuweather.GetWeather(city.Longitude, city.Latitude, currentTime)
+			weather := accuweather.GetWeather(city.Longitude, city.Latitude, currentTime, config.AccuweatherKey)
 			mapMutex.Lock()
 			weatherMap[fmt.Sprintf("%f,%f", city.Longitude, city.Latitude)] = weather
 			mapMutex.Unlock()
@@ -93,7 +106,7 @@ func main() {
 					defer wg.Done()
 					semaphore <- struct{}{}
 					fmt.Println("Processing", city.English)
-					weather := accuweather.GetWeather(city.Longitude, city.Latitude, currentTime)
+					weather := accuweather.GetWeather(city.Longitude, city.Latitude, currentTime, config.AccuweatherKey)
 					mapMutex.Lock()
 					weatherMap[fmt.Sprintf("%f,%f", city.Longitude, city.Latitude)] = weather
 					mapMutex.Unlock()
@@ -174,6 +187,9 @@ func main() {
 			}
 		}()
 	}
+
+	// Finally purge Cloudflare cache
+	purgeCloudflareCache()
 
 	wg.Wait()
 	fmt.Println(time.Since(start))

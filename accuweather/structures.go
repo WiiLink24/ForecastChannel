@@ -12,6 +12,8 @@ type Weather struct {
 	Pollen        int
 	HourlyIcon    []int
 	Globe         Globe
+
+	apiKey string
 }
 
 type Current struct {

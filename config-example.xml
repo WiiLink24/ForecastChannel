@@ -1,0 +1,6 @@
+<Config>
+    <forecast_host>weather.wii.rc24.xyz</forecast_host>
+    <accuweather_key>AUTH_KEY_HERE</accuweather_key>
+    <cloudflare_token>CLOUDFLARE_TOKEN</cloudflare_token>
+    <cloudflare_zone_name>ZONE_NAME</cloudflare_zone_name>
+</Config>

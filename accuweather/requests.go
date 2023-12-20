@@ -11,13 +11,12 @@ import (
 )
 
 const (
-	apiKey = ""
 	apiURL = "https://api.accuweather.com"
 )
 
 var currentTime = time.Now().Unix()
 
-func GetWeather(longitude float64, latitude float64, _time int64) (w *Weather) {
+func GetWeather(longitude float64, latitude float64, _time int64, apiKey string) (w *Weather) {
 	defer func() {
 		if err := recover(); err != nil {
 			buf := make([]byte, 2048)
@@ -31,6 +30,7 @@ func GetWeather(longitude float64, latitude float64, _time int64) (w *Weather) {
 
 	currentTime = _time
 	weather := Weather{}
+	weather.apiKey = apiKey
 
 	// First retrieve the location code.
 	queryParams := fmt.Sprintf("q=%f,%f&apikey=%s", latitude, longitude, apiKey)
@@ -62,7 +62,7 @@ func GetWeather(longitude float64, latitude float64, _time int64) (w *Weather) {
 }
 
 func (w *Weather) GetCurrentWeather(locationKey string) {
-	response, err := http.Get(fmt.Sprintf("%s/currentconditions/v1/%s?apikey=%s&details=true", apiURL, locationKey, apiKey))
+	response, err := http.Get(fmt.Sprintf("%s/currentconditions/v1/%s?apikey=%s&details=true", apiURL, locationKey, w.apiKey))
 	defer response.Body.Close()
 	respBytes, _ := io.ReadAll(response.Body)
 
@@ -100,7 +100,7 @@ func (w *Weather) GetCurrentWeather(locationKey string) {
 }
 
 func (w *Weather) Get5DayWeather(locationKey string) {
-	response, err := http.Get(fmt.Sprintf("%s/forecasts/v1/daily/5day/quarters/%s?apikey=%s&details=true", apiURL, locationKey, apiKey))
+	response, err := http.Get(fmt.Sprintf("%s/forecasts/v1/daily/5day/quarters/%s?apikey=%s&details=true", apiURL, locationKey, w.apiKey))
 	defer response.Body.Close()
 	respBytes, _ := io.ReadAll(response.Body)
 
@@ -139,7 +139,7 @@ func (w *Weather) Get5DayWeather(locationKey string) {
 }
 
 func (w *Weather) Get10DayWeather(locationKey string) {
-	response, err := http.Get(fmt.Sprintf("%s/forecasts/v1/daily/10day/%s?apikey=%s&details=true", apiURL, locationKey, apiKey))
+	response, err := http.Get(fmt.Sprintf("%s/forecasts/v1/daily/10day/%s?apikey=%s&details=true", apiURL, locationKey, w.apiKey))
 	defer response.Body.Close()
 	respBytes, _ := io.ReadAll(response.Body)
 
