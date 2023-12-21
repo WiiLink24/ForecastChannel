@@ -68,7 +68,7 @@ func PopulateCountryCodes() {
 	countryCodes["Bulgaria"] = 70
 	countryCodes["Croatia"] = 71
 	countryCodes["Cyprus"] = 72
-	countryCodes["Czechia"] = 73
+	countryCodes["Czech Republic"] = 73
 	countryCodes["Denmark"] = 74
 	countryCodes["Estonia"] = 75
 	countryCodes["Finland"] = 76
@@ -84,7 +84,7 @@ func PopulateCountryCodes() {
 	countryCodes["Liechtenstein"] = 86
 	countryCodes["Lithuania"] = 87
 	countryCodes["Luxembourg"] = 88
-	countryCodes["North Macedonia"] = 89
+	countryCodes["F.Y.R. of Macedonia"] = 89
 	countryCodes["Malta"] = 90
 	countryCodes["Montenegro"] = 91
 	countryCodes["Mozambique"] = 92
@@ -104,7 +104,7 @@ func PopulateCountryCodes() {
 	countryCodes["Eswatini"] = 106
 	countryCodes["Sweden"] = 107
 	countryCodes["Switzerland"] = 108
-	countryCodes["Türkiye"] = 109
+	countryCodes["Turkey"] = 109
 	countryCodes["United Kingdom"] = 110
 	countryCodes["Zambia"] = 111
 	countryCodes["Zimbabwe"] = 112
@@ -161,7 +161,7 @@ func PopulateCountryCodes() {
 	countryCodes["Tajikistan"] = 165
 	countryCodes["Turkmenistan"] = 166
 	countryCodes["Uzbekistan"] = 167
-	countryCodes["United Arab Emirates"] = 168
+	countryCodes["U.A.E"] = 168
 	countryCodes["India"] = 169
 	countryCodes["Egypt"] = 170
 	countryCodes["Oman"] = 171

@@ -7,6 +7,7 @@ import (
 	"github.com/wii-tools/lzx/lz10"
 	"os"
 	"testing"
+	"unicode/utf16"
 )
 
 func TestDuplicates(t *testing.T) {
@@ -41,10 +42,12 @@ func TestDuplicates(t *testing.T) {
 			locationCode := binary.BigEndian.Uint32(decompressed[shortTableOffset:])
 			locationTableOffset := header.LocationsTableOffset
 			count := 0
+			var locationOffsets []uint32
 			for ii := 0; ii < int(header.NumberOfLocations); ii++ {
 				currentLocationCode := binary.BigEndian.Uint32(decompressed[locationTableOffset:])
 				if currentLocationCode == locationCode {
 					count++
+					locationOffsets = append(locationOffsets, locationTableOffset)
 				}
 
 				locationTableOffset += 24
@@ -53,6 +56,23 @@ func TestDuplicates(t *testing.T) {
 			if count != 1 {
 				fmt.Println(fmt.Sprintf("Error in Country %s", c))
 				fmt.Println(fmt.Sprintf("Duplicate Detected. Count: %d, Location Code: %d", count, locationCode))
+
+				for _, offset := range locationOffsets {
+					theNameOffset := binary.BigEndian.Uint32(decompressed[offset+4:])
+					var name []uint16
+					for {
+						// Find the name of the city I hope
+						currBytes := binary.BigEndian.Uint16(decompressed[theNameOffset:])
+						if currBytes == 0 {
+							break
+						}
+
+						name = append(name, currBytes)
+						theNameOffset += 2
+					}
+
+					fmt.Println("City Name: ", string(utf16.Decode(name)))
+				}
 			}
 
 			shortTableOffset += 72
