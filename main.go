@@ -58,10 +58,10 @@ func main() {
 	config = GetConfig()
 
 	// Cloudflare API for caching files
-	var err error
-	cloudflareAPI, err = cloudflare.NewWithAPIToken(config.CloudflareToken)
-	if err != nil {
-		panic(err)
+	if config.UseCloudflare {
+		var err error
+		cloudflareAPI, err = cloudflare.NewWithAPIToken(config.CloudflareToken)
+		checkError(err)
 	}
 
 	// Async HTTP done safely and fast
@@ -188,11 +188,13 @@ func main() {
 		}()
 	}
 
-	// Finally purge Cloudflare cache
-	purgeCloudflareCache()
-
 	wg.Wait()
 	fmt.Println(time.Since(start))
+
+	if config.UseCloudflare {
+		// Finally purge Cloudflare cache
+		purgeCloudflareCache()
+	}
 }
 
 func checkError(err error) {

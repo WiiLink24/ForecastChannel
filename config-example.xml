@@ -3,4 +3,5 @@
     <accuweather_key>AUTH_KEY_HERE</accuweather_key>
     <cloudflare_token>CLOUDFLARE_TOKEN</cloudflare_token>
     <cloudflare_zone_name>ZONE_NAME</cloudflare_zone_name>
+    <use_cloudflare>false</use_cloudflare>
 </Config>
