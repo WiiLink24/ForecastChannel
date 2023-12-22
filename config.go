@@ -10,6 +10,7 @@ type Config struct {
 	AccuweatherKey     string `xml:"accuweather_key"`
 	CloudflareToken    string `xml:"cloudflare_token"`
 	CloudflareZoneName string `xml:"cloudflare_zone_name"`
+	DiscordWebhook     string `xml:"discord_webhook"`
 }
 
 func GetConfig() Config {

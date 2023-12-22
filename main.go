@@ -188,8 +188,9 @@ func main() {
 		}()
 	}
 
-	// Finally purge Cloudflare cache
+	// Finally purge Cloudflare cache and send a webhook
 	purgeCloudflareCache()
+	sendWebhook()
 
 	wg.Wait()
 	fmt.Println(time.Since(start))
