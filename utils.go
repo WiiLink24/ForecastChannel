@@ -9,7 +9,6 @@ import (
 	"crypto/sha1"
 	"crypto/x509"
 	"encoding/pem"
-	"fmt"
 	"github.com/cloudflare/cloudflare-go"
 	"golang.org/x/exp/slices"
 	"os"
@@ -180,42 +179,10 @@ func SignFile(contents []byte) []byte {
 }
 
 func purgeCloudflareCache() {
-	var files []string
-
-	for _, code := range countryCodes {
-		for _, language := range GetSupportedLanguages(code) {
-			url := fmt.Sprintf("http://%s/%d/%s/", config.ForecastHost, language, ZFill(code, 3))
-
-			files = append(files, url+"forecast.bin")
-			files = append(files, url+"short.bin")
-		}
+	pcr := cloudflare.PurgeCacheRequest{
+		Everything: true,
 	}
 
-	// Cloudflare only allows for purging 30 files on one request.
-	ctx := context.Background()
-	numberOfFiles := 30
-	for {
-		if len(files) < 30 && len(files) != 0 {
-			numberOfFiles = len(files)
-		} else if len(files) == 0 {
-			break
-		}
-
-		currentFiles := files[:numberOfFiles]
-		pcr := cloudflare.PurgeCacheRequest{
-			Everything: false,
-			Files:      currentFiles,
-			Tags:       nil,
-			Hosts:      nil,
-			Prefixes:   nil,
-		}
-
-		_, err := cloudflareAPI.PurgeCache(ctx, config.CloudflareZoneName, pcr)
-		if err != nil {
-			fmt.Println("An error occurred purging the Cloudflare cache")
-		}
-
-		// Remove the just purged files
-		files = files[numberOfFiles:]
-	}
+	_, err := cloudflareAPI.PurgeCache(context.Background(), config.CloudflareZoneName, pcr)
+	checkError(err)
 }
