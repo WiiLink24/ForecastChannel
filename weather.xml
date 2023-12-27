@@ -16931,19 +16931,19 @@
       <zoom1>4</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="エストレイト・ダ・カリェタ" eng="Calheta" de="Estreito da Calheta" fr="Estreito da Calheta" es="Estreito da Calheta" it="Estreito da Calheta" nl="Estreito da Calheta" rus="Кальета">
-      <province jpn="アソレス自治州" eng="Azores" de="Azoren" fr="Açores" es="Azores" it="Azzorre" nl="Azoren" rus="Азорские острова"></province>
-      <longitude>-28.0096435546875</longitude>
-      <latitude>38.6004638671875</latitude>
-      <zoom1>1</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="ポルト・モニス" eng="Porto Moniz" de="Porto Moniz" fr="Porto Moniz" es="Porto Moniz" it="Porto Moniz" nl="Porto Moniz" rus="Порто-Мониш">
       <province jpn="マディラ自治州" eng="Madeira" de="Madeira" fr="Madère" es="Madeira" it="Madera" nl="Madeira" rus="Мадейра"></province>
       <longitude>-17.16064453125</longitude>
       <latitude>32.84912109375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
+    </city>
+    <city jpn="エストレイト・ダ・カリェタ" eng="Calheta" de="Estreito da Calheta" fr="Estreito da Calheta" es="Estreito da Calheta" it="Estreito da Calheta" nl="Estreito da Calheta" rus="Кальета">
+        <province jpn="アソレス自治州" eng="Azores" de="Azoren" fr="Açores" es="Azores" it="Azzorre" nl="Azoren" rus="Азорские острова"></province>
+        <longitude>-28.0096435546875</longitude>
+        <latitude>38.6004638671875</latitude>
+        <zoom1>1</zoom1>
+        <zoom2>3</zoom2>
     </city>
     <city jpn="ポンタ・デルガーダ" eng="Ponta Delgada" de="Ponta Delgada" fr="Ponta Delgada" es="Distrito de Ponta Delgada" it="Ponta Delgada" nl="Ponta Delgada" rus="Понта-Делгада">
       <province jpn="アソレス自治州" eng="Azores" de="Azoren" fr="Açores" es="Azores" it="Azzorre" nl="Azoren" rus="Азорские острова"></province>
