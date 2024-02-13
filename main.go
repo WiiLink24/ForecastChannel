@@ -230,3 +230,10 @@ func (f *Forecast) GetCurrentSize() uint32 {
 
 	return uint32(buffer.Len())
 }
+
+func translationLanguageFix(lang uint8) uint8 {
+	if (lang == 7) {
+		return 1
+	}
+	return lang
+}
