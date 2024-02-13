@@ -79,9 +79,12 @@ func (f *Forecast) GetTemperatureFlag() uint8 {
 }
 
 func GetSupportedLanguages(countryCode uint8) []uint8 {
-	// TODO: Fill out the Russian supported countries first as those are specific
-	if countryCode == 100 {
-		return []uint8{1, 7}
+	/* Russia Ukraine | Armenia Belarus Georgia UK Azerbaijan Kazakhstan Kyrgyzstan Pakistan
+	Tajikistan Turkmenistan Uzbekistan | Denmark Germany Poland Moldova*/
+	ruLangCountries := []uint8{100, 208, 53, 54, 55, 110, 113, 162, 163, 164, 165, 166, 167, 74, 78, 97, 207}
+
+	if slices.Contains(ruLangCountries, countryCode) {
+		return []uint8{1, 3, 4, 7}
 	}
 
 	if countryCode == 1 {
