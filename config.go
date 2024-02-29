@@ -6,11 +6,13 @@ import (
 )
 
 type Config struct {
-	ForecastHost       string `xml:"forecast_host"`
-	AccuweatherKey     string `xml:"accuweather_key"`
-	CloudflareToken    string `xml:"cloudflare_token"`
-	CloudflareZoneName string `xml:"cloudflare_zone_name"`
-	UseCloudflare      bool   `xml:"use_cloudflare"`
+	AccuweatherKey    string `xml:"accuweather_key"`
+	UseS3             bool   `xml:"use_s3"`
+	S3BucketName      string `xml:"s3_bucket_name"`
+	S3AccountID       string `xml:"s3_account_id"`
+	S3ConnectionURL   string `xml:"s3_connection_url"`
+	S3AccessIDKey     string `xml:"s3_access_key_id"`
+	S3SecretAccessKey string `xml:"s3_secret_access_key"`
 }
 
 func GetConfig() Config {

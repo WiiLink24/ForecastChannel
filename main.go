@@ -3,9 +3,13 @@ package main
 import (
 	"ForecastChannel/accuweather"
 	"bytes"
+	"context"
 	"encoding/binary"
 	"fmt"
-	"github.com/cloudflare/cloudflare-go"
+	"github.com/aws/aws-sdk-go-v2/aws"
+	"github.com/aws/aws-sdk-go-v2/config"
+	"github.com/aws/aws-sdk-go-v2/credentials"
+	"github.com/aws/aws-sdk-go-v2/service/s3"
 	"github.com/wii-tools/lzx/lz10"
 	orderedmap "github.com/wk8/go-ordered-map/v2"
 	"hash/crc32"
@@ -41,12 +45,12 @@ type Forecast struct {
 }
 
 var (
-	currentTime   = time.Now().Unix()
-	weatherMap    = map[string]*accuweather.Weather{}
-	weatherList   *WeatherList
-	mapMutex      = sync.RWMutex{}
-	config        Config
-	cloudflareAPI *cloudflare.API
+	currentTime = time.Now().Unix()
+	weatherMap  = map[string]*accuweather.Weather{}
+	weatherList *WeatherList
+	mapMutex    = sync.RWMutex{}
+	_config     Config
+	s3Client    *s3.Client
 )
 
 func main() {
@@ -55,14 +59,23 @@ func main() {
 	weatherList = ParseWeatherXML()
 	PopulateCountryCodes()
 
-	config = GetConfig()
+	_config = GetConfig()
 
-	// Cloudflare API for caching files
-	if config.UseCloudflare {
-		var err error
-		cloudflareAPI, err = cloudflare.NewWithAPIToken(config.CloudflareToken)
-		checkError(err)
-	}
+	// Load S3 Config
+	r2Resolver := aws.EndpointResolverWithOptionsFunc(func(service, region string, options ...interface{}) (aws.Endpoint, error) {
+		return aws.Endpoint{
+			URL: _config.S3ConnectionURL,
+		}, nil
+	})
+
+	s3Config, err := config.LoadDefaultConfig(context.TODO(),
+		config.WithEndpointResolverWithOptions(r2Resolver),
+		config.WithCredentialsProvider(credentials.NewStaticCredentialsProvider(_config.S3AccessIDKey, _config.S3SecretAccessKey, "")),
+		config.WithRegion("auto"),
+	)
+	checkError(err)
+
+	s3Client = s3.NewFromConfig(s3Config)
 
 	// Async HTTP done safely and fast
 	wg := sync.WaitGroup{}
@@ -77,7 +90,7 @@ func main() {
 			defer wg.Done()
 			semaphore <- struct{}{}
 			fmt.Println("Processing", city.Name.English)
-			weather := accuweather.GetWeather(city.Longitude, city.Latitude, currentTime, config.AccuweatherKey)
+			weather := accuweather.GetWeather(city.Longitude, city.Latitude, currentTime, _config.AccuweatherKey)
 			mapMutex.Lock()
 			weatherMap[fmt.Sprintf("%f,%f", city.Longitude, city.Latitude)] = weather
 			mapMutex.Unlock()
@@ -106,7 +119,7 @@ func main() {
 					defer wg.Done()
 					semaphore <- struct{}{}
 					fmt.Println("Processing", city.English)
-					weather := accuweather.GetWeather(city.Longitude, city.Latitude, currentTime, config.AccuweatherKey)
+					weather := accuweather.GetWeather(city.Longitude, city.Latitude, currentTime, _config.AccuweatherKey)
 					mapMutex.Lock()
 					weatherMap[fmt.Sprintf("%f,%f", city.Longitude, city.Latitude)] = weather
 					mapMutex.Unlock()
@@ -130,6 +143,10 @@ func main() {
 				languageCode := languageCode
 				go func() {
 					defer wg.Done()
+					if countryCode != 18 {
+						return
+					}
+
 					semaphore <- struct{}{}
 					forecast := Forecast{}
 					forecast.currentCountryList = &national
@@ -177,11 +194,27 @@ func main() {
 					compressed, err := lz10.Compress(buffer.Bytes())
 					checkError(err)
 
-					err = os.WriteFile(fmt.Sprintf("./files/%d/%s/forecast.bin", languageCode, ZFill(countryCode, 3)), SignFile(compressed), 0666)
-					checkError(err)
+					if _config.UseS3 {
+						_, err = s3Client.PutObject(context.Background(), &s3.PutObjectInput{
+							Bucket: aws.String(_config.S3BucketName),
+							Key:    aws.String(fmt.Sprintf("%d/%s/forecast.bin", languageCode, ZFill(countryCode, 3))),
+							Body:   bytes.NewReader(SignFile(compressed)),
+						})
+						checkError(err)
 
-					err = os.WriteFile(fmt.Sprintf("./files/%d/%s/short.bin", languageCode, ZFill(countryCode, 3)), SignFile(short), 0666)
-					checkError(err)
+						_, err = s3Client.PutObject(context.Background(), &s3.PutObjectInput{
+							Bucket: aws.String(_config.S3BucketName),
+							Key:    aws.String(fmt.Sprintf("%d/%s/short.bin", languageCode, ZFill(countryCode, 3))),
+							Body:   bytes.NewReader(SignFile(short)),
+						})
+						checkError(err)
+					} else {
+						err = os.WriteFile(fmt.Sprintf("./files/%d/%s/forecast.bin", languageCode, ZFill(countryCode, 3)), SignFile(compressed), 0666)
+						checkError(err)
+
+						err = os.WriteFile(fmt.Sprintf("./files/%d/%s/short.bin", languageCode, ZFill(countryCode, 3)), SignFile(short), 0666)
+						checkError(err)
+					}
 					<-semaphore
 				}()
 			}
@@ -190,11 +223,6 @@ func main() {
 
 	wg.Wait()
 	fmt.Println(time.Since(start))
-
-	if config.UseCloudflare {
-		// Finally purge Cloudflare cache
-		purgeCloudflareCache()
-	}
 }
 
 func checkError(err error) {
