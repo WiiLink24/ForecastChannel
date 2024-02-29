@@ -143,9 +143,6 @@ func main() {
 				languageCode := languageCode
 				go func() {
 					defer wg.Done()
-					if countryCode != 18 {
-						return
-					}
 
 					semaphore <- struct{}{}
 					forecast := Forecast{}
