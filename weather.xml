@@ -2960,13 +2960,6 @@
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="バサースト" eng="Bathurst" de="Bathurst" fr="Bathurst" es="Bathurst" it="Bathurst" nl="Bathurst" rus="Батерст">
-      <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" rus="Манитоба"></province>
-      <longitude>-65.797119140625</longitude>
-      <latitude>47.5982666015625</latitude>
-      <zoom1>2</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="ブランドン" eng="Brandon" de="Brandon" fr="Brandon" es="Brandon" it="Brandon" nl="Brandon" rus="Брандон">
       <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" rus="Манитоба"></province>
       <longitude>-99.9481201171875</longitude>
@@ -3021,6 +3014,13 @@
       <longitude>-98.009047</longitude>
       <latitude>49.122119</latitude>
       <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="バサースト" eng="Bathurst" de="Bathurst" fr="Bathurst" es="Bathurst" it="Bathurst" nl="Bathurst" rus="Батерст">
+      <province jpn="ニュー・ブランズウィック州" eng="New Brunswick" de="Neubraunschweig" fr="Nouveau-Brunswick" es="Nuevo Brunswick" it="Nuovo Brunswick" nl="Nieuw-Brunswijk" rus="Нью-Брансуик"></province>
+      <longitude>-65.797119140625</longitude>
+      <latitude>47.5982666015625</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="フレデリクトン" eng="Fredericton" de="Fredericton" fr="Frédéricton" es="Fredericton" it="Fredericton" nl="Fredericton" rus="Фредериктон">
