@@ -2967,13 +2967,6 @@
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="バサースト" eng="Bathurst" de="Bathurst" fr="Bathurst" es="Bathurst" it="Bathurst" nl="Bathurst">
-      <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" />
-      <longitude>-65.797119140625</longitude>
-      <latitude>47.5982666015625</latitude>
-      <zoom1>2</zoom1>
-      <zoom2>3</zoom2>
-    </city>
     <city jpn="ブランドン" eng="Brandon" de="Brandon" fr="Brandon" es="Brandon" it="Brandon" nl="Brandon">
       <province jpn="マニトバ州" eng="Manitoba" de="Manitoba" fr="Manitoba" es="Manitoba" it="Manitoba" nl="Manitoba" />
       <longitude>-99.9481201171875</longitude>
@@ -3035,6 +3028,13 @@
       <longitude>-66.6650390625</longitude>
       <latitude>45.94482421875</latitude>
       <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+	<city jpn="バサースト" eng="Bathurst" de="Bathurst" fr="Bathurst" es="Bathurst" it="Bathurst" nl="Bathurst">
+      <province jpn="ニュー・ブランズウィック州" eng="New Brunswick" de="Neubraunschweig" fr="Nouveau-Brunswick" es="Nuevo Brunswick" it="Nuovo Brunswick" nl="Nieuw-Brunswijk" />
+      <longitude>-65.797119140625</longitude>
+      <latitude>47.5982666015625</latitude>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="モンクトン" eng="Moncton" de="Moncton" fr="Moncton" es="Moncton" it="Moncton" nl="Moncton">
@@ -15863,7 +15863,7 @@
       <province jpn="ラツィオ州" eng="Lazio" de="Latium" fr="Latium" es="Lacio" it="Lazio" nl="Latium" />
       <longitude>13.33740234375</longitude>
       <latitude>41.63818359375</latitude>
-      <zoom1>1</zoom1>
+      <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ラティーナ" eng="Latina" de="Latina" fr="Latina" es="Latina" it="Latina" nl="Latina">
@@ -18666,7 +18666,7 @@
     <city jpn="ロンダ" eng="Ronda" de="Ronda" fr="Ronda" es="Ronda" it="Ronda" nl="Ronda">
       <province jpn="アンダルシーア" eng="Andalusia" de="Andalusien" fr="Andalousie" es="Andalucía" it="Andalusia" nl="Andalusië" />
       <longitude>-5.132314</longitude>
-      <latitude>336.753229</latitude>
+      <latitude>36.753229</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -22427,7 +22427,7 @@
     </city>
 	<city jpn="モントローズ" eng="Montrose/Monadh Rois" de="Montrose/Monadh Rois" fr="Montrose/Monadh Rois" es="Montrose/Monadh Rois" it="Montrose/Monadh Rois" nl="Montrose/Monadh Rois">
       <province jpn="アンガス（スコットランド）" eng="Angus/Aonghas (Scotland)" de="Angus/Aonghas (Schottland)" fr="Angus/Aonghas (Écosse)" es="Angus/Aonghas (Escocia)" it="Angus/Aonghas (Scozia)" nl="Angus/Aonghas (Schotland)" />
-      <longitude>2.460466</longitude>
+      <longitude>-2.460466</longitude>
       <latitude>56.709404</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
@@ -22567,7 +22567,7 @@
     </city>
 	<city jpn="ダンバー" eng="Dunbar/Dùn Bàrr" de="Dunbar/Dùn Bàrr" fr="Dunbar/Dùn Bàrr" es="Dunbar/Dùn Bàrr" it="Dunbar/Dùn Bàrr" nl="Dunbar/Dùn Bàrr">
       <province jpn="イースト・ロージアン（スコットランド）" eng="East Lothian/Lodainn an Ear (Scotland)" de="East Lothian/Lodainn an Ear (Schottland)" fr="East Lothian/Lodainn an Ear (Écosse)" es="East Lothian/Lodainn an Ear (Escocia)" it="East Lothian/Lodainn an Ear (Scozia)" nl="East Lothian/Lodainn an Ear (Schotland)" />
-      <longitude>2.496535</longitude>
+      <longitude>-2.496535</longitude>
       <latitude>55.998832</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
@@ -23034,7 +23034,7 @@
       <zoom1>2</zoom1>
       <zoom2>3</zoom2>
     </city>
-	<city jpn="スランヴァイルプールグウィンギルゴゲリッヒルンドロブールスランティシリオゴゴゴッホ" eng="Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch" de="Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch" fr="Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch" es="Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch" it="Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch" nl="Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch">
+	<city jpn="スランヴァイルプールグウィンギル" eng="Llanfair Pwllgwyngyll" de="Llanfair Pwllgwyngyll" fr="Llanfair Pwllgwyngyll" es="Llanfair Pwllgwyngyll" it="Llanfair Pwllgwyngyll" nl="Llanfair Pwllgwyngyll">
       <province jpn="アングルシー県（ウェールズ）" eng="Anglesey/Ynys Môn (Wales)" de="Anglesey/Ynys Môn (Wales)" fr="Anglesey/Ynys Môn (Pays de Galles)" es="Anglesey/Ynys Môn (País de Gales)" it="Anglesey/Ynys Môn (Galles)" nl="Anglesey/Ynys Môn (Wales)" />
       <longitude>-4.207387</longitude>
       <latitude>53.217883</latitude>
