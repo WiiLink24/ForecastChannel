@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/wk8/go-ordered-map/v2"
 	"unicode/utf16"
+
+	orderedmap "github.com/wk8/go-ordered-map/v2"
 )
 
 type LocationTable struct {
@@ -171,30 +172,68 @@ func (f *Forecast) MakeLocationTable() {
 }
 
 func (f *Forecast) MakeLocationText() {
+	cities := make(map[string]uint32)
+
 	for i, city := range f.LocationTable {
 		if city.CountryCode != f.currentCountryCode {
 			continue
 		}
 
-		f.LocationTable[i].CityTextOffset = f.GetCurrentSize()
-		f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetCityName(f.cityNames[i])))...)
-		f.LocationText = append(f.LocationText, uint16(0))
-		for f.GetCurrentSize()&3 != 0 {
-			f.LocationText = append(f.LocationText, uint16(0))
+		var found bool = false
+
+		for key, value := range cities {
+			if f.GetCityName(f.cityNames[i]) == key {
+				f.LocationTable[i].CityTextOffset = value
+				found = true
+			}
 		}
 
-		f.LocationTable[i].RegionTextOffset = f.GetCurrentSize()
-		f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.cityNames[i].Province)))...)
-		f.LocationText = append(f.LocationText, uint16(0))
-		for f.GetCurrentSize()&3 != 0 {
+		if !found {
+			f.LocationTable[i].CityTextOffset = f.GetCurrentSize()
+			f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetCityName(f.cityNames[i])))...)
 			f.LocationText = append(f.LocationText, uint16(0))
+			for f.GetCurrentSize()&3 != 0 {
+				f.LocationText = append(f.LocationText, uint16(0))
+			}
+			cities[f.GetCityName(f.cityNames[i])] = f.LocationTable[i].CityTextOffset
 		}
 
-		f.LocationTable[i].CountryTextOffset = f.GetCurrentSize()
-		f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.currentCountryList.Name)))...)
-		f.LocationText = append(f.LocationText, uint16(0))
-		for f.GetCurrentSize()&3 != 0 {
+		found = false
+
+		for key, value := range cities {
+			if f.GetLocalizedName(f.cityNames[i].Province) == key {
+				f.LocationTable[i].RegionTextOffset = value
+				found = true
+			}
+		}
+
+		if !found {
+			f.LocationTable[i].RegionTextOffset = f.GetCurrentSize()
+			f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.cityNames[i].Province)))...)
 			f.LocationText = append(f.LocationText, uint16(0))
+			for f.GetCurrentSize()&3 != 0 {
+				f.LocationText = append(f.LocationText, uint16(0))
+			}
+			cities[f.GetLocalizedName(f.cityNames[i].Province)] = f.LocationTable[i].RegionTextOffset
+		}
+
+		found = false
+
+		for key, value := range cities {
+			if f.GetLocalizedName(f.currentCountryList.Name) == key {
+				f.LocationTable[i].CountryTextOffset = value
+				found = true
+			}
+		}
+
+		if !found {
+			f.LocationTable[i].CountryTextOffset = f.GetCurrentSize()
+			f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.currentCountryList.Name)))...)
+			f.LocationText = append(f.LocationText, uint16(0))
+			for f.GetCurrentSize()&3 != 0 {
+				f.LocationText = append(f.LocationText, uint16(0))
+			}
+			cities[f.GetLocalizedName(f.currentCountryList.Name)] = f.LocationTable[i].CountryTextOffset
 		}
 	}
 
@@ -204,29 +243,64 @@ func (f *Forecast) MakeLocationText() {
 			continue
 		}
 
-		f.LocationTable[i].CityTextOffset = f.GetCurrentSize()
-		f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.internationalCities[i].Name)))...)
-		f.LocationText = append(f.LocationText, uint16(0))
-		for f.GetCurrentSize()&3 != 0 {
-			f.LocationText = append(f.LocationText, uint16(0))
+		var found bool = false
+
+		for key, value := range cities {
+			if f.GetLocalizedName(f.internationalCities[i].Name) == key {
+				f.LocationTable[i].CityTextOffset = value
+				found = true
+			}
 		}
 
-		if f.internationalCities[i].Province.English != "" {
-			f.LocationTable[i].RegionTextOffset = f.GetCurrentSize()
-			f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.internationalCities[i].Province)))...)
+		if !found {
+			f.LocationTable[i].CityTextOffset = f.GetCurrentSize()
+			f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.internationalCities[i].Name)))...)
 			f.LocationText = append(f.LocationText, uint16(0))
 			for f.GetCurrentSize()&3 != 0 {
 				f.LocationText = append(f.LocationText, uint16(0))
 			}
+			cities[f.GetLocalizedName(f.internationalCities[i].Name)] = f.LocationTable[i].CityTextOffset
 		}
 
-		if f.internationalCities[i].Country.English != "" {
+		found = false
+
+		for key, value := range cities {
+			if f.GetLocalizedName(f.internationalCities[i].Province) == key {
+				f.LocationTable[i].RegionTextOffset = value
+				found = true
+			}
+		}
+
+		if !found {
+			if f.internationalCities[i].Province.English != "" {
+				f.LocationTable[i].RegionTextOffset = f.GetCurrentSize()
+				f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.internationalCities[i].Province)))...)
+				f.LocationText = append(f.LocationText, uint16(0))
+				for f.GetCurrentSize()&3 != 0 {
+					f.LocationText = append(f.LocationText, uint16(0))
+				}
+				cities[f.GetLocalizedName(f.internationalCities[i].Province)] = f.LocationTable[i].RegionTextOffset
+			}
+		}
+
+		found = false
+
+		for key, value := range cities {
+			if f.GetLocalizedName(f.internationalCities[i].Country) == key {
+				f.LocationTable[i].CountryTextOffset = value
+				found = true
+				break
+			}
+		}
+
+		if !found {
 			f.LocationTable[i].CountryTextOffset = f.GetCurrentSize()
 			f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.internationalCities[i].Country)))...)
 			f.LocationText = append(f.LocationText, uint16(0))
 			for f.GetCurrentSize()&3 != 0 {
 				f.LocationText = append(f.LocationText, uint16(0))
 			}
+			cities[f.GetLocalizedName(f.internationalCities[i].Country)] = f.LocationTable[i].CountryTextOffset
 		}
 	}
 }
