@@ -171,30 +171,51 @@ func (f *Forecast) MakeLocationTable() {
 }
 
 func (f *Forecast) MakeLocationText() {
+	// Map with text as a key and offset as value. This ensures we only write text once.
+	writtenText := make(map[string]uint32)
+
 	for i, city := range f.LocationTable {
 		if city.CountryCode != f.currentCountryCode {
 			continue
 		}
 
-		f.LocationTable[i].CityTextOffset = f.GetCurrentSize()
-		f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetCityName(f.cityNames[i])))...)
-		f.LocationText = append(f.LocationText, uint16(0))
-		for f.GetCurrentSize()&3 != 0 {
+		if value, ok := writtenText[f.GetCityName(f.cityNames[i])]; ok {
+			f.LocationTable[i].CityTextOffset = value
+		} else {
+			f.LocationTable[i].CityTextOffset = f.GetCurrentSize()
+			f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetCityName(f.cityNames[i])))...)
 			f.LocationText = append(f.LocationText, uint16(0))
+			for f.GetCurrentSize()&3 != 0 {
+				f.LocationText = append(f.LocationText, uint16(0))
+			}
+
+			writtenText[f.GetCityName(f.cityNames[i])] = f.LocationTable[i].CityTextOffset
 		}
 
-		f.LocationTable[i].RegionTextOffset = f.GetCurrentSize()
-		f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.cityNames[i].Province)))...)
-		f.LocationText = append(f.LocationText, uint16(0))
-		for f.GetCurrentSize()&3 != 0 {
+		if value, ok := writtenText[f.GetLocalizedName(f.cityNames[i].Province)]; ok {
+			f.LocationTable[i].RegionTextOffset = value
+		} else {
+			f.LocationTable[i].RegionTextOffset = f.GetCurrentSize()
+			f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.cityNames[i].Province)))...)
 			f.LocationText = append(f.LocationText, uint16(0))
+			for f.GetCurrentSize()&3 != 0 {
+				f.LocationText = append(f.LocationText, uint16(0))
+			}
+
+			writtenText[f.GetLocalizedName(f.cityNames[i].Province)] = f.LocationTable[i].RegionTextOffset
 		}
 
-		f.LocationTable[i].CountryTextOffset = f.GetCurrentSize()
-		f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.currentCountryList.Name)))...)
-		f.LocationText = append(f.LocationText, uint16(0))
-		for f.GetCurrentSize()&3 != 0 {
+		if value, ok := writtenText[f.GetLocalizedName(f.currentCountryList.Name)]; ok {
+			f.LocationTable[i].CountryTextOffset = value
+		} else {
+			f.LocationTable[i].CountryTextOffset = f.GetCurrentSize()
+			f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.currentCountryList.Name)))...)
 			f.LocationText = append(f.LocationText, uint16(0))
+			for f.GetCurrentSize()&3 != 0 {
+				f.LocationText = append(f.LocationText, uint16(0))
+			}
+
+			writtenText[f.GetLocalizedName(f.currentCountryList.Name)] = f.LocationTable[i].CountryTextOffset
 		}
 	}
 
@@ -204,28 +225,46 @@ func (f *Forecast) MakeLocationText() {
 			continue
 		}
 
-		f.LocationTable[i].CityTextOffset = f.GetCurrentSize()
-		f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.internationalCities[i].Name)))...)
-		f.LocationText = append(f.LocationText, uint16(0))
-		for f.GetCurrentSize()&3 != 0 {
-			f.LocationText = append(f.LocationText, uint16(0))
-		}
-
-		if f.internationalCities[i].Province.English != "" {
-			f.LocationTable[i].RegionTextOffset = f.GetCurrentSize()
-			f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.internationalCities[i].Province)))...)
+		if value, ok := writtenText[f.GetLocalizedName(f.internationalCities[i].Name)]; ok {
+			f.LocationTable[i].CityTextOffset = value
+		} else {
+			f.LocationTable[i].CityTextOffset = f.GetCurrentSize()
+			f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.internationalCities[i].Name)))...)
 			f.LocationText = append(f.LocationText, uint16(0))
 			for f.GetCurrentSize()&3 != 0 {
 				f.LocationText = append(f.LocationText, uint16(0))
 			}
+
+			writtenText[f.GetLocalizedName(f.internationalCities[i].Name)] = f.LocationTable[i].CityTextOffset
+		}
+
+		if f.internationalCities[i].Province.English != "" {
+			if value, ok := writtenText[f.GetLocalizedName(f.internationalCities[i].Province)]; ok {
+				f.LocationTable[i].RegionTextOffset = value
+			} else {
+				f.LocationTable[i].RegionTextOffset = f.GetCurrentSize()
+				f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.internationalCities[i].Province)))...)
+				f.LocationText = append(f.LocationText, uint16(0))
+				for f.GetCurrentSize()&3 != 0 {
+					f.LocationText = append(f.LocationText, uint16(0))
+				}
+
+				writtenText[f.GetLocalizedName(f.internationalCities[i].Province)] = f.LocationTable[i].RegionTextOffset
+			}
 		}
 
 		if f.internationalCities[i].Country.English != "" {
-			f.LocationTable[i].CountryTextOffset = f.GetCurrentSize()
-			f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.internationalCities[i].Country)))...)
-			f.LocationText = append(f.LocationText, uint16(0))
-			for f.GetCurrentSize()&3 != 0 {
+			if value, ok := writtenText[f.GetLocalizedName(f.internationalCities[i].Country)]; ok {
+				f.LocationTable[i].CountryTextOffset = value
+			} else {
+				f.LocationTable[i].CountryTextOffset = f.GetCurrentSize()
+				f.LocationText = append(f.LocationText, utf16.Encode([]rune(f.GetLocalizedName(f.internationalCities[i].Country)))...)
 				f.LocationText = append(f.LocationText, uint16(0))
+				for f.GetCurrentSize()&3 != 0 {
+					f.LocationText = append(f.LocationText, uint16(0))
+				}
+
+				writtenText[f.GetLocalizedName(f.internationalCities[i].Country)] = f.LocationTable[i].CountryTextOffset
 			}
 		}
 	}
