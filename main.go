@@ -54,7 +54,6 @@ var (
 )
 
 func main() {
-	start := time.Now()
 	// Get all important data we need
 	weatherList = ParseWeatherXML()
 	PopulateCountryCodes()
@@ -85,18 +84,15 @@ func main() {
 	// Next retrieve international weather
 	wg.Add(len(weatherList.International.Cities))
 	for _, city := range weatherList.International.Cities {
-		city := city
-		go func() {
+		go func(_city InternationalCity) {
 			defer wg.Done()
 			semaphore <- struct{}{}
-			fmt.Println("Processing", city.Name.English)
-			weather := accuweather.GetWeather(city.Longitude, city.Latitude, currentTime, _config.AccuweatherKey)
+			weather := accuweather.GetWeather(_city.Longitude, _city.Latitude, currentTime, _config.AccuweatherKey)
 			mapMutex.Lock()
-			weatherMap[fmt.Sprintf("%f,%f", city.Longitude, city.Latitude)] = weather
+			weatherMap[fmt.Sprintf("%f,%f", _city.Longitude, _city.Latitude)] = weather
 			mapMutex.Unlock()
-			fmt.Println("Finished", city.Name.English)
 			<-semaphore
-		}()
+		}(city)
 	}
 	wg.Wait()
 
@@ -114,18 +110,15 @@ func main() {
 	for _, cities := range weatherList.National {
 		for _, city := range cities.Cities {
 			if weatherMap[fmt.Sprintf("%f,%f", city.Longitude, city.Latitude)] == nil {
-				city := city
-				go func() {
+				go func(_city City) {
 					defer wg.Done()
 					semaphore <- struct{}{}
-					fmt.Println("Processing", city.English)
-					weather := accuweather.GetWeather(city.Longitude, city.Latitude, currentTime, _config.AccuweatherKey)
+					weather := accuweather.GetWeather(_city.Longitude, _city.Latitude, currentTime, _config.AccuweatherKey)
 					mapMutex.Lock()
-					weatherMap[fmt.Sprintf("%f,%f", city.Longitude, city.Latitude)] = weather
+					weatherMap[fmt.Sprintf("%f,%f", _city.Longitude, _city.Latitude)] = weather
 					mapMutex.Unlock()
-					fmt.Println("Finished", city.English)
 					<-semaphore
-				}()
+				}(city)
 			}
 		}
 	}
@@ -219,7 +212,6 @@ func main() {
 	}
 
 	wg.Wait()
-	fmt.Println(time.Since(start))
 }
 
 func checkError(err error) {
