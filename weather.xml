@@ -23995,7 +23995,7 @@
       <zoom2>3</zoom2>
     </city>
     <city jpn="シュチェチン" eng="Wroclaw" de="Breslau" fr="Vratislavie" es="Breslavia" it="Breslavia" nl="Wroclaw">
-      <province jpn="シュレジエン" eng="Silesia" de="Schlesien" fr="Silésie" es="Silesia" it="Slesia" nl="Silezië" />
+      <province jpn="ドルヌィ・シロンスク" eng="Lower Silesia" de="Niederschlesien" fr="Basse-Silésie" es="Baja Silesia" it="Bassa Slesia" nl="Neder-Silezië" />
       <longitude>17.02880859375</longitude>
       <latitude>51.097412109375</latitude>
       <zoom1>2</zoom1>
@@ -31727,3 +31727,4 @@
     <name>欠測（データなし）</name>
   </pollen>
 </root>
+
