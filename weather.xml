@@ -10088,6 +10088,13 @@
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
+<city jpn="アングルトン" eng="Angleton" de="Angleton" fr="Angleton" es="Angleton" it="Angleton" nl="Angleton">
+      <province jpn="テキサス州" eng="Texas" de="Texas" fr="Texas" es="Texas" it="Texas" nl="Texas" />
+      <longitude>-95.432161</longitude>
+      <latitude>29.169685</latitude>
+      <zoom1>10</zoom1>
+      <zoom2>5</zoom2>
+    </city>
     <city jpn="アビリーン" eng="Abilene" de="Abilene" fr="Abilene" es="Abilene" it="Abilene" nl="Abilene">
       <province jpn="テキサス州" eng="Texas" de="Texas" fr="Texas" es="Texas" it="Texas" nl="Texas" />
       <longitude>-99.7283935546875</longitude>
