@@ -5675,7 +5675,7 @@
       <zoom2>3</zoom2>
     </city>
     <city jpn="モンテレイ" eng="Monterrey" de="Monterrey" fr="Monterrey" es="Monterrey" it="Monterrey" nl="Monterrey">
-      <province jpn="ナヤリット州" eng="Nayarit" de="Nayarit" fr="Nayarit" es="Nayarit" it="Nayarit" nl="Nayarit" />
+      <province jpn="ヌエボ・レオン州" eng="Nuevo León" de="Nuevo León" fr="Nuevo León" es="Nuevo León" it="Nuevo León" nl="Nuevo León" />
       <longitude>-100.316162109375</longitude>
       <latitude>25.6640625</latitude>
       <zoom1>7</zoom1>
@@ -5836,49 +5836,49 @@
       <zoom2>3</zoom2>
     </city>
     <city jpn="ハラパ" eng="Xalapa" de="Xalapa" fr="Xalapa" es="Xalapa Enríquez" it="Xalapa" nl="Xalapa">
-      <province jpn="ベラクルス州" eng="Veracruz-Llave" de="Veracruz" fr="Veracruz" es="Veracruz-Llave" it="Veracruz" nl="Veracruz" />
+      <province jpn="ベラクルス州" eng="Veracruz" de="Veracruz" fr="Veracruz" es="Veracruz" it="Veracruz" nl="Veracruz" />
       <longitude>-96.9158935546875</longitude>
       <latitude>19.5281982421875</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="コアツァコアルコス" eng="Coatzacoalcos" de="Coatzacoalcos" fr="Coatzacoalcos" es="Coatzacoalcos" it="Coatzacoalcos" nl="Coatzacoalcos">
-      <province jpn="ベラクルス州" eng="Veracruz-Llave" de="Veracruz" fr="Veracruz" es="Veracruz-Llave" it="Veracruz" nl="Veracruz" />
+      <province jpn="ベラクルス州" eng="Veracruz" de="Veracruz" fr="Veracruz" es="Veracruz" it="Veracruz" nl="Veracruz" />
       <longitude>-94.41650390625</longitude>
       <latitude>18.1494140625</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="オリサバ" eng="Orizaba" de="Orizaba" fr="Orizaba" es="Orizaba" it="Orizaba" nl="Orizaba">
-      <province jpn="ベラクルス州" eng="Veracruz-Llave" de="Veracruz" fr="Veracruz" es="Veracruz-Llave" it="Veracruz" nl="Veracruz" />
+      <province jpn="ベラクルス州" eng="Veracruz" de="Veracruz" fr="Veracruz" es="Veracruz" it="Veracruz" nl="Veracruz" />
       <longitude>-97.09716796875</longitude>
       <latitude>18.8470458984375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ポサ・リカ" eng="Poza Rica de Hidalgo" de="Poza Rica de Hidalgo" fr="Poza Rica" es="Poza Rica" it="Poza Rica" nl="Poza Rica">
-      <province jpn="ベラクルス州" eng="Veracruz-Llave" de="Veracruz" fr="Veracruz" es="Veracruz-Llave" it="Veracruz" nl="Veracruz" />
+      <province jpn="ベラクルス州" eng="Veracruz" de="Veracruz" fr="Veracruz" es="Veracruz" it="Veracruz" nl="Veracruz" />
       <longitude>-97.44873046875</longitude>
       <latitude>20.5499267578125</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="ベラクルス" eng="Veracruz" de="Veracruz" fr="Veracruz" es="Veracruz" it="Veracruz" nl="Veracruz">
-      <province jpn="ベラクルス州" eng="Veracruz-Llave" de="Veracruz" fr="Veracruz" es="Veracruz-Llave" it="Veracruz" nl="Veracruz" />
+      <province jpn="ベラクルス州" eng="Veracruz" de="Veracruz" fr="Veracruz" es="Veracruz" it="Veracruz" nl="Veracruz" />
       <longitude>-96.13037109375</longitude>
       <latitude>19.1986083984375</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="メリダ" eng="Merida" de="Mérida" fr="Mérida" es="Mérida" it="Mérida" nl="Mérida">
-      <province jpn="ベラクルス州" eng="Veracruz-Llave" de="Veracruz" fr="Veracruz" es="Veracruz-Llave" it="Veracruz" nl="Veracruz" />
+      <province jpn="ユカタン" eng="Yucatán" de="" fr="Yucatán" es="Yucatán" it="Yucatán" nl="Yucatán" />
       <longitude>-89.615478515625</longitude>
       <latitude>20.9619140625</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="プログレソ" eng="Progreso" de="Progreso" fr="Progreso" es="Progreso" it="Progreso" nl="Progreso">
-      <province jpn="ベラクルス州" eng="Veracruz-Llave" de="Veracruz" fr="Veracruz" es="Veracruz-Llave" it="Veracruz" nl="Veracruz" />
+      <province jpn="ユカタン" eng="Yucatán" de="" fr="Yucatán" es="Yucatán" it="Yucatán" nl="Yucatán" />
       <longitude>-89.6649169921875</longitude>
       <latitude>21.280517578125</latitude>
       <zoom1>0</zoom1>
