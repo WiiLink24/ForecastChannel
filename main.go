@@ -6,12 +6,6 @@ import (
 	"context"
 	"encoding/binary"
 	"fmt"
-	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/aws/aws-sdk-go-v2/config"
-	"github.com/aws/aws-sdk-go-v2/credentials"
-	"github.com/aws/aws-sdk-go-v2/service/s3"
-	"github.com/wii-tools/lzx/lz10"
-	orderedmap "github.com/wk8/go-ordered-map/v2"
 	"hash/crc32"
 	"io"
 	"log"
@@ -19,6 +13,13 @@ import (
 	"runtime"
 	"sync"
 	"time"
+
+	"github.com/aws/aws-sdk-go-v2/aws"
+	"github.com/aws/aws-sdk-go-v2/config"
+	"github.com/aws/aws-sdk-go-v2/credentials"
+	"github.com/aws/aws-sdk-go-v2/service/s3"
+	"github.com/wii-tools/lzx/lz10"
+	orderedmap "github.com/wk8/go-ordered-map/v2"
 )
 
 type Forecast struct {
@@ -175,7 +176,7 @@ func main() {
 					short := forecast.MakeShortBin(weatherList.International.Cities)
 
 					// Make the folder if it doesn't already exist
-					err := os.Mkdir(fmt.Sprintf("./files/%d/%s", languageCode, ZFill(countryCode, 3)), 0755)
+					err := os.MkdirAll(fmt.Sprintf("./files/%d/%s", languageCode, ZFill(countryCode, 3)), 0755)
 					if !os.IsExist(err) {
 						// If the folder exists we can just continue
 						checkError(err)
