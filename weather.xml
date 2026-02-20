@@ -1984,9 +1984,9 @@
     </city>
   </country>
   <country>
-    <name jpn="アンギラ" eng="Anguilla" de="Anguilla" fr="Anguilla" es="Anguila" it="Anguilla" nl="Anguilla" />
-    <city jpn="バレー" eng="The Valley" de="The Valley" fr="The Valley" es="El Valle" it="The Valley" nl="The Valley">
-      <province jpn="アンギラ" eng="Anguilla" de="Anguilla" fr="Anguilla" es="Anguila" it="Anguilla" nl="Anguilla" />
+    <name jpn="앵귈라" eng="Anguilla" de="Anguilla" fr="Anguilla" es="Anguila" it="Anguilla" nl="Anguilla" />
+    <city jpn="더밸리" eng="The Valley" de="The Valley" fr="The Valley" es="El Valle" it="The Valley" nl="The Valley">
+      <province jpn="앵귈라" eng="Anguilla" de="Anguilla" fr="Anguilla" es="Anguila" it="Anguilla" nl="Anguilla" />
       <longitude>-63.0450439453125</longitude>
       <latitude>18.21533203125</latitude>
       <zoom1>1</zoom1>
@@ -1994,9 +1994,9 @@
     </city>
   </country>
   <country>
-    <name jpn="アンティグア・バーブーダ" eng="Antigua and Barbuda" de="Antigua und Barbuda" fr="Antigua-et-Barbuda" es="Antigua y Barbuda" it="Antigua e Barbuda" nl="Antigua en Barbuda" />
-    <city jpn="セント・ジョンズ" eng="St. John's" de="Saint John’s" fr="Saint John’s" es="Saint John" it="Saint John's" nl="Saint John's">
-      <province jpn="セント・ジョン" eng="Saint John" de="Saint John" fr="Saint-Jean" es="Saint John" it="Saint John" nl="Saint John" />
+    <name jpn="앤티가 바부다" eng="Antigua and Barbuda" de="Antigua und Barbuda" fr="Antigua-et-Barbuda" es="Antigua y Barbuda" it="Antigua e Barbuda" nl="Antigua en Barbuda" />
+    <city jpn="세인트존스" eng="St. John's" de="Saint John’s" fr="Saint John’s" es="Saint John" it="Saint John's" nl="Saint John's">
+      <province jpn="세인트존" eng="Saint John" de="Saint John" fr="Saint-Jean" es="Saint John" it="Saint John" nl="Saint John" />
       <longitude>-61.8475341796875</longitude>
       <latitude>17.1112060546875</latitude>
       <zoom1>1</zoom1>
@@ -2004,135 +2004,135 @@
     </city>
   </country>
   <country>
-    <name jpn="アルゼンチン" eng="Argentina" de="Argentinien" fr="Argentine" es="Argentina" it="Argentina" nl="Argentinië" />
-    <city jpn="ブエノスアイレス" eng="Buenos Aires" de="Buenos Aires" fr="Buenos Aires" es="Buenos Aires" it="Buenos Aires" nl="Buenos Aires">
-      <province jpn="特別区" eng="Distrito Federal" de="Bundesdistrikt" fr="District Fédéral" es="Distrito Federal" it="Distretto Federale" nl="Federaal District" />
+    <name jpn="아르헨티나" eng="Argentina" de="Argentinien" fr="Argentine" es="Argentina" it="Argentina" nl="Argentinië" />
+    <city jpn="부에노스아이레스" eng="Buenos Aires" de="Buenos Aires" fr="Buenos Aires" es="Buenos Aires" it="Buenos Aires" nl="Buenos Aires">
+      <province jpn="아르헨티나 연방구" eng="Distrito Federal" de="Bundesdistrikt" fr="District Fédéral" es="Distrito Federal" it="Distretto Federale" nl="Federaal District" />
       <longitude>-58.6724853515625</longitude>
       <latitude>-34.5849609375</latitude>
       <zoom1>9</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ラ・プラタ" eng="La Plata" de="La Plata" fr="La Plata" es="La Plata" it="La Plata" nl="La Plata">
-      <province jpn="ブエノスアイレス州" eng="Buenos Aires" de="Buenos Aires" fr="Buenos Aires" es="Buenos Aires" it="Buenos Aires" nl="Buenos Aires" />
+    <city jpn="라플라타" eng="La Plata" de="La Plata" fr="La Plata" es="La Plata" it="La Plata" nl="La Plata">
+      <province jpn="부에노스아이레스 주" eng="Buenos Aires" de="Buenos Aires" fr="Buenos Aires" es="Buenos Aires" it="Buenos Aires" nl="Buenos Aires" />
       <longitude>-57.9473876953125</longitude>
       <latitude>-34.9310302734375</latitude>
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="バイアブランカ" eng="Bahía Blanca" de="Bahía Blanca" fr="Bahía Blanca" es="Bahía Blanca" it="Bahía Blanca" nl="Bahía Blanca">
-      <province jpn="ブエノスアイレス州" eng="Buenos Aires" de="Buenos Aires" fr="Buenos Aires" es="Buenos Aires" it="Buenos Aires" nl="Buenos Aires" />
+    <city jpn="바이아블랑카" eng="Bahía Blanca" de="Bahía Blanca" fr="Bahía Blanca" es="Bahía Blanca" it="Bahía Blanca" nl="Bahía Blanca">
+      <province jpn="부에노스아이레스 주" eng="Buenos Aires" de="Buenos Aires" fr="Buenos Aires" es="Buenos Aires" it="Buenos Aires" nl="Buenos Aires" />
       <longitude>-62.281494140625</longitude>
       <latitude>-38.7158203125</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="マル・デル・プラタ" eng="Mar del Plata" de="Mar del Plata" fr="Mar del Plata" es="Mar del Plata" it="Mar del Plata" nl="Mar del Plata">
-      <province jpn="ブエノスアイレス州" eng="Buenos Aires" de="Buenos Aires" fr="Buenos Aires" es="Buenos Aires" it="Buenos Aires" nl="Buenos Aires" />
+    <city jpn="마르델플라타" eng="Mar del Plata" de="Mar del Plata" fr="Mar del Plata" es="Mar del Plata" it="Mar del Plata" nl="Mar del Plata">
+      <province jpn="부에노스아이레스 주" eng="Buenos Aires" de="Buenos Aires" fr="Buenos Aires" es="Buenos Aires" it="Buenos Aires" nl="Buenos Aires" />
       <longitude>-57.54638671875</longitude>
       <latitude>-37.9962158203125</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="コモドーロ・リバダビア" eng="Comodoro Rivadavia" de="Comodoro Rivadavia" fr="Comodoro Rivadavia" es="Comodoro Rivadavia" it="Comodoro Rivadavia" nl="Comodoro Rivadavia">
-      <province jpn="チュブト州" eng="Chubut" de="Chubut" fr="Chubut" es="Chubut" it="Chubut" nl="Chubut" />
+    <city jpn="코모도로리바디비아" eng="Comodoro Rivadavia" de="Comodoro Rivadavia" fr="Comodoro Rivadavia" es="Comodoro Rivadavia" it="Comodoro Rivadavia" nl="Comodoro Rivadavia">
+      <province jpn="추부트 주" eng="Chubut" de="Chubut" fr="Chubut" es="Chubut" it="Chubut" nl="Chubut" />
       <longitude>-67.5</longitude>
       <latitude>-45.8624267578125</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="コルドバ" eng="Córdoba" de="Córdoba" fr="Córdoba" es="Córdoba" it="Córdoba" nl="Córdoba">
-      <province jpn="コルドバ州" eng="Córdoba" de="Córdoba" fr="Córdoba" es="Córdoba" it="Córdoba" nl="Córdoba" />
+    <city jpn="코르도바" eng="Córdoba" de="Córdoba" fr="Córdoba" es="Córdoba" it="Córdoba" nl="Córdoba">
+      <province jpn="코르도바 주" eng="Córdoba" de="Córdoba" fr="Córdoba" es="Córdoba" it="Córdoba" nl="Córdoba" />
       <longitude>-64.18212890625</longitude>
       <latitude>-31.39892578125</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="コリエンテス" eng="Corrientes" de="Corrientes" fr="Corrientes" es="Corrientes" it="Corrientes" nl="Corrientes">
-      <province jpn="コリエンテス州" eng="Corrientes" de="Corrientes" fr="Corrientes" es="Corrientes" it="Corrientes" nl="Corrientes" />
+    <city jpn="코리엔테스" eng="Corrientes" de="Corrientes" fr="Corrientes" es="Corrientes" it="Corrientes" nl="Corrientes">
+      <province jpn="코리엔테스 주" eng="Corrientes" de="Corrientes" fr="Corrientes" es="Corrientes" it="Corrientes" nl="Corrientes" />
       <longitude>-58.831787109375</longitude>
       <latitude>-27.4658203125</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="コンセプシオン・デル・ウルグアイ" eng="Concepcion del Uruguay" de="Concepción del Uruguay" fr="Concepción del Uruguay" es="Concepción del Uruguay" it="Concepción del Uruguay" nl="Concepción del Uruguay">
-      <province jpn="エントレ・リオス州" eng="Entre Ríos" de="Entre Ríos" fr="Entre Ríos" es="Entre Ríos" it="Entre Ríos" nl="Entre Ríos" />
+    <city jpn="콘세프시온델우루과이" eng="Concepcion del Uruguay" de="Concepción del Uruguay" fr="Concepción del Uruguay" es="Concepción del Uruguay" it="Concepción del Uruguay" nl="Concepción del Uruguay">
+      <province jpn="엔트레리오스 주" eng="Entre Ríos" de="Entre Ríos" fr="Entre Ríos" es="Entre Ríos" it="Entre Ríos" nl="Entre Ríos" />
       <longitude>-58.2275390625</longitude>
       <latitude>-32.4810791015625</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="メンドーサ" eng="Mendoza" de="Mendoza" fr="Mendoza" es="Mendoza" it="Mendoza" nl="Mendoza">
-      <province jpn="メンドーサ州" eng="Mendoza" de="Mendoza" fr="Mendoza" es="Mendoza" it="Mendoza" nl="Mendoza" />
+    <city jpn="멘도사" eng="Mendoza" de="Mendoza" fr="Mendoza" es="Mendoza" it="Mendoza" nl="Mendoza">
+      <province jpn="멘도사 주" eng="Mendoza" de="Mendoza" fr="Mendoza" es="Mendoza" it="Mendoza" nl="Mendoza" />
       <longitude>-68.8128662109375</longitude>
       <latitude>-32.882080078125</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ポサダス" eng="Posadas" de="Posadas" fr="Posadas" es="Posadas" it="Posadas" nl="Posadas">
-      <province jpn="ミシオネス州" eng="Misiones" de="Misiones" fr="Misiones" es="Misiones" it="Misiones" nl="Misiones" />
+    <city jpn="포사다스" eng="Posadas" de="Posadas" fr="Posadas" es="Posadas" it="Posadas" nl="Posadas">
+      <province jpn="미시오네스 주" eng="Misiones" de="Misiones" fr="Misiones" es="Misiones" it="Misiones" nl="Misiones" />
       <longitude>-55.8819580078125</longitude>
       <latitude>-27.3779296875</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ビエドマ" eng="Viedma" de="Viedma" fr="Viedma" es="Viedma" it="Viedma" nl="Viedma">
-      <province jpn="リオネグロ州" eng="Río Negro" de="Río Negro" fr="Río Negro" es="Río Negro" it="Río Negro" nl="Río Negro" />
+    <city jpn="비에드마" eng="Viedma" de="Viedma" fr="Viedma" es="Viedma" it="Viedma" nl="Viedma">
+      <province jpn="리오네그로 주" eng="Río Negro" de="Río Negro" fr="Río Negro" es="Río Negro" it="Río Negro" nl="Río Negro" />
       <longitude>-62.99560546875</longitude>
       <latitude>-40.7977294921875</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="サン・カルロス・デ・バリローチェ" eng="San Carlos de Bariloche" de="Bariloche" fr="San Carlos de Bariloche" es="San Carlos de Bariloche" it="San Carlos de Bariloche" nl="Bariloche">
-      <province jpn="リオネグロ州" eng="Río Negro" de="Río Negro" fr="Río Negro" es="Río Negro" it="Río Negro" nl="Río Negro" />
+    <city jpn="산카를로스데바릴로체" eng="San Carlos de Bariloche" de="Bariloche" fr="San Carlos de Bariloche" es="San Carlos de Bariloche" it="San Carlos de Bariloche" nl="Bariloche">
+      <province jpn="리오네그로 주" eng="Río Negro" de="Río Negro" fr="Río Negro" es="Río Negro" it="Río Negro" nl="Río Negro" />
       <longitude>-71.2957763671875</longitude>
       <latitude>-41.1492919921875</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="サルタ" eng="Salta" de="Salta" fr="Salta" es="Salta" it="Salta" nl="Salta">
-      <province jpn="サルタ州" eng="Salta" de="Salta" fr="Salta" es="Salta" it="Salta" nl="Salta" />
+    <city jpn="살타" eng="Salta" de="Salta" fr="Salta" es="Salta" it="Salta" nl="Salta">
+      <province jpn="살타 주" eng="Salta" de="Salta" fr="Salta" es="Salta" it="Salta" nl="Salta" />
       <longitude>-65.41259765625</longitude>
       <latitude>-24.7796630859375</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="サン・フアン" eng="San Juan" de="San Juan" fr="San Juan" es="San Juan" it="San Juan" nl="San Juan">
-      <province jpn="サン・フアン州" eng="San Juan" de="San Juan" fr="San Juan" es="San Juan" it="San Juan" nl="San Juan" />
+    <city jpn="산후안" eng="San Juan" de="San Juan" fr="San Juan" es="San Juan" it="San Juan" nl="San Juan">
+      <province jpn="산후안 주" eng="San Juan" de="San Juan" fr="San Juan" es="San Juan" it="San Juan" nl="San Juan" />
       <longitude>-68.53271484375</longitude>
       <latitude>-31.5362548828125</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="リオ・ガレゴス" eng="Río Gallegos" de="Río Gallegos" fr="Río Gallegos" es="Río Gallegos" it="Río Gallegos" nl="Río Gallegos">
-      <province jpn="サンタ・クルス州" eng="Santa Cruz" de="Santa Cruz" fr="Santa Cruz" es="Santa Cruz" it="Santa Cruz" nl="Santa Cruz" />
+    <city jpn="리오가예고스" eng="Río Gallegos" de="Río Gallegos" fr="Río Gallegos" es="Río Gallegos" it="Río Gallegos" nl="Río Gallegos">
+      <province jpn="산타크루스 주" eng="Santa Cruz" de="Santa Cruz" fr="Santa Cruz" es="Santa Cruz" it="Santa Cruz" nl="Santa Cruz" />
       <longitude>-69.2138671875</longitude>
       <latitude>-51.6302490234375</latitude>
       <zoom1>7</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="サンタ・フェ" eng="Santa Fe" de="Santa Fe" fr="Santa Fe" es="Santa Fe" it="Santa Fe" nl="Santa Fe">
-      <province jpn="サンタ・フェ州" eng="Santa Fe" de="Santa Fe" fr="Santa Fe" es="Santa Fe" it="Santa Fe" nl="Santa Fe" />
+    <city jpn="산타페" eng="Santa Fe" de="Santa Fe" fr="Santa Fe" es="Santa Fe" it="Santa Fe" nl="Santa Fe">
+      <province jpn="산타페 주" eng="Santa Fe" de="Santa Fe" fr="Santa Fe" es="Santa Fe" it="Santa Fe" nl="Santa Fe" />
       <longitude>-60.699462890625</longitude>
       <latitude>-31.629638671875</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ロサリオ" eng="Rosario" de="Rosario" fr="Rosario" es="Rosario" it="Rosario" nl="Rosario">
-      <province jpn="サンタ・フェ州" eng="Santa Fe" de="Santa Fe" fr="Santa Fe" es="Santa Fe" it="Santa Fe" nl="Santa Fe" />
+    <city jpn="로사리오" eng="Rosario" de="Rosario" fr="Rosario" es="Rosario" it="Rosario" nl="Rosario">
+      <province jpn="산타페 주" eng="Santa Fe" de="Santa Fe" fr="Santa Fe" es="Santa Fe" it="Santa Fe" nl="Santa Fe" />
       <longitude>-60.6610107421875</longitude>
       <latitude>-32.947998046875</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ウシュアイア" eng="Ushuaia" de="Ushuaia" fr="Ushuaïa" es="Ushuaia" it="Ushuaia" nl="Ushuaia">
-      <province jpn="ティエラ・デル・フエゴ州" eng="Tierra del Fuego, Antártida e Islas del Atlántico Sur" de="Feuerland" fr="Terre de Feu" es="Tierra del Fuego, Antártida e Islas del Atlántico Sur" it="Terra del Fuoco, Antartide e Isole dell'Atlantico Sud" nl="Vuurland, Antarctica en Zuid-Atlantische eilanden" />
+    <city jpn="우수아이아" eng="Ushuaia" de="Ushuaia" fr="Ushuaïa" es="Ushuaia" it="Ushuaia" nl="Ushuaia">
+      <province jpn="티에라델푸에고 주" eng="Tierra del Fuego, Antártida e Islas del Atlántico Sur" de="Feuerland" fr="Terre de Feu" es="Tierra del Fuego, Antártida e Islas del Atlántico Sur" it="Terra del Fuoco, Antartide e Isole dell'Atlantico Sud" nl="Vuurland, Antarctica en Zuid-Atlantische eilanden" />
       <longitude>-68.2965087890625</longitude>
       <latitude>-54.7998046875</latitude>
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="サン・ミゲル・デ・トゥクマン" eng="San Miguel de Tucumán" de="San Miguel de Tucumán" fr="San Miguel de Tucumán" es="San Miguel de Tucumán" it="San Miguel de Tucumán" nl="San Miguel de Tucumán">
-      <province jpn="トゥクマン州" eng="Tucumán" de="Tucumán" fr="Tucuman" es="Tucumán" it="Tucumán" nl="Tucumán" />
+    <city jpn="산미겔데투쿠만" eng="San Miguel de Tucumán" de="San Miguel de Tucumán" fr="San Miguel de Tucumán" es="San Miguel de Tucumán" it="San Miguel de Tucumán" nl="San Miguel de Tucumán">
+      <province jpn="투쿠만 주" eng="Tucumán" de="Tucumán" fr="Tucuman" es="Tucumán" it="Tucumán" nl="Tucumán" />
       <longitude>-65.21484375</longitude>
       <latitude>-26.8121337890625</latitude>
       <zoom1>3</zoom1>
@@ -31727,5 +31727,6 @@
     <name>欠測（データなし）</name>
   </pollen>
 </root>
+
 
 
