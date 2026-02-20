@@ -11316,6 +11316,13 @@
       <latitude>-33.7115478515625</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
+	</city>
+	<city jpn="ペリッシャー・バレー" eng="Perisher Valley" de="Perisher Valley" fr="Perisher Valley" es="Perisher Valley" it="Perisher Valley" nl="Perisher Valley">
+      <province jpn="ニューサウスウェールズ州" eng="New South Wales" de="Neusüdwales" fr="Nouvelle-Galles-du-Sud" es="Nueva Gales del Sur" it="Nuovo Galles del Sud" nl="Nieuw-Zuid-Wales" />
+      <longitude>148.410663100000</longitude>
+      <latitude>-36.405647600000</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
     </city>
     <city jpn="ダーウィン" eng="Darwin" de="Darwin" fr="Darwin" es="Darwin" it="Darwin" nl="Darwin">
       <province jpn="ノーザンテリトリー" eng="Northern Territory" de="Nördliches Territorium" fr="Territoire du Nord" es="Territorio del Norte" it="Territorio del Nord" nl="Noordelijk Territorium" />
@@ -11377,6 +11384,90 @@
       <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
       <longitude>149.183349609375</longitude>
       <latitude>-21.148681640625</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+	</city>
+	<city jpn="プロセルピネ" eng="Proserpine" de="Proserpina" fr="Proserpine" es="Proserpina" it="Proserpina" nl="Proserpina">
+      <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
+      <longitude>148.58251953125</longitude>
+      <latitude>-20.401123046875</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+	</city>
+	<city jpn="レイク・プロセルピネ" eng="Lake Proserpine" de="Lake Proserpina" fr="Lake Proserpine" es="Lake Proserpina" it="Lake Proserpina" nl="Lake Proserpina">
+      <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
+      <longitude>148.343068441681</longitude>
+      <latitude>-20.368388558480</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+	</city>
+	<city jpn="ディットマー" eng="Dittmer" de="Dittmer" fr="Dittmer" es="Dittmer" it="Dittmer" nl="Dittmer">
+      <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
+      <longitude>148.401580000000</longitude>
+      <latitude>-20.449290000000</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+	</city>
+	<city jpn="ケルシー・クリーク" eng="Kelsey Creek" de="Kelsey Creek" fr="Kelsey Creek" es="Kelsey Creek" it="Kelsey Creek" nl="Kelsey Creek">
+      <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
+      <longitude>148.476138900000</longitude>
+      <latitude>-20.426750000000</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+	</city>
+	<city jpn="エアリービーチ" eng="Airlie Beach" de="Airlie Beach" fr="Airlie Beach" es="Airlie Beach" it="Airlie Beach" nl="Airlie Beach">
+      <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
+      <longitude>148.716949000000</longitude>
+      <latitude>-20.267500000000</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+	</city>
+	<city jpn="ハミルトン・アイランド" eng="Hamilton Island" de="Hamilton Island" fr="Hamilton Island" es="Hamilton Island" it="Hamilton Island" nl="Hamilton Island">
+      <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
+      <longitude>148.957890000000</longitude>
+      <latitude>-20.351223000000</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+	</city>
+	<city jpn="ダルリンプル・ハイツ" eng="Dalrymple Heights" de="Dalrymple Heights" fr="Dalrymple Heights" es="Dalrymple Heights" it="Dalrymple Heights" nl="Dalrymple Heights">
+      <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
+      <longitude>148.507780000000</longitude>
+      <latitude>-21.058890000000</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2
+	</city>
+	<city jpn="ガサルングラ" eng="Guthalungra" de="Guthalungra" fr="Guthalungra" es="Guthalungra" it="Guthalungra" nl="Guthalungra">
+      <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
+      <longitude>147.838870000000</longitude>
+      <latitude>-19.924630000000</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+	</city>
+	<city jpn="ボーウェン" eng="Bowen" de="Bowen" fr="Bowen" es="Bowen" it="Bowen" nl="Bowen">
+      <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
+      <longitude>148.246155000000</longitude>
+      <latitude>-20.012651000000</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2
+	</city>
+	<city jpn="コリンズビル" eng="Collinsville" de="Collinsville" fr="Collinsville" es="Collinsville" it="Collinsville" nl="Collinsville">
+      <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
+      <longitude>147.844310400000</longitude>
+      <latitude>-20.553048500000</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2  
+	</city>
+	<city jpn="ボーギー" eng="Bogie" de="Bogie" fr="Bogie" es="Bogie" it="Bogie" nl="Bogie">
+      <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
+      <longitude>147.907910000000</longitude>
+      <latitude>-20.294160000000</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2
+	</city>
+	<city jpn="エア" eng="Ayr" de="Ayr" fr="Ayr" es="Ayr" it="Ayr" nl="Ayr">
+      <province jpn="クィーンズランド州" eng="Queensland" de="Queensland" fr="Queensland" es="Queensland" it="Queensland" nl="Queensland" />
+      <longitude>147.406660000000</longitude>
+      <latitude>-19.573930000000</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -11547,6 +11638,13 @@
       <latitude>-42.154541015625</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
+	</city>
+    <city jpn="リアウニー" eng="Liawenee" de="Liawenee" fr="Liawenee" es="Liawenee" it="Liawenee" nl="Liawenee">
+      <province jpn="タスマニア州" eng="Tasmania" de="Tasmanien" fr="Tasmanie" es="Tasmania" it="Tasmania" nl="Tasmanië" />
+      <longitude>146.672490000000</longitude>
+      <latitude>-41.898960000000</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
     </city>
     <city jpn="メルボルン" eng="Melbourne" de="Melbourne" fr="Melbourne" es="Melbourne" it="Melbourne" nl="Melbourne">
       <province jpn="ヴィクトリア州" eng="Victoria" de="Victoria" fr="Victoria" es="Victoria" it="Victoria" nl="Victoria" />
@@ -11615,6 +11713,13 @@
       <province jpn="ヴィクトリア州" eng="Victoria" de="Victoria" fr="Victoria" es="Victoria" it="Victoria" nl="Victoria" />
       <longitude>147.06298828125</longitude>
       <latitude>-38.111572265625</latitude>
+      <zoom1>3</zoom1>
+      <zoom2>3</zoom2>
+	</city>
+    <city jpn="マウント・ブラー" eng="Mount Buller" de="Mount Buller" fr="Mount Buller" es="Mount Buller" it="Mount Buller" nl="Mount Buller">
+      <province jpn="ヴィクトリア州" eng="Victoria" de="Victoria" fr="Victoria" es="Victoria" it="Victoria" nl="Victoria" />
+      <longitude>146.448610000000</longitude>
+      <latitude>-37.146190000000</latitude>
       <zoom1>3</zoom1>
       <zoom2>3</zoom2>
     </city>
@@ -31727,4 +31832,5 @@
     <name>欠測（データなし）</name>
   </pollen>
 </root>
+
 
