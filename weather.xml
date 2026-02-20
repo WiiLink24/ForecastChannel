@@ -2142,7 +2142,7 @@
   <country>
     <name jpn="アルバ" eng="Aruba" de="Aruba" fr="Aruba" es="Aruba" it="Aruba" nl="Aruba" />
     <city jpn="オラニェスタット" eng="Oranjestad" de="Oranjestad" fr="Oranjestad" es="Oranjestad" it="Oranjestad" nl="Oranjestad">
-      <province jpn="トゥクマン州" eng="Tucumán" de="Tucumán" fr="Tucuman" es="Tucumán" it="Tucumán" nl="Tucumán" />
+      <province jpn="アルバ" eng="Aruba" de="Aruba" fr="Aruba" es="Aruba" it="Aruba" nl="Aruba" />
       <longitude>-70.0323486328125</longitude>
       <latitude>12.513427734375</latitude>
       <zoom1>5</zoom1>
@@ -31727,4 +31727,5 @@
     <name>欠測（データなし）</name>
   </pollen>
 </root>
+
 
