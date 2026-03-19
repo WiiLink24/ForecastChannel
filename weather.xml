@@ -2152,7 +2152,7 @@
   <country>
     <name jpn="バハマ" eng="Bahamas" de="Bahamas" fr="Bahamas" es="Bahamas" it="Bahamas" nl="Bahama's" />
     <city jpn="ナッソー" eng="Nassau" de="Nassau" fr="Nassau" es="Nasáu" it="Nassau" nl="Nassau">
-      <province jpn="トゥクマン州" eng="Tucumán" de="Tucumán" fr="Tucuman" es="Tucumán" it="Tucumán" nl="Tucumán" />
+      <province jpn="バハマ" eng="Bahamas" de="Bahamas" fr="Bahamas" es="Bahamas" it="Bahamas" nl="Bahama's" />
       <longitude>-77.3492431640625</longitude>
       <latitude>25.081787109375</latitude>
       <zoom1>5</zoom1>
@@ -2162,7 +2162,7 @@
   <country>
     <name jpn="バルバドス" eng="Barbados" de="Barbados" fr="Barbade" es="Barbados" it="Barbados" nl="Barbados" />
     <city jpn="ブリッジタウン" eng="Bridgetown" de="Bridgetown" fr="Bridgetown" es="Bridgetown" it="Bridgetown" nl="Bridgetown">
-      <province jpn="トゥクマン州" eng="Tucumán" de="Tucumán" fr="Tucuman" es="Tucumán" it="Tucumán" nl="Tucumán" />
+      <province jpn="バハマ" eng="Bahamas" de="Bahamas" fr="Bahamas" es="Bahamas" it="Bahamas" nl="Bahama's" />
       <longitude>-59.61181640625</longitude>
       <latitude>13.095703125</latitude>
       <zoom1>7</zoom1>
@@ -2182,14 +2182,14 @@
   <country>
     <name jpn="ボリビア" eng="Bolivia" de="Bolivien" fr="Bolivie" es="Bolivia" it="Bolivia" nl="Bolivia" />
     <city jpn="トリニダード" eng="Trinidad" de="Trinidad" fr="Trinidad" es="La Santísima Trinidad" it="Trinidad" nl="Trinidad">
-      <province jpn="カヨー州" eng="Cayo" de="Cayo" fr="Cayo" es="Cayo" it="Cayo" nl="Cayo" />
+      <province jpn="ベニ県" eng="El Beni" de="Beni" fr="Beni" es="El Beni" it="El Beni" nl="Beni" />
       <longitude>-64.8193359375</longitude>
       <latitude>-14.820556640625</latitude>
       <zoom1>5</zoom1>
       <zoom2>3</zoom2>
     </city>
     <city jpn="リベラルタ" eng="Riberalta" de="Riberalta" fr="Riberalta" es="Riberalta" it="Riberalta" nl="Riberalta">
-      <province jpn="カヨー州" eng="Cayo" de="Cayo" fr="Cayo" es="Cayo" it="Cayo" nl="Cayo" />
+      <province jpn="ベニ県" eng="El Beni" de="Beni" fr="Beni" es="El Beni" it="El Beni" nl="Beni" />
       <longitude>-66.005859375</longitude>
       <latitude>-10.9918212890625</latitude>
       <zoom1>2</zoom1>
