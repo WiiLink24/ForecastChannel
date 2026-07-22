@@ -174,6 +174,7 @@ func PopulateCountryCodes() {
 	countryCodes["Iran"] = 178
 	countryCodes["Iraq"] = 179
 	countryCodes["Israel"] = 180
+	countryCodes["Lebanon"] = 181
 	countryCodes["Moldova"] = 207
 	countryCodes["Ukraine"] = 208
 	countryCodes["Libya"] = 218
