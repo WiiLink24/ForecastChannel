@@ -21329,6 +21329,13 @@
       <zoom1>1</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="バーデン" eng="Baden" de="Baden" fr="Baden" es="Baden" it="Baden" nl="Baden">
+      <province jpn="アールガウ州" eng="Aargau" de="Aargau" fr="Argovie" es="Argovia" it="Argovia" nl="Aargau" />
+      <longitude>8.30592155456543</longitude>
+      <latitude>47.47333005480522</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="バーゼル" eng="Basle" de="Basel" fr="Bâle" es="Basilea" it="Basilea" nl="Bazel">
       <province jpn="バーゼル" eng="Basle-City" de="Basel-Stadt" fr="Bâle-Ville" es="Basilea-Ciudad" it="Basilea Città" nl="Bazel-Stad" />
       <longitude>7.5860595703125</longitude>
