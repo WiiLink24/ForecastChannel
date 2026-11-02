@@ -14233,6 +14233,13 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
+    <city jpn="ダルムシュタット" eng="Darmstadt" de="Darmstadt" fr="Darmstadt" es="Darmstadt" it="Darmstadt" nl="Darmstadt">
+      <province jpn="ヘッセン州" eng="Hesse" de="Hessen" fr="Hesse" es="Hesse" it="Assia" nl="Hessen" />
+      <longitude>8.651222</longitude>
+      <latitude>49.872833</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
     <city jpn="ギーセン" eng="Gießen" de="Gießen" fr="Gießen" es="Gießen" it="Gießen" nl="Gießen">
       <province jpn="ヘッセン州" eng="Hesse" de="Hessen" fr="Hesse" es="Hesse" it="Assia" nl="Hessen" />
       <longitude>8.6737060546875</longitude>
